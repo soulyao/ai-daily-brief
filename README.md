@@ -8,7 +8,7 @@ https://soulyao.github.io/ai-daily-brief/
 
 ## 自动更新
 
-- 每天北京时间 08:15 自动运行。
+- 每天北京时间 08:17、08:47、09:17 错峰尝试，避免单次定时任务被平台延迟或丢弃。
 - 如果今日日报尚未生成，回退到最近一期。
 - 可以在 GitHub Actions 页面手动运行 `Generate and deploy AI daily brief`。
 
