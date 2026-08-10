@@ -21,6 +21,10 @@ test("homepage checks AI HOT directly while archives stay fixed snapshots", asyn
   assert.doesNotMatch(homepage, /API_URL\+"\?ts="/);
   assert.match(homepage, /addEventListener\("pageshow"/);
   assert.match(homepage, /addEventListener\("visibilitychange"/);
+  assert.match(homepage, /checkLatest=async\(force=false,reveal=false\)/);
+  assert.match(homepage, /checkLatest\(true,true\)/);
+  assert.match(homepage, /共"\+latestTotal\+"条"/);
+  assert.match(homepage, /scrollIntoView\(\{behavior:"smooth",block:"start"\}\)/);
   assert.doesNotMatch(latestArchive, /data-live-refresh/);
 });
 

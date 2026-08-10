@@ -112,6 +112,26 @@ function interactionScript() {
   return `<script>(()=>{const buttons=[...document.querySelectorAll("[data-target]")];const navButtons=[...document.querySelectorAll(".nav button")];buttons.forEach(button=>button.addEventListener("click",()=>document.getElementById(button.dataset.target)?.scrollIntoView({behavior:"smooth",block:"start"})));const observer=new IntersectionObserver(entries=>{const visible=entries.filter(entry=>entry.isIntersecting).sort((a,b)=>b.intersectionRatio-a.intersectionRatio)[0];if(!visible)return;navButtons.forEach(button=>button.classList.toggle("is-active",button.dataset.target===visible.target.id))},{rootMargin:"-20% 0px -65% 0px",threshold:[0,.25,.5]});document.querySelectorAll(".daily-section").forEach(section=>observer.observe(section))})();</script>`;
 }
 
+function enhanceManualRefresh(script) {
+  return script
+    .replace(
+      "const checkLatest=async(force=false)=>",
+      "const checkLatest=async(force=false,reveal=false)=>",
+    )
+    .replace(
+      "const latest=normalize(payload.report);",
+      'const latest=normalize(payload.report);const latestTotal=latest.sections.reduce((sum,section)=>sum+section.items.length,0);const firstWithNews=latest.sections.find(section=>section.items.length);const locationNote=firstWithNews?"，位于“"+firstWithNews.label+"”":"";',
+    )
+    .replace(
+      'setStatus((latest.date>current?"已同步今日日报":"当前已是最新一期")+" · 北京时间 "+checked,"success")',
+      'setStatus((latest.date>current?"已同步今日日报":"当前已是最新一期")+" · 共"+latestTotal+"条"+locationNote+" · 北京时间 "+checked,"success");if(reveal&&firstWithNews)document.getElementById(firstWithNews.id)?.scrollIntoView({behavior:"smooth",block:"start"})',
+    )
+    .replace(
+      'refreshButton.addEventListener("click",()=>checkLatest(true));',
+      'refreshButton.addEventListener("click",()=>checkLatest(true,true));',
+    );
+}
+
 function buildDailyHtml(report, fallback, { liveRefresh = false } = {}) {
   const byLabel = new Map(report.sections.map((section) => [section.label, section.items ?? []]));
   const sections = sectionMeta.map((meta, index) => ({ ...meta, index, id: `section-${index + 1}`, items: byLabel.get(meta.label) ?? [] }));
@@ -133,7 +153,7 @@ function buildDailyHtml(report, fallback, { liveRefresh = false } = {}) {
   const fallbackNote = fallback ? " · 今日版尚未生成，已回退到最近一期" : " · 今日版";
   const bodyAttributes = liveRefresh ? ` data-live-refresh data-report-date="${escapeHtml(report.date)}"` : "";
   const syncBar = liveRefresh ? '<div class="sync-bar" id="sync-bar" data-state="loading" role="status" aria-live="polite"><div class="sync-message"><span class="sync-dot" aria-hidden="true"></span><span id="sync-status">正在检查最新日报…</span></div><button class="refresh-button" id="refresh-button" type="button">检查更新</button></div>' : "";
-  const script = liveRefresh ? liveRefreshScript() : interactionScript();
+  const script = liveRefresh ? enhanceManualRefresh(liveRefreshScript()) : interactionScript();
 
   return `<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#0d5d4b"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="AI晨报"><meta name="description" content="${report.date} AI 日报，共 ${total} 条，数据来源 AI HOT。"><title>AI 晨报 · ${report.date}</title>${styles()}</head><body${bodyAttributes}><header class="hero" id="top"><div class="shell"><p class="eyebrow">AI HOT DAILY · MORNING BRIEF</p><div class="hero-main"><div><h1>AI 晨报</h1><p class="hero-copy" id="hero-copy">${escapeHtml(formatReportDate(report.date))}${escapeHtml(fallbackNote)}<br>生成于北京时间 ${escapeHtml(formatBeijingTime(report.generatedAt))} · 数据窗口 ${escapeHtml(formatWindowTime(report.windowStart))} 至 ${escapeHtml(formatWindowTime(report.windowEnd))}</p></div><div class="total"><span>本期收录</span><strong><span id="total-count">${total}</span><small>条</small></strong></div></div><div class="stats" id="stats" aria-label="五版块统计">${stats}</div>${syncBar}</div></header><nav class="nav" aria-label="日报版块导航"><div class="shell nav-inner"><div id="nav-sections" style="display:contents">${nav}</div><a class="archive-link" href="archive/">历史日报</a></div></nav><main class="shell" id="content">${sectionsHtml}</main><footer><div class="shell footer-inner"><p>本期共 <strong id="footer-total">${total}</strong> 条 · 数据来源：<a id="source-link" href="${escapeHtml(sourceUrl)}" target="_blank" rel="noopener noreferrer">AI HOT</a> · 首页实时检查，归档每日更新</p><button class="back-top" type="button" data-target="top">返回顶部 ↑</button></div></footer>${script}</body></html>`;
 }
