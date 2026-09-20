@@ -12,5 +12,8 @@ test('published snapshot and standalone homepage agree and contain safe, sourced
   for (const item of data.items) { assert.ok(TOPICS[item.category].includes(item.topic)); assert.ok(safeUrl(item.url)); assert.ok(item.source); assert.ok(Array.from(item.summary).length <= 60); }
   assert.doesNotMatch(html, /<script[^>]+src=|<link[^>]+rel=["']stylesheet/);
   assert.match(html, /target="_blank" rel="noopener noreferrer"/);
+  assert.match(html, /<h1>肖瑶的每日阅读<\/h1>/);
+  assert.doesNotMatch(html, /你的每日简报|手机试读版|速览/);
+  assert.match(html, /data-category="英语学习"/);
   [...html.matchAll(/<script>([\s\S]*?)<\/script>/g)].forEach(s => new Script(s[1]));
 });

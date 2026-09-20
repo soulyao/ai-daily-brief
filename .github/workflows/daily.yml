@@ -29,7 +29,7 @@ jobs:
           node-version: 22
 
       - name: Verify collection and schedule logic
-        run: node --test tests/news-core.test.mjs tests/eastmoney.test.mjs tests/workflow-schedule.test.mjs
+        run: node --test tests/news-core.test.mjs tests/eastmoney.test.mjs tests/reading.test.mjs tests/workflow-schedule.test.mjs
 
       - name: Generate latest brief and archive
         continue-on-error: true

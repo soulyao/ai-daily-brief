@@ -22,7 +22,10 @@ try {
   await page.route('https://aihot.virxact.com/**', route => fail || aiFail ? route.abort() : route.fulfill({ json: aiPayload }));
   await page.goto(`http://127.0.0.1:${server.address().port}/`);
   await page.waitForFunction(() => !document.getElementById('refresh').disabled);
-  assert.equal(await page.locator('.news-card').count(), 10);
+  assert.equal(await page.locator('.news-card').count(), original.items.filter(x=>x.category==='时事').length);
+  assert.equal(await page.locator('h1').innerText(),'肖瑶的每日阅读');
+  assert.equal(await page.locator('[data-category="速览"]').count(),0);
+  assert.equal(await page.getByText('手机试读版',{exact:true}).count(),0);
   const artifactDir = new URL('../../outputs/daily-brief-preview/', import.meta.url);
   await mkdir(artifactDir, { recursive: true });
   for (const width of [320, 390, 768, 1440]) {
@@ -38,11 +41,25 @@ try {
         else assert.ok(await page.locator('.empty').isVisible());
       }
     }
-    await page.locator('#tabs [data-category="速览"]').click();
+    await page.locator('#tabs [data-category="英语学习"]').click();
+    assert.equal(await page.locator('.dialogue-line').count(),6);
+    assert.equal(await page.locator('.translation:visible').count(),6);
+    assert.equal(await page.locator('.word-entry').count(),3);
+    assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),`English overflow ${width}`);
+    await page.locator('[data-toggle-chinese]').click();
+    assert.equal(await page.locator('.translation:visible').count(),0);
+    await page.locator('[data-toggle-chinese]').click();
+    const lessonTitle=await page.locator('#lesson-title').innerText();
+    await page.locator('[data-lesson-previous]').click();
+    assert.notEqual(await page.locator('#lesson-title').innerText(),lessonTitle);
+    await page.locator('[data-lesson-today]').click();
+    assert.equal(await page.locator('#lesson-title').innerText(),lessonTitle);
     if (width === 390 || width === 1440) {
       await page.evaluate(() => window.scrollTo(0, 0));
-      await page.screenshot({ path: fileURLToPath(new URL(`${width}.png`, artifactDir)), fullPage: width === 390 });
+      await page.screenshot({ path: fileURLToPath(new URL(`english-${width}.png`, artifactDir)), fullPage: width === 390 });
     }
+    await page.locator('#tabs [data-category="时事"]').click();
+    if(width===390) await page.screenshot({path:fileURLToPath(new URL('current-affairs.png',artifactDir)),fullPage:true});
   }
   assert.ok(await page.locator('.original').evaluateAll(links => links.every(x => x.target === '_blank' && x.rel.includes('noopener') && x.rel.includes('noreferrer'))));
   const text = await page.locator('body').innerText();
@@ -61,7 +78,7 @@ try {
   assert.equal(await page.locator('.news-card').count(), count);
   assert.match(await page.locator('#status').innerText(), /失败/);
   fail = false;
-  snapshot.items[0].title = 'NBA 测试更新条目'; snapshot.collectedAt = new Date().toISOString();
+  snapshot.items.find(x=>x.topic==='NBA').title = 'NBA 测试更新条目'; snapshot.collectedAt = new Date().toISOString();
   await page.locator('#refresh').click(); await page.waitForFunction(() => !document.getElementById('refresh').disabled);
   assert.ok(await page.getByRole('heading', { name: 'NBA 测试更新条目' }).isVisible());
   assert.match(await page.locator('#status').innerText(), /内容已更新/);
@@ -70,6 +87,17 @@ try {
   await page.locator('#refresh').click(); await page.waitForFunction(() => !document.getElementById('refresh').disabled);
   assert.ok(await page.getByRole('heading', { name: 'NBA 测试更新条目' }).isVisible());
   assert.deepEqual(errors, []);
+  // A page left open over Beijing midnight switches lessons without a news deployment.
+  const daily=await context.newPage();
+  await daily.clock.install({time:new Date('2026-09-20T15:59:30Z')});
+  await daily.route('**/latest.json?*',route=>route.fulfill({json:original}));
+  await daily.route('https://aihot.virxact.com/**',route=>route.fulfill({json:aiPayload}));
+  await daily.goto(`http://127.0.0.1:${server.address().port}/`);
+  await daily.locator('#tabs [data-category="英语学习"]').click();
+  assert.equal(await daily.locator('#lesson-title').innerText(),'酒店办理入住');
+  await daily.clock.fastForward(61000);
+  assert.equal(await daily.locator('#lesson-title').innerText(),'机场办理值机');
+  await daily.close();
   console.log('Browser verification passed: 4 widths, all topic filters, safe original links, Beijing times, failed refresh preservation, new snapshot update and regression protection.');
   await context.close();
 } finally { await browser.close(); server.closeAllConnections(); await new Promise(resolve => server.close(resolve)); }

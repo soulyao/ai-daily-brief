@@ -1,4 +1,5 @@
 export const TOPICS = {
+  时事: ['百度热搜'],
   体育: ['NBA', '英超', '西甲', '德甲', '意甲', '法甲', '网球'],
   金融: ['美股', 'A股', '中国期货', '宏观财经'],
   政治: ['美国', '中国'],
@@ -51,7 +52,7 @@ export function financeTopic(item, preferred) {
 export function normalize(item, sourceId, now = Date.now()) {
   const url = safeUrl(item.url), title = clean(item.title);
   if (!url || !title || !TOPICS[item.category]?.includes(item.topic) || excluded.test(title)) return null;
-  if (!recent(item, now, item.category === 'AI' ? 14 : 3)) return null;
+  if (!recent(item, now, item.category === 'AI' ? 14 : item.category === '时事' ? 1 : 3)) return null;
   return { ...item, sourceId, url, title, source: clean(item.source), ...(item.category === '金融' ? { kind: financeKind(item) } : {}), summary: shorten(item.summary || '该来源未提供摘要，可点开原文查看完整报道。'), publishedAt: new Date(item.publishedAt).toISOString() };
 }
 export function financeKind(item) {
@@ -72,7 +73,7 @@ export function selectItems(items, now = Date.now()) {
     const selected = [];
     for (const item of ordered) {
       const key = clean(item.title).replace(/[\p{P}\p{Z}\p{S}]/gu, '').toLowerCase();
-      const url = item.url.split(/[?#]/)[0];
+      const url = item.sourceId === 'baidu' ? new URL(item.url).origin + '/s?wd=' + new URL(item.url).searchParams.get('wd') : item.url.split(/[?#]/)[0];
       if (seenUrl.has(url) || seenTitle.has(key)) continue;
       if (count >= (category === 'AI' ? 12 : category === '体育' ? 3 : 6)) break;
       seenUrl.add(url); seenTitle.add(key); count++;

@@ -2,6 +2,7 @@ import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { TOPICS, clean, normalize, selectItems, mergeSource, parseRss, sportTopic, financeTopic, recent } from './news-core.mjs';
 import { buildHomepage } from './news-page.mjs';
 import { collectEastmoney, futuresFeedUrl } from './eastmoney.mjs';
+import { BAIDU_URL, parseBaidu } from './baidu.mjs';
 
 const site = new URL('../site/', import.meta.url);
 const collectedAt = new Date().toISOString();
@@ -88,6 +89,7 @@ const eastmoneyRequest = url => {
   return eastmoneyCache.get(url);
 };
 const sources = [
+  { id: 'baidu', name: '百度热搜 · 时事', url: BAIDU_URL, run: async () => parseBaidu(await request(BAIDU_URL), collectedAt) },
   { id: 'sports', name: '网易体育（署名媒体）', url: 'https://sports.163.com/', run: sports },
   ...[
     ['us-stock', '美股', 'https://stock.eastmoney.com/america.html'],
