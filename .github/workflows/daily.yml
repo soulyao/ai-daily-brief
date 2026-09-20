@@ -1,8 +1,8 @@
-name: Generate and deploy AI daily brief
+name: Generate and deploy daily brief
 
 on:
   schedule:
-    - cron: "17 0 * * *"
+    - cron: "17 */2 * * *"
     - cron: "47 0 * * *"
     - cron: "17 1 * * *"
   workflow_dispatch:
@@ -28,19 +28,26 @@ jobs:
         with:
           node-version: 22
 
-      - name: Verify schedule retry coverage
-        run: node --test tests/workflow-schedule.test.mjs
+      - name: Verify collection and schedule logic
+        run: node --test tests/news-core.test.mjs tests/workflow-schedule.test.mjs
 
       - name: Generate latest brief and archive
+        continue-on-error: true
         run: node scripts/generate.mjs
+
+      - name: Collect news and generate mobile homepage
+        run: node scripts/collect-news.mjs
+
+      - name: Verify generated pages
+        run: node --test tests/live-refresh.test.mjs tests/news-output.test.mjs
 
       - name: Commit generated pages when changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add site/index.html site/archive
+          git add site/index.html site/ai.html site/latest.json site/archive
           if ! git diff --cached --quiet; then
-            git commit -m "chore: update AI daily brief"
+            git commit -m "chore: update daily news"
             git push
           fi
 

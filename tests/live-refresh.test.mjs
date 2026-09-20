@@ -4,8 +4,8 @@ import test from "node:test";
 
 const siteUrl = new URL("../site/", import.meta.url);
 
-test("homepage checks AI HOT directly while archives stay fixed snapshots", async () => {
-  const homepage = await readFile(new URL("index.html", siteUrl), "utf8");
+test("AI page checks AI HOT directly while archives stay fixed snapshots", async () => {
+  const homepage = await readFile(new URL("ai.html", siteUrl), "utf8");
   const archiveFiles = (await readdir(new URL("archive/", siteUrl)))
     .filter((name) => /^\d{4}-\d{2}-\d{2}\.html$/.test(name))
     .sort()
@@ -28,8 +28,8 @@ test("homepage checks AI HOT directly while archives stay fixed snapshots", asyn
   assert.doesNotMatch(latestArchive, /data-live-refresh/);
 });
 
-test("generated homepage remains a self-contained five-section dashboard", async () => {
-  const homepage = await readFile(new URL("index.html", siteUrl), "utf8");
+test("generated AI page remains a self-contained five-section dashboard", async () => {
+  const homepage = await readFile(new URL("ai.html", siteUrl), "utf8");
 
   assert.doesNotMatch(homepage, /<script[^>]+src=/i);
   assert.doesNotMatch(homepage, /<link[^>]+rel=["']stylesheet["']/i);

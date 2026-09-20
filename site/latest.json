@@ -1,0 +1,1411 @@
+{
+  "schemaVersion": 1,
+  "collectedAt": "2026-09-20T14:17:52.491Z",
+  "topics": {
+    "体育": [
+      "NBA",
+      "英超",
+      "西甲",
+      "德甲",
+      "意甲",
+      "法甲",
+      "网球"
+    ],
+    "金融": [
+      "美股",
+      "A股",
+      "中国期货"
+    ],
+    "政治": [
+      "美国",
+      "中国"
+    ],
+    "AI": [
+      "模型发布/更新",
+      "产品发布/更新",
+      "行业动态",
+      "论文研究",
+      "技巧与观点"
+    ]
+  },
+  "sources": [
+    {
+      "id": "sports",
+      "name": "网易体育（署名媒体）",
+      "url": "https://sports.163.com/",
+      "status": "ok",
+      "lastAttempt": "2026-09-20T14:17:52.491Z",
+      "lastSuccess": "2026-09-20T14:17:52.491Z",
+      "items": [
+        {
+          "title": "沃格尔谈加盟勇士：在联盟中 他们最希望由我来调教防守",
+          "url": "https://www.163.com/dy/article/L79VPT0F0514R9KQ.html",
+          "source": "北青网-北京青年报 · 网易体育",
+          "publishedAt": "2026-09-20T12:07:23.000Z",
+          "category": "体育",
+          "topic": "NBA",
+          "sourceId": "sports",
+          "summary": "北京时间9月20日，据湾区记者Joseph Dycus报道，勇士新任助教弗兰克-沃格尔接受采访，谈及加盟勇士的过程。",
+          "number": 1
+        },
+        {
+          "title": "美记：勇士已与奥比-阿格比姆签下训练营合同",
+          "url": "https://www.163.com/dy/article/L79TGKIR0514R9KQ.html",
+          "source": "北青网-北京青年报 · 网易体育",
+          "publishedAt": "2026-09-20T11:27:22.000Z",
+          "category": "体育",
+          "topic": "NBA",
+          "sourceId": "sports",
+          "summary": "北京时间9月20日，据记者Paul Garcia报道，前贝勒大学后卫奥比-阿格比姆已与勇士签下训练营合同。",
+          "number": 2
+        },
+        {
+          "title": "官方：湖人与米奇-约翰逊、蔡斯-罗斯签下Exhibit 10",
+          "url": "https://www.163.com/dy/article/L77CFBQA0514R9KQ.html",
+          "source": "北青网-北京青年报 · 网易体育",
+          "publishedAt": "2026-09-19T11:51:06.000Z",
+          "category": "体育",
+          "topic": "NBA",
+          "sourceId": "sports",
+          "summary": "北京时间9月19日，洛杉矶湖人官方宣布，球队与后卫米奇-约翰逊和蔡斯-罗斯签下Exhibit 10合同，并裁掉前锋安东…",
+          "number": 3
+        },
+        {
+          "title": "卡拉格：难免会猜想伊劳拉能不能把斯科特带到利物浦",
+          "url": "https://www.163.com/dy/article/L7A4CS260549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-09-20T13:27:39.000Z",
+          "category": "体育",
+          "topic": "英超",
+          "sourceId": "sports",
+          "summary": "卡拉格对亚历克斯-斯科特大加赞赏，他认为伊劳拉可以利用自己和伯恩茅斯的人脉关系，签下这名备受好评的中场球员。",
+          "number": 4
+        },
+        {
+          "title": "对阵桑德兰直接任意球破门，恩佐攻入曼城生涯首球",
+          "url": "https://www.163.com/dy/article/L7A4CS7J0549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-09-20T13:27:39.000Z",
+          "category": "体育",
+          "topic": "英超",
+          "sourceId": "sports",
+          "summary": "英超第5轮主场迎战桑德兰的比赛中，恩佐-费尔南德斯的进球为曼城首开记录。",
+          "number": 5
+        },
+        {
+          "title": "电讯报：英超各路豪门疯狂抢夺潜力新星，格局已经白热化",
+          "url": "https://www.163.com/dy/article/L7A3671P0549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-09-20T13:06:32.000Z",
+          "category": "体育",
+          "topic": "英超",
+          "sourceId": "sports",
+          "summary": "曼联15岁新星JJ-加布里埃尔闹离队的新闻闹得沸沸扬扬，《每日电讯报》撰文指出，近些年英超各路豪门疯狂抢夺潜力新星，格…",
+          "number": 6
+        },
+        {
+          "title": "马竞vs皇马：姆巴佩、维尼修斯先发，罗梅罗、李刚仁出战",
+          "url": "https://www.163.com/dy/article/L7A367G40549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-09-20T13:06:32.000Z",
+          "category": "体育",
+          "topic": "西甲",
+          "sourceId": "sports",
+          "summary": "北京时间9月20日22:15，西甲第7轮，马德里德比，马竞坐镇主场迎战皇马，本场比赛主裁判是奥尔蒂斯，VAR是特鲁希略…",
+          "number": 7
+        },
+        {
+          "title": "巴萨官方：克里斯滕森左腿股四头肌受伤，将缺席未来数周",
+          "url": "https://www.163.com/dy/article/L7A2HAR70549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-09-20T12:55:08.000Z",
+          "category": "体育",
+          "topic": "西甲",
+          "sourceId": "sports",
+          "summary": "北京时间9月20日，巴萨官方发布公告，克里斯滕森左腿股四头肌受伤，将缺席未来数周。",
+          "number": 8
+        },
+        {
+          "title": "拉波尔塔谈小蜘蛛风波：马竞感觉被冒犯，他们无法为自己辩解",
+          "url": "https://www.163.com/dy/article/L79RCGDA0549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-09-20T10:50:09.000Z",
+          "category": "体育",
+          "topic": "西甲",
+          "sourceId": "sports",
+          "summary": "当地时间本周五，巴萨召开了2026年俱乐部会员代表大会，会上，拉波尔塔解释了与马竞谈判阿尔瓦雷斯转会的经过。",
+          "number": 9
+        },
+        {
+          "title": "勒沃库森vsRB莱比锡：希克、穆萨-迪亚比首发，恩昆库、劳姆出战",
+          "url": "https://www.163.com/dy/article/L7A1BV500549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-09-20T12:34:43.000Z",
+          "category": "体育",
+          "topic": "德甲",
+          "sourceId": "sports",
+          "summary": "北京时间9月20日德国足球顶级联赛联赛第4轮，勒沃库森主场对阵RB莱比锡。",
+          "number": 10
+        },
+        {
+          "title": "四连胜开局，多特蒙德时隔1212天重返德甲榜首",
+          "url": "https://www.163.com/dy/article/L78VKE9J0549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-09-20T02:45:09.000Z",
+          "category": "体育",
+          "topic": "德甲",
+          "sourceId": "sports",
+          "summary": "北京时间9月20日凌晨，德甲第4轮，多特蒙德客场1-0击败斯图加特，迎来新赛季开局四连胜，并时隔1212天再次登上德甲…",
+          "number": 11
+        },
+        {
+          "title": "迪马济奥：拜仁依旧关注多特小将伊纳西奥，有意明夏引进",
+          "url": "https://www.163.com/dy/article/L78SN4160549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-09-20T01:54:11.000Z",
+          "category": "体育",
+          "topic": "德甲",
+          "sourceId": "sports",
+          "summary": "据转会专家詹卢卡-迪马济奥透露，拜仁很有可能签下萨穆埃莱-伊纳西奥。这位意大利专家在接受wettfreunde网站采访…",
+          "number": 12
+        },
+        {
+          "title": "佛罗伦萨1-1那不勒斯，吉尔摩、希门尼斯破门，法乔利远射造险",
+          "url": "https://www.163.com/dy/article/L7A1BV2U0549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-09-20T12:34:43.000Z",
+          "category": "体育",
+          "topic": "意甲",
+          "sourceId": "sports",
+          "summary": "北京时间9月20日意大利足球顶级联赛 联赛 第5轮，佛罗伦萨主场对阵那不勒斯。佛罗伦萨阿莱士-希门尼斯破门。那不勒斯吉…",
+          "number": 13
+        },
+        {
+          "title": "佛罗伦萨vs那不勒斯：德赫亚、马斯坦托诺首发，德布劳内、霍伊伦出战",
+          "url": "https://www.163.com/dy/article/L79NP7GE0549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-09-20T09:47:12.000Z",
+          "category": "体育",
+          "topic": "意甲",
+          "sourceId": "sports",
+          "summary": "北京时间9月20日意大利足球顶级联赛联赛第5轮，佛罗伦萨主场对阵那不勒斯。",
+          "number": 14
+        },
+        {
+          "title": "路易斯-恩里克：意甲让我战术方面提升很多；希望入选巴西队",
+          "url": "https://www.163.com/dy/article/L79E4JI10549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-09-20T06:58:39.000Z",
+          "category": "体育",
+          "topic": "意甲",
+          "sourceId": "sports",
+          "summary": "国际米兰球员路易斯-恩里克接受巴西《圣保罗页报》采访，谈到了自己从进攻球员转型为翼卫的经历。他表示，这个位置不仅要求更…",
+          "number": 15
+        },
+        {
+          "title": "队报：尼斯法甲主场326天不胜，反思投入不足",
+          "url": "https://www.163.com/dy/article/L79LUH7I0549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-09-20T09:15:09.000Z",
+          "category": "体育",
+          "topic": "法甲",
+          "sourceId": "sports",
+          "summary": "据《队报》报道，尼斯已连续326天未能在法甲主场取胜，球队认为比赛投入和强度不足。",
+          "number": 16
+        },
+        {
+          "title": "克妈赞郑钦文美网回到该有的水平，格里科斯普回应对紫薇此前言论",
+          "url": "https://www.163.com/dy/article/L799L6P705298CTE.html",
+          "source": "网球之家 · 网易体育",
+          "publishedAt": "2026-09-20T05:40:26.000Z",
+          "category": "体育",
+          "topic": "网球",
+          "sourceId": "sports",
+          "summary": "郑钦文在今年的美网中一路从资格赛打进女单八强，其中，更是连续两场比赛在0-5落后的情况下翻盘，中国金花的成绩也引发很多…",
+          "number": 17
+        },
+        {
+          "title": "德约直言：阿尔卡拉斯与辛纳的球风，正是在学习自己",
+          "url": "https://www.163.com/dy/article/L799KGV205298CTE.html",
+          "source": "网球之家 · 网易体育",
+          "publishedAt": "2026-09-20T05:40:03.000Z",
+          "category": "体育",
+          "topic": "网球",
+          "sourceId": "sports",
+          "summary": "德约科维奇正和凯文·哈特一同泡冰浴。听起来匪夷所思？其实不然，这位24个大满贯冠军得主与知名喜剧演员凯文·哈特、马塞洛…",
+          "number": 18
+        },
+        {
+          "title": "涅槃重生！德约自曝2010年曾想退役，心态逆袭铸就网坛传奇",
+          "url": "https://www.163.com/dy/article/L77N832105298CTE.html",
+          "source": "网球之家 · 网易体育",
+          "publishedAt": "2026-09-19T14:59:27.000Z",
+          "category": "体育",
+          "topic": "网球",
+          "sourceId": "sports",
+          "summary": "职业生涯步入暮年，德约科维奇已经打破了网球这项运动里的所有纪录。但曾经有一段时期，他奋力追逐这些纪录，彼时他并不确定自…",
+          "number": 19
+        }
+      ]
+    },
+    {
+      "id": "us-stock",
+      "name": "新浪财经 · 美股",
+      "url": "https://finance.sina.com.cn/stock/usstock/",
+      "status": "ok",
+      "lastAttempt": "2026-09-20T14:17:52.491Z",
+      "lastSuccess": "2026-09-20T14:17:52.491Z",
+      "items": [
+        {
+          "title": "报道：诺和诺德股东称公司需通过收购拓展业务",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-20/doc-inismzux1593535.shtml",
+          "summary": "诺和诺德股东敦促这家制药集团通过收购扩大产品组合，以降低利润对糖尿病治疗药物Ozempic的依赖。公司股东Flossb…",
+          "source": "环球市场播报 · 新浪财经",
+          "publishedAt": "2026-09-20T05:23:53.000Z",
+          "category": "金融",
+          "topic": "美股",
+          "sourceId": "us-stock"
+        },
+        {
+          "title": "Meta与谷歌押注新型清洁能源技术 以满足AI的电力需求",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-20/doc-inismzve6739947.shtml",
+          "summary": "人工智能带来的电力需求暴涨，催生了数十亿美元的清洁能源投资，投资方向包括新一代地热发电与先进核反应堆。如今，各大云巨头…",
+          "source": "环球市场播报 · 新浪财经",
+          "publishedAt": "2026-09-20T04:35:30.000Z",
+          "category": "金融",
+          "topic": "美股",
+          "sourceId": "us-stock"
+        },
+        {
+          "title": "黄仁勋夫妇，捐赠43.8万股英伟达股票",
+          "url": "https://finance.sina.com.cn/wm/2026-09-20/doc-inismrfk6909184.shtml",
+          "summary": "英伟达多名高管披露最新持股变动。 当地时间9月18日，美国证券交易委员会（SEC）披露的文件显示，9月17日，英伟达C…",
+          "source": "中国证券报 · 新浪财经",
+          "publishedAt": "2026-09-20T00:33:33.000Z",
+          "category": "金融",
+          "topic": "美股",
+          "sourceId": "us-stock"
+        },
+        {
+          "title": "纳斯达克100指数季度再平衡落定 SpaceX权重将升至2.82%",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-iniskptt2970689.shtml",
+          "summary": "纳斯达克100指数季度再平衡将于周一生效，届时SpaceX在该指数中的权重将升至2.82%，较目前约1.28%的权重大…",
+          "source": "环球市场播报 · 新浪财经",
+          "publishedAt": "2026-09-19T14:40:45.000Z",
+          "category": "金融",
+          "topic": "美股",
+          "sourceId": "us-stock"
+        },
+        {
+          "title": "SpaceX在纳斯达克100指数中的权重将达到2.82%",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-iniskptw7396556.shtml",
+          "summary": "随着纳斯达克100指数的季度调整于下周一生效，SpaceX在该指数中的权重将达到2.82%，较目前约1.28%的权重显…",
+          "source": "环球市场播报 · 新浪财经",
+          "publishedAt": "2026-09-19T14:27:24.000Z",
+          "category": "金融",
+          "topic": "美股",
+          "sourceId": "us-stock"
+        },
+        {
+          "title": "英伟达5名高管披露持股变动：黄仁勋4.57万股用于缴税，CFO套现765万美元",
+          "url": "https://finance.sina.com.cn/jjxw/2026-09-19/doc-iniskptr2230344.shtml",
+          "summary": "包括黄仁勋在内，5名英伟达高管合计出售16万股公司股票用以缴税。 当地时间9月18日，英伟达向美国证券交易委员会（SE…",
+          "source": "澎湃新闻 · 新浪财经",
+          "publishedAt": "2026-09-19T14:19:00.000Z",
+          "category": "金融",
+          "topic": "美股",
+          "sourceId": "us-stock"
+        },
+        {
+          "title": "谷歌承认其AI模型在安全测试中侵入三家公司系统",
+          "url": "https://finance.sina.com.cn/wm/2026-09-19/doc-iniskimw9720563.shtml",
+          "summary": "据新华社报道，美国谷歌公司18日承认，其人工智能（AI）模型“双子座”今年5月在网络安全能力测试中，侵入了三家真实公司…",
+          "source": "21世纪经济报道 · 新浪财经",
+          "publishedAt": "2026-09-19T10:11:36.000Z",
+          "category": "金融",
+          "topic": "美股",
+          "sourceId": "us-stock"
+        },
+        {
+          "title": "黄仁勋减持4.6万股英伟达股票，成交价约每股212美元",
+          "url": "https://finance.sina.com.cn/roll/2026-09-19/doc-inisisqc3101405.shtml",
+          "summary": "据财联社报道，英伟达多名高管向美国SEC披露股票交易情况，包括CEO黄仁勋在内的5名高管合计出售近15万股公司股票。其…",
+          "source": "21世纪经济报道 · 新浪财经",
+          "publishedAt": "2026-09-19T03:33:51.000Z",
+          "category": "金融",
+          "topic": "美股",
+          "sourceId": "us-stock"
+        },
+        {
+          "title": "OpenAI、谷歌等四家企业遭起诉 被指控合谋呼吁“放缓”AI发展",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisinhk7796536.shtml",
+          "summary": "当地时间周五提交至联邦法院的一份民事诉讼显示，人工智能巨头Anthropic、OpenAI、SpaceXAI以及谷歌，…",
+          "source": "环球市场播报 · 新浪财经",
+          "publishedAt": "2026-09-19T01:24:16.000Z",
+          "category": "金融",
+          "topic": "美股",
+          "sourceId": "us-stock"
+        },
+        {
+          "title": "道指迎半年最惨一周！芯片股尾盘狂拉闪迪暴涨近11%，原油跳水金银反弹",
+          "url": "https://finance.sina.com.cn/roll/2026-09-19/doc-inisifyf2723337.shtml",
+          "summary": "中概股闪耀，阿里巴巴大涨超4%。*三大股指涨跌互现，纳指涨近0.4%；*10年期美债收益率短暂夺回5%；*光通信板块活…",
+          "source": "一财网 · 新浪财经",
+          "publishedAt": "2026-09-18T23:31:49.000Z",
+          "category": "金融",
+          "topic": "美股",
+          "sourceId": "us-stock"
+        },
+        {
+          "title": "9月19日隔夜要闻：美股涨跌不一芯片股大涨 油价三连跌 金价续涨 特朗普签署针对俄罗斯和伊朗的制裁法案",
+          "url": "https://finance.sina.com.cn/world/2026-09-19/doc-inisifyi3180629.shtml",
+          "summary": "市场 9月19日收盘：美股涨跌不一 芯片股反弹 费城半导体指数涨超2% 油价回落至100美元下方 9月19日美股成交前…",
+          "source": "环球市场播报 · 新浪财经",
+          "publishedAt": "2026-09-18T23:00:03.000Z",
+          "category": "金融",
+          "topic": "美股",
+          "sourceId": "us-stock"
+        },
+        {
+          "title": "9月19日美股成交前20：存储芯片爆发 美光涨约4% 闪迪大涨11% 美光高管称内存短缺短期难缓解",
+          "url": "https://finance.sina.com.cn/world/2026-09-19/doc-inisifyn7873555.shtml",
+          "summary": "周五美股成交额第1名Spacex收跌1.36%，成交511.38亿美元。 SpaceX 将星舰飞行器的发射时间从此前计…",
+          "source": "环球市场播报 · 新浪财经",
+          "publishedAt": "2026-09-18T22:54:06.000Z",
+          "category": "金融",
+          "topic": "美股",
+          "sourceId": "us-stock"
+        },
+        {
+          "title": "谷歌AI首次“越狱”：Gemini在测试中入侵三家企业",
+          "url": "https://finance.sina.com.cn/world/2026-09-19/doc-inishzsq7993750.shtml",
+          "summary": "谷歌的Gemini模型在一次网络安全能力测试中访问了互联网并入侵了其他公司，这是该公司人工智能系统自主实施此类行为的首…",
+          "source": "环球市场播报 · 新浪财经",
+          "publishedAt": "2026-09-18T22:21:06.000Z",
+          "category": "金融",
+          "topic": "美股",
+          "sourceId": "us-stock"
+        }
+      ]
+    },
+    {
+      "id": "cn-stock",
+      "name": "新浪财经 · A股",
+      "url": "https://finance.sina.com.cn/stock/",
+      "status": "ok",
+      "lastAttempt": "2026-09-20T14:17:52.491Z",
+      "lastSuccess": "2026-09-20T14:17:52.491Z",
+      "items": [
+        {
+          "title": "日赚2.4亿，车企利润不及“宁王”的零头！“去宁化”走到哪一步了？",
+          "url": "https://finance.sina.com.cn/stock/s/2026-09-20/doc-inisnwys9188023.shtml",
+          "summary": "来源：上市之家 “去宁化”的呼声越来越高了。 宁德时代2026年上半年归母净利润达到432.84亿元，日均盈利近2.4…",
+          "source": "市场资讯 · 新浪财经",
+          "publishedAt": "2026-09-20T14:04:32.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock"
+        },
+        {
+          "title": "合计募资60.8亿元 两家硬科技公司同步扩产",
+          "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-20/doc-inisnssu9272154.shtml",
+          "summary": "9月18日，格科微（688728）发布公告称，拟向特定对象发行股票，数量按照募集资金总额除以发行价格确定，且不超过本次…",
+          "source": "中国财富 · 新浪财经",
+          "publishedAt": "2026-09-20T12:47:59.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock"
+        },
+        {
+          "title": "利润暴跌80%、现金大增87%，百大集团怎么了",
+          "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-20/doc-inisnwyu6426909.shtml",
+          "summary": "百大集团(SH600865)做的是杭州百货大楼委托经营，加上自持物业出租和收藏品市场的生意。今年上半年，公司营业收入0…",
+          "source": "新浪财经",
+          "publishedAt": "2026-09-20T12:47:51.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock"
+        },
+        {
+          "title": "惠泰医疗副董事长成正辉拟减持不超1.5%公司股份",
+          "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-20/doc-inisnssu9263145.shtml",
+          "summary": "9月20日晚间，惠泰医疗（688617）披露公告称，公司股东、副董事长、总经理成正辉拟通过大宗交易方式减持所持公司股份…",
+          "source": "北京商报 · 新浪财经",
+          "publishedAt": "2026-09-20T12:36:00.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock"
+        },
+        {
+          "title": "成立仅1年的科创综指基金产品，清盘了",
+          "url": "https://finance.sina.com.cn/wm/2026-09-20/doc-inisnssw6541919.shtml",
+          "summary": "来源：财联社 去年还在密集发行的科创综指基金，已经开始出现产品出清。 9月19日，长城基金公告，长城上证科创板综合指数…",
+          "source": "市场资讯 · 新浪财经",
+          "publishedAt": "2026-09-20T12:18:57.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock"
+        },
+        {
+          "title": "1000亿元14天逆回购落地，央行提前对冲双节资金扰动",
+          "url": "https://finance.sina.com.cn/stock/wbstock/2026-09-20/doc-inisnssr1369023.shtml",
+          "summary": "来源：@第一财经日报微博【#1000亿元14天逆回购落地#，#央行提前对冲双节资金扰动#】9月18日，央行重启14天逆…",
+          "source": "新浪财经",
+          "publishedAt": "2026-09-20T12:18:35.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock"
+        },
+        {
+          "title": "十大机构看后市：把握年内最后的进攻窗口，AI对A股意味着什么？",
+          "url": "https://finance.sina.com.cn/stock/marketresearch/2026-09-20/doc-inisnsst2514323.shtml",
+          "summary": "本周A股主要宽基指数多数收涨。全A指数上涨1.70%，科创50涨幅最大，达到6.39%，中证1000、北证50涨幅也均…",
+          "source": "股市直击 · 新浪财经",
+          "publishedAt": "2026-09-20T12:00:21.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock"
+        },
+        {
+          "title": "下周A股，重要节点来了",
+          "url": "https://finance.sina.com.cn/stock/marketresearch/2026-09-20/doc-inisnssr1364506.shtml",
+          "summary": "来源：中国商报 刚刚过去的交易周（9月14日至18日），A股市场从前一周的意外下跌（9月11日）中逐步企稳，后半周在美…",
+          "source": "市场资讯 · 新浪财经",
+          "publishedAt": "2026-09-20T12:00:19.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock"
+        },
+        {
+          "title": "永康防务IPO：手握14亿现金，实控人夫妇分红超1亿",
+          "url": "https://finance.sina.com.cn/roll/2026-09-20/doc-inisnsst2472925.shtml",
+          "summary": "（来源：投资者网-思维财经） 【IPO观察 】速览新股招股书、拆解融资故事，关注监管动态，用大白话帮你划重点。 ‘业绩…",
+          "source": "新浪财经",
+          "publishedAt": "2026-09-20T12:00:00.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock"
+        },
+        {
+          "title": "A股反弹态势有望延续，六大机构后市看好这些板块",
+          "url": "https://finance.sina.com.cn/stock/marketresearch/2026-09-20/doc-inisnssw6518252.shtml",
+          "summary": "本周，A股三大股指经历小幅下行后反弹。周五收盘，周线集体翻红，创业板指再度领涨三大股指，电子、通信等板块涨幅居前。",
+          "source": "中国证券报 · 新浪财经",
+          "publishedAt": "2026-09-20T11:27:08.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock"
+        },
+        {
+          "title": "富祥股份预计前三季度扭亏为盈 电解液添加剂景气度持续上行",
+          "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-20/doc-inisnssw6520066.shtml",
+          "summary": "9月18日，江西富祥药业股份有限公司(以下简称“富祥股份”)发布2026年前三季度业绩预告。公司预计，2026年1月至…",
+          "source": "证券日报网 · 新浪财经",
+          "publishedAt": "2026-09-20T11:22:24.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock"
+        }
+      ]
+    },
+    {
+      "id": "futures-1",
+      "name": "新浪财经 · 期货订阅 1",
+      "url": "https://finance.sina.com.cn/",
+      "status": "ok",
+      "lastAttempt": "2026-09-20T14:17:52.491Z",
+      "lastSuccess": "2026-09-20T14:17:52.491Z",
+      "items": []
+    },
+    {
+      "id": "futures-2",
+      "name": "新浪财经 · 期货订阅 2",
+      "url": "https://finance.sina.com.cn/",
+      "status": "ok",
+      "lastAttempt": "2026-09-20T14:17:52.491Z",
+      "lastSuccess": "2026-09-20T14:17:52.491Z",
+      "items": []
+    },
+    {
+      "id": "futures-3",
+      "name": "新浪财经 · 期货订阅 3",
+      "url": "https://finance.sina.com.cn/",
+      "status": "ok",
+      "lastAttempt": "2026-09-20T14:17:52.491Z",
+      "lastSuccess": "2026-09-20T14:17:52.491Z",
+      "items": [
+        {
+          "title": "钢材：成本支撑松动，延续承压回调态势2026.9.19",
+          "url": "https://finance.sina.com.cn/money/future/wemedia/2026-09-19/doc-iniskcea7552871.shtml",
+          "summary": "来源：华安期货投研 核心观点： 本周五大材供给维持低位，钢厂亏损下主动控产延续，长短流程产出均偏弱，供给压力逐步缓解。…",
+          "source": "新浪财经",
+          "publishedAt": "2026-09-19T08:24:29.000Z",
+          "category": "金融",
+          "topic": "中国期货",
+          "sourceId": "futures-3"
+        },
+        {
+          "title": "PTA：成本高波动，需求负反馈加剧2026.9.19",
+          "url": "https://finance.sina.com.cn/money/future/wemedia/2026-09-19/doc-iniskcea7552862.shtml",
+          "summary": "来源：华安期货投研 投资策略建议：TA701高位承压运行为主 本周国内PTA期货市场偏强运行，截至本周五，华东地区PT…",
+          "source": "新浪财经",
+          "publishedAt": "2026-09-19T08:24:29.000Z",
+          "category": "金融",
+          "topic": "中国期货",
+          "sourceId": "futures-3"
+        },
+        {
+          "title": "芳烃：经济前景不明，需求负反馈明显2026.9.19",
+          "url": "https://finance.sina.com.cn/money/future/wemedia/2026-09-19/doc-iniskccy9802891.shtml",
+          "summary": "来源：华安期货投研 主要因素： 1，新浪财经消息，9月17日凌晨，美联储宣布加息25个基点，将联邦基金利率目标区间上调…",
+          "source": "新浪财经",
+          "publishedAt": "2026-09-19T08:24:29.000Z",
+          "category": "金融",
+          "topic": "中国期货",
+          "sourceId": "futures-3"
+        },
+        {
+          "title": "宏观金融：加息落地后，金价暂企稳2026.9.19",
+          "url": "https://finance.sina.com.cn/money/future/wemedia/2026-09-19/doc-iniskccv2389636.shtml",
+          "summary": "来源：华安期货投研 核心逻辑及市场展望： 9月14日-9月18日当周，金价金价先跌后涨。影响因素包括，美国 9 月加息…",
+          "source": "新浪财经",
+          "publishedAt": "2026-09-19T08:24:29.000Z",
+          "category": "金融",
+          "topic": "中国期货",
+          "sourceId": "futures-3"
+        },
+        {
+          "title": "油脂粕类：原油下行拖累油脂2026.9.19",
+          "url": "https://finance.sina.com.cn/money/future/wemedia/2026-09-19/doc-iniskccy9802868.shtml",
+          "summary": "来源：华安期货投研 油脂：原油下行拖累油脂 核心观点： 豆油：NOPA月报显示美豆8月压榨量降至11个月低点，但为历史…",
+          "source": "新浪财经",
+          "publishedAt": "2026-09-19T08:24:29.000Z",
+          "category": "金融",
+          "topic": "中国期货",
+          "sourceId": "futures-3"
+        },
+        {
+          "title": "纸浆：纸浆区间震荡运行2026.9.19",
+          "url": "https://finance.sina.com.cn/money/future/wemedia/2026-09-19/doc-iniskccv2389584.shtml",
+          "summary": "来源：华安期货投研 主要因素： 1、本周针叶浆现货价格先稳后跌，下游需求淡季偏弱，纸厂多以刚需采购为主，港口库存高企，…",
+          "source": "新浪财经",
+          "publishedAt": "2026-09-19T08:24:29.000Z",
+          "category": "金融",
+          "topic": "中国期货",
+          "sourceId": "futures-3"
+        },
+        {
+          "title": "能化板块：地缘扰动下的低库存与正套逻辑",
+          "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-19/doc-inismrfh9327935.shtml",
+          "summary": "来源：牛钱网 嘉宾介绍：邢彬彬，某私募从业人员，毕业于中国石油大学后开始从事能化品种研究工作，于2018年获“郑商所2…",
+          "source": "市场资讯 · 新浪财经",
+          "publishedAt": "2026-09-19T06:58:13.000Z",
+          "category": "金融",
+          "topic": "中国期货",
+          "sourceId": "futures-3"
+        }
+      ]
+    },
+    {
+      "id": "us-politics",
+      "name": "中新网 · 国际",
+      "url": "https://www.chinanews.com.cn/rss/world.xml",
+      "status": "ok",
+      "lastAttempt": "2026-09-20T14:17:52.491Z",
+      "lastSuccess": "2026-09-20T14:17:52.491Z",
+      "items": [
+        {
+          "title": "伊朗军方称获悉美国计划恢复对伊打击：美军若借中东基地出手，相关国家将被视为“共犯”",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-20/10700410.shtml",
+          "summary": "中新网9月20日电 据《以色列时报》、路透社当地时间20日报道，伊朗国家媒体援引伊朗军方一份声明称，伊朗收到消息，美国…",
+          "publishedAt": "2026-09-20T12:33:56.000Z",
+          "category": "政治",
+          "topic": "美国",
+          "source": "中国新闻网",
+          "sourceId": "us-politics"
+        },
+        {
+          "title": "当美联社说“美国应当感谢中国”",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-20/10700198.shtml",
+          "summary": "“世界之所以能避免油价失控，应归功于中国的能源战略。”美联社19日发文称，“我们以一种奇特的方式‘搭了北京的便车’”，…",
+          "publishedAt": "2026-09-20T08:42:12.000Z",
+          "category": "政治",
+          "topic": "美国",
+          "source": "中国新闻网",
+          "sourceId": "us-politics"
+        },
+        {
+          "title": "多方回应美国与丹麦、格陵兰岛达成协议",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-20/10700054.shtml",
+          "summary": "中新社北京9月20日电 综合消息：19日至20日，多方回应美国与丹麦和格陵兰岛达成协议，认为其尊重了丹麦主权和领土完整…",
+          "publishedAt": "2026-09-20T07:10:16.000Z",
+          "category": "政治",
+          "topic": "美国",
+          "source": "中国新闻网",
+          "sourceId": "us-politics"
+        },
+        {
+          "title": "伊朗称已向美国传达七项谈判条件",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-20/10699884.shtml",
+          "summary": "中新社北京9月20日电 德黑兰消息：伊朗最高国家安全委员会秘书穆赫辛·雷扎伊当地时间19日晚说，伊朗已将开启谈判的七项…",
+          "publishedAt": "2026-09-20T05:47:47.000Z",
+          "category": "政治",
+          "topic": "美国",
+          "source": "中国新闻网",
+          "sourceId": "us-politics"
+        },
+        {
+          "title": "美国国务院发布安全提醒 称中东地区局势可能升级",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-20/10699750.shtml",
+          "summary": "中新网9月20日电 由于中东局势紧张，当地时间19日，美国国务院发布安全提醒，建议身处中东地区的美国公民保持高度警惕，…",
+          "publishedAt": "2026-09-19T23:14:12.000Z",
+          "category": "政治",
+          "topic": "美国",
+          "source": "中国新闻网",
+          "sourceId": "us-politics"
+        },
+        {
+          "title": "特朗普：将组建一支“人工智能部队” 并任命一名负责人",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-20/10699748.shtml",
+          "summary": "中新网9月20日电 据美国有线电视新闻网(CNN)等外媒报道，当地时间19日，美国总统特朗普在社交媒体发文称，他计划组…",
+          "publishedAt": "2026-09-19T22:44:56.000Z",
+          "category": "政治",
+          "topic": "美国",
+          "source": "中国新闻网",
+          "sourceId": "us-politics"
+        },
+        {
+          "title": "伊朗称已向美国传达谈判条件 正等待特朗普回应",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-20/10699747.shtml",
+          "summary": "中新网9月20日电 据卡塔尔半岛电视台报道，当地时间19日，伊朗最高国家安全委员会秘书穆赫辛·雷扎伊接受该媒体采访时，…",
+          "publishedAt": "2026-09-19T22:33:03.000Z",
+          "category": "政治",
+          "topic": "美国",
+          "source": "中国新闻网",
+          "sourceId": "us-politics"
+        },
+        {
+          "title": "欧盟敦促美国重新考虑针对联合国大会巴勒斯坦代表团的拒签制裁",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699740.shtml",
+          "summary": "中新社布鲁塞尔9月19日电 (记者 德永健)在联合国大会高级别会议召开前夕，欧盟19日发表声明，敦促美国重新考虑针对联…",
+          "publishedAt": "2026-09-19T15:59:36.000Z",
+          "category": "政治",
+          "topic": "美国",
+          "source": "中国新闻网",
+          "sourceId": "us-politics"
+        },
+        {
+          "title": "伊朗消息人士：美方称已准备好与伊朗进行谈判",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699738.shtml",
+          "summary": "当地时间19日，总台记者从伊朗一位不愿透露姓名的高级别消息人士处获悉，卡塔尔和巴基斯坦作为调解方已告知伊朗，美国已准备…",
+          "publishedAt": "2026-09-19T15:23:24.000Z",
+          "category": "政治",
+          "topic": "美国",
+          "source": "中国新闻网",
+          "sourceId": "us-politics"
+        },
+        {
+          "title": "美媒：白宫对CNN等三家媒体下“逐客令”",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699450.shtml",
+          "summary": "中新网9月19日电 综合美媒报道，当地时间18日，美国总统特朗普在社交媒体上发文称，美国有线电视新闻网(CNN)、MS…",
+          "publishedAt": "2026-09-19T06:37:09.000Z",
+          "category": "政治",
+          "topic": "美国",
+          "source": "中国新闻网",
+          "sourceId": "us-politics"
+        }
+      ]
+    },
+    {
+      "id": "cn-politics",
+      "name": "中新网 · 国内",
+      "url": "https://www.chinanews.com.cn/rss/china.xml",
+      "status": "ok",
+      "lastAttempt": "2026-09-20T14:17:52.491Z",
+      "lastSuccess": "2026-09-20T14:17:52.491Z",
+      "items": [
+        {
+          "title": "习近平总书记关切事｜以文化自觉，守护城市根脉",
+          "url": "https://www.chinanews.com.cn/gn/2026/09-20/10700397.shtml",
+          "summary": "城市更新既是民生工程，也是发展工程、文化工程。",
+          "publishedAt": "2026-09-20T13:58:42.000Z",
+          "category": "政治",
+          "topic": "中国",
+          "source": "中国新闻网",
+          "sourceId": "cn-politics"
+        },
+        {
+          "title": "新时代中俄青年对话举办 助力两国青年交流走深走实",
+          "url": "https://www.chinanews.com.cn/gn/2026/09-20/10700398.shtml",
+          "summary": "中新网北京9月20日电 (记者 李京泽)新时代中俄青年对话近日在北京举办。中俄学者齐聚一堂，共探新时代两国青年使命担当…",
+          "publishedAt": "2026-09-20T13:37:30.000Z",
+          "category": "政治",
+          "topic": "中国",
+          "source": "中国新闻网",
+          "sourceId": "cn-politics"
+        },
+        {
+          "title": "文化和旅游部印发《公共文化服务体系建设“十五五”规划》",
+          "url": "https://www.chinanews.com.cn/gn/2026/09-20/10700371.shtml",
+          "summary": "为深入贯彻党的二十届四中全会精神，落实《中华人民共和国国民经济和社会发展第十五个五年规划纲要》《文化和旅游发展“十五五…",
+          "publishedAt": "2026-09-20T12:06:51.000Z",
+          "category": "政治",
+          "topic": "中国",
+          "source": "中国新闻网",
+          "sourceId": "cn-politics"
+        },
+        {
+          "title": "李鸿忠在辽宁调研时强调 深入学习贯彻习近平法治思想 以良法促进发展保障善治",
+          "url": "https://www.chinanews.com.cn/gn/2026/09-20/10700342.shtml",
+          "summary": "新华社沈阳9月20日电 中共中央政治局委员、全国人大常委会副委员长李鸿忠9月17日至20日在辽宁调研。他强调，要坚持以…",
+          "publishedAt": "2026-09-20T11:36:31.000Z",
+          "category": "政治",
+          "topic": "中国",
+          "source": "中国新闻网",
+          "sourceId": "cn-politics"
+        },
+        {
+          "title": "中共中央办公厅 国务院办公厅印发《关于分类推进高校改革的意见》",
+          "url": "https://www.chinanews.com.cn/gn/2026/09-20/10700232.shtml",
+          "summary": "新华社北京9月20日电 近日，中共中央办公厅、国务院办公厅印发《关于分类推进高校改革的意见》(以下简称《意见》)，对分…",
+          "publishedAt": "2026-09-20T09:33:49.000Z",
+          "category": "政治",
+          "topic": "中国",
+          "source": "中国新闻网",
+          "sourceId": "cn-politics"
+        },
+        {
+          "title": "湖北省人大教育科学文化卫生委员会原主任委员郭忠被开除党籍",
+          "url": "https://www.chinanews.com.cn/gn/2026/09-20/10700210.shtml",
+          "summary": "中新网9月20日电 据湖北省纪委监委消息：经湖北省委批准，湖北省纪委监委对湖北省人大教育科学文化卫生委员会原主任委员郭…",
+          "publishedAt": "2026-09-20T08:59:01.000Z",
+          "category": "政治",
+          "topic": "中国",
+          "source": "中国新闻网",
+          "sourceId": "cn-politics"
+        },
+        {
+          "title": "河南省驻马店市政协原副主席李卫明被“双开”",
+          "url": "https://www.chinanews.com.cn/gn/2026/09-20/10700174.shtml",
+          "summary": "中新网9月20日电 据河南省纪委监委消息：经中共河南省委批准，河南省纪委监委对驻马店市政协原副主席李卫明严重违纪违法问…",
+          "publishedAt": "2026-09-20T08:31:41.000Z",
+          "category": "政治",
+          "topic": "中国",
+          "source": "中国新闻网",
+          "sourceId": "cn-politics"
+        },
+        {
+          "title": "国务院任免国家工作人员",
+          "url": "https://www.chinanews.com.cn/gn/2026/09-20/10700173.shtml",
+          "summary": "中新网9月20日电 据人社部网站消息，国务院任免国家工作人员。",
+          "publishedAt": "2026-09-20T08:29:41.000Z",
+          "category": "政治",
+          "topic": "中国",
+          "source": "中国新闻网",
+          "sourceId": "cn-politics"
+        }
+      ]
+    },
+    {
+      "id": "aihot",
+      "name": "AI HOT",
+      "url": "https://aihot.news/",
+      "status": "ok",
+      "lastAttempt": "2026-09-20T14:17:52.491Z",
+      "lastSuccess": "2026-09-20T14:17:52.491Z",
+      "items": [
+        {
+          "category": "AI",
+          "topic": "行业动态",
+          "title": "Anthropic 计划将 IPO 推迟至 11 月，估值约 2 万亿美元",
+          "summary": "据《华尔街日报》报道，Anthropic 计划将 IPO 推迟至 11 月，晚于投资者预期的 10 月，以留出时间展示…",
+          "source": "IT之家（RSS）",
+          "url": "https://www.ithome.com/1/004/369.htm",
+          "publishedAt": "2026-09-20T00:00:12.187Z",
+          "reportDate": "2026-09-20",
+          "timeLabel": "日报生成",
+          "sourceId": "aihot"
+        },
+        {
+          "category": "AI",
+          "topic": "技巧与观点",
+          "title": "Alexandr Wang 转发一份让 AI 智能体保护日历通勤时间的 Muse 提示词",
+          "summary": "Alexandr Wang 转发 @trevin 分享的 Muse 提示词，该提示词也可用于 Instinct 和 G…",
+          "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+          "url": "https://x.com/alexandr_wang/status/2101141362607632873",
+          "publishedAt": "2026-09-20T00:00:12.187Z",
+          "reportDate": "2026-09-20",
+          "timeLabel": "日报生成",
+          "sourceId": "aihot"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "沃格尔谈加盟勇士：在联盟中 他们最希望由我来调教防守",
+      "url": "https://www.163.com/dy/article/L79VPT0F0514R9KQ.html",
+      "source": "北青网-北京青年报 · 网易体育",
+      "publishedAt": "2026-09-20T12:07:23.000Z",
+      "category": "体育",
+      "topic": "NBA",
+      "sourceId": "sports",
+      "summary": "北京时间9月20日，据湾区记者Joseph Dycus报道，勇士新任助教弗兰克-沃格尔接受采访，谈及加盟勇士的过程。",
+      "number": 1
+    },
+    {
+      "title": "美记：勇士已与奥比-阿格比姆签下训练营合同",
+      "url": "https://www.163.com/dy/article/L79TGKIR0514R9KQ.html",
+      "source": "北青网-北京青年报 · 网易体育",
+      "publishedAt": "2026-09-20T11:27:22.000Z",
+      "category": "体育",
+      "topic": "NBA",
+      "sourceId": "sports",
+      "summary": "北京时间9月20日，据记者Paul Garcia报道，前贝勒大学后卫奥比-阿格比姆已与勇士签下训练营合同。",
+      "number": 2
+    },
+    {
+      "title": "官方：湖人与米奇-约翰逊、蔡斯-罗斯签下Exhibit 10",
+      "url": "https://www.163.com/dy/article/L77CFBQA0514R9KQ.html",
+      "source": "北青网-北京青年报 · 网易体育",
+      "publishedAt": "2026-09-19T11:51:06.000Z",
+      "category": "体育",
+      "topic": "NBA",
+      "sourceId": "sports",
+      "summary": "北京时间9月19日，洛杉矶湖人官方宣布，球队与后卫米奇-约翰逊和蔡斯-罗斯签下Exhibit 10合同，并裁掉前锋安东…",
+      "number": 3
+    },
+    {
+      "title": "卡拉格：难免会猜想伊劳拉能不能把斯科特带到利物浦",
+      "url": "https://www.163.com/dy/article/L7A4CS260549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-09-20T13:27:39.000Z",
+      "category": "体育",
+      "topic": "英超",
+      "sourceId": "sports",
+      "summary": "卡拉格对亚历克斯-斯科特大加赞赏，他认为伊劳拉可以利用自己和伯恩茅斯的人脉关系，签下这名备受好评的中场球员。",
+      "number": 4
+    },
+    {
+      "title": "对阵桑德兰直接任意球破门，恩佐攻入曼城生涯首球",
+      "url": "https://www.163.com/dy/article/L7A4CS7J0549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-09-20T13:27:39.000Z",
+      "category": "体育",
+      "topic": "英超",
+      "sourceId": "sports",
+      "summary": "英超第5轮主场迎战桑德兰的比赛中，恩佐-费尔南德斯的进球为曼城首开记录。",
+      "number": 5
+    },
+    {
+      "title": "电讯报：英超各路豪门疯狂抢夺潜力新星，格局已经白热化",
+      "url": "https://www.163.com/dy/article/L7A3671P0549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-09-20T13:06:32.000Z",
+      "category": "体育",
+      "topic": "英超",
+      "sourceId": "sports",
+      "summary": "曼联15岁新星JJ-加布里埃尔闹离队的新闻闹得沸沸扬扬，《每日电讯报》撰文指出，近些年英超各路豪门疯狂抢夺潜力新星，格…",
+      "number": 6
+    },
+    {
+      "title": "马竞vs皇马：姆巴佩、维尼修斯先发，罗梅罗、李刚仁出战",
+      "url": "https://www.163.com/dy/article/L7A367G40549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-09-20T13:06:32.000Z",
+      "category": "体育",
+      "topic": "西甲",
+      "sourceId": "sports",
+      "summary": "北京时间9月20日22:15，西甲第7轮，马德里德比，马竞坐镇主场迎战皇马，本场比赛主裁判是奥尔蒂斯，VAR是特鲁希略…",
+      "number": 7
+    },
+    {
+      "title": "巴萨官方：克里斯滕森左腿股四头肌受伤，将缺席未来数周",
+      "url": "https://www.163.com/dy/article/L7A2HAR70549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-09-20T12:55:08.000Z",
+      "category": "体育",
+      "topic": "西甲",
+      "sourceId": "sports",
+      "summary": "北京时间9月20日，巴萨官方发布公告，克里斯滕森左腿股四头肌受伤，将缺席未来数周。",
+      "number": 8
+    },
+    {
+      "title": "拉波尔塔谈小蜘蛛风波：马竞感觉被冒犯，他们无法为自己辩解",
+      "url": "https://www.163.com/dy/article/L79RCGDA0549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-09-20T10:50:09.000Z",
+      "category": "体育",
+      "topic": "西甲",
+      "sourceId": "sports",
+      "summary": "当地时间本周五，巴萨召开了2026年俱乐部会员代表大会，会上，拉波尔塔解释了与马竞谈判阿尔瓦雷斯转会的经过。",
+      "number": 9
+    },
+    {
+      "title": "勒沃库森vsRB莱比锡：希克、穆萨-迪亚比首发，恩昆库、劳姆出战",
+      "url": "https://www.163.com/dy/article/L7A1BV500549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-09-20T12:34:43.000Z",
+      "category": "体育",
+      "topic": "德甲",
+      "sourceId": "sports",
+      "summary": "北京时间9月20日德国足球顶级联赛联赛第4轮，勒沃库森主场对阵RB莱比锡。",
+      "number": 10
+    },
+    {
+      "title": "四连胜开局，多特蒙德时隔1212天重返德甲榜首",
+      "url": "https://www.163.com/dy/article/L78VKE9J0549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-09-20T02:45:09.000Z",
+      "category": "体育",
+      "topic": "德甲",
+      "sourceId": "sports",
+      "summary": "北京时间9月20日凌晨，德甲第4轮，多特蒙德客场1-0击败斯图加特，迎来新赛季开局四连胜，并时隔1212天再次登上德甲…",
+      "number": 11
+    },
+    {
+      "title": "迪马济奥：拜仁依旧关注多特小将伊纳西奥，有意明夏引进",
+      "url": "https://www.163.com/dy/article/L78SN4160549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-09-20T01:54:11.000Z",
+      "category": "体育",
+      "topic": "德甲",
+      "sourceId": "sports",
+      "summary": "据转会专家詹卢卡-迪马济奥透露，拜仁很有可能签下萨穆埃莱-伊纳西奥。这位意大利专家在接受wettfreunde网站采访…",
+      "number": 12
+    },
+    {
+      "title": "佛罗伦萨1-1那不勒斯，吉尔摩、希门尼斯破门，法乔利远射造险",
+      "url": "https://www.163.com/dy/article/L7A1BV2U0549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-09-20T12:34:43.000Z",
+      "category": "体育",
+      "topic": "意甲",
+      "sourceId": "sports",
+      "summary": "北京时间9月20日意大利足球顶级联赛 联赛 第5轮，佛罗伦萨主场对阵那不勒斯。佛罗伦萨阿莱士-希门尼斯破门。那不勒斯吉…",
+      "number": 13
+    },
+    {
+      "title": "佛罗伦萨vs那不勒斯：德赫亚、马斯坦托诺首发，德布劳内、霍伊伦出战",
+      "url": "https://www.163.com/dy/article/L79NP7GE0549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-09-20T09:47:12.000Z",
+      "category": "体育",
+      "topic": "意甲",
+      "sourceId": "sports",
+      "summary": "北京时间9月20日意大利足球顶级联赛联赛第5轮，佛罗伦萨主场对阵那不勒斯。",
+      "number": 14
+    },
+    {
+      "title": "路易斯-恩里克：意甲让我战术方面提升很多；希望入选巴西队",
+      "url": "https://www.163.com/dy/article/L79E4JI10549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-09-20T06:58:39.000Z",
+      "category": "体育",
+      "topic": "意甲",
+      "sourceId": "sports",
+      "summary": "国际米兰球员路易斯-恩里克接受巴西《圣保罗页报》采访，谈到了自己从进攻球员转型为翼卫的经历。他表示，这个位置不仅要求更…",
+      "number": 15
+    },
+    {
+      "title": "队报：尼斯法甲主场326天不胜，反思投入不足",
+      "url": "https://www.163.com/dy/article/L79LUH7I0549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-09-20T09:15:09.000Z",
+      "category": "体育",
+      "topic": "法甲",
+      "sourceId": "sports",
+      "summary": "据《队报》报道，尼斯已连续326天未能在法甲主场取胜，球队认为比赛投入和强度不足。",
+      "number": 16
+    },
+    {
+      "title": "克妈赞郑钦文美网回到该有的水平，格里科斯普回应对紫薇此前言论",
+      "url": "https://www.163.com/dy/article/L799L6P705298CTE.html",
+      "source": "网球之家 · 网易体育",
+      "publishedAt": "2026-09-20T05:40:26.000Z",
+      "category": "体育",
+      "topic": "网球",
+      "sourceId": "sports",
+      "summary": "郑钦文在今年的美网中一路从资格赛打进女单八强，其中，更是连续两场比赛在0-5落后的情况下翻盘，中国金花的成绩也引发很多…",
+      "number": 17
+    },
+    {
+      "title": "德约直言：阿尔卡拉斯与辛纳的球风，正是在学习自己",
+      "url": "https://www.163.com/dy/article/L799KGV205298CTE.html",
+      "source": "网球之家 · 网易体育",
+      "publishedAt": "2026-09-20T05:40:03.000Z",
+      "category": "体育",
+      "topic": "网球",
+      "sourceId": "sports",
+      "summary": "德约科维奇正和凯文·哈特一同泡冰浴。听起来匪夷所思？其实不然，这位24个大满贯冠军得主与知名喜剧演员凯文·哈特、马塞洛…",
+      "number": 18
+    },
+    {
+      "title": "涅槃重生！德约自曝2010年曾想退役，心态逆袭铸就网坛传奇",
+      "url": "https://www.163.com/dy/article/L77N832105298CTE.html",
+      "source": "网球之家 · 网易体育",
+      "publishedAt": "2026-09-19T14:59:27.000Z",
+      "category": "体育",
+      "topic": "网球",
+      "sourceId": "sports",
+      "summary": "职业生涯步入暮年，德约科维奇已经打破了网球这项运动里的所有纪录。但曾经有一段时期，他奋力追逐这些纪录，彼时他并不确定自…",
+      "number": 19
+    },
+    {
+      "title": "报道：诺和诺德股东称公司需通过收购拓展业务",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-20/doc-inismzux1593535.shtml",
+      "summary": "诺和诺德股东敦促这家制药集团通过收购扩大产品组合，以降低利润对糖尿病治疗药物Ozempic的依赖。公司股东Flossb…",
+      "source": "环球市场播报 · 新浪财经",
+      "publishedAt": "2026-09-20T05:23:53.000Z",
+      "category": "金融",
+      "topic": "美股",
+      "sourceId": "us-stock",
+      "number": 20
+    },
+    {
+      "title": "Meta与谷歌押注新型清洁能源技术 以满足AI的电力需求",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-20/doc-inismzve6739947.shtml",
+      "summary": "人工智能带来的电力需求暴涨，催生了数十亿美元的清洁能源投资，投资方向包括新一代地热发电与先进核反应堆。如今，各大云巨头…",
+      "source": "环球市场播报 · 新浪财经",
+      "publishedAt": "2026-09-20T04:35:30.000Z",
+      "category": "金融",
+      "topic": "美股",
+      "sourceId": "us-stock",
+      "number": 21
+    },
+    {
+      "title": "黄仁勋夫妇，捐赠43.8万股英伟达股票",
+      "url": "https://finance.sina.com.cn/wm/2026-09-20/doc-inismrfk6909184.shtml",
+      "summary": "英伟达多名高管披露最新持股变动。 当地时间9月18日，美国证券交易委员会（SEC）披露的文件显示，9月17日，英伟达C…",
+      "source": "中国证券报 · 新浪财经",
+      "publishedAt": "2026-09-20T00:33:33.000Z",
+      "category": "金融",
+      "topic": "美股",
+      "sourceId": "us-stock",
+      "number": 22
+    },
+    {
+      "title": "纳斯达克100指数季度再平衡落定 SpaceX权重将升至2.82%",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-iniskptt2970689.shtml",
+      "summary": "纳斯达克100指数季度再平衡将于周一生效，届时SpaceX在该指数中的权重将升至2.82%，较目前约1.28%的权重大…",
+      "source": "环球市场播报 · 新浪财经",
+      "publishedAt": "2026-09-19T14:40:45.000Z",
+      "category": "金融",
+      "topic": "美股",
+      "sourceId": "us-stock",
+      "number": 23
+    },
+    {
+      "title": "SpaceX在纳斯达克100指数中的权重将达到2.82%",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-iniskptw7396556.shtml",
+      "summary": "随着纳斯达克100指数的季度调整于下周一生效，SpaceX在该指数中的权重将达到2.82%，较目前约1.28%的权重显…",
+      "source": "环球市场播报 · 新浪财经",
+      "publishedAt": "2026-09-19T14:27:24.000Z",
+      "category": "金融",
+      "topic": "美股",
+      "sourceId": "us-stock",
+      "number": 24
+    },
+    {
+      "title": "英伟达5名高管披露持股变动：黄仁勋4.57万股用于缴税，CFO套现765万美元",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-19/doc-iniskptr2230344.shtml",
+      "summary": "包括黄仁勋在内，5名英伟达高管合计出售16万股公司股票用以缴税。 当地时间9月18日，英伟达向美国证券交易委员会（SE…",
+      "source": "澎湃新闻 · 新浪财经",
+      "publishedAt": "2026-09-19T14:19:00.000Z",
+      "category": "金融",
+      "topic": "美股",
+      "sourceId": "us-stock",
+      "number": 25
+    },
+    {
+      "title": "日赚2.4亿，车企利润不及“宁王”的零头！“去宁化”走到哪一步了？",
+      "url": "https://finance.sina.com.cn/stock/s/2026-09-20/doc-inisnwys9188023.shtml",
+      "summary": "来源：上市之家 “去宁化”的呼声越来越高了。 宁德时代2026年上半年归母净利润达到432.84亿元，日均盈利近2.4…",
+      "source": "市场资讯 · 新浪财经",
+      "publishedAt": "2026-09-20T14:04:32.000Z",
+      "category": "金融",
+      "topic": "A股",
+      "sourceId": "cn-stock",
+      "number": 26
+    },
+    {
+      "title": "合计募资60.8亿元 两家硬科技公司同步扩产",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-20/doc-inisnssu9272154.shtml",
+      "summary": "9月18日，格科微（688728）发布公告称，拟向特定对象发行股票，数量按照募集资金总额除以发行价格确定，且不超过本次…",
+      "source": "中国财富 · 新浪财经",
+      "publishedAt": "2026-09-20T12:47:59.000Z",
+      "category": "金融",
+      "topic": "A股",
+      "sourceId": "cn-stock",
+      "number": 27
+    },
+    {
+      "title": "利润暴跌80%、现金大增87%，百大集团怎么了",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-20/doc-inisnwyu6426909.shtml",
+      "summary": "百大集团(SH600865)做的是杭州百货大楼委托经营，加上自持物业出租和收藏品市场的生意。今年上半年，公司营业收入0…",
+      "source": "新浪财经",
+      "publishedAt": "2026-09-20T12:47:51.000Z",
+      "category": "金融",
+      "topic": "A股",
+      "sourceId": "cn-stock",
+      "number": 28
+    },
+    {
+      "title": "惠泰医疗副董事长成正辉拟减持不超1.5%公司股份",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-20/doc-inisnssu9263145.shtml",
+      "summary": "9月20日晚间，惠泰医疗（688617）披露公告称，公司股东、副董事长、总经理成正辉拟通过大宗交易方式减持所持公司股份…",
+      "source": "北京商报 · 新浪财经",
+      "publishedAt": "2026-09-20T12:36:00.000Z",
+      "category": "金融",
+      "topic": "A股",
+      "sourceId": "cn-stock",
+      "number": 29
+    },
+    {
+      "title": "成立仅1年的科创综指基金产品，清盘了",
+      "url": "https://finance.sina.com.cn/wm/2026-09-20/doc-inisnssw6541919.shtml",
+      "summary": "来源：财联社 去年还在密集发行的科创综指基金，已经开始出现产品出清。 9月19日，长城基金公告，长城上证科创板综合指数…",
+      "source": "市场资讯 · 新浪财经",
+      "publishedAt": "2026-09-20T12:18:57.000Z",
+      "category": "金融",
+      "topic": "A股",
+      "sourceId": "cn-stock",
+      "number": 30
+    },
+    {
+      "title": "1000亿元14天逆回购落地，央行提前对冲双节资金扰动",
+      "url": "https://finance.sina.com.cn/stock/wbstock/2026-09-20/doc-inisnssr1369023.shtml",
+      "summary": "来源：@第一财经日报微博【#1000亿元14天逆回购落地#，#央行提前对冲双节资金扰动#】9月18日，央行重启14天逆…",
+      "source": "新浪财经",
+      "publishedAt": "2026-09-20T12:18:35.000Z",
+      "category": "金融",
+      "topic": "A股",
+      "sourceId": "cn-stock",
+      "number": 31
+    },
+    {
+      "title": "钢材：成本支撑松动，延续承压回调态势2026.9.19",
+      "url": "https://finance.sina.com.cn/money/future/wemedia/2026-09-19/doc-iniskcea7552871.shtml",
+      "summary": "来源：华安期货投研 核心观点： 本周五大材供给维持低位，钢厂亏损下主动控产延续，长短流程产出均偏弱，供给压力逐步缓解。…",
+      "source": "新浪财经",
+      "publishedAt": "2026-09-19T08:24:29.000Z",
+      "category": "金融",
+      "topic": "中国期货",
+      "sourceId": "futures-3",
+      "number": 32
+    },
+    {
+      "title": "PTA：成本高波动，需求负反馈加剧2026.9.19",
+      "url": "https://finance.sina.com.cn/money/future/wemedia/2026-09-19/doc-iniskcea7552862.shtml",
+      "summary": "来源：华安期货投研 投资策略建议：TA701高位承压运行为主 本周国内PTA期货市场偏强运行，截至本周五，华东地区PT…",
+      "source": "新浪财经",
+      "publishedAt": "2026-09-19T08:24:29.000Z",
+      "category": "金融",
+      "topic": "中国期货",
+      "sourceId": "futures-3",
+      "number": 33
+    },
+    {
+      "title": "芳烃：经济前景不明，需求负反馈明显2026.9.19",
+      "url": "https://finance.sina.com.cn/money/future/wemedia/2026-09-19/doc-iniskccy9802891.shtml",
+      "summary": "来源：华安期货投研 主要因素： 1，新浪财经消息，9月17日凌晨，美联储宣布加息25个基点，将联邦基金利率目标区间上调…",
+      "source": "新浪财经",
+      "publishedAt": "2026-09-19T08:24:29.000Z",
+      "category": "金融",
+      "topic": "中国期货",
+      "sourceId": "futures-3",
+      "number": 34
+    },
+    {
+      "title": "宏观金融：加息落地后，金价暂企稳2026.9.19",
+      "url": "https://finance.sina.com.cn/money/future/wemedia/2026-09-19/doc-iniskccv2389636.shtml",
+      "summary": "来源：华安期货投研 核心逻辑及市场展望： 9月14日-9月18日当周，金价金价先跌后涨。影响因素包括，美国 9 月加息…",
+      "source": "新浪财经",
+      "publishedAt": "2026-09-19T08:24:29.000Z",
+      "category": "金融",
+      "topic": "中国期货",
+      "sourceId": "futures-3",
+      "number": 35
+    },
+    {
+      "title": "油脂粕类：原油下行拖累油脂2026.9.19",
+      "url": "https://finance.sina.com.cn/money/future/wemedia/2026-09-19/doc-iniskccy9802868.shtml",
+      "summary": "来源：华安期货投研 油脂：原油下行拖累油脂 核心观点： 豆油：NOPA月报显示美豆8月压榨量降至11个月低点，但为历史…",
+      "source": "新浪财经",
+      "publishedAt": "2026-09-19T08:24:29.000Z",
+      "category": "金融",
+      "topic": "中国期货",
+      "sourceId": "futures-3",
+      "number": 36
+    },
+    {
+      "title": "纸浆：纸浆区间震荡运行2026.9.19",
+      "url": "https://finance.sina.com.cn/money/future/wemedia/2026-09-19/doc-iniskccv2389584.shtml",
+      "summary": "来源：华安期货投研 主要因素： 1、本周针叶浆现货价格先稳后跌，下游需求淡季偏弱，纸厂多以刚需采购为主，港口库存高企，…",
+      "source": "新浪财经",
+      "publishedAt": "2026-09-19T08:24:29.000Z",
+      "category": "金融",
+      "topic": "中国期货",
+      "sourceId": "futures-3",
+      "number": 37
+    },
+    {
+      "title": "伊朗军方称获悉美国计划恢复对伊打击：美军若借中东基地出手，相关国家将被视为“共犯”",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-20/10700410.shtml",
+      "summary": "中新网9月20日电 据《以色列时报》、路透社当地时间20日报道，伊朗国家媒体援引伊朗军方一份声明称，伊朗收到消息，美国…",
+      "publishedAt": "2026-09-20T12:33:56.000Z",
+      "category": "政治",
+      "topic": "美国",
+      "source": "中国新闻网",
+      "sourceId": "us-politics",
+      "number": 38
+    },
+    {
+      "title": "当美联社说“美国应当感谢中国”",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-20/10700198.shtml",
+      "summary": "“世界之所以能避免油价失控，应归功于中国的能源战略。”美联社19日发文称，“我们以一种奇特的方式‘搭了北京的便车’”，…",
+      "publishedAt": "2026-09-20T08:42:12.000Z",
+      "category": "政治",
+      "topic": "美国",
+      "source": "中国新闻网",
+      "sourceId": "us-politics",
+      "number": 39
+    },
+    {
+      "title": "多方回应美国与丹麦、格陵兰岛达成协议",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-20/10700054.shtml",
+      "summary": "中新社北京9月20日电 综合消息：19日至20日，多方回应美国与丹麦和格陵兰岛达成协议，认为其尊重了丹麦主权和领土完整…",
+      "publishedAt": "2026-09-20T07:10:16.000Z",
+      "category": "政治",
+      "topic": "美国",
+      "source": "中国新闻网",
+      "sourceId": "us-politics",
+      "number": 40
+    },
+    {
+      "title": "伊朗称已向美国传达七项谈判条件",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-20/10699884.shtml",
+      "summary": "中新社北京9月20日电 德黑兰消息：伊朗最高国家安全委员会秘书穆赫辛·雷扎伊当地时间19日晚说，伊朗已将开启谈判的七项…",
+      "publishedAt": "2026-09-20T05:47:47.000Z",
+      "category": "政治",
+      "topic": "美国",
+      "source": "中国新闻网",
+      "sourceId": "us-politics",
+      "number": 41
+    },
+    {
+      "title": "美国国务院发布安全提醒 称中东地区局势可能升级",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-20/10699750.shtml",
+      "summary": "中新网9月20日电 由于中东局势紧张，当地时间19日，美国国务院发布安全提醒，建议身处中东地区的美国公民保持高度警惕，…",
+      "publishedAt": "2026-09-19T23:14:12.000Z",
+      "category": "政治",
+      "topic": "美国",
+      "source": "中国新闻网",
+      "sourceId": "us-politics",
+      "number": 42
+    },
+    {
+      "title": "特朗普：将组建一支“人工智能部队” 并任命一名负责人",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-20/10699748.shtml",
+      "summary": "中新网9月20日电 据美国有线电视新闻网(CNN)等外媒报道，当地时间19日，美国总统特朗普在社交媒体发文称，他计划组…",
+      "publishedAt": "2026-09-19T22:44:56.000Z",
+      "category": "政治",
+      "topic": "美国",
+      "source": "中国新闻网",
+      "sourceId": "us-politics",
+      "number": 43
+    },
+    {
+      "title": "习近平总书记关切事｜以文化自觉，守护城市根脉",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-20/10700397.shtml",
+      "summary": "城市更新既是民生工程，也是发展工程、文化工程。",
+      "publishedAt": "2026-09-20T13:58:42.000Z",
+      "category": "政治",
+      "topic": "中国",
+      "source": "中国新闻网",
+      "sourceId": "cn-politics",
+      "number": 44
+    },
+    {
+      "title": "新时代中俄青年对话举办 助力两国青年交流走深走实",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-20/10700398.shtml",
+      "summary": "中新网北京9月20日电 (记者 李京泽)新时代中俄青年对话近日在北京举办。中俄学者齐聚一堂，共探新时代两国青年使命担当…",
+      "publishedAt": "2026-09-20T13:37:30.000Z",
+      "category": "政治",
+      "topic": "中国",
+      "source": "中国新闻网",
+      "sourceId": "cn-politics",
+      "number": 45
+    },
+    {
+      "title": "文化和旅游部印发《公共文化服务体系建设“十五五”规划》",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-20/10700371.shtml",
+      "summary": "为深入贯彻党的二十届四中全会精神，落实《中华人民共和国国民经济和社会发展第十五个五年规划纲要》《文化和旅游发展“十五五…",
+      "publishedAt": "2026-09-20T12:06:51.000Z",
+      "category": "政治",
+      "topic": "中国",
+      "source": "中国新闻网",
+      "sourceId": "cn-politics",
+      "number": 46
+    },
+    {
+      "title": "李鸿忠在辽宁调研时强调 深入学习贯彻习近平法治思想 以良法促进发展保障善治",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-20/10700342.shtml",
+      "summary": "新华社沈阳9月20日电 中共中央政治局委员、全国人大常委会副委员长李鸿忠9月17日至20日在辽宁调研。他强调，要坚持以…",
+      "publishedAt": "2026-09-20T11:36:31.000Z",
+      "category": "政治",
+      "topic": "中国",
+      "source": "中国新闻网",
+      "sourceId": "cn-politics",
+      "number": 47
+    },
+    {
+      "title": "中共中央办公厅 国务院办公厅印发《关于分类推进高校改革的意见》",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-20/10700232.shtml",
+      "summary": "新华社北京9月20日电 近日，中共中央办公厅、国务院办公厅印发《关于分类推进高校改革的意见》(以下简称《意见》)，对分…",
+      "publishedAt": "2026-09-20T09:33:49.000Z",
+      "category": "政治",
+      "topic": "中国",
+      "source": "中国新闻网",
+      "sourceId": "cn-politics",
+      "number": 48
+    },
+    {
+      "title": "湖北省人大教育科学文化卫生委员会原主任委员郭忠被开除党籍",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-20/10700210.shtml",
+      "summary": "中新网9月20日电 据湖北省纪委监委消息：经湖北省委批准，湖北省纪委监委对湖北省人大教育科学文化卫生委员会原主任委员郭…",
+      "publishedAt": "2026-09-20T08:59:01.000Z",
+      "category": "政治",
+      "topic": "中国",
+      "source": "中国新闻网",
+      "sourceId": "cn-politics",
+      "number": 49
+    },
+    {
+      "category": "AI",
+      "topic": "行业动态",
+      "title": "Anthropic 计划将 IPO 推迟至 11 月，估值约 2 万亿美元",
+      "summary": "据《华尔街日报》报道，Anthropic 计划将 IPO 推迟至 11 月，晚于投资者预期的 10 月，以留出时间展示…",
+      "source": "IT之家（RSS）",
+      "url": "https://www.ithome.com/1/004/369.htm",
+      "publishedAt": "2026-09-20T00:00:12.187Z",
+      "reportDate": "2026-09-20",
+      "timeLabel": "日报生成",
+      "sourceId": "aihot",
+      "number": 50
+    },
+    {
+      "category": "AI",
+      "topic": "技巧与观点",
+      "title": "Alexandr Wang 转发一份让 AI 智能体保护日历通勤时间的 Muse 提示词",
+      "summary": "Alexandr Wang 转发 @trevin 分享的 Muse 提示词，该提示词也可用于 Instinct 和 G…",
+      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+      "url": "https://x.com/alexandr_wang/status/2101141362607632873",
+      "publishedAt": "2026-09-20T00:00:12.187Z",
+      "reportDate": "2026-09-20",
+      "timeLabel": "日报生成",
+      "sourceId": "aihot",
+      "number": 51
+    }
+  ]
+}

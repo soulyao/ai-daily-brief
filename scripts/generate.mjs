@@ -65,6 +65,7 @@ const formatWindowTime = (iso) => {
 
 async function getJson(url) {
   const response = await fetch(url, {
+    signal: AbortSignal.timeout(18000),
     headers: { "User-Agent": USER_AGENT, Accept: "application/json" },
   });
   if (!response.ok) {
@@ -169,7 +170,7 @@ const report = payload.report;
 if (!report?.date || !Array.isArray(report.sections)) throw new Error("Unexpected AI HOT daily response");
 
 const dailyHtml = buildDailyHtml(report, fallback, { liveRefresh: true });
-await writeFile(path.join(SITE_DIR, "index.html"), dailyHtml, "utf8");
+await writeFile(path.join(SITE_DIR, "ai.html"), dailyHtml.replace('<h1>AI 晨报</h1>', '<h1>AI 晨报</h1><p><a href="./" style="color:inherit">← 返回综合简报</a></p>'), "utf8");
 await writeFile(path.join(ARCHIVE_DIR, `${report.date}.html`), buildDailyHtml(report, fallback, { liveRefresh: false }).replaceAll('href="archive/"', 'href="./"'), "utf8");
 
 const archiveFiles = await readdir(ARCHIVE_DIR);
