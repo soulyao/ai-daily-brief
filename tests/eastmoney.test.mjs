@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { parseEastmoneyLinks, parseEastmoneyArticle, eastmoneyTopic, collectEastmoney } from '../scripts/eastmoney.mjs';
+import { parseEastmoneyLinks, parseEastmoneyArticle, eastmoneyTopic, collectEastmoney, parseEastmoneyFeed } from '../scripts/eastmoney.mjs';
 import { financeKind, selectItems } from '../scripts/news-core.mjs';
 const now = Date.parse('2026-09-20T22:00:00+08:00');
 const url = 'https://finance.eastmoney.com/a/202609203879283870.html';
@@ -46,4 +46,10 @@ test('requested finance source remains visible while final ordering stays chrono
   assert.equal(selected.length,6); assert.equal(selected.filter(x=>x.sourceId.startsWith('eastmoney')).length,2);
   assert.ok(selected.every((x,i)=>!i || Date.parse(selected[i-1].publishedAt)>=Date.parse(x.publishedAt)));
   assert.deepEqual(selected.map(x=>x.number),[1,2,3,4,5,6]);
+});
+test('official futures list produces verified article links and rejects invalid responses', () => {
+  const data = {code:'1',data:{list:[{code:'202609203879326876',title:'双焦期货价格下跌',showTime:'2026-09-20 13:01:00',np_dst:'CMS'},{code:'202609203879326877',title:'双焦期货观点',showTime:'2026-09-20 13:01:00',np_dst:'CFH'}]}};
+  const rows = parseEastmoneyFeed(data,'中国期货',now);
+  assert.equal(rows.length,1); assert.equal(rows[0].url,'https://finance.eastmoney.com/a/202609203879326876.html');
+  assert.throws(()=>parseEastmoneyFeed({code:'0',data:null},'中国期货',now));
 });

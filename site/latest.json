@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-09-20T14:46:14.763Z",
+  "collectedAt": "2026-09-20T14:51:58.256Z",
   "topics": {
     "体育": [
       "NBA",
@@ -35,8 +35,8 @@
       "name": "网易体育（署名媒体）",
       "url": "https://sports.163.com/",
       "status": "ok",
-      "lastAttempt": "2026-09-20T14:46:14.763Z",
-      "lastSuccess": "2026-09-20T14:46:14.763Z",
+      "lastAttempt": "2026-09-20T14:51:58.256Z",
+      "lastSuccess": "2026-09-20T14:51:58.256Z",
       "items": [
         {
           "title": "沃格尔谈加盟勇士：在联盟中 他们最希望由我来调教防守",
@@ -72,6 +72,17 @@
           "number": 3
         },
         {
+          "title": "战黑猫斩获2射1传，塞门约加盟曼城后首次单场双响",
+          "url": "https://www.163.com/dy/article/L7A8KDOV0549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-09-20T14:41:40.000Z",
+          "category": "体育",
+          "topic": "英超",
+          "sourceId": "sports",
+          "summary": "英超第5轮，曼城主场面对桑德兰，塞门约完成2射1传，加盟曼城以来首次单场攻入两球。",
+          "number": 4
+        },
+        {
           "title": "三破曼城，布罗比是第四位对阵英超领头羊戴帽的球员",
           "url": "https://www.163.com/dy/article/L7A8KDNE0549BAP0.html",
           "source": "懂球帝 · 网易体育",
@@ -80,7 +91,7 @@
           "topic": "英超",
           "sourceId": "sports",
           "summary": "英超第5轮，桑德兰客场对阵曼城，桑德兰前锋布罗比上演帽子戏法，成为第四位在英超对阵联赛领头羊上演帽子戏法的球员。",
-          "number": 4
+          "number": 5
         },
         {
           "title": "有望迎来红魔首秀，巴莱巴首次进入曼联比赛大名单",
@@ -91,17 +102,6 @@
           "topic": "英超",
           "sourceId": "sports",
           "summary": "英超第5轮，曼联客场对阵富勒姆，曼联夏窗新援巴莱巴首次进入比赛大名单，有望迎来曼联生涯首秀。",
-          "number": 5
-        },
-        {
-          "title": "战曼城上演帽子戏法，布罗比是2020年9月瓦尔迪后首人",
-          "url": "https://www.163.com/dy/article/L7A8KDN20549BAP0.html",
-          "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-09-20T14:41:40.000Z",
-          "category": "体育",
-          "topic": "英超",
-          "sourceId": "sports",
-          "summary": "英超联赛第5轮，曼城vs桑德兰，桑德兰队的荷兰前锋布罗比上演了帽子戏法。",
           "number": 6
         },
         {
@@ -243,8 +243,8 @@
       "name": "东方财富 · 美股",
       "url": "https://stock.eastmoney.com/america.html",
       "status": "ok",
-      "lastAttempt": "2026-09-20T14:46:14.763Z",
-      "lastSuccess": "2026-09-20T14:46:14.763Z",
+      "lastAttempt": "2026-09-20T14:51:58.256Z",
+      "lastSuccess": "2026-09-20T14:51:58.256Z",
       "items": [
         {
           "category": "金融",
@@ -341,8 +341,8 @@
       "name": "东方财富 · A股",
       "url": "https://stock.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-09-20T14:46:14.763Z",
-      "lastSuccess": "2026-09-20T14:46:14.763Z",
+      "lastAttempt": "2026-09-20T14:51:58.256Z",
+      "lastSuccess": "2026-09-20T14:51:58.256Z",
       "items": [
         {
           "category": "金融",
@@ -479,6 +479,17 @@
         {
           "category": "金融",
           "topic": "A股",
+          "title": "教材教辅收入为何下降近6亿？连续破净下如何提升市值？长江传媒业绩会解疑",
+          "summary": "日前，长江传媒（600757）在线举办2026年半年度业绩说明会，公司就投资者关心的业绩、股价、营收、并购、业务拓展等…",
+          "url": "https://finance.eastmoney.com/a/202609203879462641.html",
+          "publishedAt": "2026-09-20T14:41:00.000Z",
+          "source": "东方财富 · 深圳商报·读创",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
           "title": "长鑫科技官宣第五代技术平台实现量产",
           "summary": "作为国产内存龙头，长鑫科技9月20日在世界制造业大会上宣布重大突破，第五代DRAM技术平台（简称“G5平台”）实现量产…",
           "url": "https://finance.eastmoney.com/a/202609203879460132.html",
@@ -508,17 +519,6 @@
           "source": "东方财富 · 东方财富研究中心",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "逾百家机构调研半导体大牛股！多只千亿市值科技股被盯上",
-          "summary": "近一周（9月12日至18日）机构调研个股有130多只，安克创新调研机构数最多。",
-          "url": "https://finance.eastmoney.com/a/202609203879276658.html",
-          "publishedAt": "2026-09-19T23:34:00.000Z",
-          "source": "东方财富 · 数据宝",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
         }
       ]
     },
@@ -526,21 +526,10 @@
       "id": "eastmoney-futures",
       "name": "东方财富 · 中国期货",
       "url": "https://futures.eastmoney.com/",
-      "status": "error",
-      "lastAttempt": "2026-09-20T14:46:14.763Z",
-      "lastSuccess": "2026-09-20T14:45:28.982Z",
+      "status": "ok",
+      "lastAttempt": "2026-09-20T14:51:58.256Z",
+      "lastSuccess": "2026-09-20T14:51:58.256Z",
       "items": [
-        {
-          "category": "金融",
-          "topic": "中国期货",
-          "title": "大跌之后 双焦后市怎么“走”？",
-          "summary": "本周，双焦期价持续走弱。其中，焦煤2701合约价格9月18日收跌7.78%，焦炭2701合约价格9月18日收跌5.45…",
-          "url": "https://finance.eastmoney.com/a/202609203879326876.html",
-          "publishedAt": "2026-09-20T05:01:00.000Z",
-          "source": "东方财富 · 期货日报",
-          "kind": "观点",
-          "sourceId": "eastmoney-futures"
-        },
         {
           "category": "金融",
           "topic": "中国期货",
@@ -555,33 +544,22 @@
         {
           "category": "金融",
           "topic": "中国期货",
+          "title": "大跌之后 双焦后市怎么“走”？",
+          "summary": "本周，双焦期价持续走弱。其中，焦煤2701合约价格9月18日收跌7.78%，焦炭2701合约价格9月18日收跌5.45…",
+          "url": "https://finance.eastmoney.com/a/202609203879326876.html",
+          "publishedAt": "2026-09-20T05:01:00.000Z",
+          "source": "东方财富 · 期货日报",
+          "kind": "观点",
+          "sourceId": "eastmoney-futures"
+        },
+        {
+          "category": "金融",
+          "topic": "中国期货",
           "title": "宁德时代枧下窝锂矿采矿项目重启环评审批程序",
           "summary": "作为全球规模排名前列的单体锂云母矿，宁德时代旗下江西宜春枧下窝锂矿的复产进程一直被视作碳酸锂供给端的重要变量。",
           "url": "https://finance.eastmoney.com/a/202609203879311215.html",
           "publishedAt": "2026-09-20T04:18:00.000Z",
           "source": "东方财富 · 上海证券报",
-          "kind": "报道",
-          "sourceId": "eastmoney-futures"
-        },
-        {
-          "category": "金融",
-          "topic": "中国期货",
-          "title": "黑海葵粕出口扰动 菜粕价格大幅走强",
-          "summary": "近日，菜粕期货价格领涨油脂油料板块。与此同时，东莞双低菜粕现货价格上调50元／吨，至2470元／吨。",
-          "url": "https://finance.eastmoney.com/a/202609183877978836.html",
-          "publishedAt": "2026-09-18T00:55:00.000Z",
-          "source": "东方财富 · 期货日报",
-          "kind": "报道",
-          "sourceId": "eastmoney-futures"
-        },
-        {
-          "category": "金融",
-          "topic": "中国期货",
-          "title": "关于调整碳酸锂期货相关合约交易指令每次最小开仓下单数量、交易手续费标准及交易限额的通知",
-          "summary": "经研究决定，对碳酸锂期货相关合约的交易指令每次最小开仓下单数量、交易手续费标准及交易限额作如下调整：",
-          "url": "https://finance.eastmoney.com/a/202609183878647876.html",
-          "publishedAt": "2026-09-18T08:54:00.000Z",
-          "source": "东方财富 · 广州期货交易所",
           "kind": "报道",
           "sourceId": "eastmoney-futures"
         }
@@ -591,9 +569,9 @@
       "id": "eastmoney-macro",
       "name": "东方财富 · 宏观财经",
       "url": "https://finance.eastmoney.com/",
-      "status": "error",
-      "lastAttempt": "2026-09-20T14:46:14.763Z",
-      "lastSuccess": "2026-09-20T14:45:28.982Z",
+      "status": "ok",
+      "lastAttempt": "2026-09-20T14:51:58.256Z",
+      "lastSuccess": "2026-09-20T14:51:58.256Z",
       "items": [
         {
           "category": "金融",
@@ -631,17 +609,6 @@
         {
           "category": "金融",
           "topic": "宏观财经",
-          "title": "全球三大央行同步紧缩 能源冲击重塑货币政策路径",
-          "summary": "9月中旬，全球四大主要央行相继公布最新货币政策决议。面对中东地缘冲突引发的能源价格飙升及顽固的通胀压力，各国央行虽均表…",
-          "url": "https://finance.eastmoney.com/a/202609203879281250.html",
-          "publishedAt": "2026-09-20T00:38:00.000Z",
-          "source": "东方财富 · 新华财经",
-          "kind": "报道",
-          "sourceId": "eastmoney-macro"
-        },
-        {
-          "category": "金融",
-          "topic": "宏观财经",
           "title": "8月份全社会用电量再破万亿 负荷创历史新高",
           "summary": "2026年8月，全社会用电量再破万亿，达到10332亿千瓦时，同比增长1.7%；用电负荷创历史新高达到15.6亿千瓦，…",
           "url": "https://finance.eastmoney.com/a/202609203879300664.html",
@@ -664,23 +631,23 @@
         {
           "category": "金融",
           "topic": "宏观财经",
-          "title": "马斯克预言：AI将使明年美国GDP增速翻番达到4%",
-          "summary": "马斯克预言，人工智能（AI）将大幅加速美国经济增长，他认为人工智能明年可能会使美国经济增长率从大约2%翻一番，达到4%…",
-          "url": "https://finance.eastmoney.com/a/202609203879440831.html",
-          "publishedAt": "2026-09-20T13:06:00.000Z",
-          "source": "东方财富 · 财联社",
-          "kind": "观点",
-          "sourceId": "eastmoney-macro"
-        },
-        {
-          "category": "金融",
-          "topic": "宏观财经",
           "title": "美联储进入加息周期 对贵金属影响几何？",
           "summary": "本周，金银价格先抑后扬，走出一波震荡修复行情，美联储加息成为市场关注的焦点。",
           "url": "https://finance.eastmoney.com/a/202609203879289231.html",
           "publishedAt": "2026-09-20T01:32:00.000Z",
           "source": "东方财富 · 期货日报",
           "kind": "观点",
+          "sourceId": "eastmoney-macro"
+        },
+        {
+          "category": "金融",
+          "topic": "宏观财经",
+          "title": "全球三大央行同步紧缩 能源冲击重塑货币政策路径",
+          "summary": "9月中旬，全球四大主要央行相继公布最新货币政策决议。面对中东地缘冲突引发的能源价格飙升及顽固的通胀压力，各国央行虽均表…",
+          "url": "https://finance.eastmoney.com/a/202609203879281250.html",
+          "publishedAt": "2026-09-20T00:38:00.000Z",
+          "source": "东方财富 · 新华财经",
+          "kind": "报道",
           "sourceId": "eastmoney-macro"
         },
         {
@@ -693,61 +660,6 @@
           "source": "东方财富 · 中国证券报",
           "kind": "报道",
           "sourceId": "eastmoney-macro"
-        },
-        {
-          "category": "金融",
-          "topic": "宏观财经",
-          "title": "人民币升破6.70！薅4%美元定存利率羊毛的人被汇率上了一课：本金亏了",
-          "summary": "人民币汇率创近三年新高，利率最高达4%的美元定期还能存吗？",
-          "url": "https://finance.eastmoney.com/a/202609193879212234.html",
-          "publishedAt": "2026-09-19T06:27:00.000Z",
-          "source": "东方财富 · 时代周报",
-          "kind": "报道",
-          "sourceId": "eastmoney-macro"
-        },
-        {
-          "category": "金融",
-          "topic": "宏观财经",
-          "title": "时隔三年多 美联储首次加息 是“开始”还是“结束”？",
-          "summary": "北京时间9月17日凌晨，美联储加息如期落地，这是一次结果无意外、措辞有信息量的加息，也是美联储2023年7月以来首次加…",
-          "url": "https://finance.eastmoney.com/a/202609193879157364.html",
-          "publishedAt": "2026-09-19T01:03:00.000Z",
-          "source": "东方财富 · 期货日报",
-          "kind": "报道",
-          "sourceId": "eastmoney-macro"
-        },
-        {
-          "category": "金融",
-          "topic": "宏观财经",
-          "title": "配置需求支撑 海外加息未改中国债市独立走势",
-          "summary": "海外加息未改我国债市相对独立的走势。9月18日，国内30年期、10年期和5年期国债期货主力合约悉数上涨，30年期品种领…",
-          "url": "https://finance.eastmoney.com/a/202609193878959988.html",
-          "publishedAt": "2026-09-18T23:31:00.000Z",
-          "source": "东方财富 · 上海证券报",
-          "kind": "报道",
-          "sourceId": "eastmoney-macro"
-        },
-        {
-          "category": "金融",
-          "topic": "宏观财经",
-          "title": "加息落地 不跌反涨！午后 金银价格 直线拉升",
-          "summary": "截至发稿，伦敦金上涨1.17%，报4392.27美元/盎司；伦敦银上涨2.29%，报66.69美元/盎司。",
-          "url": "https://finance.eastmoney.com/a/202609183878581463.html",
-          "publishedAt": "2026-09-18T07:20:00.000Z",
-          "source": "东方财富 · 期货日报",
-          "kind": "报道",
-          "sourceId": "eastmoney-macro"
-        },
-        {
-          "category": "金融",
-          "topic": "宏观财经",
-          "title": "瑞银：油价上涨和美联储加息使得中国股票在区域中更具吸引力",
-          "summary": "9月18日，瑞银中国股票策略研究主管王宗豪表示，从历史经验看，美联储加息对中国股票市场的影响并不一致。中国股市的总体表…",
-          "url": "https://finance.eastmoney.com/a/202609183878471182.html",
-          "publishedAt": "2026-09-18T05:06:00.000Z",
-          "source": "东方财富 · 上海证券报·中国证券网",
-          "kind": "观点",
-          "sourceId": "eastmoney-macro"
         }
       ]
     },
@@ -756,8 +668,8 @@
       "name": "新浪财经 · 美股",
       "url": "https://finance.sina.com.cn/stock/usstock/",
       "status": "ok",
-      "lastAttempt": "2026-09-20T14:46:14.763Z",
-      "lastSuccess": "2026-09-20T14:46:14.763Z",
+      "lastAttempt": "2026-09-20T14:51:58.256Z",
+      "lastSuccess": "2026-09-20T14:51:58.256Z",
       "items": [
         {
           "title": "报道：诺和诺德股东称公司需通过收购拓展业务",
@@ -909,8 +821,8 @@
       "name": "新浪财经 · A股",
       "url": "https://finance.sina.com.cn/stock/",
       "status": "ok",
-      "lastAttempt": "2026-09-20T14:46:14.763Z",
-      "lastSuccess": "2026-09-20T14:46:14.763Z",
+      "lastAttempt": "2026-09-20T14:51:58.256Z",
+      "lastSuccess": "2026-09-20T14:51:58.256Z",
       "items": [
         {
           "title": "日赚2.4亿，车企利润不及“宁王”的零头！“去宁化”走到哪一步了？",
@@ -1029,8 +941,8 @@
       "name": "新浪财经 · 期货订阅 1",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-09-20T14:46:14.763Z",
-      "lastSuccess": "2026-09-20T14:46:14.763Z",
+      "lastAttempt": "2026-09-20T14:51:58.256Z",
+      "lastSuccess": "2026-09-20T14:51:58.256Z",
       "items": []
     },
     {
@@ -1038,8 +950,8 @@
       "name": "新浪财经 · 期货订阅 2",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-09-20T14:46:14.763Z",
-      "lastSuccess": "2026-09-20T14:46:14.763Z",
+      "lastAttempt": "2026-09-20T14:51:58.256Z",
+      "lastSuccess": "2026-09-20T14:51:58.256Z",
       "items": []
     },
     {
@@ -1047,8 +959,8 @@
       "name": "新浪财经 · 期货订阅 3",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-09-20T14:46:14.763Z",
-      "lastSuccess": "2026-09-20T14:46:14.763Z",
+      "lastAttempt": "2026-09-20T14:51:58.256Z",
+      "lastSuccess": "2026-09-20T14:51:58.256Z",
       "items": [
         {
           "title": "钢材：成本支撑松动，延续承压回调态势2026.9.19",
@@ -1134,8 +1046,8 @@
       "name": "中新网 · 国际",
       "url": "https://www.chinanews.com.cn/rss/world.xml",
       "status": "ok",
-      "lastAttempt": "2026-09-20T14:46:14.763Z",
-      "lastSuccess": "2026-09-20T14:46:14.763Z",
+      "lastAttempt": "2026-09-20T14:51:58.256Z",
+      "lastSuccess": "2026-09-20T14:51:58.256Z",
       "items": [
         {
           "title": "伊朗军方称获悉美国计划恢复对伊打击：美军若借中东基地出手，相关国家将被视为“共犯”",
@@ -1244,8 +1156,8 @@
       "name": "中新网 · 国内",
       "url": "https://www.chinanews.com.cn/rss/china.xml",
       "status": "ok",
-      "lastAttempt": "2026-09-20T14:46:14.763Z",
-      "lastSuccess": "2026-09-20T14:46:14.763Z",
+      "lastAttempt": "2026-09-20T14:51:58.256Z",
+      "lastSuccess": "2026-09-20T14:51:58.256Z",
       "items": [
         {
           "title": "重庆市政协经济委原副主任阮路被“双开”",
@@ -1324,8 +1236,8 @@
       "name": "AI HOT",
       "url": "https://aihot.news/",
       "status": "ok",
-      "lastAttempt": "2026-09-20T14:46:14.763Z",
-      "lastSuccess": "2026-09-20T14:46:14.763Z",
+      "lastAttempt": "2026-09-20T14:51:58.256Z",
+      "lastSuccess": "2026-09-20T14:51:58.256Z",
       "items": [
         {
           "category": "AI",
@@ -1389,6 +1301,17 @@
       "number": 3
     },
     {
+      "title": "战黑猫斩获2射1传，塞门约加盟曼城后首次单场双响",
+      "url": "https://www.163.com/dy/article/L7A8KDOV0549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-09-20T14:41:40.000Z",
+      "category": "体育",
+      "topic": "英超",
+      "sourceId": "sports",
+      "summary": "英超第5轮，曼城主场面对桑德兰，塞门约完成2射1传，加盟曼城以来首次单场攻入两球。",
+      "number": 4
+    },
+    {
       "title": "三破曼城，布罗比是第四位对阵英超领头羊戴帽的球员",
       "url": "https://www.163.com/dy/article/L7A8KDNE0549BAP0.html",
       "source": "懂球帝 · 网易体育",
@@ -1397,7 +1320,7 @@
       "topic": "英超",
       "sourceId": "sports",
       "summary": "英超第5轮，桑德兰客场对阵曼城，桑德兰前锋布罗比上演帽子戏法，成为第四位在英超对阵联赛领头羊上演帽子戏法的球员。",
-      "number": 4
+      "number": 5
     },
     {
       "title": "有望迎来红魔首秀，巴莱巴首次进入曼联比赛大名单",
@@ -1408,17 +1331,6 @@
       "topic": "英超",
       "sourceId": "sports",
       "summary": "英超第5轮，曼联客场对阵富勒姆，曼联夏窗新援巴莱巴首次进入比赛大名单，有望迎来曼联生涯首秀。",
-      "number": 5
-    },
-    {
-      "title": "战曼城上演帽子戏法，布罗比是2020年9月瓦尔迪后首人",
-      "url": "https://www.163.com/dy/article/L7A8KDN20549BAP0.html",
-      "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-09-20T14:41:40.000Z",
-      "category": "体育",
-      "topic": "英超",
-      "sourceId": "sports",
-      "summary": "英超联赛第5轮，曼城vs桑德兰，桑德兰队的荷兰前锋布罗比上演了帽子戏法。",
       "number": 6
     },
     {
@@ -1628,6 +1540,18 @@
     {
       "category": "金融",
       "topic": "A股",
+      "title": "教材教辅收入为何下降近6亿？连续破净下如何提升市值？长江传媒业绩会解疑",
+      "summary": "日前，长江传媒（600757）在线举办2026年半年度业绩说明会，公司就投资者关心的业绩、股价、营收、并购、业务拓展等…",
+      "url": "https://finance.eastmoney.com/a/202609203879462641.html",
+      "publishedAt": "2026-09-20T14:41:00.000Z",
+      "source": "东方财富 · 深圳商报·读创",
+      "kind": "报道",
+      "sourceId": "eastmoney-cn-stock",
+      "number": 25
+    },
+    {
+      "category": "金融",
+      "topic": "A股",
       "title": "长鑫科技官宣第五代技术平台实现量产",
       "summary": "作为国产内存龙头，长鑫科技9月20日在世界制造业大会上宣布重大突破，第五代DRAM技术平台（简称“G5平台”）实现量产…",
       "url": "https://finance.eastmoney.com/a/202609203879460132.html",
@@ -1635,7 +1559,7 @@
       "source": "东方财富 · 证券时报网",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
-      "number": 25
+      "number": 26
     },
     {
       "category": "金融",
@@ -1647,7 +1571,7 @@
       "source": "东方财富 · 上海证券报·中国证券网",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
-      "number": 26
+      "number": 27
     },
     {
       "title": "日赚2.4亿，车企利润不及“宁王”的零头！“去宁化”走到哪一步了？",
@@ -1659,7 +1583,7 @@
       "topic": "A股",
       "sourceId": "cn-stock",
       "kind": "报道",
-      "number": 27
+      "number": 28
     },
     {
       "category": "金融",
@@ -1671,7 +1595,7 @@
       "source": "东方财富 · 每日经济新闻",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
-      "number": 28
+      "number": 29
     },
     {
       "title": "合计募资60.8亿元 两家硬科技公司同步扩产",
@@ -1679,18 +1603,6 @@
       "summary": "9月18日，格科微（688728）发布公告称，拟向特定对象发行股票，数量按照募集资金总额除以发行价格确定，且不超过本次…",
       "source": "中国财富 · 新浪财经",
       "publishedAt": "2026-09-20T12:47:59.000Z",
-      "category": "金融",
-      "topic": "A股",
-      "sourceId": "cn-stock",
-      "kind": "报道",
-      "number": 29
-    },
-    {
-      "title": "利润暴跌80%、现金大增87%，百大集团怎么了",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-20/doc-inisnwyu6426909.shtml",
-      "summary": "百大集团(SH600865)做的是杭州百货大楼委托经营，加上自持物业出租和收藏品市场的生意。今年上半年，公司营业收入0…",
-      "source": "新浪财经",
-      "publishedAt": "2026-09-20T12:47:51.000Z",
       "category": "金融",
       "topic": "A股",
       "sourceId": "cn-stock",
@@ -1772,18 +1684,6 @@
     {
       "category": "金融",
       "topic": "宏观财经",
-      "title": "马斯克预言：AI将使明年美国GDP增速翻番达到4%",
-      "summary": "马斯克预言，人工智能（AI）将大幅加速美国经济增长，他认为人工智能明年可能会使美国经济增长率从大约2%翻一番，达到4%…",
-      "url": "https://finance.eastmoney.com/a/202609203879440831.html",
-      "publishedAt": "2026-09-20T13:06:00.000Z",
-      "source": "东方财富 · 财联社",
-      "kind": "观点",
-      "sourceId": "eastmoney-macro",
-      "number": 37
-    },
-    {
-      "category": "金融",
-      "topic": "宏观财经",
       "title": "开源策略：加息落地 A股利多还是利空？",
       "summary": "本周（9.14-9.18），A股主要宽基指数全收涨，科创50、创业板指、深证成指和上证指数上涨6.39%、1.52%、…",
       "url": "https://finance.eastmoney.com/a/202609203879415837.html",
@@ -1791,7 +1691,7 @@
       "source": "东方财富 · 开源证券",
       "kind": "观点",
       "sourceId": "eastmoney-macro",
-      "number": 38
+      "number": 37
     },
     {
       "category": "金融",
@@ -1803,7 +1703,7 @@
       "source": "东方财富 · 券商中国",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
-      "number": 39
+      "number": 38
     },
     {
       "category": "金融",
@@ -1815,7 +1715,7 @@
       "source": "东方财富 · 国家能源局",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
-      "number": 40
+      "number": 39
     },
     {
       "category": "金融",
@@ -1827,7 +1727,7 @@
       "source": "东方财富 · 界面新闻",
       "kind": "观点",
       "sourceId": "eastmoney-macro",
-      "number": 41
+      "number": 40
     },
     {
       "category": "金融",
@@ -1838,6 +1738,18 @@
       "publishedAt": "2026-09-20T01:32:00.000Z",
       "source": "东方财富 · 期货日报",
       "kind": "观点",
+      "sourceId": "eastmoney-macro",
+      "number": 41
+    },
+    {
+      "category": "金融",
+      "topic": "宏观财经",
+      "title": "9月LPR不变：1年期3.0% 5年期以上3.5%",
+      "summary": "贷款市场报价利率（LPR）报价连续16个月不变。",
+      "url": "https://finance.eastmoney.com/a/202609203879283870.html",
+      "publishedAt": "2026-09-20T01:03:00.000Z",
+      "source": "东方财富 · 澎湃新闻",
+      "kind": "报道",
       "sourceId": "eastmoney-macro",
       "number": 42
     },

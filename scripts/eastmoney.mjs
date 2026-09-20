@@ -3,6 +3,12 @@ import { clean, safeUrl, recent, financeTopic, financeKind } from './news-core.m
 const articlePattern = /^https:\/\/(?:finance|stock|futures)\.eastmoney\.com\/a\/(\d{8})\d+\.html$/;
 const macro = /LPR|贷款市场报价利率|央行|降准|降息|加息|逆回购|货币政策|财政政策|经济数据|GDP|CPI|PPI|PMI|社融|社会融资|消费(?:者)?信心|失业率|非农|全社会用电|进出口|外贸|汇率|人民币(?:升|贬|汇)|存款利率|经济增长/i;
 const domesticCommodity = /SC原油|内外价差|双焦|焦煤|焦炭|碳酸锂|锂矿|沪金|沪银|沪铜|螺纹|豆粕|菜粕|PTA|纸浆|生猪|郑商所|大商所|上期所|中金所|广期所|商品期货|国内.*期货/i;
+// Column 765 and this endpoint are published in the site's cqhdd/newslistbefore.js page.
+export const futuresFeedUrl = trace => 'https://np-listapi.eastmoney.com/comm/web/getNewsByColumns?client=web&biz=web_news_col&column=765&order=1&needInteractData=0&page_index=1&page_size=20&req_trace=' + trace + '&fields=code,showTime,title,mediaName,summary,image,url,uniqueUrl,Np_dst&types=1,20';
+export function parseEastmoneyFeed(payload, preferred, now = Date.now()) {
+  if (String(payload.code) !== '1' || !Array.isArray(payload.data?.list)) throw new Error('Invalid Eastmoney news list');
+  return payload.data.list.filter(x => x.np_dst !== 'CFH' && /^\d{17,20}$/.test(String(x.code)) && eastmoneyTopic(x, preferred) && recent({ publishedAt: String(x.showTime).replace(' ', 'T') + '+08:00' }, now)).map(x => ({ title: clean(x.title), url: `https://finance.eastmoney.com/a/${x.code}.html`, preferred })).slice(0,16);
+}
 export function eastmoneyTopic(item, preferred) {
   const title = clean(item.title), text = title + ' ' + clean(item.summary);
   if (/索赔|维权|荐股|加群|广告|中签号|龙虎榜|热门.*收盘一览|造谣|裸奔|行拘/.test(title)) return null;
@@ -55,8 +61,13 @@ export function parseEastmoneyArticle(html, url, preferred, now = Date.now()) {
   return { category: '金融', topic, title, summary, url, publishedAt, source: `东方财富 · ${publisher}`, kind: financeKind({ title, summary }) };
 }
 export async function collectEastmoney(request, pageUrl, preferred) {
-  const pages = await Promise.all((Array.isArray(pageUrl) ? pageUrl : [pageUrl]).map(url => request(url)));
-  const links = parseEastmoneyLinks(pages.join('\n'), preferred);
+  const urls = Array.isArray(pageUrl) ? pageUrl : [pageUrl];
+  const pages = await Promise.allSettled(urls.map(async url => {
+    const text = await request(url);
+    return url.startsWith('https://np-listapi.eastmoney.com/') ? parseEastmoneyFeed(JSON.parse(text), preferred) : parseEastmoneyLinks(text, preferred);
+  }));
+  const links = [...new Map(pages.flatMap(result => result.status === 'fulfilled' ? result.value : []).map(x => [x.url,x])).values()].slice(0,16);
+  if (pages.some(result => result.status === 'rejected')) console.warn(`Eastmoney ${preferred}: an index was unavailable; using other successful indexes where available`);
   if (!links.length) throw new Error('No recent Eastmoney links found');
   const items = [], failures = [];
   // Limit article requests to four at once, preserving source-specific fallback on failure.
