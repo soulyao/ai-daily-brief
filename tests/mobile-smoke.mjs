@@ -47,6 +47,13 @@ try {
   assert.ok(await page.locator('.original').evaluateAll(links => links.every(x => x.target === '_blank' && x.rel.includes('noopener') && x.rel.includes('noreferrer'))));
   const text = await page.locator('body').innerText();
   assert.ok(!/\d{4}-\d\d-\d\dT\d\d:\d\d/.test(text), 'visible times must be human Beijing time');
+  await page.locator('#tabs [data-category="金融"]').click();
+  assert.equal(await page.locator('.opinion').count(), original.items.filter(x => x.category === '金融' && x.kind === '观点').length);
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.locator('#subnav [data-topic="宏观财经"]').click();
+  assert.ok(await page.locator('#subnav [data-topic="宏观财经"]').isVisible());
+  assert.ok((await page.locator('.source-chip').allTextContents()).some(x => x.includes('东方财富')));
+  await page.screenshot({ path: fileURLToPath(new URL('finance-macro.png', artifactDir)), fullPage: true });
   await page.locator('#tabs [data-category="体育"]').click();
   const count = await page.locator('.news-card').count();
   fail = true;

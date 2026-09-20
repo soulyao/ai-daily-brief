@@ -1,6 +1,7 @@
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { TOPICS, clean, normalize, selectItems, mergeSource, parseRss, sportTopic, financeTopic, recent } from './news-core.mjs';
 import { buildHomepage } from './news-page.mjs';
+import { collectEastmoney } from './eastmoney.mjs';
 
 const site = new URL('../site/', import.meta.url);
 const collectedAt = new Date().toISOString();
@@ -80,8 +81,19 @@ async function ai() {
   })));
 }
 
+const eastmoneyCache = new Map();
+const eastmoneyRequest = url => {
+  if (!eastmoneyCache.has(url)) eastmoneyCache.set(url, request(url));
+  return eastmoneyCache.get(url);
+};
 const sources = [
   { id: 'sports', name: '网易体育（署名媒体）', url: 'https://sports.163.com/', run: sports },
+  ...[
+    ['us-stock', '美股', 'https://stock.eastmoney.com/america.html'],
+    ['cn-stock', 'A股', 'https://stock.eastmoney.com/'],
+    ['futures', '中国期货', 'https://futures.eastmoney.com/'],
+    ['macro', '宏观财经', 'https://finance.eastmoney.com/'],
+  ].map(([id, topic, url]) => ({ id: 'eastmoney-' + id, name: '东方财富 · ' + topic, url, run: () => collectEastmoney(eastmoneyRequest, topic === 'A股' ? ['https://finance.eastmoney.com/', url] : topic === '宏观财经' ? [url, 'https://futures.eastmoney.com/'] : url, topic) })),
   { id: 'us-stock', name: '新浪财经 · 美股', url: 'https://finance.sina.com.cn/stock/usstock/', run: () => finance(2672, '美股') },
   { id: 'cn-stock', name: '新浪财经 · A股', url: 'https://finance.sina.com.cn/stock/', run: () => finance(2671, 'A股') },
   ...[1, 2, 3].map(page => ({ id: 'futures-' + page, name: '新浪财经 · 期货订阅 ' + page, url: 'https://finance.sina.com.cn/', run: () => finance(2516, '中国期货', page) })),

@@ -1,6 +1,6 @@
 export const TOPICS = {
   体育: ['NBA', '英超', '西甲', '德甲', '意甲', '法甲', '网球'],
-  金融: ['美股', 'A股', '中国期货'],
+  金融: ['美股', 'A股', '中国期货', '宏观财经'],
   政治: ['美国', '中国'],
   AI: ['模型发布/更新', '产品发布/更新', '行业动态', '论文研究', '技巧与观点'],
 };
@@ -52,7 +52,12 @@ export function normalize(item, sourceId, now = Date.now()) {
   const url = safeUrl(item.url), title = clean(item.title);
   if (!url || !title || !TOPICS[item.category]?.includes(item.topic) || excluded.test(title)) return null;
   if (!recent(item, now, item.category === 'AI' ? 14 : 3)) return null;
-  return { ...item, sourceId, url, title, source: clean(item.source), summary: shorten(item.summary || '该来源未提供摘要，可点开原文查看完整报道。'), publishedAt: new Date(item.publishedAt).toISOString() };
+  return { ...item, sourceId, url, title, source: clean(item.source), ...(item.category === '金融' ? { kind: financeKind(item) } : {}), summary: shorten(item.summary || '该来源未提供摘要，可点开原文查看完整报道。'), publishedAt: new Date(item.publishedAt).toISOString() };
+}
+export function financeKind(item) {
+  if (item.kind === '观点') return '观点';
+  const title = clean(item.title), lead = clean(item.summary || item.intro).slice(0,180);
+  return /策略[：:]|机构论市|研报|后市|展望|预测|预言|预计|看好|有望|需求料|影响几何|年内还会|^(?:高盛|瑞银|大摩|摩根士丹利|摩根大通)[：:]/.test(title) || /来源[：:]\s*\S*期货投研|核心观点[：:]|投资策略建议[：:]|核心逻辑及市场展望/.test(lead) ? '观点' : '报道';
 }
 export function selectItems(items, now = Date.now()) {
   const seenUrl = new Set(), seenTitle = new Set();
@@ -60,14 +65,21 @@ export function selectItems(items, now = Date.now()) {
   const result = [];
   for (const [category, topics] of Object.entries(TOPICS)) for (const topic of topics) {
     let count = 0;
-    for (const item of sorted.filter(x => x.category === category && x.topic === topic)) {
+    const candidates = sorted.filter(x => x.category === category && x.topic === topic);
+    // Keep the newly requested source visible even when another feed publishes more frequently.
+    const reserved = category === '金融' ? candidates.filter(x => x.sourceId?.startsWith('eastmoney-')).slice(0,2) : [];
+    const ordered = [...reserved, ...candidates.filter(x => !reserved.includes(x))];
+    const selected = [];
+    for (const item of ordered) {
       const key = clean(item.title).replace(/[\p{P}\p{Z}\p{S}]/gu, '').toLowerCase();
       const url = item.url.split(/[?#]/)[0];
       if (seenUrl.has(url) || seenTitle.has(key)) continue;
       if (count >= (category === 'AI' ? 12 : category === '体育' ? 3 : 6)) break;
       seenUrl.add(url); seenTitle.add(key); count++;
-      result.push({ ...normalize(item, item.sourceId, now), number: result.length + 1 });
+      selected.push(normalize(item, item.sourceId, now));
     }
+    selected.sort((a,b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt));
+    for (const item of selected) result.push({ ...item, number: result.length + 1 });
   }
   return result;
 }
