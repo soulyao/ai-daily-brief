@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-09-25T05:26:33.183Z",
+  "collectedAt": "2026-09-25T06:09:52.785Z",
   "topics": {
     "时事": [
       "百度热搜"
@@ -38,41 +38,17 @@
       "name": "百度热搜 · 时事",
       "url": "https://top.baidu.com/board?tab=realtime",
       "status": "ok",
-      "lastAttempt": "2026-09-25T05:26:33.183Z",
-      "lastSuccess": "2026-09-25T05:26:33.183Z",
+      "lastAttempt": "2026-09-25T06:09:52.785Z",
+      "lastSuccess": "2026-09-25T06:09:52.785Z",
       "items": [
         {
           "category": "时事",
           "topic": "百度热搜",
-          "title": "4.5米长虫从男子体内排出",
-          "summary": "近日，武汉市金银潭医院接诊患者小金。小金因长期食用生鱼片感染阔节裂头绦虫，经驱虫治疗后排出一条4.5米长成虫。此前，小…",
-          "url": "https://www.baidu.com/s?wd=4.5%E7%B1%B3%E9%95%BF%E8%99%AB%E4%BB%8E%E7%94%B7%E5%AD%90%E4%BD%93%E5%86%85%E6%8E%92%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news",
+          "title": "中美元首夫人听两国儿童唱《茉莉花》",
+          "summary": "近日，中国外交部发言人毛宁在社交媒体上分享画面，中美元首夫人欣赏了由中美两国儿童演唱的中国民歌《茉莉花》。彭丽媛笑着跟…",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%A4%AB%E4%BA%BA%E5%90%AC%E4%B8%A4%E5%9B%BD%E5%84%BF%E7%AB%A5%E5%94%B1%E3%80%8A%E8%8C%89%E8%8E%89%E8%8A%B1%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-09-25T05:26:33.183Z",
-          "timeLabel": "热搜采集",
-          "linkLabel": "查看相关新闻",
-          "sourceId": "baidu"
-        },
-        {
-          "category": "时事",
-          "topic": "百度热搜",
-          "title": "“中国天眼”发现脉冲星超1300颗",
-          "summary": "9月25日，“中国天眼”FAST迎来落成十周年。截至目前，FAST累计发现脉冲星超1300颗，超过同一时期国际其他望远…",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%E2%80%9D%E5%8F%91%E7%8E%B0%E8%84%89%E5%86%B2%E6%98%9F%E8%B6%851300%E9%A2%97&sa=fyb_news&rsv_dl=fyb_news",
-          "source": "百度热搜",
-          "publishedAt": "2026-09-25T05:26:33.183Z",
-          "timeLabel": "热搜采集",
-          "linkLabel": "查看相关新闻",
-          "sourceId": "baidu"
-        },
-        {
-          "category": "时事",
-          "topic": "百度热搜",
-          "title": "李嘉明还1万元游本昌直接捐了",
-          "summary": "近日，演员李嘉明哽咽追忆游本昌，称其像父亲般关心自己。此前他在北漂低谷期遇父亲生病无钱医治，游本昌第一时间拿出1万元现…",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%98%89%E6%98%8E%E8%BF%981%E4%B8%87%E5%85%83%E6%B8%B8%E6%9C%AC%E6%98%8C%E7%9B%B4%E6%8E%A5%E6%8D%90%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-          "source": "百度热搜",
-          "publishedAt": "2026-09-25T05:26:33.183Z",
+          "publishedAt": "2026-09-25T06:09:52.785Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -84,7 +60,7 @@
           "summary": "中秋前夕，云南宣威站安检仪频现宣威火腿月饼。起因是该非遗火腿月饼备受旅客青睐，许多人打包乘车带回家。为此，宣威站不仅在…",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E7%AB%99%E5%AE%89%E6%A3%80%E4%BB%AA%E6%89%AB%E5%88%B0%E5%A5%BD%E5%A4%9A%E2%80%9C%E5%B0%8F%E5%9C%86%E7%90%83%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-09-25T05:26:33.183Z",
+          "publishedAt": "2026-09-25T06:09:52.785Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -92,11 +68,23 @@
         {
           "category": "时事",
           "topic": "百度热搜",
-          "title": "女生未上班却有6份社保无法考编",
-          "summary": "9月24日，“硕士生因被偷缴社保无法考编”一事引发关注。应届毕业生小李从未到任何公司任职，但在报考某单位应届生岗位时，…",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%9C%AA%E4%B8%8A%E7%8F%AD%E5%8D%B4%E6%9C%896%E4%BB%BD%E7%A4%BE%E4%BF%9D%E6%97%A0%E6%B3%95%E8%80%83%E7%BC%96&sa=fyb_news&rsv_dl=fyb_news",
+          "title": "4.5米长虫从男子体内排出",
+          "summary": "近日，武汉市金银潭医院接诊患者小金。小金因长期食用生鱼片感染阔节裂头绦虫，经驱虫治疗后排出一条4.5米长成虫。此前，小…",
+          "url": "https://www.baidu.com/s?wd=4.5%E7%B1%B3%E9%95%BF%E8%99%AB%E4%BB%8E%E7%94%B7%E5%AD%90%E4%BD%93%E5%86%85%E6%8E%92%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-09-25T05:26:33.183Z",
+          "publishedAt": "2026-09-25T06:09:52.785Z",
+          "timeLabel": "热搜采集",
+          "linkLabel": "查看相关新闻",
+          "sourceId": "baidu"
+        },
+        {
+          "category": "时事",
+          "topic": "百度热搜",
+          "title": "李嘉明还1万元游本昌直接捐了",
+          "summary": "近日，演员李嘉明哽咽追忆游本昌，称其像父亲般关心自己。此前他在北漂低谷期遇父亲生病无钱医治，游本昌第一时间拿出1万元现…",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%98%89%E6%98%8E%E8%BF%981%E4%B8%87%E5%85%83%E6%B8%B8%E6%9C%AC%E6%98%8C%E7%9B%B4%E6%8E%A5%E6%8D%90%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+          "source": "百度热搜",
+          "publishedAt": "2026-09-25T06:09:52.785Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -108,7 +96,19 @@
           "summary": "近日，贵州省遵义市人社局决定，对贵州茅台医院护士陈佳佳不予认定工伤。此前，30岁的陈佳佳在工作岗位突发脑出血，抢救10…",
           "url": "https://www.baidu.com/s?wd=%E7%A6%BB%E5%BC%82%E5%A5%B3%E6%8A%A4%E5%A3%AB%E5%80%92%E5%9C%A8%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D%E7%95%99%E4%B8%8B8%E5%B2%81%E5%84%BF%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-09-25T05:26:33.183Z",
+          "publishedAt": "2026-09-25T06:09:52.785Z",
+          "timeLabel": "热搜采集",
+          "linkLabel": "查看相关新闻",
+          "sourceId": "baidu"
+        },
+        {
+          "category": "时事",
+          "topic": "百度热搜",
+          "title": "陈龙遗憾错过见游本昌最后一面",
+          "summary": "9月24日凌晨，游本昌在北京逝世，享年93岁。演员陈龙称，此前自己本想看望游本昌老师，但因为一些事情错过，遗憾没能见到…",
+          "url": "https://www.baidu.com/s?wd=%E9%99%88%E9%BE%99%E9%81%97%E6%86%BE%E9%94%99%E8%BF%87%E8%A7%81%E6%B8%B8%E6%9C%AC%E6%98%8C%E6%9C%80%E5%90%8E%E4%B8%80%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news",
+          "source": "百度热搜",
+          "publishedAt": "2026-09-25T06:09:52.785Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -120,8 +120,8 @@
       "name": "网易体育（署名媒体）",
       "url": "https://sports.163.com/",
       "status": "ok",
-      "lastAttempt": "2026-09-25T05:26:33.183Z",
-      "lastSuccess": "2026-09-25T05:26:33.183Z",
+      "lastAttempt": "2026-09-25T06:09:52.785Z",
+      "lastSuccess": "2026-09-25T06:09:52.785Z",
       "items": [
         {
           "title": "NBA传奇球星&首位常规赛MVP鲍勃-佩蒂特去世，享年93岁",
@@ -245,17 +245,6 @@
           "number": 11
         },
         {
-          "title": "德媒：拜仁荣誉主席赫内斯在邻里纠纷中胜诉",
-          "url": "https://www.163.com/dy/article/L7KIMTN00549BAP0.html",
-          "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-09-24T14:50:12.000Z",
-          "category": "体育",
-          "topic": "德甲",
-          "sourceId": "sports",
-          "summary": "据德国媒体Sport1报道，拜仁荣誉主席乌利-赫内斯在一场涉及两棵树的邻里纠纷中胜诉。",
-          "number": 12
-        },
-        {
           "title": "那不勒斯旧将：霍伊伦需要德布劳内踢得更靠近",
           "url": "https://www.163.com/dy/article/L7LG29RO0549BAP0.html",
           "source": "懂球帝 · 网易体育",
@@ -264,7 +253,7 @@
           "topic": "意甲",
           "sourceId": "sports",
           "summary": "那不勒斯旧将马尔科林认为，霍伊伦需要德布劳内更靠近自己的位置。",
-          "number": 13
+          "number": 12
         },
         {
           "title": "德转统计意甲国脚人数：科莫15人居首，国米12人",
@@ -275,7 +264,7 @@
           "topic": "意甲",
           "sourceId": "sports",
           "summary": "德转统计意甲国脚人数：科莫15人居首，米兰14人第二，国米12人。",
-          "number": 14
+          "number": 13
         },
         {
           "title": "米体：米兰和尤文图斯可能成为B费明年夏天的潜在接洽对象",
@@ -286,7 +275,7 @@
           "topic": "意甲",
           "sourceId": "sports",
           "summary": "据《米兰体育报》和记者马尔科-圭迪报道，B费未来未定，米兰和尤文曾在去年夏天被其经纪团队接触。",
-          "number": 15
+          "number": 14
         },
         {
           "title": "法甲联赛总身价上涨2.71亿欧，摩纳哥上涨6300万欧最多",
@@ -297,7 +286,7 @@
           "topic": "法甲",
           "sourceId": "sports",
           "summary": "德国转会市场更新了最新一期法甲联赛的身价，18支球队身价均上涨，全联赛身价上涨2.71亿欧，其中摩纳哥上涨6300万欧…",
-          "number": 16
+          "number": 15
         },
         {
           "title": "中国网球公开赛期间，国家速滑馆北路将临时交通管制",
@@ -308,7 +297,7 @@
           "topic": "网球",
           "sourceId": "sports",
           "summary": "新京报讯 据“北京朝阳”微信公众号消息，9月24日，北京奥林匹克中心区管理委员会发布通告称，为保障2026年中国网球公…",
-          "number": 17
+          "number": 16
         },
         {
           "title": "渣叔：要是接下来五百场都踢平，我恐怕只能回去打板式网球了",
@@ -319,7 +308,7 @@
           "topic": "网球",
           "sourceId": "sports",
           "summary": "欧国联小组赛首轮，克洛普执教德国队的首场比赛以客场1-1战平荷兰告终。赛后，克洛普出席新闻发布会，谈到了比赛表现、争议…",
-          "number": 18
+          "number": 17
         },
         {
           "title": "张帅独力难支中国女网告别世界杯，郑钦文称吃药坚持赛前曾想退赛",
@@ -330,7 +319,7 @@
           "topic": "网球",
           "sourceId": "sports",
           "summary": "中国女网的比利简金杯之旅结束了，同去年一样带着巨大的遗憾离场，在深圳父老乡亲们的一片唏嘘声中。",
-          "number": 19
+          "number": 18
         }
       ]
     },
@@ -339,8 +328,8 @@
       "name": "东方财富 · 美股",
       "url": "https://stock.eastmoney.com/america.html",
       "status": "ok",
-      "lastAttempt": "2026-09-25T05:26:33.183Z",
-      "lastSuccess": "2026-09-25T05:26:33.183Z",
+      "lastAttempt": "2026-09-25T06:09:52.785Z",
+      "lastSuccess": "2026-09-25T06:09:52.785Z",
       "items": [
         {
           "category": "金融",
@@ -350,6 +339,39 @@
           "url": "https://finance.eastmoney.com/a/202609253884225666.html",
           "publishedAt": "2026-09-25T01:14:00.000Z",
           "source": "东方财富 · 中国基金报",
+          "kind": "报道",
+          "sourceId": "eastmoney-us-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "美股",
+          "title": "特斯拉中国宣布“降价”",
+          "summary": "9月25日，特斯拉中国宣布：2026年10月31日（含）前下单，Model 3全系限时尾款立减5000元，Model …",
+          "url": "https://finance.eastmoney.com/a/202609253884267615.html",
+          "publishedAt": "2026-09-25T05:48:00.000Z",
+          "source": "东方财富 · 上观新闻",
+          "kind": "报道",
+          "sourceId": "eastmoney-us-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "美股",
+          "title": "Nanexa与诺和诺德就长效注射剂达成11.65亿欧元全球许可和合作协议",
+          "summary": "当地时间9月24日，瑞典药物递送平台公司Nanexa宣布，已与诺和诺德就使用PharmaShell技术平台针对某些靶向…",
+          "url": "https://finance.eastmoney.com/a/202609253884263877.html",
+          "publishedAt": "2026-09-25T05:31:00.000Z",
+          "source": "东方财富 · 界面新闻",
+          "kind": "报道",
+          "sourceId": "eastmoney-us-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "美股",
+          "title": "特斯拉卡车开启大规模量产",
+          "summary": "当地时间9月24日，特斯拉宣布其电动卡车Semi开启大规模量产，并同步启动该阶段客户交付。这也标志这款车型从过往小批量…",
+          "url": "https://finance.eastmoney.com/a/202609253884265124.html",
+          "publishedAt": "2026-09-25T05:25:00.000Z",
+          "source": "东方财富 · 第一财经",
           "kind": "报道",
           "sourceId": "eastmoney-us-stock"
         },
@@ -426,8 +448,8 @@
       "name": "东方财富 · A股",
       "url": "https://stock.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-09-25T05:26:33.183Z",
-      "lastSuccess": "2026-09-25T05:26:33.183Z",
+      "lastAttempt": "2026-09-25T06:09:52.785Z",
+      "lastSuccess": "2026-09-25T06:09:52.785Z",
       "items": [
         {
           "category": "金融",
@@ -476,22 +498,22 @@
         {
           "category": "金融",
           "topic": "A股",
-          "title": "香港证监会最新工作计划曝光！明确三大行动目标",
-          "summary": "近日，香港证监会公布支持落实《香港首个五年规划》及2026年《施政报告》的策略行动纲领，通过一系列短、中及长期措施，推…",
-          "url": "https://finance.eastmoney.com/a/202609253884249828.html",
-          "publishedAt": "2026-09-25T02:56:00.000Z",
-          "source": "东方财富 · 券商中国",
+          "title": "兴业银行鲁政委：A股已具备回馈长期主义者的基础",
+          "summary": "9月12日，由南方财经全媒体集团指导，21世纪经济报道主办、浦发银行联合主办的“2026资产管理年会”在上海隆重举办。",
+          "url": "https://finance.eastmoney.com/a/202609253884044511.html",
+          "publishedAt": "2026-09-24T23:00:00.000Z",
+          "source": "东方财富 · 21世纪经济报道",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
         {
           "category": "金融",
           "topic": "A股",
-          "title": "中国人寿出手！加码AI、半导体",
-          "summary": "中国人寿(601628)9月24日公告，公司、无锡国寿成达股权投资中心（有限合伙）及其他投资者（各方均作为有限合伙人）…",
-          "url": "https://finance.eastmoney.com/a/202609253884258865.html",
-          "publishedAt": "2026-09-25T05:04:00.000Z",
-          "source": "东方财富 · 证券时报网",
+          "title": "迪哲医药高管扎堆拟减持，不到一月两波共9人抛计划，上半年营收增47%仍亏损",
+          "summary": "9月24日，迪哲医药（证券简称：迪哲医药-U；代码：688192）发布高级管理人员减持股份计划公告，公司财务总监吕洪斌…",
+          "url": "https://finance.eastmoney.com/a/202609253884265014.html",
+          "publishedAt": "2026-09-25T05:33:00.000Z",
+          "source": "东方财富 · 深圳商报·读创",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
@@ -541,28 +563,6 @@
         },
         {
           "category": "金融",
-          "topic": "中国期货",
-          "title": "富时中国A50指数期货盘初涨0.05%",
-          "summary": "富时中国A50指数期货盘初涨0.05%，上一个交易日夜盘收涨0.03%。",
-          "url": "https://finance.eastmoney.com/a/202609253884224044.html",
-          "publishedAt": "2026-09-25T01:00:00.000Z",
-          "source": "东方财富 · 东方财富Choice数据",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "兴业银行鲁政委：A股已具备回馈长期主义者的基础",
-          "summary": "9月12日，由南方财经全媒体集团指导，21世纪经济报道主办、浦发银行联合主办的“2026资产管理年会”在上海隆重举办。",
-          "url": "https://finance.eastmoney.com/a/202609253884044511.html",
-          "publishedAt": "2026-09-24T23:00:00.000Z",
-          "source": "东方财富 · 21世纪经济报道",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
           "topic": "A股",
           "title": "中金公司独家保荐百瑞吉在北交所成功上市",
           "summary": "上证报中国证券网讯（记者闫刘梦）常州百瑞吉生物医药股份有限公司（以下简称“百瑞吉”）9月24日在北京证券交易所上市。本…",
@@ -582,6 +582,28 @@
           "source": "东方财富 · 证券时报网",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "仅17个交易日，CPO龙头，大手笔回购完成！新突破，晶硅电池效率，逼近极限",
+          "summary": "9月24日晚间，中际旭创发布关于股份回购结果暨股份变动公告。公告显示，2026年9月1日—23日，公司以集中竞价交易方…",
+          "url": "https://finance.eastmoney.com/a/202609253884218921.html",
+          "publishedAt": "2026-09-24T23:59:00.000Z",
+          "source": "东方财富 · 数据宝",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "低轨星座加速组网 产业链公司布局热控环节",
+          "summary": "上证报中国证券网讯（记者窦世平）朱雀二号改进型遥七运载火箭近日以“一箭十星”方式，将千帆极轨19组共10颗卫星送入预定…",
+          "url": "https://finance.eastmoney.com/a/202609253884252476.html",
+          "publishedAt": "2026-09-25T03:39:00.000Z",
+          "source": "东方财富 · 上海证券报·中国证券网",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
         }
       ]
     },
@@ -590,7 +612,7 @@
       "name": "东方财富 · 中国期货",
       "url": "https://futures.eastmoney.com/",
       "status": "error",
-      "lastAttempt": "2026-09-25T05:26:33.183Z",
+      "lastAttempt": "2026-09-25T06:09:52.785Z",
       "lastSuccess": "2026-09-25T00:33:54.960Z",
       "items": [
         {
@@ -611,8 +633,8 @@
       "name": "东方财富 · 宏观财经",
       "url": "https://finance.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-09-25T05:26:33.183Z",
-      "lastSuccess": "2026-09-25T05:26:33.183Z",
+      "lastAttempt": "2026-09-25T06:09:52.785Z",
+      "lastSuccess": "2026-09-25T06:09:52.785Z",
       "items": [
         {
           "category": "金融",
@@ -622,6 +644,17 @@
           "url": "https://finance.eastmoney.com/a/202609253884224724.html",
           "publishedAt": "2026-09-25T01:13:00.000Z",
           "source": "东方财富 · 澎湃新闻",
+          "kind": "报道",
+          "sourceId": "eastmoney-macro"
+        },
+        {
+          "category": "金融",
+          "topic": "宏观财经",
+          "title": "光大证券：从防御到进攻 加息落地后的港美股成长与兑现主线",
+          "summary": "9月美联储加息落地，短期加息不确定性有所消除，市场对进一步紧缩的担忧边际减弱。美联储将联邦基金目标区间上调25bp至3…",
+          "url": "https://finance.eastmoney.com/a/202609253884263578.html",
+          "publishedAt": "2026-09-25T05:29:00.000Z",
+          "source": "东方财富 · 光大证券",
           "kind": "报道",
           "sourceId": "eastmoney-macro"
         },
@@ -687,8 +720,8 @@
       "name": "新浪财经 · 美股",
       "url": "https://finance.sina.com.cn/stock/usstock/",
       "status": "ok",
-      "lastAttempt": "2026-09-25T05:26:33.183Z",
-      "lastSuccess": "2026-09-25T05:26:33.183Z",
+      "lastAttempt": "2026-09-25T06:09:52.785Z",
+      "lastSuccess": "2026-09-25T06:09:52.785Z",
       "items": [
         {
           "title": "诺和诺德与瑞典Nanexa签署价值11.65亿欧元药物技术合作协议",
@@ -741,9 +774,20 @@
       "name": "新浪财经 · A股",
       "url": "https://finance.sina.com.cn/stock/",
       "status": "ok",
-      "lastAttempt": "2026-09-25T05:26:33.183Z",
-      "lastSuccess": "2026-09-25T05:26:33.183Z",
+      "lastAttempt": "2026-09-25T06:09:52.785Z",
+      "lastSuccess": "2026-09-25T06:09:52.785Z",
       "items": [
+        {
+          "title": "调整就是机会？节前股指小幅回落，但资金借道ETF大幅加仓这个板块",
+          "url": "https://finance.sina.com.cn/roll/2026-09-25/doc-iniszmmx4424770.shtml",
+          "summary": "每经记者|叶峰每经编辑|赵云 中秋节前一周，股指震荡调整，沪深两市股票型ETF和跨境型ETF合计净流出7.7亿元。 行…",
+          "source": "每日经济新闻 · 新浪财经",
+          "publishedAt": "2026-09-25T05:13:35.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock",
+          "kind": "报道"
+        },
         {
           "title": "印度允许规模4630亿美元的财富类基金出海投资",
           "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-iniszfcz4545335.shtml",
@@ -809,17 +853,6 @@
           "topic": "A股",
           "sourceId": "cn-stock",
           "kind": "报道"
-        },
-        {
-          "title": "AI创企DensityAI正进入融资谈判后期 投后估值接近100亿美元",
-          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-iniszfec7774711.shtml",
-          "summary": "两名知情人士透露，AI芯片初创企业DensityAI由特斯拉Dojo超级计算机项目的前核心团队于一年前创立，目前正进入…",
-          "source": "环球市场播报 · 新浪财经",
-          "publishedAt": "2026-09-25T02:46:55.000Z",
-          "category": "金融",
-          "topic": "A股",
-          "sourceId": "cn-stock",
-          "kind": "报道"
         }
       ]
     },
@@ -828,8 +861,8 @@
       "name": "新浪财经 · 期货订阅 1",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-09-25T05:26:33.183Z",
-      "lastSuccess": "2026-09-25T05:26:33.183Z",
+      "lastAttempt": "2026-09-25T06:09:52.785Z",
+      "lastSuccess": "2026-09-25T06:09:52.785Z",
       "items": []
     },
     {
@@ -837,8 +870,8 @@
       "name": "新浪财经 · 期货订阅 2",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-09-25T05:26:33.183Z",
-      "lastSuccess": "2026-09-25T05:26:33.183Z",
+      "lastAttempt": "2026-09-25T06:09:52.785Z",
+      "lastSuccess": "2026-09-25T06:09:52.785Z",
       "items": []
     },
     {
@@ -846,8 +879,8 @@
       "name": "新浪财经 · 期货订阅 3",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-09-25T05:26:33.183Z",
-      "lastSuccess": "2026-09-25T05:26:33.183Z",
+      "lastAttempt": "2026-09-25T06:09:52.785Z",
+      "lastSuccess": "2026-09-25T06:09:52.785Z",
       "items": [
         {
           "title": "韩国首尔证券交易所因中秋节休市一日",
@@ -867,8 +900,8 @@
       "name": "中新网 · 国际",
       "url": "https://www.chinanews.com.cn/rss/world.xml",
       "status": "ok",
-      "lastAttempt": "2026-09-25T05:26:33.183Z",
-      "lastSuccess": "2026-09-25T05:26:33.183Z",
+      "lastAttempt": "2026-09-25T06:09:52.785Z",
+      "lastSuccess": "2026-09-25T06:09:52.785Z",
       "items": [
         {
           "title": "走进美国希望中文学校：做美中文化民间交流的桥梁",
@@ -897,9 +930,29 @@
       "name": "中新网 · 国内",
       "url": "https://www.chinanews.com.cn/rss/china.xml",
       "status": "ok",
-      "lastAttempt": "2026-09-25T05:26:33.183Z",
-      "lastSuccess": "2026-09-25T05:26:33.183Z",
+      "lastAttempt": "2026-09-25T06:09:52.785Z",
+      "lastSuccess": "2026-09-25T06:09:52.785Z",
       "items": [
+        {
+          "title": "习言道｜中美关系又站在新的历史起点上",
+          "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703664.shtml",
+          "summary": "当地时间9月24日晚，国家主席习近平和夫人彭丽媛在白宫出席美国总统特朗普和夫人梅拉尼娅举行的欢迎宴会。习近平主席发表致…",
+          "publishedAt": "2026-09-25T05:43:56.000Z",
+          "category": "政治",
+          "topic": "中国",
+          "source": "中国新闻网",
+          "sourceId": "cn-politics"
+        },
+        {
+          "title": "习近平：共同浇灌中美友谊的美丽花朵",
+          "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703669.shtml",
+          "summary": "当地时间9月24日晚，国家主席习近平和夫人彭丽媛出席美国总统特朗普和夫人梅拉尼娅在白宫举行的欢迎宴会。习近平在祝酒辞中…",
+          "publishedAt": "2026-09-25T05:33:21.000Z",
+          "category": "政治",
+          "topic": "中国",
+          "source": "中国新闻网",
+          "sourceId": "cn-politics"
+        },
         {
           "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴",
           "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703632.shtml",
@@ -1069,46 +1122,6 @@
           "topic": "中国",
           "source": "中国新闻网",
           "sourceId": "cn-politics"
-        },
-        {
-          "title": "习近平出席美国总统特朗普在白宫举行的欢迎仪式",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-24/10703499.shtml",
-          "summary": "当地时间9月24日上午，美国总统特朗普在白宫举行隆重仪式，欢迎中国国家主席习近平对美国进行国事访问。",
-          "publishedAt": "2026-09-24T15:20:12.000Z",
-          "category": "政治",
-          "topic": "中国",
-          "source": "中国新闻网",
-          "sourceId": "cn-politics"
-        },
-        {
-          "title": "习近平在白宫欢迎仪式上的致辞（全文）",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-24/10703500.shtml",
-          "summary": "新华社华盛顿9月24日电",
-          "publishedAt": "2026-09-24T15:18:18.000Z",
-          "category": "政治",
-          "topic": "中国",
-          "source": "中国新闻网",
-          "sourceId": "cn-politics"
-        },
-        {
-          "title": "习近平出席美国总统特朗普在白宫举行的欢迎仪式",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-24/10703496.shtml",
-          "summary": "新华社华盛顿9月24日电 当地时间9月24日上午，美国总统特朗普在白宫举行隆重仪式，欢迎中国国家主席习近平对美国进行国…",
-          "publishedAt": "2026-09-24T14:42:29.000Z",
-          "category": "政治",
-          "topic": "中国",
-          "source": "中国新闻网",
-          "sourceId": "cn-politics"
-        },
-        {
-          "title": "赵乐际在吉林黑龙江调研时强调 自觉践行全过程人民民主 高质量做好地方人大工作",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-24/10703470.shtml",
-          "summary": "新华社哈尔滨9月24日电 中共中央政治局常委、全国人大常委会委员长赵乐际9月21日至24日在吉林、黑龙江调研。他强调，…",
-          "publishedAt": "2026-09-24T14:20:58.000Z",
-          "category": "政治",
-          "topic": "中国",
-          "source": "中国新闻网",
-          "sourceId": "cn-politics"
         }
       ]
     },
@@ -1117,8 +1130,8 @@
       "name": "AI HOT",
       "url": "https://aihot.news/",
       "status": "ok",
-      "lastAttempt": "2026-09-25T05:26:33.183Z",
-      "lastSuccess": "2026-09-25T05:26:33.183Z",
+      "lastAttempt": "2026-09-25T06:09:52.785Z",
+      "lastSuccess": "2026-09-25T06:09:52.785Z",
       "items": [
         {
           "category": "AI",
@@ -1307,11 +1320,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "4.5米长虫从男子体内排出",
-      "summary": "近日，武汉市金银潭医院接诊患者小金。小金因长期食用生鱼片感染阔节裂头绦虫，经驱虫治疗后排出一条4.5米长成虫。此前，小…",
-      "url": "https://www.baidu.com/s?wd=4.5%E7%B1%B3%E9%95%BF%E8%99%AB%E4%BB%8E%E7%94%B7%E5%AD%90%E4%BD%93%E5%86%85%E6%8E%92%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "中美元首夫人听两国儿童唱《茉莉花》",
+      "summary": "近日，中国外交部发言人毛宁在社交媒体上分享画面，中美元首夫人欣赏了由中美两国儿童演唱的中国民歌《茉莉花》。彭丽媛笑着跟…",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%A4%AB%E4%BA%BA%E5%90%AC%E4%B8%A4%E5%9B%BD%E5%84%BF%E7%AB%A5%E5%94%B1%E3%80%8A%E8%8C%89%E8%8E%89%E8%8A%B1%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-09-25T05:26:33.183Z",
+      "publishedAt": "2026-09-25T06:09:52.785Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1320,11 +1333,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "“中国天眼”发现脉冲星超1300颗",
-      "summary": "9月25日，“中国天眼”FAST迎来落成十周年。截至目前，FAST累计发现脉冲星超1300颗，超过同一时期国际其他望远…",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%E2%80%9D%E5%8F%91%E7%8E%B0%E8%84%89%E5%86%B2%E6%98%9F%E8%B6%851300%E9%A2%97&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "高铁站安检仪扫到好多“小圆球”",
+      "summary": "中秋前夕，云南宣威站安检仪频现宣威火腿月饼。起因是该非遗火腿月饼备受旅客青睐，许多人打包乘车带回家。为此，宣威站不仅在…",
+      "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E7%AB%99%E5%AE%89%E6%A3%80%E4%BB%AA%E6%89%AB%E5%88%B0%E5%A5%BD%E5%A4%9A%E2%80%9C%E5%B0%8F%E5%9C%86%E7%90%83%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-09-25T05:26:33.183Z",
+      "publishedAt": "2026-09-25T06:09:52.785Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1333,11 +1346,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "李嘉明还1万元游本昌直接捐了",
-      "summary": "近日，演员李嘉明哽咽追忆游本昌，称其像父亲般关心自己。此前他在北漂低谷期遇父亲生病无钱医治，游本昌第一时间拿出1万元现…",
-      "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%98%89%E6%98%8E%E8%BF%981%E4%B8%87%E5%85%83%E6%B8%B8%E6%9C%AC%E6%98%8C%E7%9B%B4%E6%8E%A5%E6%8D%90%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "4.5米长虫从男子体内排出",
+      "summary": "近日，武汉市金银潭医院接诊患者小金。小金因长期食用生鱼片感染阔节裂头绦虫，经驱虫治疗后排出一条4.5米长成虫。此前，小…",
+      "url": "https://www.baidu.com/s?wd=4.5%E7%B1%B3%E9%95%BF%E8%99%AB%E4%BB%8E%E7%94%B7%E5%AD%90%E4%BD%93%E5%86%85%E6%8E%92%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-09-25T05:26:33.183Z",
+      "publishedAt": "2026-09-25T06:09:52.785Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1346,11 +1359,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "高铁站安检仪扫到好多“小圆球”",
-      "summary": "中秋前夕，云南宣威站安检仪频现宣威火腿月饼。起因是该非遗火腿月饼备受旅客青睐，许多人打包乘车带回家。为此，宣威站不仅在…",
-      "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E7%AB%99%E5%AE%89%E6%A3%80%E4%BB%AA%E6%89%AB%E5%88%B0%E5%A5%BD%E5%A4%9A%E2%80%9C%E5%B0%8F%E5%9C%86%E7%90%83%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "李嘉明还1万元游本昌直接捐了",
+      "summary": "近日，演员李嘉明哽咽追忆游本昌，称其像父亲般关心自己。此前他在北漂低谷期遇父亲生病无钱医治，游本昌第一时间拿出1万元现…",
+      "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%98%89%E6%98%8E%E8%BF%981%E4%B8%87%E5%85%83%E6%B8%B8%E6%9C%AC%E6%98%8C%E7%9B%B4%E6%8E%A5%E6%8D%90%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-09-25T05:26:33.183Z",
+      "publishedAt": "2026-09-25T06:09:52.785Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1359,11 +1372,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "女生未上班却有6份社保无法考编",
-      "summary": "9月24日，“硕士生因被偷缴社保无法考编”一事引发关注。应届毕业生小李从未到任何公司任职，但在报考某单位应届生岗位时，…",
-      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E6%9C%AA%E4%B8%8A%E7%8F%AD%E5%8D%B4%E6%9C%896%E4%BB%BD%E7%A4%BE%E4%BF%9D%E6%97%A0%E6%B3%95%E8%80%83%E7%BC%96&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "离异女护士倒在工作岗位留下8岁儿子",
+      "summary": "近日，贵州省遵义市人社局决定，对贵州茅台医院护士陈佳佳不予认定工伤。此前，30岁的陈佳佳在工作岗位突发脑出血，抢救10…",
+      "url": "https://www.baidu.com/s?wd=%E7%A6%BB%E5%BC%82%E5%A5%B3%E6%8A%A4%E5%A3%AB%E5%80%92%E5%9C%A8%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D%E7%95%99%E4%B8%8B8%E5%B2%81%E5%84%BF%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-09-25T05:26:33.183Z",
+      "publishedAt": "2026-09-25T06:09:52.785Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1372,11 +1385,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "离异女护士倒在工作岗位留下8岁儿子",
-      "summary": "近日，贵州省遵义市人社局决定，对贵州茅台医院护士陈佳佳不予认定工伤。此前，30岁的陈佳佳在工作岗位突发脑出血，抢救10…",
-      "url": "https://www.baidu.com/s?wd=%E7%A6%BB%E5%BC%82%E5%A5%B3%E6%8A%A4%E5%A3%AB%E5%80%92%E5%9C%A8%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D%E7%95%99%E4%B8%8B8%E5%B2%81%E5%84%BF%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "陈龙遗憾错过见游本昌最后一面",
+      "summary": "9月24日凌晨，游本昌在北京逝世，享年93岁。演员陈龙称，此前自己本想看望游本昌老师，但因为一些事情错过，遗憾没能见到…",
+      "url": "https://www.baidu.com/s?wd=%E9%99%88%E9%BE%99%E9%81%97%E6%86%BE%E9%94%99%E8%BF%87%E8%A7%81%E6%B8%B8%E6%9C%AC%E6%98%8C%E6%9C%80%E5%90%8E%E4%B8%80%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-09-25T05:26:33.183Z",
+      "publishedAt": "2026-09-25T06:09:52.785Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1504,17 +1517,6 @@
       "number": 17
     },
     {
-      "title": "德媒：拜仁荣誉主席赫内斯在邻里纠纷中胜诉",
-      "url": "https://www.163.com/dy/article/L7KIMTN00549BAP0.html",
-      "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-09-24T14:50:12.000Z",
-      "category": "体育",
-      "topic": "德甲",
-      "sourceId": "sports",
-      "summary": "据德国媒体Sport1报道，拜仁荣誉主席乌利-赫内斯在一场涉及两棵树的邻里纠纷中胜诉。",
-      "number": 18
-    },
-    {
       "title": "那不勒斯旧将：霍伊伦需要德布劳内踢得更靠近",
       "url": "https://www.163.com/dy/article/L7LG29RO0549BAP0.html",
       "source": "懂球帝 · 网易体育",
@@ -1523,7 +1525,7 @@
       "topic": "意甲",
       "sourceId": "sports",
       "summary": "那不勒斯旧将马尔科林认为，霍伊伦需要德布劳内更靠近自己的位置。",
-      "number": 19
+      "number": 18
     },
     {
       "title": "德转统计意甲国脚人数：科莫15人居首，国米12人",
@@ -1534,7 +1536,7 @@
       "topic": "意甲",
       "sourceId": "sports",
       "summary": "德转统计意甲国脚人数：科莫15人居首，米兰14人第二，国米12人。",
-      "number": 20
+      "number": 19
     },
     {
       "title": "米体：米兰和尤文图斯可能成为B费明年夏天的潜在接洽对象",
@@ -1545,7 +1547,7 @@
       "topic": "意甲",
       "sourceId": "sports",
       "summary": "据《米兰体育报》和记者马尔科-圭迪报道，B费未来未定，米兰和尤文曾在去年夏天被其经纪团队接触。",
-      "number": 21
+      "number": 20
     },
     {
       "title": "法甲联赛总身价上涨2.71亿欧，摩纳哥上涨6300万欧最多",
@@ -1556,7 +1558,7 @@
       "topic": "法甲",
       "sourceId": "sports",
       "summary": "德国转会市场更新了最新一期法甲联赛的身价，18支球队身价均上涨，全联赛身价上涨2.71亿欧，其中摩纳哥上涨6300万欧…",
-      "number": 22
+      "number": 21
     },
     {
       "title": "中国网球公开赛期间，国家速滑馆北路将临时交通管制",
@@ -1567,7 +1569,7 @@
       "topic": "网球",
       "sourceId": "sports",
       "summary": "新京报讯 据“北京朝阳”微信公众号消息，9月24日，北京奥林匹克中心区管理委员会发布通告称，为保障2026年中国网球公…",
-      "number": 23
+      "number": 22
     },
     {
       "title": "渣叔：要是接下来五百场都踢平，我恐怕只能回去打板式网球了",
@@ -1578,7 +1580,7 @@
       "topic": "网球",
       "sourceId": "sports",
       "summary": "欧国联小组赛首轮，克洛普执教德国队的首场比赛以客场1-1战平荷兰告终。赛后，克洛普出席新闻发布会，谈到了比赛表现、争议…",
-      "number": 24
+      "number": 23
     },
     {
       "title": "张帅独力难支中国女网告别世界杯，郑钦文称吃药坚持赛前曾想退赛",
@@ -1589,7 +1591,43 @@
       "topic": "网球",
       "sourceId": "sports",
       "summary": "中国女网的比利简金杯之旅结束了，同去年一样带着巨大的遗憾离场，在深圳父老乡亲们的一片唏嘘声中。",
+      "number": 24
+    },
+    {
+      "category": "金融",
+      "topic": "美股",
+      "title": "特斯拉中国宣布“降价”",
+      "summary": "9月25日，特斯拉中国宣布：2026年10月31日（含）前下单，Model 3全系限时尾款立减5000元，Model …",
+      "url": "https://finance.eastmoney.com/a/202609253884267615.html",
+      "publishedAt": "2026-09-25T05:48:00.000Z",
+      "source": "东方财富 · 上观新闻",
+      "kind": "报道",
+      "sourceId": "eastmoney-us-stock",
       "number": 25
+    },
+    {
+      "category": "金融",
+      "topic": "美股",
+      "title": "Nanexa与诺和诺德就长效注射剂达成11.65亿欧元全球许可和合作协议",
+      "summary": "当地时间9月24日，瑞典药物递送平台公司Nanexa宣布，已与诺和诺德就使用PharmaShell技术平台针对某些靶向…",
+      "url": "https://finance.eastmoney.com/a/202609253884263877.html",
+      "publishedAt": "2026-09-25T05:31:00.000Z",
+      "source": "东方财富 · 界面新闻",
+      "kind": "报道",
+      "sourceId": "eastmoney-us-stock",
+      "number": 26
+    },
+    {
+      "category": "金融",
+      "topic": "美股",
+      "title": "特斯拉卡车开启大规模量产",
+      "summary": "当地时间9月24日，特斯拉宣布其电动卡车Semi开启大规模量产，并同步启动该阶段客户交付。这也标志这款车型从过往小批量…",
+      "url": "https://finance.eastmoney.com/a/202609253884265124.html",
+      "publishedAt": "2026-09-25T05:25:00.000Z",
+      "source": "东方财富 · 第一财经",
+      "kind": "报道",
+      "sourceId": "eastmoney-us-stock",
+      "number": 27
     },
     {
       "category": "金融",
@@ -1601,7 +1639,7 @@
       "source": "东方财富 · 界面新闻",
       "kind": "报道",
       "sourceId": "eastmoney-us-stock",
-      "number": 26
+      "number": 28
     },
     {
       "title": "诺和诺德与瑞典Nanexa签署价值11.65亿欧元药物技术合作协议",
@@ -1613,7 +1651,7 @@
       "topic": "美股",
       "sourceId": "us-stock",
       "kind": "报道",
-      "number": 27
+      "number": 29
     },
     {
       "title": "特斯拉中国就Model 3、Model Y部分车型推出假期限时购车优惠",
@@ -1625,54 +1663,30 @@
       "topic": "美股",
       "sourceId": "us-stock",
       "kind": "报道",
-      "number": 28
-    },
-    {
-      "title": "Meta(META.US)9月飙涨36%：Muse验证AI战略 市值剑指2万亿美元",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-25/doc-inisyywi4666817.shtml",
-      "summary": "Meta Platforms（META.US）股价终于迎来了突破。这家Facebook母公司股价在9月大涨36%，此前…",
-      "source": "智通财经APP · 新浪财经",
-      "publishedAt": "2026-09-25T02:18:27.000Z",
-      "category": "金融",
-      "topic": "美股",
-      "sourceId": "us-stock",
-      "kind": "报道",
-      "number": 29
-    },
-    {
-      "category": "金融",
-      "topic": "美股",
-      "title": "美股存储芯片股跳水！30年期美债收益率升至2004年最高",
-      "summary": "美东时间9月24日，道指连续第三个交易日收跌。30年期美债收益率升至2004年以来最高。巴里·迪勒旗下People I…",
-      "url": "https://finance.eastmoney.com/a/202609253884225666.html",
-      "publishedAt": "2026-09-25T01:14:00.000Z",
-      "source": "东方财富 · 中国基金报",
-      "kind": "报道",
-      "sourceId": "eastmoney-us-stock",
       "number": 30
-    },
-    {
-      "title": "花旗：歌尔股份、舜宇光学将受益于 Meta VR 眼镜",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyywf7832282.shtml",
-      "summary": "花旗表示，在 Meta Connect 大会发布的 VR 眼镜及其他新品中，歌尔股份与舜宇光学是主要受益厂商。 分析师…",
-      "source": "环球市场播报 · 新浪财经",
-      "publishedAt": "2026-09-25T00:59:17.000Z",
-      "category": "金融",
-      "topic": "美股",
-      "sourceId": "us-stock",
-      "kind": "报道",
-      "number": 31
     },
     {
       "category": "金融",
       "topic": "A股",
-      "title": "中国人寿出手！加码AI、半导体",
-      "summary": "中国人寿(601628)9月24日公告，公司、无锡国寿成达股权投资中心（有限合伙）及其他投资者（各方均作为有限合伙人）…",
-      "url": "https://finance.eastmoney.com/a/202609253884258865.html",
-      "publishedAt": "2026-09-25T05:04:00.000Z",
-      "source": "东方财富 · 证券时报网",
+      "title": "迪哲医药高管扎堆拟减持，不到一月两波共9人抛计划，上半年营收增47%仍亏损",
+      "summary": "9月24日，迪哲医药（证券简称：迪哲医药-U；代码：688192）发布高级管理人员减持股份计划公告，公司财务总监吕洪斌…",
+      "url": "https://finance.eastmoney.com/a/202609253884265014.html",
+      "publishedAt": "2026-09-25T05:33:00.000Z",
+      "source": "东方财富 · 深圳商报·读创",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
+      "number": 31
+    },
+    {
+      "title": "调整就是机会？节前股指小幅回落，但资金借道ETF大幅加仓这个板块",
+      "url": "https://finance.sina.com.cn/roll/2026-09-25/doc-iniszmmx4424770.shtml",
+      "summary": "每经记者|叶峰每经编辑|赵云 中秋节前一周，股指震荡调整，沪深两市股票型ETF和跨境型ETF合计净流出7.7亿元。 行…",
+      "source": "每日经济新闻 · 新浪财经",
+      "publishedAt": "2026-09-25T05:13:35.000Z",
+      "category": "金融",
+      "topic": "A股",
+      "sourceId": "cn-stock",
+      "kind": "报道",
       "number": 32
     },
     {
@@ -1712,18 +1726,6 @@
       "number": 35
     },
     {
-      "title": "保诚于9月24日斥资约742.65万英镑回购约78.24万股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-25/doc-iniszfef4627922.shtml",
-      "summary": "保诚（02378）发布公告，于2026年9月24日该公司斥资约742.65万英镑回购约78.24万股。",
-      "source": "新浪港股 · 新浪财经",
-      "publishedAt": "2026-09-25T04:45:07.000Z",
-      "category": "金融",
-      "topic": "A股",
-      "sourceId": "cn-stock",
-      "kind": "报道",
-      "number": 36
-    },
-    {
       "category": "金融",
       "topic": "A股",
       "title": "中金公司独家保荐百瑞吉在北交所成功上市",
@@ -1733,19 +1735,7 @@
       "source": "东方财富 · 上海证券报·中国证券网",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
-      "number": 37
-    },
-    {
-      "category": "金融",
-      "topic": "中国期货",
-      "title": "富时中国A50指数期货盘初涨0.05%",
-      "summary": "富时中国A50指数期货盘初涨0.05%，上一个交易日夜盘收涨0.03%。",
-      "url": "https://finance.eastmoney.com/a/202609253884224044.html",
-      "publishedAt": "2026-09-25T01:00:00.000Z",
-      "source": "东方财富 · 东方财富Choice数据",
-      "kind": "报道",
-      "sourceId": "eastmoney-cn-stock",
-      "number": 38
+      "number": 36
     },
     {
       "title": "韩国首尔证券交易所因中秋节休市一日",
@@ -1757,7 +1747,7 @@
       "topic": "中国期货",
       "sourceId": "futures-3",
       "kind": "报道",
-      "number": 39
+      "number": 37
     },
     {
       "category": "金融",
@@ -1769,7 +1759,19 @@
       "source": "东方财富 · 郑州商品交易所",
       "kind": "报道",
       "sourceId": "eastmoney-futures",
-      "number": 40
+      "number": 38
+    },
+    {
+      "category": "金融",
+      "topic": "宏观财经",
+      "title": "光大证券：从防御到进攻 加息落地后的港美股成长与兑现主线",
+      "summary": "9月美联储加息落地，短期加息不确定性有所消除，市场对进一步紧缩的担忧边际减弱。美联储将联邦基金目标区间上调25bp至3…",
+      "url": "https://finance.eastmoney.com/a/202609253884263578.html",
+      "publishedAt": "2026-09-25T05:29:00.000Z",
+      "source": "东方财富 · 光大证券",
+      "kind": "报道",
+      "sourceId": "eastmoney-macro",
+      "number": 39
     },
     {
       "category": "金融",
@@ -1781,7 +1783,7 @@
       "source": "东方财富 · 21世纪经济报道",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
-      "number": 41
+      "number": 40
     },
     {
       "category": "金融",
@@ -1793,7 +1795,7 @@
       "source": "东方财富 · 澎湃新闻",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
-      "number": 42
+      "number": 41
     },
     {
       "category": "金融",
@@ -1805,7 +1807,7 @@
       "source": "东方财富 · 央视财经",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
-      "number": 43
+      "number": 42
     },
     {
       "category": "金融",
@@ -1817,7 +1819,7 @@
       "source": "东方财富 · 每日经济新闻",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
-      "number": 44
+      "number": 43
     },
     {
       "category": "金融",
@@ -1829,19 +1831,7 @@
       "source": "东方财富 · 财联社",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
-      "number": 45
-    },
-    {
-      "category": "金融",
-      "topic": "宏观财经",
-      "title": "美股盘前：三大股指期货齐跌 美债收益率创多年新高 加息预期升温",
-      "summary": "周四盘前，三大股指期货齐跌，欧洲主要指数多数下跌。截至发稿，纳斯达克100指数期货跌1.01%，道指期货跌0.29%，…",
-      "url": "https://finance.eastmoney.com/a/202609243883870562.html",
-      "publishedAt": "2026-09-24T11:28:00.000Z",
-      "source": "东方财富 · 哈富证券",
-      "kind": "报道",
-      "sourceId": "eastmoney-macro",
-      "number": 46
+      "number": 44
     },
     {
       "title": "走进美国希望中文学校：做美中文化民间交流的桥梁",
@@ -1852,7 +1842,7 @@
       "topic": "美国",
       "source": "中国新闻网",
       "sourceId": "us-politics",
-      "number": 47
+      "number": 45
     },
     {
       "title": "外媒聚焦华盛顿欢迎仪式连用“罕见”：“美方的安排与以往我所见过的都截然不同！”",
@@ -1863,6 +1853,28 @@
       "topic": "美国",
       "source": "中国新闻网",
       "sourceId": "us-politics",
+      "number": 46
+    },
+    {
+      "title": "习言道｜中美关系又站在新的历史起点上",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703664.shtml",
+      "summary": "当地时间9月24日晚，国家主席习近平和夫人彭丽媛在白宫出席美国总统特朗普和夫人梅拉尼娅举行的欢迎宴会。习近平主席发表致…",
+      "publishedAt": "2026-09-25T05:43:56.000Z",
+      "category": "政治",
+      "topic": "中国",
+      "source": "中国新闻网",
+      "sourceId": "cn-politics",
+      "number": 47
+    },
+    {
+      "title": "习近平：共同浇灌中美友谊的美丽花朵",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703669.shtml",
+      "summary": "当地时间9月24日晚，国家主席习近平和夫人彭丽媛出席美国总统特朗普和夫人梅拉尼娅在白宫举行的欢迎宴会。习近平在祝酒辞中…",
+      "publishedAt": "2026-09-25T05:33:21.000Z",
+      "category": "政治",
+      "topic": "中国",
+      "source": "中国新闻网",
+      "sourceId": "cn-politics",
       "number": 48
     },
     {
@@ -1910,28 +1922,6 @@
       "number": 52
     },
     {
-      "title": "习言道丨让中美建设性战略稳定关系更好惠及两国人民和世界各国人民",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703555.shtml",
-      "summary": "当地时间9月24日上午，国家主席习近平同美国总统特朗普在白宫举行会谈。习近平指出——",
-      "publishedAt": "2026-09-25T00:54:39.000Z",
-      "category": "政治",
-      "topic": "中国",
-      "source": "中国新闻网",
-      "sourceId": "cn-politics",
-      "number": 53
-    },
-    {
-      "title": "习近平出席美国总统特朗普举行的欢迎宴会",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703551.shtml",
-      "summary": "新华社快讯：当地时间9月24日晚，国家主席习近平在白宫出席美国总统特朗普举行的欢迎宴会。",
-      "publishedAt": "2026-09-24T23:12:19.000Z",
-      "category": "政治",
-      "topic": "中国",
-      "source": "中国新闻网",
-      "sourceId": "cn-politics",
-      "number": 54
-    },
-    {
       "category": "AI",
       "topic": "模型发布/更新",
       "title": "Claude Opus 5.5 登顶 Arena Code Arena: WebDev 榜首，得 1818 分",
@@ -1942,7 +1932,7 @@
       "reportDate": "2026-09-25",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 55
+      "number": 53
     },
     {
       "category": "AI",
@@ -1955,7 +1945,7 @@
       "reportDate": "2026-09-25",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 56
+      "number": 54
     },
     {
       "category": "AI",
@@ -1968,7 +1958,7 @@
       "reportDate": "2026-09-25",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 57
+      "number": 55
     },
     {
       "category": "AI",
@@ -1981,7 +1971,7 @@
       "reportDate": "2026-09-25",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 58
+      "number": 56
     },
     {
       "category": "AI",
@@ -1994,7 +1984,7 @@
       "reportDate": "2026-09-25",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 59
+      "number": 57
     },
     {
       "category": "AI",
@@ -2007,7 +1997,7 @@
       "reportDate": "2026-09-25",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 60
+      "number": 58
     },
     {
       "category": "AI",
@@ -2020,7 +2010,7 @@
       "reportDate": "2026-09-25",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 61
+      "number": 59
     },
     {
       "category": "AI",
@@ -2033,7 +2023,7 @@
       "reportDate": "2026-09-25",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 62
+      "number": 60
     },
     {
       "category": "AI",
@@ -2046,7 +2036,7 @@
       "reportDate": "2026-09-25",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 63
+      "number": 61
     },
     {
       "category": "AI",
@@ -2059,7 +2049,7 @@
       "reportDate": "2026-09-25",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 64
+      "number": 62
     },
     {
       "category": "AI",
@@ -2072,7 +2062,7 @@
       "reportDate": "2026-09-25",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 65
+      "number": 63
     },
     {
       "category": "AI",
@@ -2085,7 +2075,7 @@
       "reportDate": "2026-09-25",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 66
+      "number": 64
     },
     {
       "category": "AI",
@@ -2098,7 +2088,7 @@
       "reportDate": "2026-09-25",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 67
+      "number": 65
     },
     {
       "category": "AI",
@@ -2111,7 +2101,7 @@
       "reportDate": "2026-09-25",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 68
+      "number": 66
     },
     {
       "category": "AI",
@@ -2124,7 +2114,7 @@
       "reportDate": "2026-09-25",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 69
+      "number": 67
     }
   ]
 }
