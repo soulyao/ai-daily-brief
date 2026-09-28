@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-09-28T05:26:08.195Z",
+  "collectedAt": "2026-09-28T05:55:51.289Z",
   "topics": {
     "时事": [
       "百度热搜"
@@ -38,8 +38,8 @@
       "name": "百度热搜 · 时事",
       "url": "https://top.baidu.com/board?tab=realtime",
       "status": "ok",
-      "lastAttempt": "2026-09-28T05:26:08.195Z",
-      "lastSuccess": "2026-09-28T05:26:08.195Z",
+      "lastAttempt": "2026-09-28T05:55:51.289Z",
+      "lastSuccess": "2026-09-28T05:55:51.289Z",
       "items": [
         {
           "category": "时事",
@@ -48,31 +48,7 @@
           "summary": "来自成都大熊猫繁育研究基地的大熊猫“平平”“福双”27日启程，前往美国亚特兰大动物园，中美双方开启新一轮大熊猫保护国际…",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%B0%91%E4%BC%97%E7%83%AD%E7%83%88%E6%9C%9F%E7%9B%BC%E5%A4%A7%E7%86%8A%E7%8C%AB%E9%87%8D%E8%BF%94%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-09-28T05:26:08.195Z",
-          "timeLabel": "热搜采集",
-          "linkLabel": "查看相关新闻",
-          "sourceId": "baidu"
-        },
-        {
-          "category": "时事",
-          "topic": "百度热搜",
-          "title": "女子每月花3000元跨省2小时上班：划算",
-          "summary": "杭州临平姑娘小林每天跨省到上海上班，月通勤费约3000元：6:58高铁出发，转地铁、骑共享单车近9点到公司。她算账称“…",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%AF%8F%E6%9C%88%E8%8A%B13000%E5%85%83%E8%B7%A8%E7%9C%812%E5%B0%8F%E6%97%B6%E4%B8%8A%E7%8F%AD%EF%BC%9A%E5%88%92%E7%AE%97&sa=fyb_news&rsv_dl=fyb_news",
-          "source": "百度热搜",
-          "publishedAt": "2026-09-28T05:26:08.195Z",
-          "timeLabel": "热搜采集",
-          "linkLabel": "查看相关新闻",
-          "sourceId": "baidu"
-        },
-        {
-          "category": "时事",
-          "topic": "百度热搜",
-          "title": "苹果回应iPhone18 Pro系列严重漏洞",
-          "summary": "日前，苹果对外正式证实，旗下最新发布的iPhone 18 Pro以及iPhone 18 Pro Max两款机型中，存在…",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhone18+Pro%E7%B3%BB%E5%88%97%E4%B8%A5%E9%87%8D%E6%BC%8F%E6%B4%9E&sa=fyb_news&rsv_dl=fyb_news",
-          "source": "百度热搜",
-          "publishedAt": "2026-09-28T05:26:08.195Z",
+          "publishedAt": "2026-09-28T05:55:51.289Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -84,7 +60,31 @@
           "summary": "近日，央视曝光江苏兴化市一假冒核桃油窝点。孙某用大豆油灌装冒充核桃油，供货给中间商谷某，再由主播以“公益助农”名义在直…",
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%BD%91%E7%BA%A2%E6%A0%B8%E6%A1%83%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-09-28T05:26:08.195Z",
+          "publishedAt": "2026-09-28T05:55:51.289Z",
+          "timeLabel": "热搜采集",
+          "linkLabel": "查看相关新闻",
+          "sourceId": "baidu"
+        },
+        {
+          "category": "时事",
+          "topic": "百度热搜",
+          "title": "女子每月花3000元跨省2小时上班：划算",
+          "summary": "杭州临平姑娘小林每天跨省到上海上班，月通勤费约3000元：6:58高铁出发，转地铁、骑共享单车近9点到公司。她算账称“…",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%AF%8F%E6%9C%88%E8%8A%B13000%E5%85%83%E8%B7%A8%E7%9C%812%E5%B0%8F%E6%97%B6%E4%B8%8A%E7%8F%AD%EF%BC%9A%E5%88%92%E7%AE%97&sa=fyb_news&rsv_dl=fyb_news",
+          "source": "百度热搜",
+          "publishedAt": "2026-09-28T05:55:51.289Z",
+          "timeLabel": "热搜采集",
+          "linkLabel": "查看相关新闻",
+          "sourceId": "baidu"
+        },
+        {
+          "category": "时事",
+          "topic": "百度热搜",
+          "title": "苹果回应iPhone18 Pro系列严重漏洞",
+          "summary": "日前，苹果对外正式证实，旗下最新发布的iPhone 18 Pro以及iPhone 18 Pro Max两款机型中，存在…",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhone18+Pro%E7%B3%BB%E5%88%97%E4%B8%A5%E9%87%8D%E6%BC%8F%E6%B4%9E&sa=fyb_news&rsv_dl=fyb_news",
+          "source": "百度热搜",
+          "publishedAt": "2026-09-28T05:55:51.289Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -96,7 +96,7 @@
           "summary": "目前，教育部原党组成员、副部长鲁昕涉嫌严重违纪违法，正接受中央纪委国家监委纪律审查和监察调查。",
           "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%8E%9F%E5%89%AF%E9%83%A8%E9%95%BF%E9%B2%81%E6%98%95%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-09-28T05:26:08.195Z",
+          "publishedAt": "2026-09-28T05:55:51.289Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -108,7 +108,7 @@
           "summary": "8月底雨润食品公布2026年中期业绩，高温肉制品营收归零正式退赛，持续20多年的火腿肠“三强争霸”终结。国内火腿肠市场…",
           "url": "https://www.baidu.com/s?wd=%E7%81%AB%E8%85%BF%E8%82%A0%E4%B9%9F%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-09-28T05:26:08.195Z",
+          "publishedAt": "2026-09-28T05:55:51.289Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -120,8 +120,8 @@
       "name": "网易体育（署名媒体）",
       "url": "https://sports.163.com/",
       "status": "ok",
-      "lastAttempt": "2026-09-28T05:26:08.195Z",
-      "lastSuccess": "2026-09-28T05:26:08.195Z",
+      "lastAttempt": "2026-09-28T05:55:51.289Z",
+      "lastSuccess": "2026-09-28T05:55:51.289Z",
       "items": [
         {
           "title": "WNBA战报：金州女武神104-80大胜飞翼，赞达拉斯尼22+1",
@@ -267,6 +267,17 @@
           "number": 13
         },
         {
+          "title": "中网男单签表：德约对阵博杰斯，商竣程首轮迎战巴埃斯",
+          "url": "https://www.163.com/dy/article/L7TTAUV70549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-09-28T05:49:05.000Z",
+          "category": "体育",
+          "topic": "网球",
+          "sourceId": "sports",
+          "summary": "北京时间9月28日，中网男单签表出炉，首轮德约科维奇将对阵博格斯，商竣程对阵巴埃斯，布云朝克特对阵塞伦多罗。",
+          "number": 14
+        },
+        {
           "title": "从2023到2025，三年间，郑钦文进大满贯八强，遇萨巴伦卡必败北",
           "url": "https://www.163.com/dy/article/L7S7UI4905298CTE.html",
           "source": "网球之家 · 网易体育",
@@ -275,7 +286,7 @@
           "topic": "网球",
           "sourceId": "sports",
           "summary": "说到中国女子网球选手郑钦文，很多网友并不陌生。她曾在WTA1000网球赛事、大满贯、年终总决赛上都闯进过决赛，还获得过…",
-          "number": 14
+          "number": 15
         },
         {
           "title": "费雷罗花落谁家？霍达尔、辛纳成两大潜在人选，阿卡发表观点",
@@ -286,17 +297,6 @@
           "topic": "网球",
           "sourceId": "sports",
           "summary": "阿尔卡拉斯的培养计划始于2018年，那时他年仅15岁。仅仅四年时间，他就成为了这项运动史上最年轻的世界第一。如今，费雷…",
-          "number": 15
-        },
-        {
-          "title": "德约抵达北京，现役三人还有望在其身上破蛋吗？",
-          "url": "https://www.163.com/dy/article/L7PPK9E405298CTE.html",
-          "source": "网球之家 · 网易体育",
-          "publishedAt": "2026-09-26T15:27:23.000Z",
-          "category": "体育",
-          "topic": "网球",
-          "sourceId": "sports",
-          "summary": "就在成都和杭州赛进行得如火如荼之际，即将在国庆接踵而至的中网迎来了久违的朋友，德约已经抵达北京，这也是他时隔多年之后再…",
           "number": 16
         }
       ]
@@ -306,8 +306,8 @@
       "name": "东方财富 · 美股",
       "url": "https://stock.eastmoney.com/america.html",
       "status": "ok",
-      "lastAttempt": "2026-09-28T05:26:08.195Z",
-      "lastSuccess": "2026-09-28T05:26:08.195Z",
+      "lastAttempt": "2026-09-28T05:55:51.289Z",
+      "lastSuccess": "2026-09-28T05:55:51.289Z",
       "items": [
         {
           "category": "金融",
@@ -334,6 +334,17 @@
         {
           "category": "金融",
           "topic": "美股",
+          "title": "外资创纪录爆买美股9420亿美元，闪迪、西部数据、英特尔等科技股表现最突出，美债大幅降温",
+          "summary": "上周五公布的最新数据显示，在截至7月的12个月内，外国投资者对美国股票及投资基金份额的净买入额达到了创纪录的9420亿…",
+          "url": "https://finance.eastmoney.com/a/202609283885097321.html",
+          "publishedAt": "2026-09-28T05:26:00.000Z",
+          "source": "东方财富 · 中新经纬",
+          "kind": "报道",
+          "sourceId": "eastmoney-us-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "美股",
           "title": "美股三大指数高开高走，苹果创历史新高，市值一夜增5000亿元",
           "summary": "北京时间9月26日，美股三大指数高开高走，道指涨0.93%，终结周线三连跌；标普500指数涨0.51%，本周累涨1.2…",
           "url": "https://finance.eastmoney.com/a/202609263884378554.html",
@@ -349,8 +360,8 @@
       "name": "东方财富 · A股",
       "url": "https://stock.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-09-28T05:26:08.195Z",
-      "lastSuccess": "2026-09-28T05:26:08.195Z",
+      "lastAttempt": "2026-09-28T05:55:51.289Z",
+      "lastSuccess": "2026-09-28T05:55:51.289Z",
       "items": [
         {
           "category": "金融",
@@ -377,10 +388,21 @@
         {
           "category": "金融",
           "topic": "A股",
-          "title": "医药板块局部活跃 津药药业涨停",
-          "summary": "南方财经9月28日电，医药板块局部活跃，津药药业涨停，丽珠集团此前涨停，普洛药业、健康元、新华制药、康弘药业涨幅居前。",
-          "url": "https://finance.eastmoney.com/a/202609283885077538.html",
-          "publishedAt": "2026-09-28T05:12:00.000Z",
+          "title": "股价再度涨停 江淮汽车最新回应",
+          "summary": "9月28日早盘，江淮汽车再度涨停。Wind数据显示，截至午间收盘，公司股价报25.22元/股，最新市值为568.5亿元…",
+          "url": "https://finance.eastmoney.com/a/202609283885120173.html",
+          "publishedAt": "2026-09-28T05:42:00.000Z",
+          "source": "东方财富 · 中国证券报·中证金牛座",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "股价再度涨停 江淮汽车最新回应：公司和华为一直有合作",
+          "summary": "南方财经9月28日电，江淮汽车今日再度涨停，截至目前，公司股价报25.22元/股，最新市值为568.5亿元。此前，公司…",
+          "url": "https://finance.eastmoney.com/a/202609283885125362.html",
+          "publishedAt": "2026-09-28T05:45:00.000Z",
           "source": "东方财富 · 南方财经网",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
@@ -388,22 +410,33 @@
         {
           "category": "金融",
           "topic": "A股",
-          "title": "ST龙大控股股东因融资融券业务违约，1361万股股份将被强制执行，减持后持股或降至11.56%",
-          "summary": "9月27日，ST龙大（002726）发布公告，控股股东蓝润发展控股集团有限公司因融资融券业务违约，其部分持股将被强制执…",
-          "url": "https://finance.eastmoney.com/a/202609283885073579.html",
-          "publishedAt": "2026-09-28T05:08:00.000Z",
-          "source": "东方财富 · 深圳商报·读创",
+          "title": "黄酒龙头，月内股价翻倍",
+          "summary": "9月28日早盘，黄酒龙头会稽山触及涨停，股价再度创出历史新高，月内累计涨幅超过110%；随后打开涨停，截至发稿涨7.7…",
+          "url": "https://finance.eastmoney.com/a/202609283885124655.html",
+          "publishedAt": "2026-09-28T05:42:00.000Z",
+          "source": "东方财富 · 上海证券报",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
         {
           "category": "金融",
           "topic": "A股",
-          "title": "宁德时代，继续新低",
-          "summary": "伴随着大盘的低开，“宁王”同步调下跌，股价继续跳水。",
-          "url": "https://finance.eastmoney.com/a/202609283885063455.html",
-          "publishedAt": "2026-09-28T05:00:00.000Z",
-          "source": "东方财富 · IPO日报",
+          "title": "TD考恩将壳牌目标股价从107美元上调至115美元",
+          "summary": "TD考恩将壳牌目标股价从107美元上调至115美元。",
+          "url": "https://finance.eastmoney.com/a/202609283885093878.html",
+          "publishedAt": "2026-09-28T05:20:00.000Z",
+          "source": "东方财富 · 财联社",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "三大股指低开低走，沪指半日下跌1.74%",
+          "summary": "9月28日，A股三大股指低开低走，截至上午收盘，上证指数跌1.74%报3820.82点，深证成指跌3.37%，创业板指…",
+          "url": "https://finance.eastmoney.com/a/202609283885088035.html",
+          "publishedAt": "2026-09-28T05:13:00.000Z",
+          "source": "东方财富 · 每日经济新闻",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
@@ -454,66 +487,44 @@
         {
           "category": "金融",
           "topic": "A股",
-          "title": "沪深两市成交额突破1万亿 较上一日此时放量超900亿",
-          "summary": "沪深两市成交额突破1万亿，较上一日此时放量超900亿。",
-          "url": "https://finance.eastmoney.com/a/202609283885009233.html",
-          "publishedAt": "2026-09-28T02:52:00.000Z",
-          "source": "东方财富 · 东方财富Choice数据",
+          "title": "创业板指跌超4%，超4800只个股下跌！江淮汽车4天3板，汽车整车、玻璃基板、AI安全概念走强，高位人气股大面积跳水 | A股早盘",
+          "summary": "9月28日，截至午间收盘，上证指数跌1.73%，深证成指跌3.37%，创业板指跌4.32%，科创综指跌4.32%。",
+          "url": "https://finance.eastmoney.com/a/202609283885093274.html",
+          "publishedAt": "2026-09-28T04:19:00.000Z",
+          "source": "东方财富 · 每日经济新闻",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
         {
           "category": "金融",
           "topic": "A股",
-          "title": "创业板指跌逾4% 三市下跌个股近4800只",
-          "summary": "指数持续走弱，创业板指下挫跌逾4%，沪指跌1.76%，深成指跌3.24%。算力硬件、半导体芯片、有色金属等方向跌幅居前…",
-          "url": "https://finance.eastmoney.com/a/202609283884976977.html",
-          "publishedAt": "2026-09-28T02:39:00.000Z",
-          "source": "东方财富 · 东方财富Choice数据",
+          "title": "创业板指半日跌4.32% CPO概念集体走低，中际旭创跌超8%",
+          "summary": "中新经纬9月28日电周一早盘，A股三大指数低开低走。截至午间收盘，上证指数跌1.74%，报3820.82点；深证成指跌…",
+          "url": "https://finance.eastmoney.com/a/202609283885093417.html",
+          "publishedAt": "2026-09-28T03:40:00.000Z",
+          "source": "东方财富 · 中新经纬",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
         {
           "category": "金融",
           "topic": "A股",
-          "title": "创业板指跌逾3% 三市下跌个股近4500只",
-          "summary": "指数走弱，创业板指下挫跌逾3.00%，沪指跌0.98%，深成指跌2.24%。算力硬件、有色金属、锂电、农业等方向跌幅居…",
-          "url": "https://finance.eastmoney.com/a/202609283884743496.html",
-          "publishedAt": "2026-09-28T01:53:00.000Z",
-          "source": "东方财富 · 东方财富Choice数据",
+          "title": "午间涨跌停股分析：24只涨停股、39只跌停股，物业概念活跃，深物业A、深华发A涨停",
+          "summary": "9月28日午间，A股半日下来共有24只涨停股、39只跌停股。物业概念活跃，深物业A、深华发A涨停。",
+          "url": "https://finance.eastmoney.com/a/202609283885102328.html",
+          "publishedAt": "2026-09-28T03:35:00.000Z",
+          "source": "东方财富 · 界面新闻",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
         {
           "category": "金融",
-          "topic": "A股",
-          "title": "多只热门股，直线跳水！A股午评来了",
-          "summary": "【导读】上午A股主要指数集体下挫，创业板指、科创综指跌逾4%，算力硬件、半导体芯片、有色金属等方向跌幅居前，全市场下跌…",
-          "url": "https://finance.eastmoney.com/a/202609283885067961.html",
-          "publishedAt": "2026-09-28T04:38:00.000Z",
-          "source": "东方财富 · 中国基金报",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "【午报】创业板指低开低走跌超4%，全市场超4800股飘绿，汽车整车板块逆势活跃",
-          "summary": "财联社9月28日讯，市场早盘低开低走，创业板指半日跌超4%。沪深两市半日成交额1.16万亿，较上个交易日放量934亿。…",
-          "url": "https://finance.eastmoney.com/a/202609283885055781.html",
-          "publishedAt": "2026-09-28T04:15:00.000Z",
-          "source": "东方财富 · 财联社",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "200亿黄酒龙头再度涨停！不到一月股价已翻倍",
-          "summary": "9月28日早盘，会稽山涨停，股价报41.84元/股，总市值200.6亿元。此前，会稽山走出7天5板行情。9月以来，该股…",
-          "url": "https://finance.eastmoney.com/a/202609283884889328.html",
-          "publishedAt": "2026-09-28T02:16:00.000Z",
-          "source": "东方财富 · 中国证券报·中证金牛座",
+          "topic": "中国期货",
+          "title": "A股午评：创业板指半日跌4.32%，全市场超4800只个股飘绿，CPO、PCB、贵金属等概念走弱",
+          "summary": "9月28日，A股三大指数早盘集体下跌，截至午间收盘，上证指数跌1.74%，深证成指跌3.37%，创业板指跌4.32%；…",
+          "url": "https://finance.eastmoney.com/a/202609283885103958.html",
+          "publishedAt": "2026-09-28T03:33:00.000Z",
+          "source": "东方财富 · 界面新闻",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         }
@@ -524,8 +535,8 @@
       "name": "东方财富 · 中国期货",
       "url": "https://futures.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-09-28T05:26:08.195Z",
-      "lastSuccess": "2026-09-28T05:26:08.195Z",
+      "lastAttempt": "2026-09-28T05:55:51.289Z",
+      "lastSuccess": "2026-09-28T05:55:51.289Z",
       "items": [
         {
           "category": "金融",
@@ -556,8 +567,8 @@
       "name": "东方财富 · 宏观财经",
       "url": "https://finance.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-09-28T05:26:08.195Z",
-      "lastSuccess": "2026-09-28T05:26:08.195Z",
+      "lastAttempt": "2026-09-28T05:55:51.289Z",
+      "lastSuccess": "2026-09-28T05:55:51.289Z",
       "items": [
         {
           "category": "金融",
@@ -584,23 +595,23 @@
         {
           "category": "金融",
           "topic": "宏观财经",
+          "title": "日本2年期国债收益率逼近2% 市场加大押注央行升息",
+          "summary": "日本2年期国债收益率逼近2%关口，投资者加大对日本央行进一步加息的押注。对货币政策预期较为敏感的该品种国债收益率周一上…",
+          "url": "https://finance.eastmoney.com/a/202609283885086781.html",
+          "publishedAt": "2026-09-28T05:20:00.000Z",
+          "source": "东方财富 · 财联社",
+          "kind": "报道",
+          "sourceId": "eastmoney-macro"
+        },
+        {
+          "category": "金融",
+          "topic": "宏观财经",
           "title": "三菱日联摩根士丹利证券将其预测的日本央行加息时点提前",
           "summary": "三菱日联摩根士丹利证券将其预测的日本央行加息时点从此前预计的2027年1月和6月提前至2026年12月和2027年4月。",
           "url": "https://finance.eastmoney.com/a/202609283885069890.html",
           "publishedAt": "2026-09-28T05:09:00.000Z",
           "source": "东方财富 · 财联社",
           "kind": "观点",
-          "sourceId": "eastmoney-macro"
-        },
-        {
-          "category": "金融",
-          "topic": "宏观财经",
-          "title": "法巴银行：美联储不太可能重演2022-2023年的加息周期",
-          "summary": "法巴银行策略师Chi Lo表示，尽管市场预期还会有两次加息，但美联储9月加息不太可能成为类似2022至2023年的新一…",
-          "url": "https://finance.eastmoney.com/a/202609283885067634.html",
-          "publishedAt": "2026-09-28T05:06:00.000Z",
-          "source": "东方财富 · 财联社",
-          "kind": "报道",
           "sourceId": "eastmoney-macro"
         },
         {
@@ -621,8 +632,8 @@
       "name": "新浪财经 · 美股",
       "url": "https://finance.sina.com.cn/stock/usstock/",
       "status": "ok",
-      "lastAttempt": "2026-09-28T05:26:08.195Z",
-      "lastSuccess": "2026-09-28T05:26:08.195Z",
+      "lastAttempt": "2026-09-28T05:55:51.289Z",
+      "lastSuccess": "2026-09-28T05:55:51.289Z",
       "items": [
         {
           "title": "散户退场，机构接棒！美债风暴下“聪明钱”不撤反进：184亿美元期权资金流入美股，AI仍是首选",
@@ -675,8 +686,8 @@
       "name": "新浪财经 · A股",
       "url": "https://finance.sina.com.cn/stock/",
       "status": "ok",
-      "lastAttempt": "2026-09-28T05:26:08.195Z",
-      "lastSuccess": "2026-09-28T05:26:08.195Z",
+      "lastAttempt": "2026-09-28T05:55:51.289Z",
+      "lastSuccess": "2026-09-28T05:55:51.289Z",
       "items": [
         {
           "title": "一女子轻信“内幕消息”险被骗280万 警方紧急拦截",
@@ -695,6 +706,17 @@
           "summary": "波士顿咨询集团称，西欧六分之一企业正承受财务压力，不断走高的杠杆令企业更容易受到各类冲击影响。 波士顿咨询在一份分析约…",
           "source": "环球市场播报 · 新浪财经",
           "publishedAt": "2026-09-28T04:02:57.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock",
+          "kind": "报道"
+        },
+        {
+          "title": "今起11天，央行重磅动作！",
+          "url": "https://finance.sina.com.cn/money/bank/bank_yhfg/2026-09-28/doc-initkarm3821060.shtml",
+          "summary": "来源：中国商报 为更好匹配银行体系短期流动性需求，中国人民银行将在9月28日至10月8日开展隔夜逆回购操作，采用固定利…",
+          "source": "市场资讯 · 新浪财经",
+          "publishedAt": "2026-09-28T03:30:36.000Z",
           "category": "金融",
           "topic": "A股",
           "sourceId": "cn-stock",
@@ -729,8 +751,8 @@
       "name": "新浪财经 · 期货订阅 1",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-09-28T05:26:08.195Z",
-      "lastSuccess": "2026-09-28T05:26:08.195Z",
+      "lastAttempt": "2026-09-28T05:55:51.289Z",
+      "lastSuccess": "2026-09-28T05:55:51.289Z",
       "items": [
         {
           "title": "光大期货0928黄金点评：利率重新定价，四季度黄金怎么看？",
@@ -772,8 +794,8 @@
       "name": "新浪财经 · 期货订阅 2",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-09-28T05:26:08.195Z",
-      "lastSuccess": "2026-09-28T05:26:08.195Z",
+      "lastAttempt": "2026-09-28T05:55:51.289Z",
+      "lastSuccess": "2026-09-28T05:55:51.289Z",
       "items": [
         {
           "title": "中信建投期货：9月28日能化早报",
@@ -815,8 +837,8 @@
       "name": "新浪财经 · 期货订阅 3",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-09-28T05:26:08.195Z",
-      "lastSuccess": "2026-09-28T05:26:08.195Z",
+      "lastAttempt": "2026-09-28T05:55:51.289Z",
+      "lastSuccess": "2026-09-28T05:55:51.289Z",
       "items": [
         {
           "title": "四个期货期权品种规则公开征求意见",
@@ -836,8 +858,8 @@
       "name": "中新网 · 国际",
       "url": "https://www.chinanews.com.cn/rss/world.xml",
       "status": "ok",
-      "lastAttempt": "2026-09-28T05:26:08.195Z",
-      "lastSuccess": "2026-09-28T05:26:08.195Z",
+      "lastAttempt": "2026-09-28T05:55:51.289Z",
+      "lastSuccess": "2026-09-28T05:55:51.289Z",
       "items": [
         {
           "title": "大熊猫“平平”“福双”抵达美国亚特兰大",
@@ -936,8 +958,8 @@
       "name": "中新网 · 国内",
       "url": "https://www.chinanews.com.cn/rss/china.xml",
       "status": "ok",
-      "lastAttempt": "2026-09-28T05:26:08.195Z",
-      "lastSuccess": "2026-09-28T05:26:08.195Z",
+      "lastAttempt": "2026-09-28T05:55:51.289Z",
+      "lastSuccess": "2026-09-28T05:55:51.289Z",
       "items": [
         {
           "title": "教育部原副部长鲁昕被查",
@@ -998,16 +1020,6 @@
           "topic": "中国",
           "source": "中国新闻网",
           "sourceId": "cn-politics"
-        },
-        {
-          "title": "视频画报｜习近平主席的华盛顿时间：继往开来万里行",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-27/10704562.shtml",
-          "summary": "跨越太平洋，万里启新程。",
-          "publishedAt": "2026-09-27T13:12:50.000Z",
-          "category": "政治",
-          "topic": "中国",
-          "source": "中国新闻网",
-          "sourceId": "cn-politics"
         }
       ]
     },
@@ -1016,8 +1028,8 @@
       "name": "AI HOT",
       "url": "https://aihot.news/",
       "status": "ok",
-      "lastAttempt": "2026-09-28T05:26:08.195Z",
-      "lastSuccess": "2026-09-28T05:26:08.195Z",
+      "lastAttempt": "2026-09-28T05:55:51.289Z",
+      "lastSuccess": "2026-09-28T05:55:51.289Z",
       "items": [
         {
           "category": "AI",
@@ -1054,7 +1066,7 @@
       "summary": "来自成都大熊猫繁育研究基地的大熊猫“平平”“福双”27日启程，前往美国亚特兰大动物园，中美双方开启新一轮大熊猫保护国际…",
       "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%B0%91%E4%BC%97%E7%83%AD%E7%83%88%E6%9C%9F%E7%9B%BC%E5%A4%A7%E7%86%8A%E7%8C%AB%E9%87%8D%E8%BF%94%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-09-28T05:26:08.195Z",
+      "publishedAt": "2026-09-28T05:55:51.289Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1063,11 +1075,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "女子每月花3000元跨省2小时上班：划算",
-      "summary": "杭州临平姑娘小林每天跨省到上海上班，月通勤费约3000元：6:58高铁出发，转地铁、骑共享单车近9点到公司。她算账称“…",
-      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%AF%8F%E6%9C%88%E8%8A%B13000%E5%85%83%E8%B7%A8%E7%9C%812%E5%B0%8F%E6%97%B6%E4%B8%8A%E7%8F%AD%EF%BC%9A%E5%88%92%E7%AE%97&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "央视曝光网红核桃油",
+      "summary": "近日，央视曝光江苏兴化市一假冒核桃油窝点。孙某用大豆油灌装冒充核桃油，供货给中间商谷某，再由主播以“公益助农”名义在直…",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%BD%91%E7%BA%A2%E6%A0%B8%E6%A1%83%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-09-28T05:26:08.195Z",
+      "publishedAt": "2026-09-28T05:55:51.289Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1076,11 +1088,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "苹果回应iPhone18 Pro系列严重漏洞",
-      "summary": "日前，苹果对外正式证实，旗下最新发布的iPhone 18 Pro以及iPhone 18 Pro Max两款机型中，存在…",
-      "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhone18+Pro%E7%B3%BB%E5%88%97%E4%B8%A5%E9%87%8D%E6%BC%8F%E6%B4%9E&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "女子每月花3000元跨省2小时上班：划算",
+      "summary": "杭州临平姑娘小林每天跨省到上海上班，月通勤费约3000元：6:58高铁出发，转地铁、骑共享单车近9点到公司。她算账称“…",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%AF%8F%E6%9C%88%E8%8A%B13000%E5%85%83%E8%B7%A8%E7%9C%812%E5%B0%8F%E6%97%B6%E4%B8%8A%E7%8F%AD%EF%BC%9A%E5%88%92%E7%AE%97&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-09-28T05:26:08.195Z",
+      "publishedAt": "2026-09-28T05:55:51.289Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1089,11 +1101,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "央视曝光网红核桃油",
-      "summary": "近日，央视曝光江苏兴化市一假冒核桃油窝点。孙某用大豆油灌装冒充核桃油，供货给中间商谷某，再由主播以“公益助农”名义在直…",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%BD%91%E7%BA%A2%E6%A0%B8%E6%A1%83%E6%B2%B9&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "苹果回应iPhone18 Pro系列严重漏洞",
+      "summary": "日前，苹果对外正式证实，旗下最新发布的iPhone 18 Pro以及iPhone 18 Pro Max两款机型中，存在…",
+      "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhone18+Pro%E7%B3%BB%E5%88%97%E4%B8%A5%E9%87%8D%E6%BC%8F%E6%B4%9E&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-09-28T05:26:08.195Z",
+      "publishedAt": "2026-09-28T05:55:51.289Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1106,7 +1118,7 @@
       "summary": "目前，教育部原党组成员、副部长鲁昕涉嫌严重违纪违法，正接受中央纪委国家监委纪律审查和监察调查。",
       "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%8E%9F%E5%89%AF%E9%83%A8%E9%95%BF%E9%B2%81%E6%98%95%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-09-28T05:26:08.195Z",
+      "publishedAt": "2026-09-28T05:55:51.289Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1119,7 +1131,7 @@
       "summary": "8月底雨润食品公布2026年中期业绩，高温肉制品营收归零正式退赛，持续20多年的火腿肠“三强争霸”终结。国内火腿肠市场…",
       "url": "https://www.baidu.com/s?wd=%E7%81%AB%E8%85%BF%E8%82%A0%E4%B9%9F%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-09-28T05:26:08.195Z",
+      "publishedAt": "2026-09-28T05:55:51.289Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1269,6 +1281,17 @@
       "number": 19
     },
     {
+      "title": "中网男单签表：德约对阵博杰斯，商竣程首轮迎战巴埃斯",
+      "url": "https://www.163.com/dy/article/L7TTAUV70549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-09-28T05:49:05.000Z",
+      "category": "体育",
+      "topic": "网球",
+      "sourceId": "sports",
+      "summary": "北京时间9月28日，中网男单签表出炉，首轮德约科维奇将对阵博格斯，商竣程对阵巴埃斯，布云朝克特对阵塞伦多罗。",
+      "number": 20
+    },
+    {
       "title": "从2023到2025，三年间，郑钦文进大满贯八强，遇萨巴伦卡必败北",
       "url": "https://www.163.com/dy/article/L7S7UI4905298CTE.html",
       "source": "网球之家 · 网易体育",
@@ -1277,7 +1300,7 @@
       "topic": "网球",
       "sourceId": "sports",
       "summary": "说到中国女子网球选手郑钦文，很多网友并不陌生。她曾在WTA1000网球赛事、大满贯、年终总决赛上都闯进过决赛，还获得过…",
-      "number": 20
+      "number": 21
     },
     {
       "title": "费雷罗花落谁家？霍达尔、辛纳成两大潜在人选，阿卡发表观点",
@@ -1288,18 +1311,19 @@
       "topic": "网球",
       "sourceId": "sports",
       "summary": "阿尔卡拉斯的培养计划始于2018年，那时他年仅15岁。仅仅四年时间，他就成为了这项运动史上最年轻的世界第一。如今，费雷…",
-      "number": 21
+      "number": 22
     },
     {
-      "title": "德约抵达北京，现役三人还有望在其身上破蛋吗？",
-      "url": "https://www.163.com/dy/article/L7PPK9E405298CTE.html",
-      "source": "网球之家 · 网易体育",
-      "publishedAt": "2026-09-26T15:27:23.000Z",
-      "category": "体育",
-      "topic": "网球",
-      "sourceId": "sports",
-      "summary": "就在成都和杭州赛进行得如火如荼之际，即将在国庆接踵而至的中网迎来了久违的朋友，德约已经抵达北京，这也是他时隔多年之后再…",
-      "number": 22
+      "category": "金融",
+      "topic": "美股",
+      "title": "外资创纪录爆买美股9420亿美元，闪迪、西部数据、英特尔等科技股表现最突出，美债大幅降温",
+      "summary": "上周五公布的最新数据显示，在截至7月的12个月内，外国投资者对美国股票及投资基金份额的净买入额达到了创纪录的9420亿…",
+      "url": "https://finance.eastmoney.com/a/202609283885097321.html",
+      "publishedAt": "2026-09-28T05:26:00.000Z",
+      "source": "东方财富 · 中新经纬",
+      "kind": "报道",
+      "sourceId": "eastmoney-us-stock",
+      "number": 23
     },
     {
       "category": "金融",
@@ -1311,7 +1335,7 @@
       "source": "东方财富 · 财联社",
       "kind": "报道",
       "sourceId": "eastmoney-us-stock",
-      "number": 23
+      "number": 24
     },
     {
       "category": "金融",
@@ -1323,7 +1347,7 @@
       "source": "东方财富 · 财联社",
       "kind": "报道",
       "sourceId": "eastmoney-us-stock",
-      "number": 24
+      "number": 25
     },
     {
       "title": "散户退场，机构接棒！美债风暴下“聪明钱”不撤反进：184亿美元期权资金流入美股，AI仍是首选",
@@ -1335,7 +1359,7 @@
       "topic": "美股",
       "sourceId": "us-stock",
       "kind": "报道",
-      "number": 25
+      "number": 26
     },
     {
       "title": "贝森特敦促美联储对美国通胀前景保持“开放心态”",
@@ -1347,7 +1371,7 @@
       "topic": "美股",
       "sourceId": "us-stock",
       "kind": "报道",
-      "number": 26
+      "number": 27
     },
     {
       "title": "在多年大举买入之后，美股散户交易者似乎正转向观望",
@@ -1359,27 +1383,15 @@
       "topic": "美股",
       "sourceId": "us-stock",
       "kind": "报道",
-      "number": 27
-    },
-    {
-      "title": "英伟达携手德国SCHMID布局玻璃基板",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-27/doc-initfxsc9590504.shtml",
-      "summary": "英伟达正在考虑采用玻璃基板，并携手德国设备制造商SCHMID及其他企业开展合作，将人工智能芯片的性能提升到新的水平。该…",
-      "source": "环球市场播报 · 新浪财经",
-      "publishedAt": "2026-09-27T06:04:30.000Z",
-      "category": "金融",
-      "topic": "美股",
-      "sourceId": "us-stock",
-      "kind": "报道",
       "number": 28
     },
     {
       "category": "金融",
       "topic": "A股",
-      "title": "医药板块局部活跃 津药药业涨停",
-      "summary": "南方财经9月28日电，医药板块局部活跃，津药药业涨停，丽珠集团此前涨停，普洛药业、健康元、新华制药、康弘药业涨幅居前。",
-      "url": "https://finance.eastmoney.com/a/202609283885077538.html",
-      "publishedAt": "2026-09-28T05:12:00.000Z",
+      "title": "股价再度涨停 江淮汽车最新回应：公司和华为一直有合作",
+      "summary": "南方财经9月28日电，江淮汽车今日再度涨停，截至目前，公司股价报25.22元/股，最新市值为568.5亿元。此前，公司…",
+      "url": "https://finance.eastmoney.com/a/202609283885125362.html",
+      "publishedAt": "2026-09-28T05:45:00.000Z",
       "source": "东方财富 · 南方财经网",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
@@ -1388,11 +1400,11 @@
     {
       "category": "金融",
       "topic": "A股",
-      "title": "ST龙大控股股东因融资融券业务违约，1361万股股份将被强制执行，减持后持股或降至11.56%",
-      "summary": "9月27日，ST龙大（002726）发布公告，控股股东蓝润发展控股集团有限公司因融资融券业务违约，其部分持股将被强制执…",
-      "url": "https://finance.eastmoney.com/a/202609283885073579.html",
-      "publishedAt": "2026-09-28T05:08:00.000Z",
-      "source": "东方财富 · 深圳商报·读创",
+      "title": "股价再度涨停 江淮汽车最新回应",
+      "summary": "9月28日早盘，江淮汽车再度涨停。Wind数据显示，截至午间收盘，公司股价报25.22元/股，最新市值为568.5亿元…",
+      "url": "https://finance.eastmoney.com/a/202609283885120173.html",
+      "publishedAt": "2026-09-28T05:42:00.000Z",
+      "source": "东方财富 · 中国证券报·中证金牛座",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
       "number": 30
@@ -1400,14 +1412,38 @@
     {
       "category": "金融",
       "topic": "A股",
-      "title": "宁德时代，继续新低",
-      "summary": "伴随着大盘的低开，“宁王”同步调下跌，股价继续跳水。",
-      "url": "https://finance.eastmoney.com/a/202609283885063455.html",
-      "publishedAt": "2026-09-28T05:00:00.000Z",
-      "source": "东方财富 · IPO日报",
+      "title": "黄酒龙头，月内股价翻倍",
+      "summary": "9月28日早盘，黄酒龙头会稽山触及涨停，股价再度创出历史新高，月内累计涨幅超过110%；随后打开涨停，截至发稿涨7.7…",
+      "url": "https://finance.eastmoney.com/a/202609283885124655.html",
+      "publishedAt": "2026-09-28T05:42:00.000Z",
+      "source": "东方财富 · 上海证券报",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
       "number": 31
+    },
+    {
+      "category": "金融",
+      "topic": "A股",
+      "title": "TD考恩将壳牌目标股价从107美元上调至115美元",
+      "summary": "TD考恩将壳牌目标股价从107美元上调至115美元。",
+      "url": "https://finance.eastmoney.com/a/202609283885093878.html",
+      "publishedAt": "2026-09-28T05:20:00.000Z",
+      "source": "东方财富 · 财联社",
+      "kind": "报道",
+      "sourceId": "eastmoney-cn-stock",
+      "number": 32
+    },
+    {
+      "category": "金融",
+      "topic": "A股",
+      "title": "三大股指低开低走，沪指半日下跌1.74%",
+      "summary": "9月28日，A股三大股指低开低走，截至上午收盘，上证指数跌1.74%报3820.82点，深证成指跌3.37%，创业板指…",
+      "url": "https://finance.eastmoney.com/a/202609283885088035.html",
+      "publishedAt": "2026-09-28T05:13:00.000Z",
+      "source": "东方财富 · 每日经济新闻",
+      "kind": "报道",
+      "sourceId": "eastmoney-cn-stock",
+      "number": 33
     },
     {
       "title": "一女子轻信“内幕消息”险被骗280万 警方紧急拦截",
@@ -1419,31 +1455,19 @@
       "topic": "A股",
       "sourceId": "cn-stock",
       "kind": "报道",
-      "number": 32
-    },
-    {
-      "category": "金融",
-      "topic": "A股",
-      "title": "多只热门股，直线跳水！A股午评来了",
-      "summary": "【导读】上午A股主要指数集体下挫，创业板指、科创综指跌逾4%，算力硬件、半导体芯片、有色金属等方向跌幅居前，全市场下跌…",
-      "url": "https://finance.eastmoney.com/a/202609283885067961.html",
-      "publishedAt": "2026-09-28T04:38:00.000Z",
-      "source": "东方财富 · 中国基金报",
-      "kind": "报道",
-      "sourceId": "eastmoney-cn-stock",
-      "number": 33
-    },
-    {
-      "category": "金融",
-      "topic": "A股",
-      "title": "【午报】创业板指低开低走跌超4%，全市场超4800股飘绿，汽车整车板块逆势活跃",
-      "summary": "财联社9月28日讯，市场早盘低开低走，创业板指半日跌超4%。沪深两市半日成交额1.16万亿，较上个交易日放量934亿。…",
-      "url": "https://finance.eastmoney.com/a/202609283885055781.html",
-      "publishedAt": "2026-09-28T04:15:00.000Z",
-      "source": "东方财富 · 财联社",
-      "kind": "报道",
-      "sourceId": "eastmoney-cn-stock",
       "number": 34
+    },
+    {
+      "category": "金融",
+      "topic": "中国期货",
+      "title": "A股午评：创业板指半日跌4.32%，全市场超4800只个股飘绿，CPO、PCB、贵金属等概念走弱",
+      "summary": "9月28日，A股三大指数早盘集体下跌，截至午间收盘，上证指数跌1.74%，深证成指跌3.37%，创业板指跌4.32%；…",
+      "url": "https://finance.eastmoney.com/a/202609283885103958.html",
+      "publishedAt": "2026-09-28T03:33:00.000Z",
+      "source": "东方财富 · 界面新闻",
+      "kind": "报道",
+      "sourceId": "eastmoney-cn-stock",
+      "number": 35
     },
     {
       "category": "金融",
@@ -1455,7 +1479,7 @@
       "source": "东方财富 · 东方财富研究中心",
       "kind": "报道",
       "sourceId": "eastmoney-futures",
-      "number": 35
+      "number": 36
     },
     {
       "title": "光大期货0928黄金点评：利率重新定价，四季度黄金怎么看？",
@@ -1467,7 +1491,7 @@
       "topic": "中国期货",
       "sourceId": "futures-1",
       "kind": "报道",
-      "number": 36
+      "number": 37
     },
     {
       "category": "金融",
@@ -1479,7 +1503,7 @@
       "source": "东方财富 · 东方财富研究中心",
       "kind": "报道",
       "sourceId": "eastmoney-futures",
-      "number": 37
+      "number": 38
     },
     {
       "title": "快讯：股指期货加速下挫 IC、IM主力合约跌超3%",
@@ -1491,7 +1515,7 @@
       "topic": "中国期货",
       "sourceId": "futures-1",
       "kind": "报道",
-      "number": 38
+      "number": 39
     },
     {
       "title": "光大期货：9月28日矿钢煤焦日报",
@@ -1503,19 +1527,19 @@
       "topic": "中国期货",
       "sourceId": "futures-1",
       "kind": "报道",
-      "number": 39
+      "number": 40
     },
     {
-      "title": "中信建投期货：9月28日能化早报",
-      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-28/doc-initiwif8727992.shtml",
-      "summary": "PX： 供需面供稳需减。中国行业负荷环比增加0.3pct至80.3%，处于五年同期中性水平，亚洲PX行业负荷环比增加0…",
-      "source": "市场资讯 · 新浪财经",
-      "publishedAt": "2026-09-28T01:21:50.000Z",
       "category": "金融",
-      "topic": "中国期货",
-      "sourceId": "futures-2",
+      "topic": "宏观财经",
+      "title": "日本2年期国债收益率逼近2% 市场加大押注央行升息",
+      "summary": "日本2年期国债收益率逼近2%关口，投资者加大对日本央行进一步加息的押注。对货币政策预期较为敏感的该品种国债收益率周一上…",
+      "url": "https://finance.eastmoney.com/a/202609283885086781.html",
+      "publishedAt": "2026-09-28T05:20:00.000Z",
+      "source": "东方财富 · 财联社",
       "kind": "报道",
-      "number": 40
+      "sourceId": "eastmoney-macro",
+      "number": 41
     },
     {
       "category": "金融",
@@ -1526,18 +1550,6 @@
       "publishedAt": "2026-09-28T05:09:00.000Z",
       "source": "东方财富 · 财联社",
       "kind": "观点",
-      "sourceId": "eastmoney-macro",
-      "number": 41
-    },
-    {
-      "category": "金融",
-      "topic": "宏观财经",
-      "title": "法巴银行：美联储不太可能重演2022-2023年的加息周期",
-      "summary": "法巴银行策略师Chi Lo表示，尽管市场预期还会有两次加息，但美联储9月加息不太可能成为类似2022至2023年的新一…",
-      "url": "https://finance.eastmoney.com/a/202609283885067634.html",
-      "publishedAt": "2026-09-28T05:06:00.000Z",
-      "source": "东方财富 · 财联社",
-      "kind": "报道",
       "sourceId": "eastmoney-macro",
       "number": 42
     },
@@ -1699,17 +1711,6 @@
       "number": 56
     },
     {
-      "title": "视频画报｜习近平主席的华盛顿时间：继往开来万里行",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-27/10704562.shtml",
-      "summary": "跨越太平洋，万里启新程。",
-      "publishedAt": "2026-09-27T13:12:50.000Z",
-      "category": "政治",
-      "topic": "中国",
-      "source": "中国新闻网",
-      "sourceId": "cn-politics",
-      "number": 57
-    },
-    {
       "category": "AI",
       "topic": "行业动态",
       "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
@@ -1720,7 +1721,7 @@
       "reportDate": "2026-09-28",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 58
+      "number": 57
     },
     {
       "category": "AI",
@@ -1733,7 +1734,7 @@
       "reportDate": "2026-09-28",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 59
+      "number": 58
     }
   ]
 }
