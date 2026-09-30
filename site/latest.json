@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-09-30T06:00:38.454Z",
+  "collectedAt": "2026-09-30T06:42:55.680Z",
   "topics": {
     "时事": [
       "百度热搜"
@@ -38,57 +38,9 @@
       "name": "百度热搜 · 时事",
       "url": "https://top.baidu.com/board?tab=realtime",
       "status": "ok",
-      "lastAttempt": "2026-09-30T06:00:38.454Z",
-      "lastSuccess": "2026-09-30T06:00:38.454Z",
+      "lastAttempt": "2026-09-30T06:42:55.680Z",
+      "lastSuccess": "2026-09-30T06:42:55.680Z",
       "items": [
-        {
-          "category": "时事",
-          "topic": "百度热搜",
-          "title": "蒂芙尼被一盒月饼绊倒了",
-          "summary": "近日，一名消费者在成都蒂芙尼门店消费二十余万元，销售承诺赠送的定制中秋月饼错寄给他人，随后提出用几十元的散装桃酥作为赔…",
-          "url": "https://www.baidu.com/s?wd=%E8%92%82%E8%8A%99%E5%B0%BC%E8%A2%AB%E4%B8%80%E7%9B%92%E6%9C%88%E9%A5%BC%E7%BB%8A%E5%80%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-          "source": "百度热搜",
-          "publishedAt": "2026-09-30T06:00:38.454Z",
-          "timeLabel": "热搜采集",
-          "linkLabel": "查看相关新闻",
-          "sourceId": "baidu"
-        },
-        {
-          "category": "时事",
-          "topic": "百度热搜",
-          "title": "台湾以东海域地震",
-          "summary": "据中国地震台网正式测定，9月30日13时0分在台湾以东海域发生5.5级地震，震源深度10公里，震中位于北纬23.77度…",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E4%BB%A5%E4%B8%9C%E6%B5%B7%E5%9F%9F%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news",
-          "source": "百度热搜",
-          "publishedAt": "2026-09-30T06:00:38.454Z",
-          "timeLabel": "热搜采集",
-          "linkLabel": "查看相关新闻",
-          "sourceId": "baidu"
-        },
-        {
-          "category": "时事",
-          "topic": "百度热搜",
-          "title": "目击者称东航空姐向乘客跪了两三次",
-          "summary": "日前，合肥飞大连航班上，一空姐推餐车不慎磕碰男乘客手肘，道歉后仍被要求“踹一脚”，空姐下跪求踹。9月29日，涉事航空公…",
-          "url": "https://www.baidu.com/s?wd=%E7%9B%AE%E5%87%BB%E8%80%85%E7%A7%B0%E4%B8%9C%E8%88%AA%E7%A9%BA%E5%A7%90%E5%90%91%E4%B9%98%E5%AE%A2%E8%B7%AA%E4%BA%86%E4%B8%A4%E4%B8%89%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news",
-          "source": "百度热搜",
-          "publishedAt": "2026-09-30T06:00:38.454Z",
-          "timeLabel": "热搜采集",
-          "linkLabel": "查看相关新闻",
-          "sourceId": "baidu"
-        },
-        {
-          "category": "时事",
-          "topic": "百度热搜",
-          "title": "日本与那国岛附近海域6.0级地震",
-          "summary": "据日本气象厅消息，当地时间30日14时左右，日本与那国岛附近海域发生6.0级地震，震源深度10千米，最大震感为震度3。",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%8E%E9%82%A3%E5%9B%BD%E5%B2%9B%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F6.0%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news",
-          "source": "百度热搜",
-          "publishedAt": "2026-09-30T06:00:38.454Z",
-          "timeLabel": "热搜采集",
-          "linkLabel": "查看相关新闻",
-          "sourceId": "baidu"
-        },
         {
           "category": "时事",
           "topic": "百度热搜",
@@ -96,7 +48,7 @@
           "summary": "近日，消费者魏女士家中墙面渗水，通过电商平台找来的维修人员上门后在未查清渗漏源的情况下，便草率地在地面打了两个孔洞，注…",
           "url": "https://www.baidu.com/s?wd=%E5%AE%B6%E4%B8%AD%E6%BC%8F%E6%B0%B4+%E7%BB%B4%E4%BF%AE%E4%BA%BA%E5%91%98%E7%81%8C%E4%BA%8650%E5%A4%9A%E6%96%A4%E8%83%B6%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-09-30T06:00:38.454Z",
+          "publishedAt": "2026-09-30T06:42:55.680Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -104,11 +56,59 @@
         {
           "category": "时事",
           "topic": "百度热搜",
-          "title": "国庆长假酒店价格涨还是跌",
-          "summary": "9月中旬，市场监管总局与文旅部约谈美团等六平台叫停“全网最低价”，起因是平台高抽佣且拿走定价权，致使酒店平日亏损、节假…",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E9%95%BF%E5%81%87%E9%85%92%E5%BA%97%E4%BB%B7%E6%A0%BC%E6%B6%A8%E8%BF%98%E6%98%AF%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news",
+          "title": "蒂芙尼被一盒月饼绊倒了",
+          "summary": "近日，一名消费者在成都蒂芙尼门店消费二十余万元，销售承诺赠送的定制中秋月饼错寄给他人，随后提出用几十元的散装桃酥作为赔…",
+          "url": "https://www.baidu.com/s?wd=%E8%92%82%E8%8A%99%E5%B0%BC%E8%A2%AB%E4%B8%80%E7%9B%92%E6%9C%88%E9%A5%BC%E7%BB%8A%E5%80%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-09-30T06:00:38.454Z",
+          "publishedAt": "2026-09-30T06:42:55.680Z",
+          "timeLabel": "热搜采集",
+          "linkLabel": "查看相关新闻",
+          "sourceId": "baidu"
+        },
+        {
+          "category": "时事",
+          "topic": "百度热搜",
+          "title": "孙怡拿影后 前夫董子健台下鼓掌",
+          "summary": "9月29日，演员孙怡凭借电影《爱情笑话》在第10届平遥国际电影展拿下费穆荣誉最佳女演员，获得出道以来首个影后。孙怡领奖…",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E6%80%A1%E6%8B%BF%E5%BD%B1%E5%90%8E+%E5%89%8D%E5%A4%AB%E8%91%A3%E5%AD%90%E5%81%A5%E5%8F%B0%E4%B8%8B%E9%BC%93%E6%8E%8C&sa=fyb_news&rsv_dl=fyb_news",
+          "source": "百度热搜",
+          "publishedAt": "2026-09-30T06:42:55.680Z",
+          "timeLabel": "热搜采集",
+          "linkLabel": "查看相关新闻",
+          "sourceId": "baidu"
+        },
+        {
+          "category": "时事",
+          "topic": "百度热搜",
+          "title": "国台办回应《兰香如故》在台爆火",
+          "summary": "9月30日，国务院台办举行新闻发布会回应大陆电视剧《兰香如故》在台开播爆火。发言人张晗表示，两岸同胞同根同源，易形成文…",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E3%80%8A%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E3%80%8B%E5%9C%A8%E5%8F%B0%E7%88%86%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news",
+          "source": "百度热搜",
+          "publishedAt": "2026-09-30T06:42:55.680Z",
+          "timeLabel": "热搜采集",
+          "linkLabel": "查看相关新闻",
+          "sourceId": "baidu"
+        },
+        {
+          "category": "时事",
+          "topic": "百度热搜",
+          "title": "充电器忘拔烧毁整个家",
+          "summary": "近日，福建泉州一民房因手机充电器长期不拔产生电火花引发火灾。今年7月底，湖南益阳沅江市也曾因该原因发生火灾，致房屋烧毁…",
+          "url": "https://www.baidu.com/s?wd=%E5%85%85%E7%94%B5%E5%99%A8%E5%BF%98%E6%8B%94%E7%83%A7%E6%AF%81%E6%95%B4%E4%B8%AA%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news",
+          "source": "百度热搜",
+          "publishedAt": "2026-09-30T06:42:55.680Z",
+          "timeLabel": "热搜采集",
+          "linkLabel": "查看相关新闻",
+          "sourceId": "baidu"
+        },
+        {
+          "category": "时事",
+          "topic": "百度热搜",
+          "title": "男子9年给学弟学妹发奖学金超百万",
+          "summary": "近日，河南老板池金清坚持9年回母校为优秀毕业生发奖学金引发关注。据悉，其目前已发放超百万元，有受助学生表示一万元奖学金…",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%909%E5%B9%B4%E7%BB%99%E5%AD%A6%E5%BC%9F%E5%AD%A6%E5%A6%B9%E5%8F%91%E5%A5%96%E5%AD%A6%E9%87%91%E8%B6%85%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news",
+          "source": "百度热搜",
+          "publishedAt": "2026-09-30T06:42:55.680Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -120,9 +120,31 @@
       "name": "网易体育（署名媒体）",
       "url": "https://sports.163.com/",
       "status": "ok",
-      "lastAttempt": "2026-09-30T06:00:38.454Z",
-      "lastSuccess": "2026-09-30T06:00:38.454Z",
+      "lastAttempt": "2026-09-30T06:42:55.680Z",
+      "lastSuccess": "2026-09-30T06:42:55.680Z",
       "items": [
+        {
+          "title": "重磅引援，赵探长：前NBA榜眼秀拉塞尔加盟上海久事",
+          "url": "https://www.163.com/dy/article/L834P6EC0549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-09-30T06:35:23.000Z",
+          "category": "体育",
+          "topic": "NBA",
+          "sourceId": "sports",
+          "summary": "北京时间9月30日，据国内知名媒体人“球圈赵探长”报道，前NBA球员德安吉洛-拉塞尔加盟上海久事。",
+          "number": 1
+        },
+        {
+          "title": "Dlo登陆上海滩！拉塞尔NBA生涯：1次入选全明星，场均17+3+5",
+          "url": "https://www.163.com/dy/article/L834P5MF0549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-09-30T06:35:22.000Z",
+          "category": "体育",
+          "topic": "NBA",
+          "sourceId": "sports",
+          "summary": "北京时间9月30日，据多位媒体人确认，前NBA球员德安吉洛-拉塞尔将加盟上海久事男篮。",
+          "number": 2
+        },
         {
           "title": "哈登：希望我们能推动中国青少年的发展，想帮更多中国球员进NBA",
           "url": "https://www.163.com/dy/article/L82U5SMD0549BAP0.html",
@@ -132,29 +154,18 @@
           "topic": "NBA",
           "sourceId": "sports",
           "summary": "近日，克利夫兰骑士开展新赛季媒体日，球队核心詹姆斯-哈登出席媒体发布会。",
-          "number": 1
-        },
-        {
-          "title": "TA：NBA正推进与欧洲足球豪门合作，筹建全新NBA欧洲联赛",
-          "url": "https://www.163.com/dy/article/L82S6DVM0549BAP0.html",
-          "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-09-30T04:05:20.000Z",
-          "category": "体育",
-          "topic": "NBA",
-          "sourceId": "sports",
-          "summary": "据四名直接了解谈判情况的内部消息人士向《The Athletic》透露，NBA正推进与多家欧洲足球豪门达成协议，希望借…",
-          "number": 2
-        },
-        {
-          "title": "自由人大比分2-0淘汰山猫，完成WNBA历史上首次黑八，韩旭6分",
-          "url": "https://www.163.com/dy/article/L82NR5DG0549BAP0.html",
-          "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-09-30T02:49:16.000Z",
-          "category": "体育",
-          "topic": "NBA",
-          "sourceId": "sports",
-          "summary": "北京时间9月30日美国女子职业篮球联赛 季后赛1/4决赛，纽约自由人对阵明尼苏达山猫。半场自由人49-37山猫，最终自…",
           "number": 3
+        },
+        {
+          "title": "维达尔：曼联关注多特边卫斯文松，计划在2027年补强左路",
+          "url": "https://www.163.com/dy/article/L834P6FC0549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-09-30T06:35:23.000Z",
+          "category": "体育",
+          "topic": "英超",
+          "sourceId": "sports",
+          "summary": "法国记者塞巴斯蒂安-维达尔报道，曼联关注多特蒙德边后卫丹尼尔-斯文松，计划在2027年加强左路。",
+          "number": 4
         },
         {
           "title": "曼城CEO：英超提出的指控是完全虚假的，我们将提起上诉",
@@ -165,7 +176,7 @@
           "topic": "英超",
           "sourceId": "sports",
           "summary": "曼城CEO索里亚诺向员工与球员们发送了一则视频，回应了被英超提起指控一事。",
-          "number": 4
+          "number": 5
         },
         {
           "title": "基恩：如果我是那些取得成功的曼城球员，会把奖牌扔进垃圾桶",
@@ -176,18 +187,29 @@
           "topic": "英超",
           "sourceId": "sports",
           "summary": "罗伊-基恩在曼城相关指控被认定成立后，要求曼城球员“把他们的英超奖牌扔进垃圾桶”。",
-          "number": 5
+          "number": 6
         },
         {
-          "title": "ESPN：曼城7月已知英超认定其114项违规成立，仍豪掷4.5亿镑",
-          "url": "https://www.163.com/dy/article/L82N7MLQ0549BAP0.html",
+          "title": "每体：拉菲尼亚因肌肉水肿退出国家队，立即返回巴萨进行检查",
+          "url": "https://www.163.com/dy/article/L834P6DO0549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-09-30T02:38:39.000Z",
+          "publishedAt": "2026-09-30T06:35:23.000Z",
           "category": "体育",
-          "topic": "英超",
+          "topic": "西甲",
           "sourceId": "sports",
-          "summary": "据ESPN报道，曼城今年夏天就已知悉英超方面对其114项财政违规的认定，但仍在夏窗投入超过4.5亿英镑。",
-          "number": 6
+          "summary": "据每日体育报报道，巴西足协官方宣布，拉菲尼亚因右腿腘绳肌出现肌肉水肿，将不会参加对阵印度的友谊赛，球员已被释放并立即返…",
+          "number": 7
+        },
+        {
+          "title": "多家媒体：拉菲尼亚因伤退出巴西队，获准返回巴萨治疗",
+          "url": "https://www.163.com/dy/article/L832S7730549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-09-30T06:02:05.000Z",
+          "category": "体育",
+          "topic": "西甲",
+          "sourceId": "sports",
+          "summary": "据多家媒体报道，拉菲尼亚因右大腿肌肉不适将离开巴西队，不会随队前往印度参加友谊赛，已获准返回巴塞罗那接受治疗。",
+          "number": 8
         },
         {
           "title": "前马竞青训教练：金球奖就应该给罗德里，他是近年来最强的后腰",
@@ -198,28 +220,6 @@
           "topic": "西甲",
           "sourceId": "sports",
           "summary": "据Cadenaser报道，两位曾发掘罗德里和佩德里的教练一致认为，这对西班牙中场搭档在场上完全兼容，他们的技术特点能够…",
-          "number": 7
-        },
-        {
-          "title": "马卡：巴萨开售国家德比门票，会员最低476.5欧元",
-          "url": "https://www.163.com/dy/article/L82ACK520549BAP0.html",
-          "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-09-29T22:54:08.000Z",
-          "category": "体育",
-          "topic": "西甲",
-          "sourceId": "sports",
-          "summary": "据《马卡报》报道，巴萨已开售国家德比首批门票，会员专享且最低476.5欧元。",
-          "number": 8
-        },
-        {
-          "title": "法媒：费兰-门迪康复进展顺利，目标在皇马争得位置",
-          "url": "https://www.163.com/dy/article/L829PD7T0549BAP0.html",
-          "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-09-29T22:43:39.000Z",
-          "category": "体育",
-          "topic": "西甲",
-          "sourceId": "sports",
-          "summary": "据Foot Mercato报道，费兰-门迪仍在康复，目标是恢复状态并争取在皇马获得机会。",
           "number": 9
         },
         {
@@ -328,9 +328,20 @@
       "name": "东方财富 · 美股",
       "url": "https://stock.eastmoney.com/america.html",
       "status": "ok",
-      "lastAttempt": "2026-09-30T06:00:38.454Z",
-      "lastSuccess": "2026-09-30T06:00:38.454Z",
+      "lastAttempt": "2026-09-30T06:42:55.680Z",
+      "lastSuccess": "2026-09-30T06:42:55.680Z",
       "items": [
+        {
+          "category": "金融",
+          "topic": "美股",
+          "title": "战术性看多！华尔街第一大行重新定调美股 今年预测“每发必中”",
+          "summary": "在过去两年的大部分时间里，摩根大通面向机构客户的市场情报团队，曾展现出惊人精准的美股市场拐点预判能力。",
+          "url": "https://finance.eastmoney.com/a/202609303887630287.html",
+          "publishedAt": "2026-09-30T06:23:00.000Z",
+          "source": "东方财富 · 财联社",
+          "kind": "观点",
+          "sourceId": "eastmoney-us-stock"
+        },
         {
           "category": "金融",
           "topic": "美股",
@@ -350,17 +361,6 @@
           "url": "https://finance.eastmoney.com/a/202609303887007223.html",
           "publishedAt": "2026-09-29T23:43:00.000Z",
           "source": "东方财富 · 界面新闻",
-          "kind": "报道",
-          "sourceId": "eastmoney-us-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "美股",
-          "title": "美债收益率高位回落 美股期指集体走高 | 今夜看点",
-          "summary": "周二，随着美债收益率从高位回落，美股期指小幅上涨。欧洲股市普遍上涨。",
-          "url": "https://finance.eastmoney.com/a/202609293886637365.html",
-          "publishedAt": "2026-09-29T12:47:00.000Z",
-          "source": "东方财富 · 财联社",
           "kind": "报道",
           "sourceId": "eastmoney-us-stock"
         },
@@ -415,17 +415,50 @@
       "name": "东方财富 · A股",
       "url": "https://stock.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-09-30T06:00:38.454Z",
-      "lastSuccess": "2026-09-30T06:00:38.454Z",
+      "lastAttempt": "2026-09-30T06:42:55.680Z",
+      "lastSuccess": "2026-09-30T06:42:55.680Z",
       "items": [
         {
           "category": "金融",
           "topic": "A股",
-          "title": "“瀑布杀”！001234连续4个涨停后3个跌停",
-          "summary": "9月30日，在连续4个交易日涨停后，泰慕士（001234.SZ）股价连续第3个交易日出现跌停。",
-          "url": "https://finance.eastmoney.com/a/202609303887613930.html",
-          "publishedAt": "2026-09-30T05:43:00.000Z",
-          "source": "东方财富 · 华夏时报网",
+          "title": "突然！抄底资金疯狂涌入！A股“老登”上演超级大反转",
+          "summary": "今日（9月30日）盘中，深物业A直线飙涨，股价从跌停板拉升至涨停板，上演“地天板”走势。随后，万科A、滨江集团、信达地…",
+          "url": "https://finance.eastmoney.com/a/202609303887647270.html",
+          "publishedAt": "2026-09-30T06:39:00.000Z",
+          "source": "东方财富 · 券商中国",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "减持公告扎堆 算力芯片板块节前集体调整 芯原股份跌逾10%",
+          "summary": "9月30日，A股算力芯片板块盘中出现集中调整。截至午盘，芯原股份（688521.SH）跌逾10%；盛科通信-U（688…",
+          "url": "https://finance.eastmoney.com/a/202609303887638562.html",
+          "publishedAt": "2026-09-30T06:15:00.000Z",
+          "source": "东方财富 · 第一财经",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "002962，回封涨停",
+          "summary": "9月30日，玻璃基板概念板块表现活跃，多只个股涨幅亮眼。其中，五方光电（002962）早盘涨停后一度开板，随后快速回封…",
+          "url": "https://finance.eastmoney.com/a/202609303887649939.html",
+          "publishedAt": "2026-09-30T06:32:00.000Z",
+          "source": "东方财富 · 上海证券报",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "SK海力士扩大存储半导体倒装芯片封装外包规模",
+          "summary": "SK海力士扩大存储半导体倒装芯片封装外包规模，继OSAT（半导体封装测试外包）供应商A-PROTECH之后，SK海力士…",
+          "url": "https://finance.eastmoney.com/a/202609303887637758.html",
+          "publishedAt": "2026-09-30T06:12:00.000Z",
+          "source": "东方财富 · 科创板日报",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
@@ -444,7 +477,7 @@
           "category": "金融",
           "topic": "A股",
           "title": "午评：沪指半日涨0.27% 创新药、CRO概念股集体走强",
-          "summary": "新华财经北京9月30日电（胡晨曦）沪深两市主要股指29日沪指早间红盘震荡，创业板指高开低走。沪深两市半日成交额9093…",
+          "summary": "新华财经北京9月30日电（胡晨曦）沪深两市主要股指30日沪指早间红盘震荡，创业板指高开低走。沪深两市半日成交额9093…",
           "url": "https://finance.eastmoney.com/a/202609303887613013.html",
           "publishedAt": "2026-09-30T03:51:00.000Z",
           "source": "东方财富 · 新华财经",
@@ -527,39 +560,6 @@
           "source": "东方财富 · 证券日报",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "水电公司三季度或迎业绩修复窗口",
-          "summary": "9月29日，中国气象局国家气候中心预计，本轮厄尔尼诺事件将于11月前后达到峰值，海温指数峰值为3.2℃至3.5℃，明显…",
-          "url": "https://finance.eastmoney.com/a/202609303886849753.html",
-          "publishedAt": "2026-09-29T23:17:00.000Z",
-          "source": "东方财富 · 上海证券报",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "白酒板块拉升 金徽酒涨停",
-          "summary": "白酒板块拉升，金徽酒涨停，古井贡酒、泸州老窖、迎驾贡酒等跟涨。",
-          "url": "https://finance.eastmoney.com/a/202609303887614063.html",
-          "publishedAt": "2026-09-30T05:41:00.000Z",
-          "source": "东方财富 · 东方财富Choice数据",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "台交所加权股价指数收高0.6%",
-          "summary": "台交所加权股价指数收高0.6%报47,940.13点。",
-          "url": "https://finance.eastmoney.com/a/202609303887611356.html",
-          "publishedAt": "2026-09-30T05:35:00.000Z",
-          "source": "东方财富 · 东方财富Choice数据",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
         }
       ]
     },
@@ -568,8 +568,8 @@
       "name": "东方财富 · 中国期货",
       "url": "https://futures.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-09-30T06:00:38.454Z",
-      "lastSuccess": "2026-09-30T06:00:38.454Z",
+      "lastAttempt": "2026-09-30T06:42:55.680Z",
+      "lastSuccess": "2026-09-30T06:42:55.680Z",
       "items": [
         {
           "category": "金融",
@@ -589,8 +589,8 @@
       "name": "东方财富 · 宏观财经",
       "url": "https://finance.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-09-30T06:00:38.454Z",
-      "lastSuccess": "2026-09-30T06:00:38.454Z",
+      "lastAttempt": "2026-09-30T06:42:55.680Z",
+      "lastSuccess": "2026-09-30T06:42:55.680Z",
       "items": [
         {
           "category": "金融",
@@ -639,11 +639,22 @@
         {
           "category": "金融",
           "topic": "宏观财经",
-          "title": "A股热点前瞻|首套房贷贴息新政10月1日落地；央行PSL降息扩围；OpenAI发布智能体Dot",
-          "summary": "①首套房贷贴息与稳楼市部署共振，地产政策预期持续升温；",
-          "url": "https://finance.eastmoney.com/a/202609303887107470.html",
-          "publishedAt": "2026-09-30T00:20:00.000Z",
-          "source": "东方财富 · 东方财富研究中心",
+          "title": "制造业重回扩张 看9月PMI传递了哪些信号",
+          "summary": "国家统计局服务业调查中心、中国物流与采购联合会今天公布9月中国采购经理指数。数据显示，制造业景气水平持续修复，制造业采…",
+          "url": "https://finance.eastmoney.com/a/202609303887644729.html",
+          "publishedAt": "2026-09-30T06:13:00.000Z",
+          "source": "东方财富 · 央视新闻客户端",
+          "kind": "报道",
+          "sourceId": "eastmoney-macro"
+        },
+        {
+          "category": "金融",
+          "topic": "宏观财经",
+          "title": "PSL利率降至1.5％，“六张网”首获支持，央行结构性工具量价齐调",
+          "summary": "在坚持适度宽松货币政策基调下，央行持续优化结构性货币政策工具箱。",
+          "url": "https://finance.eastmoney.com/a/202609303887631617.html",
+          "publishedAt": "2026-09-30T04:54:00.000Z",
+          "source": "东方财富 · 华夏时报网",
           "kind": "报道",
           "sourceId": "eastmoney-macro"
         },
@@ -661,44 +672,33 @@
         {
           "category": "金融",
           "topic": "宏观财经",
-          "title": "加息大消息！美联储官员发声",
-          "summary": "当地时间9月29日，美联储理事迈克尔·巴尔（Michael S. Barr）与克里斯托弗·沃勒（Christopher…",
-          "url": "https://finance.eastmoney.com/a/202609303887592339.html",
-          "publishedAt": "2026-09-30T03:39:00.000Z",
-          "source": "东方财富 · 证券时报",
+          "title": "50.1％！9月PMI回到扩张区间",
+          "summary": "9月30日，国家统计局发布数据显示，9月份，制造业采购经理指数、非制造业商务活动指数和综合PMI产出指数分别为50.1…",
+          "url": "https://finance.eastmoney.com/a/202609303887643292.html",
+          "publishedAt": "2026-09-30T06:15:00.000Z",
+          "source": "东方财富 · 华夏时报",
           "kind": "报道",
           "sourceId": "eastmoney-macro"
         },
         {
           "category": "金融",
           "topic": "宏观财经",
-          "title": "9月PMI全线回升！制造业重返扩张区间，景气面有所扩大",
-          "summary": "9月份，制造业PMI升至50.1%，连续两个月回升，重返扩张区间。在调查的21个行业中有12个行业PMI高于临界点，比…",
-          "url": "https://finance.eastmoney.com/a/202609303887574223.html",
-          "publishedAt": "2026-09-30T03:29:00.000Z",
-          "source": "东方财富 · 证券时报网",
+          "title": "英国经济二季度增长超预期 GDP终值上修至0.5%",
+          "summary": "新华财经北京9月30日电英国经济第二季度增长速度高于此前预期，修正数据显示在近期能源价格和借贷成本大幅上升之前，英国经…",
+          "url": "https://finance.eastmoney.com/a/202609303887650928.html",
+          "publishedAt": "2026-09-30T06:34:00.000Z",
+          "source": "东方财富 · 新华财经",
           "kind": "报道",
           "sourceId": "eastmoney-macro"
         },
         {
           "category": "金融",
           "topic": "宏观财经",
-          "title": "多位美联储官员释放加息信号 纽约联储主席称今年晚些时候加息或是合适的",
-          "summary": "本周，多名美联储官员密集就通胀、货币政策和经济前景发表讲话。纽约联储主席约翰·威廉姆斯表示，如果经济符合预期，今年可能…",
-          "url": "https://finance.eastmoney.com/a/202609303887554824.html",
-          "publishedAt": "2026-09-30T03:24:00.000Z",
-          "source": "东方财富 · 澎湃新闻",
-          "kind": "报道",
-          "sourceId": "eastmoney-macro"
-        },
-        {
-          "category": "金融",
-          "topic": "宏观财经",
-          "title": "9月中国制造业PMI重返扩张区间",
-          "summary": "中新社北京9月30日电 (记者王恩博)中国国家统计局9月30日公布，9月份，中国制造业采购经理指数(PMI)升至50.…",
-          "url": "https://finance.eastmoney.com/a/202609303887620024.html",
-          "publishedAt": "2026-09-30T05:38:00.000Z",
-          "source": "东方财富 · 中国新闻网",
+          "title": "英国第二季度GDP同比增长1.4%，预期1.2%",
+          "summary": "英国第二季度GDP同比增长1.4%，预期1.2%，前值1.2%。",
+          "url": "https://finance.eastmoney.com/a/202609303887628776.html",
+          "publishedAt": "2026-09-30T06:00:00.000Z",
+          "source": "东方财富 · 财联社",
           "kind": "报道",
           "sourceId": "eastmoney-macro"
         },
@@ -710,6 +710,17 @@
           "url": "https://finance.eastmoney.com/a/202609293886806618.html",
           "publishedAt": "2026-09-29T21:39:00.000Z",
           "source": "东方财富 · 每日经济新闻",
+          "kind": "报道",
+          "sourceId": "eastmoney-macro"
+        },
+        {
+          "category": "金融",
+          "topic": "宏观财经",
+          "title": "多位美联储官员释放加息信号 纽约联储主席称今年晚些时候加息或是合适的",
+          "summary": "本周，多名美联储官员密集就通胀、货币政策和经济前景发表讲话。纽约联储主席约翰·威廉姆斯表示，如果经济符合预期，今年可能…",
+          "url": "https://finance.eastmoney.com/a/202609303887554824.html",
+          "publishedAt": "2026-09-30T03:24:00.000Z",
+          "source": "东方财富 · 澎湃新闻",
           "kind": "报道",
           "sourceId": "eastmoney-macro"
         },
@@ -753,9 +764,20 @@
       "name": "新浪财经 · 美股",
       "url": "https://finance.sina.com.cn/stock/usstock/",
       "status": "ok",
-      "lastAttempt": "2026-09-30T06:00:38.454Z",
-      "lastSuccess": "2026-09-30T06:00:38.454Z",
+      "lastAttempt": "2026-09-30T06:42:55.680Z",
+      "lastSuccess": "2026-09-30T06:42:55.680Z",
       "items": [
+        {
+          "title": "谷歌为AI摘要功能，向约100家数字内容出版商付费",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-30/doc-initqvax6953703.shtml",
+          "summary": "知情人士透露，谷歌正为约100家数字出版商提供报酬，依据其内容在搜索及其他产品AI生成回答中的贡献度结算费用。这项试点…",
+          "source": "环球市场播报 · 新浪财经",
+          "publishedAt": "2026-09-30T06:31:41.000Z",
+          "category": "金融",
+          "topic": "美股",
+          "sourceId": "us-stock",
+          "kind": "报道"
+        },
         {
           "title": "“木头姐”抛售AMD股票套现逾1亿美元，加仓英伟达、特斯拉和SpaceX",
           "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-30/doc-initqqvm2600233.shtml",
@@ -810,17 +832,6 @@
           "topic": "美股",
           "sourceId": "us-stock",
           "kind": "报道"
-        },
-        {
-          "title": "Robinhood推出周末24小时美股交易服务",
-          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-30/doc-initqefp5772871.shtml",
-          "summary": "美国在线券商Robinhood周二宣布，将允许用户在周末全天候交易部分美股；此举标志着该公司在行业迈向全天候交易模式的…",
-          "source": "环球市场播报 · 新浪财经",
-          "publishedAt": "2026-09-29T23:23:53.000Z",
-          "category": "金融",
-          "topic": "美股",
-          "sourceId": "us-stock",
-          "kind": "报道"
         }
       ]
     },
@@ -829,9 +840,20 @@
       "name": "新浪财经 · A股",
       "url": "https://finance.sina.com.cn/stock/",
       "status": "ok",
-      "lastAttempt": "2026-09-30T06:00:38.454Z",
-      "lastSuccess": "2026-09-30T06:00:38.454Z",
+      "lastAttempt": "2026-09-30T06:42:55.680Z",
+      "lastSuccess": "2026-09-30T06:42:55.680Z",
       "items": [
+        {
+          "title": "TCL科技半年报多处低级错误，董秘廖骞年薪593万",
+          "url": "https://finance.sina.com.cn/stock/marketresearch/2026-09-30/doc-initqvcf5746866.shtml",
+          "summary": "近期，上市公司公告出现低级差错的现象受到市场关注。新浪财经芝麻AI在文本核查中发现，TCL科技2026年半年度报告内存…",
+          "source": "新浪证券 · 新浪财经",
+          "publishedAt": "2026-09-30T06:23:46.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock",
+          "kind": "报道"
+        },
         {
           "title": "君正股份半年报频现低级错误：“孰低”变“熟低” “增值税”误作“增值说”",
           "url": "https://finance.sina.com.cn/stock/aigcy/2026-09-30/doc-initqvcf5726968.shtml",
@@ -952,28 +974,6 @@
           "topic": "A股",
           "sourceId": "cn-stock",
           "kind": "报道"
-        },
-        {
-          "title": "涨价牛股，“20cm”涨停三连击！连涨股揭秘，AI制药牛股成群（附名单）",
-          "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-30/doc-initqqvi2174066.shtml",
-          "summary": "AI制药领域利好频出。 染料概念股连续3个“20cm”涨停 9月30日上午，医药、锂电池、机器人等方向发力大涨。其中，…",
-          "source": "数据宝 · 新浪财经",
-          "publishedAt": "2026-09-30T03:50:04.000Z",
-          "category": "金融",
-          "topic": "A股",
-          "sourceId": "cn-stock",
-          "kind": "报道"
-        },
-        {
-          "title": "海澜之家半年报公司名称漏字、标点用错，董秘汤勇连续四年薪酬100万",
-          "url": "https://finance.sina.com.cn/stock/aigcy/2026-09-30/doc-initqkpc7127973.shtml",
-          "summary": "近期，多家上市公司披露公告中出现低级文字错误，引发资本市场关注。新浪财经芝麻AI核查显示，海澜之家2026年半年度报告…",
-          "source": "新浪证券 · 新浪财经",
-          "publishedAt": "2026-09-30T03:18:00.000Z",
-          "category": "金融",
-          "topic": "A股",
-          "sourceId": "cn-stock",
-          "kind": "报道"
         }
       ]
     },
@@ -982,8 +982,8 @@
       "name": "新浪财经 · 期货订阅 1",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-09-30T06:00:38.454Z",
-      "lastSuccess": "2026-09-30T06:00:38.454Z",
+      "lastAttempt": "2026-09-30T06:42:55.680Z",
+      "lastSuccess": "2026-09-30T06:42:55.680Z",
       "items": [
         {
           "title": "华泰期货：成交活跃度持续降低 预计铜价高位震荡",
@@ -995,7 +995,17 @@
           "topic": "中国期货",
           "sourceId": "futures-1",
           "kind": "观点"
-        },
+        }
+      ]
+    },
+    {
+      "id": "futures-2",
+      "name": "新浪财经 · 期货订阅 2",
+      "url": "https://finance.sina.com.cn/",
+      "status": "ok",
+      "lastAttempt": "2026-09-30T06:42:55.680Z",
+      "lastSuccess": "2026-09-30T06:42:55.680Z",
+      "items": [
         {
           "title": "华泰期货：巴西播种顺利，豆粕延续震荡",
           "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-30/doc-initqkpm2282254.shtml",
@@ -1004,7 +1014,7 @@
           "publishedAt": "2026-09-30T03:06:18.000Z",
           "category": "金融",
           "topic": "中国期货",
-          "sourceId": "futures-1",
+          "sourceId": "futures-2",
           "kind": "报道"
         },
         {
@@ -1015,19 +1025,9 @@
           "publishedAt": "2026-09-30T02:29:40.000Z",
           "category": "金融",
           "topic": "中国期货",
-          "sourceId": "futures-1",
+          "sourceId": "futures-2",
           "kind": "报道"
-        }
-      ]
-    },
-    {
-      "id": "futures-2",
-      "name": "新浪财经 · 期货订阅 2",
-      "url": "https://finance.sina.com.cn/",
-      "status": "ok",
-      "lastAttempt": "2026-09-30T06:00:38.454Z",
-      "lastSuccess": "2026-09-30T06:00:38.454Z",
-      "items": [
+        },
         {
           "title": "光大期货：9月30日矿钢煤焦日报",
           "url": "https://finance.sina.com.cn/money/future/2026-09-30/doc-initqkpc7068427.shtml",
@@ -1068,30 +1068,28 @@
       "name": "新浪财经 · 期货订阅 3",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-09-30T06:00:38.454Z",
-      "lastSuccess": "2026-09-30T06:00:38.454Z",
-      "items": [
-        {
-          "title": "【沥燃日报】沥青燃料油日内波动剧烈，节前谨慎观望为主",
-          "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-30/doc-initqeff7153569.shtml",
-          "summary": "来源：能源研发中心 【燃料油】 期货：9月29日国内白天收盘，燃料油与成本端走出显著单日背离：SC2611收跌3.02…",
-          "source": "市场资讯 · 新浪财经",
-          "publishedAt": "2026-09-29T22:36:00.000Z",
-          "category": "金融",
-          "topic": "中国期货",
-          "sourceId": "futures-3",
-          "kind": "报道"
-        }
-      ]
+      "lastAttempt": "2026-09-30T06:42:55.680Z",
+      "lastSuccess": "2026-09-30T06:42:55.680Z",
+      "items": []
     },
     {
       "id": "us-politics",
       "name": "中新网 · 国际",
       "url": "https://www.chinanews.com.cn/rss/world.xml",
       "status": "ok",
-      "lastAttempt": "2026-09-30T06:00:38.454Z",
-      "lastSuccess": "2026-09-30T06:00:38.454Z",
+      "lastAttempt": "2026-09-30T06:42:55.680Z",
+      "lastSuccess": "2026-09-30T06:42:55.680Z",
       "items": [
+        {
+          "title": "特朗普签令：将“人工智能”改称为“超级智能”",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-30/10706181.shtml",
+          "summary": "中新网9月30日电 综合美媒报道，当地时间29日，美国总统特朗普发布行政令，称在法律允许的最大范围内，联邦行政部门今后…",
+          "publishedAt": "2026-09-30T06:02:33.000Z",
+          "category": "政治",
+          "topic": "美国",
+          "source": "中国新闻网",
+          "sourceId": "us-politics"
+        },
         {
           "title": "美国计划通过“互换”释放4000万桶战略石油储备",
           "url": "https://www.chinanews.com.cn/gj/2026/09-30/10705952.shtml",
@@ -1139,9 +1137,19 @@
       "name": "中新网 · 国内",
       "url": "https://www.chinanews.com.cn/rss/china.xml",
       "status": "ok",
-      "lastAttempt": "2026-09-30T06:00:38.454Z",
-      "lastSuccess": "2026-09-30T06:00:38.454Z",
+      "lastAttempt": "2026-09-30T06:42:55.680Z",
+      "lastSuccess": "2026-09-30T06:42:55.680Z",
       "items": [
+        {
+          "title": "习近平同文莱苏丹哈桑纳尔就中文建交35周年互致贺电",
+          "url": "https://www.chinanews.com.cn/gn/2026/09-30/10706189.shtml",
+          "summary": "新华社快讯：习近平同文莱苏丹哈桑纳尔就中文建交35周年互致贺电。",
+          "publishedAt": "2026-09-30T06:19:01.000Z",
+          "category": "政治",
+          "topic": "中国",
+          "source": "中国新闻网",
+          "sourceId": "cn-politics"
+        },
         {
           "title": "肖冰东任自贡市人民政府代理市长",
           "url": "https://www.chinanews.com.cn/gn/2026/09-30/10706176.shtml",
@@ -1209,8 +1217,8 @@
       "name": "AI HOT",
       "url": "https://aihot.news/",
       "status": "ok",
-      "lastAttempt": "2026-09-30T06:00:38.454Z",
-      "lastSuccess": "2026-09-30T06:00:38.454Z",
+      "lastAttempt": "2026-09-30T06:42:55.680Z",
+      "lastSuccess": "2026-09-30T06:42:55.680Z",
       "items": [
         {
           "category": "AI",
@@ -1543,11 +1551,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "蒂芙尼被一盒月饼绊倒了",
-      "summary": "近日，一名消费者在成都蒂芙尼门店消费二十余万元，销售承诺赠送的定制中秋月饼错寄给他人，随后提出用几十元的散装桃酥作为赔…",
-      "url": "https://www.baidu.com/s?wd=%E8%92%82%E8%8A%99%E5%B0%BC%E8%A2%AB%E4%B8%80%E7%9B%92%E6%9C%88%E9%A5%BC%E7%BB%8A%E5%80%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "家中漏水 维修人员灌了50多斤胶水",
+      "summary": "近日，消费者魏女士家中墙面渗水，通过电商平台找来的维修人员上门后在未查清渗漏源的情况下，便草率地在地面打了两个孔洞，注…",
+      "url": "https://www.baidu.com/s?wd=%E5%AE%B6%E4%B8%AD%E6%BC%8F%E6%B0%B4+%E7%BB%B4%E4%BF%AE%E4%BA%BA%E5%91%98%E7%81%8C%E4%BA%8650%E5%A4%9A%E6%96%A4%E8%83%B6%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-09-30T06:00:38.454Z",
+      "publishedAt": "2026-09-30T06:42:55.680Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1556,11 +1564,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "台湾以东海域地震",
-      "summary": "据中国地震台网正式测定，9月30日13时0分在台湾以东海域发生5.5级地震，震源深度10公里，震中位于北纬23.77度…",
-      "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E4%BB%A5%E4%B8%9C%E6%B5%B7%E5%9F%9F%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "蒂芙尼被一盒月饼绊倒了",
+      "summary": "近日，一名消费者在成都蒂芙尼门店消费二十余万元，销售承诺赠送的定制中秋月饼错寄给他人，随后提出用几十元的散装桃酥作为赔…",
+      "url": "https://www.baidu.com/s?wd=%E8%92%82%E8%8A%99%E5%B0%BC%E8%A2%AB%E4%B8%80%E7%9B%92%E6%9C%88%E9%A5%BC%E7%BB%8A%E5%80%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-09-30T06:00:38.454Z",
+      "publishedAt": "2026-09-30T06:42:55.680Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1569,11 +1577,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "目击者称东航空姐向乘客跪了两三次",
-      "summary": "日前，合肥飞大连航班上，一空姐推餐车不慎磕碰男乘客手肘，道歉后仍被要求“踹一脚”，空姐下跪求踹。9月29日，涉事航空公…",
-      "url": "https://www.baidu.com/s?wd=%E7%9B%AE%E5%87%BB%E8%80%85%E7%A7%B0%E4%B8%9C%E8%88%AA%E7%A9%BA%E5%A7%90%E5%90%91%E4%B9%98%E5%AE%A2%E8%B7%AA%E4%BA%86%E4%B8%A4%E4%B8%89%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "孙怡拿影后 前夫董子健台下鼓掌",
+      "summary": "9月29日，演员孙怡凭借电影《爱情笑话》在第10届平遥国际电影展拿下费穆荣誉最佳女演员，获得出道以来首个影后。孙怡领奖…",
+      "url": "https://www.baidu.com/s?wd=%E5%AD%99%E6%80%A1%E6%8B%BF%E5%BD%B1%E5%90%8E+%E5%89%8D%E5%A4%AB%E8%91%A3%E5%AD%90%E5%81%A5%E5%8F%B0%E4%B8%8B%E9%BC%93%E6%8E%8C&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-09-30T06:00:38.454Z",
+      "publishedAt": "2026-09-30T06:42:55.680Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1582,11 +1590,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "日本与那国岛附近海域6.0级地震",
-      "summary": "据日本气象厅消息，当地时间30日14时左右，日本与那国岛附近海域发生6.0级地震，震源深度10千米，最大震感为震度3。",
-      "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%8E%E9%82%A3%E5%9B%BD%E5%B2%9B%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F6.0%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "国台办回应《兰香如故》在台爆火",
+      "summary": "9月30日，国务院台办举行新闻发布会回应大陆电视剧《兰香如故》在台开播爆火。发言人张晗表示，两岸同胞同根同源，易形成文…",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E3%80%8A%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E3%80%8B%E5%9C%A8%E5%8F%B0%E7%88%86%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-09-30T06:00:38.454Z",
+      "publishedAt": "2026-09-30T06:42:55.680Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1595,11 +1603,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "家中漏水 维修人员灌了50多斤胶水",
-      "summary": "近日，消费者魏女士家中墙面渗水，通过电商平台找来的维修人员上门后在未查清渗漏源的情况下，便草率地在地面打了两个孔洞，注…",
-      "url": "https://www.baidu.com/s?wd=%E5%AE%B6%E4%B8%AD%E6%BC%8F%E6%B0%B4+%E7%BB%B4%E4%BF%AE%E4%BA%BA%E5%91%98%E7%81%8C%E4%BA%8650%E5%A4%9A%E6%96%A4%E8%83%B6%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "充电器忘拔烧毁整个家",
+      "summary": "近日，福建泉州一民房因手机充电器长期不拔产生电火花引发火灾。今年7月底，湖南益阳沅江市也曾因该原因发生火灾，致房屋烧毁…",
+      "url": "https://www.baidu.com/s?wd=%E5%85%85%E7%94%B5%E5%99%A8%E5%BF%98%E6%8B%94%E7%83%A7%E6%AF%81%E6%95%B4%E4%B8%AA%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-09-30T06:00:38.454Z",
+      "publishedAt": "2026-09-30T06:42:55.680Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1608,15 +1616,37 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "国庆长假酒店价格涨还是跌",
-      "summary": "9月中旬，市场监管总局与文旅部约谈美团等六平台叫停“全网最低价”，起因是平台高抽佣且拿走定价权，致使酒店平日亏损、节假…",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E9%95%BF%E5%81%87%E9%85%92%E5%BA%97%E4%BB%B7%E6%A0%BC%E6%B6%A8%E8%BF%98%E6%98%AF%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "男子9年给学弟学妹发奖学金超百万",
+      "summary": "近日，河南老板池金清坚持9年回母校为优秀毕业生发奖学金引发关注。据悉，其目前已发放超百万元，有受助学生表示一万元奖学金…",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%909%E5%B9%B4%E7%BB%99%E5%AD%A6%E5%BC%9F%E5%AD%A6%E5%A6%B9%E5%8F%91%E5%A5%96%E5%AD%A6%E9%87%91%E8%B6%85%E7%99%BE%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-09-30T06:00:38.454Z",
+      "publishedAt": "2026-09-30T06:42:55.680Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
       "number": 6
+    },
+    {
+      "title": "重磅引援，赵探长：前NBA榜眼秀拉塞尔加盟上海久事",
+      "url": "https://www.163.com/dy/article/L834P6EC0549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-09-30T06:35:23.000Z",
+      "category": "体育",
+      "topic": "NBA",
+      "sourceId": "sports",
+      "summary": "北京时间9月30日，据国内知名媒体人“球圈赵探长”报道，前NBA球员德安吉洛-拉塞尔加盟上海久事。",
+      "number": 7
+    },
+    {
+      "title": "Dlo登陆上海滩！拉塞尔NBA生涯：1次入选全明星，场均17+3+5",
+      "url": "https://www.163.com/dy/article/L834P5MF0549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-09-30T06:35:22.000Z",
+      "category": "体育",
+      "topic": "NBA",
+      "sourceId": "sports",
+      "summary": "北京时间9月30日，据多位媒体人确认，前NBA球员德安吉洛-拉塞尔将加盟上海久事男篮。",
+      "number": 8
     },
     {
       "title": "哈登：希望我们能推动中国青少年的发展，想帮更多中国球员进NBA",
@@ -1627,29 +1657,18 @@
       "topic": "NBA",
       "sourceId": "sports",
       "summary": "近日，克利夫兰骑士开展新赛季媒体日，球队核心詹姆斯-哈登出席媒体发布会。",
-      "number": 7
-    },
-    {
-      "title": "TA：NBA正推进与欧洲足球豪门合作，筹建全新NBA欧洲联赛",
-      "url": "https://www.163.com/dy/article/L82S6DVM0549BAP0.html",
-      "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-09-30T04:05:20.000Z",
-      "category": "体育",
-      "topic": "NBA",
-      "sourceId": "sports",
-      "summary": "据四名直接了解谈判情况的内部消息人士向《The Athletic》透露，NBA正推进与多家欧洲足球豪门达成协议，希望借…",
-      "number": 8
-    },
-    {
-      "title": "自由人大比分2-0淘汰山猫，完成WNBA历史上首次黑八，韩旭6分",
-      "url": "https://www.163.com/dy/article/L82NR5DG0549BAP0.html",
-      "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-09-30T02:49:16.000Z",
-      "category": "体育",
-      "topic": "NBA",
-      "sourceId": "sports",
-      "summary": "北京时间9月30日美国女子职业篮球联赛 季后赛1/4决赛，纽约自由人对阵明尼苏达山猫。半场自由人49-37山猫，最终自…",
       "number": 9
+    },
+    {
+      "title": "维达尔：曼联关注多特边卫斯文松，计划在2027年补强左路",
+      "url": "https://www.163.com/dy/article/L834P6FC0549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-09-30T06:35:23.000Z",
+      "category": "体育",
+      "topic": "英超",
+      "sourceId": "sports",
+      "summary": "法国记者塞巴斯蒂安-维达尔报道，曼联关注多特蒙德边后卫丹尼尔-斯文松，计划在2027年加强左路。",
+      "number": 10
     },
     {
       "title": "曼城CEO：英超提出的指控是完全虚假的，我们将提起上诉",
@@ -1660,7 +1679,7 @@
       "topic": "英超",
       "sourceId": "sports",
       "summary": "曼城CEO索里亚诺向员工与球员们发送了一则视频，回应了被英超提起指控一事。",
-      "number": 10
+      "number": 11
     },
     {
       "title": "基恩：如果我是那些取得成功的曼城球员，会把奖牌扔进垃圾桶",
@@ -1671,18 +1690,29 @@
       "topic": "英超",
       "sourceId": "sports",
       "summary": "罗伊-基恩在曼城相关指控被认定成立后，要求曼城球员“把他们的英超奖牌扔进垃圾桶”。",
-      "number": 11
+      "number": 12
     },
     {
-      "title": "ESPN：曼城7月已知英超认定其114项违规成立，仍豪掷4.5亿镑",
-      "url": "https://www.163.com/dy/article/L82N7MLQ0549BAP0.html",
+      "title": "每体：拉菲尼亚因肌肉水肿退出国家队，立即返回巴萨进行检查",
+      "url": "https://www.163.com/dy/article/L834P6DO0549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-09-30T02:38:39.000Z",
+      "publishedAt": "2026-09-30T06:35:23.000Z",
       "category": "体育",
-      "topic": "英超",
+      "topic": "西甲",
       "sourceId": "sports",
-      "summary": "据ESPN报道，曼城今年夏天就已知悉英超方面对其114项财政违规的认定，但仍在夏窗投入超过4.5亿英镑。",
-      "number": 12
+      "summary": "据每日体育报报道，巴西足协官方宣布，拉菲尼亚因右腿腘绳肌出现肌肉水肿，将不会参加对阵印度的友谊赛，球员已被释放并立即返…",
+      "number": 13
+    },
+    {
+      "title": "多家媒体：拉菲尼亚因伤退出巴西队，获准返回巴萨治疗",
+      "url": "https://www.163.com/dy/article/L832S7730549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-09-30T06:02:05.000Z",
+      "category": "体育",
+      "topic": "西甲",
+      "sourceId": "sports",
+      "summary": "据多家媒体报道，拉菲尼亚因右大腿肌肉不适将离开巴西队，不会随队前往印度参加友谊赛，已获准返回巴塞罗那接受治疗。",
+      "number": 14
     },
     {
       "title": "前马竞青训教练：金球奖就应该给罗德里，他是近年来最强的后腰",
@@ -1693,28 +1723,6 @@
       "topic": "西甲",
       "sourceId": "sports",
       "summary": "据Cadenaser报道，两位曾发掘罗德里和佩德里的教练一致认为，这对西班牙中场搭档在场上完全兼容，他们的技术特点能够…",
-      "number": 13
-    },
-    {
-      "title": "马卡：巴萨开售国家德比门票，会员最低476.5欧元",
-      "url": "https://www.163.com/dy/article/L82ACK520549BAP0.html",
-      "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-09-29T22:54:08.000Z",
-      "category": "体育",
-      "topic": "西甲",
-      "sourceId": "sports",
-      "summary": "据《马卡报》报道，巴萨已开售国家德比首批门票，会员专享且最低476.5欧元。",
-      "number": 14
-    },
-    {
-      "title": "法媒：费兰-门迪康复进展顺利，目标在皇马争得位置",
-      "url": "https://www.163.com/dy/article/L829PD7T0549BAP0.html",
-      "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-09-29T22:43:39.000Z",
-      "category": "体育",
-      "topic": "西甲",
-      "sourceId": "sports",
-      "summary": "据Foot Mercato报道，费兰-门迪仍在康复，目标是恢复状态并争取在皇马获得机会。",
       "number": 15
     },
     {
@@ -1817,6 +1825,30 @@
       "number": 24
     },
     {
+      "title": "谷歌为AI摘要功能，向约100家数字内容出版商付费",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-30/doc-initqvax6953703.shtml",
+      "summary": "知情人士透露，谷歌正为约100家数字出版商提供报酬，依据其内容在搜索及其他产品AI生成回答中的贡献度结算费用。这项试点…",
+      "source": "环球市场播报 · 新浪财经",
+      "publishedAt": "2026-09-30T06:31:41.000Z",
+      "category": "金融",
+      "topic": "美股",
+      "sourceId": "us-stock",
+      "kind": "报道",
+      "number": 25
+    },
+    {
+      "category": "金融",
+      "topic": "美股",
+      "title": "战术性看多！华尔街第一大行重新定调美股 今年预测“每发必中”",
+      "summary": "在过去两年的大部分时间里，摩根大通面向机构客户的市场情报团队，曾展现出惊人精准的美股市场拐点预判能力。",
+      "url": "https://finance.eastmoney.com/a/202609303887630287.html",
+      "publishedAt": "2026-09-30T06:23:00.000Z",
+      "source": "东方财富 · 财联社",
+      "kind": "观点",
+      "sourceId": "eastmoney-us-stock",
+      "number": 26
+    },
+    {
       "title": "“木头姐”抛售AMD股票套现逾1亿美元，加仓英伟达、特斯拉和SpaceX",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-30/doc-initqqvm2600233.shtml",
       "summary": "凯茜·伍德旗下的方舟投资管理公司（Ark Invest）周二进行了一系列重大交易，涉及英伟达、特斯拉和AMD等多只科技…",
@@ -1826,7 +1858,7 @@
       "topic": "美股",
       "sourceId": "us-stock",
       "kind": "报道",
-      "number": 25
+      "number": 27
     },
     {
       "title": "苹果在印度推出支付服务，挑战谷歌与Paytm",
@@ -1838,7 +1870,7 @@
       "topic": "美股",
       "sourceId": "us-stock",
       "kind": "报道",
-      "number": 26
+      "number": 28
     },
     {
       "category": "金融",
@@ -1850,7 +1882,7 @@
       "source": "东方财富 · 财联社",
       "kind": "报道",
       "sourceId": "eastmoney-us-stock",
-      "number": 27
+      "number": 29
     },
     {
       "title": "OpenAI推出Meta旗下Muse竞品，AI智能体之争加速升温",
@@ -1862,31 +1894,67 @@
       "topic": "美股",
       "sourceId": "us-stock",
       "kind": "报道",
-      "number": 28
-    },
-    {
-      "title": "美元势创6月以来最佳单月表现 美联储控通胀承诺带来提振",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-30/doc-initqefp2347210.shtml",
-      "summary": "随着美联储再度聚焦于抑制通胀，推动利率预期和美债收益率上升，美元势将创下6月以来表现最佳的一个月。 彭博美元指数9月上…",
-      "source": "环球市场播报 · 新浪财经",
-      "publishedAt": "2026-09-30T00:56:55.000Z",
-      "category": "金融",
-      "topic": "美股",
-      "sourceId": "us-stock",
-      "kind": "报道",
-      "number": 29
-    },
-    {
-      "category": "金融",
-      "topic": "美股",
-      "title": "中信建投：Meta Muse加速智能体商业化，云栖大会强化全栈AI布局",
-      "summary": "中信建投研报称，Meta Muse与云栖大会共同强化AI应用落地拉动算力需求的逻辑。Meta推出个人AI助手Muse，…",
-      "url": "https://finance.eastmoney.com/a/202609303887007223.html",
-      "publishedAt": "2026-09-29T23:43:00.000Z",
-      "source": "东方财富 · 界面新闻",
-      "kind": "报道",
-      "sourceId": "eastmoney-us-stock",
       "number": 30
+    },
+    {
+      "category": "金融",
+      "topic": "A股",
+      "title": "突然！抄底资金疯狂涌入！A股“老登”上演超级大反转",
+      "summary": "今日（9月30日）盘中，深物业A直线飙涨，股价从跌停板拉升至涨停板，上演“地天板”走势。随后，万科A、滨江集团、信达地…",
+      "url": "https://finance.eastmoney.com/a/202609303887647270.html",
+      "publishedAt": "2026-09-30T06:39:00.000Z",
+      "source": "东方财富 · 券商中国",
+      "kind": "报道",
+      "sourceId": "eastmoney-cn-stock",
+      "number": 31
+    },
+    {
+      "category": "金融",
+      "topic": "A股",
+      "title": "002962，回封涨停",
+      "summary": "9月30日，玻璃基板概念板块表现活跃，多只个股涨幅亮眼。其中，五方光电（002962）早盘涨停后一度开板，随后快速回封…",
+      "url": "https://finance.eastmoney.com/a/202609303887649939.html",
+      "publishedAt": "2026-09-30T06:32:00.000Z",
+      "source": "东方财富 · 上海证券报",
+      "kind": "报道",
+      "sourceId": "eastmoney-cn-stock",
+      "number": 32
+    },
+    {
+      "title": "TCL科技半年报多处低级错误，董秘廖骞年薪593万",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-09-30/doc-initqvcf5746866.shtml",
+      "summary": "近期，上市公司公告出现低级差错的现象受到市场关注。新浪财经芝麻AI在文本核查中发现，TCL科技2026年半年度报告内存…",
+      "source": "新浪证券 · 新浪财经",
+      "publishedAt": "2026-09-30T06:23:46.000Z",
+      "category": "金融",
+      "topic": "A股",
+      "sourceId": "cn-stock",
+      "kind": "报道",
+      "number": 33
+    },
+    {
+      "category": "金融",
+      "topic": "A股",
+      "title": "减持公告扎堆 算力芯片板块节前集体调整 芯原股份跌逾10%",
+      "summary": "9月30日，A股算力芯片板块盘中出现集中调整。截至午盘，芯原股份（688521.SH）跌逾10%；盛科通信-U（688…",
+      "url": "https://finance.eastmoney.com/a/202609303887638562.html",
+      "publishedAt": "2026-09-30T06:15:00.000Z",
+      "source": "东方财富 · 第一财经",
+      "kind": "报道",
+      "sourceId": "eastmoney-cn-stock",
+      "number": 34
+    },
+    {
+      "category": "金融",
+      "topic": "A股",
+      "title": "SK海力士扩大存储半导体倒装芯片封装外包规模",
+      "summary": "SK海力士扩大存储半导体倒装芯片封装外包规模，继OSAT（半导体封装测试外包）供应商A-PROTECH之后，SK海力士…",
+      "url": "https://finance.eastmoney.com/a/202609303887637758.html",
+      "publishedAt": "2026-09-30T06:12:00.000Z",
+      "source": "东方财富 · 科创板日报",
+      "kind": "报道",
+      "sourceId": "eastmoney-cn-stock",
+      "number": 35
     },
     {
       "title": "君正股份半年报频现低级错误：“孰低”变“熟低” “增值税”误作“增值说”",
@@ -1898,66 +1966,6 @@
       "topic": "A股",
       "sourceId": "cn-stock",
       "kind": "报道",
-      "number": 31
-    },
-    {
-      "title": "楼市或摆脱至暗时刻？陆家嘴涨停，地产ETF华宝（159707）交投火热！跟踪指数盘中涨超3.6%！",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-09-30/doc-initqvci2490042.shtml",
-      "summary": "国庆节前最后一个交易日（9月30日），地产板块继续活跃，陆家嘴涨停，滨江集团涨超8%，万科A涨逾5%，上海临港涨超4%…",
-      "source": "新浪基金 · 新浪财经",
-      "publishedAt": "2026-09-30T05:44:00.000Z",
-      "category": "金融",
-      "topic": "A股",
-      "sourceId": "cn-stock",
-      "kind": "报道",
-      "number": 32
-    },
-    {
-      "category": "金融",
-      "topic": "A股",
-      "title": "“瀑布杀”！001234连续4个涨停后3个跌停",
-      "summary": "9月30日，在连续4个交易日涨停后，泰慕士（001234.SZ）股价连续第3个交易日出现跌停。",
-      "url": "https://finance.eastmoney.com/a/202609303887613930.html",
-      "publishedAt": "2026-09-30T05:43:00.000Z",
-      "source": "东方财富 · 华夏时报网",
-      "kind": "报道",
-      "sourceId": "eastmoney-cn-stock",
-      "number": 33
-    },
-    {
-      "category": "金融",
-      "topic": "A股",
-      "title": "白酒板块拉升 金徽酒涨停",
-      "summary": "白酒板块拉升，金徽酒涨停，古井贡酒、泸州老窖、迎驾贡酒等跟涨。",
-      "url": "https://finance.eastmoney.com/a/202609303887614063.html",
-      "publishedAt": "2026-09-30T05:41:00.000Z",
-      "source": "东方财富 · 东方财富Choice数据",
-      "kind": "报道",
-      "sourceId": "eastmoney-cn-stock",
-      "number": 34
-    },
-    {
-      "category": "金融",
-      "topic": "A股",
-      "title": "台交所加权股价指数收高0.6%",
-      "summary": "台交所加权股价指数收高0.6%报47,940.13点。",
-      "url": "https://finance.eastmoney.com/a/202609303887611356.html",
-      "publishedAt": "2026-09-30T05:35:00.000Z",
-      "source": "东方财富 · 东方财富Choice数据",
-      "kind": "报道",
-      "sourceId": "eastmoney-cn-stock",
-      "number": 35
-    },
-    {
-      "title": "“预计来现金流量”“括号缺失”，山西证券半年报现低级笔误，新董秘高晓峰上任后信披严谨性引关注",
-      "url": "https://finance.sina.com.cn/stock/aigcy/2026-09-30/doc-initqvax6930448.shtml",
-      "summary": "近期，多家上市公司披露的公告中出现文字错误，引发资本市场对信息披露质量的关注。新浪财经芝麻AI核查显示，山西证券（00…",
-      "source": "新浪证券 · 新浪财经",
-      "publishedAt": "2026-09-30T05:32:07.000Z",
-      "category": "金融",
-      "topic": "A股",
-      "sourceId": "cn-stock",
-      "kind": "观点",
       "number": 36
     },
     {
@@ -1980,7 +1988,7 @@
       "publishedAt": "2026-09-30T03:06:18.000Z",
       "category": "金融",
       "topic": "中国期货",
-      "sourceId": "futures-1",
+      "sourceId": "futures-2",
       "kind": "报道",
       "number": 38
     },
@@ -1992,7 +2000,7 @@
       "publishedAt": "2026-09-30T02:29:40.000Z",
       "category": "金融",
       "topic": "中国期货",
-      "sourceId": "futures-1",
+      "sourceId": "futures-2",
       "kind": "报道",
       "number": 39
     },
@@ -2035,14 +2043,62 @@
     {
       "category": "金融",
       "topic": "宏观财经",
-      "title": "9月中国制造业PMI重返扩张区间",
-      "summary": "中新社北京9月30日电 (记者王恩博)中国国家统计局9月30日公布，9月份，中国制造业采购经理指数(PMI)升至50.…",
-      "url": "https://finance.eastmoney.com/a/202609303887620024.html",
-      "publishedAt": "2026-09-30T05:38:00.000Z",
-      "source": "东方财富 · 中国新闻网",
+      "title": "英国经济二季度增长超预期 GDP终值上修至0.5%",
+      "summary": "新华财经北京9月30日电英国经济第二季度增长速度高于此前预期，修正数据显示在近期能源价格和借贷成本大幅上升之前，英国经…",
+      "url": "https://finance.eastmoney.com/a/202609303887650928.html",
+      "publishedAt": "2026-09-30T06:34:00.000Z",
+      "source": "东方财富 · 新华财经",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
       "number": 43
+    },
+    {
+      "category": "金融",
+      "topic": "宏观财经",
+      "title": "50.1％！9月PMI回到扩张区间",
+      "summary": "9月30日，国家统计局发布数据显示，9月份，制造业采购经理指数、非制造业商务活动指数和综合PMI产出指数分别为50.1…",
+      "url": "https://finance.eastmoney.com/a/202609303887643292.html",
+      "publishedAt": "2026-09-30T06:15:00.000Z",
+      "source": "东方财富 · 华夏时报",
+      "kind": "报道",
+      "sourceId": "eastmoney-macro",
+      "number": 44
+    },
+    {
+      "category": "金融",
+      "topic": "宏观财经",
+      "title": "制造业重回扩张 看9月PMI传递了哪些信号",
+      "summary": "国家统计局服务业调查中心、中国物流与采购联合会今天公布9月中国采购经理指数。数据显示，制造业景气水平持续修复，制造业采…",
+      "url": "https://finance.eastmoney.com/a/202609303887644729.html",
+      "publishedAt": "2026-09-30T06:13:00.000Z",
+      "source": "东方财富 · 央视新闻客户端",
+      "kind": "报道",
+      "sourceId": "eastmoney-macro",
+      "number": 45
+    },
+    {
+      "category": "金融",
+      "topic": "宏观财经",
+      "title": "英国第二季度GDP同比增长1.4%，预期1.2%",
+      "summary": "英国第二季度GDP同比增长1.4%，预期1.2%，前值1.2%。",
+      "url": "https://finance.eastmoney.com/a/202609303887628776.html",
+      "publishedAt": "2026-09-30T06:00:00.000Z",
+      "source": "东方财富 · 财联社",
+      "kind": "报道",
+      "sourceId": "eastmoney-macro",
+      "number": 46
+    },
+    {
+      "category": "金融",
+      "topic": "宏观财经",
+      "title": "PSL利率降至1.5％，“六张网”首获支持，央行结构性工具量价齐调",
+      "summary": "在坚持适度宽松货币政策基调下，央行持续优化结构性货币政策工具箱。",
+      "url": "https://finance.eastmoney.com/a/202609303887631617.html",
+      "publishedAt": "2026-09-30T04:54:00.000Z",
+      "source": "东方财富 · 华夏时报网",
+      "kind": "报道",
+      "sourceId": "eastmoney-macro",
+      "number": 47
     },
     {
       "category": "金融",
@@ -2054,55 +2110,18 @@
       "source": "东方财富 · 新京报",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
-      "number": 44
-    },
-    {
-      "category": "金融",
-      "topic": "宏观财经",
-      "title": "加息大消息！美联储官员发声",
-      "summary": "当地时间9月29日，美联储理事迈克尔·巴尔（Michael S. Barr）与克里斯托弗·沃勒（Christopher…",
-      "url": "https://finance.eastmoney.com/a/202609303887592339.html",
-      "publishedAt": "2026-09-30T03:39:00.000Z",
-      "source": "东方财富 · 证券时报",
-      "kind": "报道",
-      "sourceId": "eastmoney-macro",
-      "number": 45
-    },
-    {
-      "category": "金融",
-      "topic": "宏观财经",
-      "title": "9月PMI全线回升！制造业重返扩张区间，景气面有所扩大",
-      "summary": "9月份，制造业PMI升至50.1%，连续两个月回升，重返扩张区间。在调查的21个行业中有12个行业PMI高于临界点，比…",
-      "url": "https://finance.eastmoney.com/a/202609303887574223.html",
-      "publishedAt": "2026-09-30T03:29:00.000Z",
-      "source": "东方财富 · 证券时报网",
-      "kind": "报道",
-      "sourceId": "eastmoney-macro",
-      "number": 46
-    },
-    {
-      "category": "金融",
-      "topic": "宏观财经",
-      "title": "多位美联储官员释放加息信号 纽约联储主席称今年晚些时候加息或是合适的",
-      "summary": "本周，多名美联储官员密集就通胀、货币政策和经济前景发表讲话。纽约联储主席约翰·威廉姆斯表示，如果经济符合预期，今年可能…",
-      "url": "https://finance.eastmoney.com/a/202609303887554824.html",
-      "publishedAt": "2026-09-30T03:24:00.000Z",
-      "source": "东方财富 · 澎湃新闻",
-      "kind": "报道",
-      "sourceId": "eastmoney-macro",
-      "number": 47
-    },
-    {
-      "category": "金融",
-      "topic": "宏观财经",
-      "title": "美联储“最青睐通胀指标”今晚揭晓 会否巩固10月加息预期？",
-      "summary": "如果美联储内部有人正在寻找反对再次加息的证据，那么周三即将发布的通胀数据恐怕很难提供这样的支持。预计这些数据将显示价格…",
-      "url": "https://finance.eastmoney.com/a/202609303887504277.html",
-      "publishedAt": "2026-09-30T02:16:00.000Z",
-      "source": "东方财富 · 财联社",
-      "kind": "报道",
-      "sourceId": "eastmoney-macro",
       "number": 48
+    },
+    {
+      "title": "特朗普签令：将“人工智能”改称为“超级智能”",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-30/10706181.shtml",
+      "summary": "中新网9月30日电 综合美媒报道，当地时间29日，美国总统特朗普发布行政令，称在法律允许的最大范围内，联邦行政部门今后…",
+      "publishedAt": "2026-09-30T06:02:33.000Z",
+      "category": "政治",
+      "topic": "美国",
+      "source": "中国新闻网",
+      "sourceId": "us-politics",
+      "number": 49
     },
     {
       "title": "美国计划通过“互换”释放4000万桶战略石油储备",
@@ -2113,7 +2132,7 @@
       "topic": "美国",
       "source": "中国新闻网",
       "sourceId": "us-politics",
-      "number": 49
+      "number": 50
     },
     {
       "title": "美国9月消费者信心指数降至12年来最低值",
@@ -2124,7 +2143,7 @@
       "topic": "美国",
       "source": "中国新闻网",
       "sourceId": "us-politics",
-      "number": 50
+      "number": 51
     },
     {
       "title": "特朗普吐槽加拿大：“全世界最糟糕的国家之一”",
@@ -2135,7 +2154,18 @@
       "topic": "美国",
       "source": "中国新闻网",
       "sourceId": "us-politics",
-      "number": 51
+      "number": 52
+    },
+    {
+      "title": "习近平同文莱苏丹哈桑纳尔就中文建交35周年互致贺电",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-30/10706189.shtml",
+      "summary": "新华社快讯：习近平同文莱苏丹哈桑纳尔就中文建交35周年互致贺电。",
+      "publishedAt": "2026-09-30T06:19:01.000Z",
+      "category": "政治",
+      "topic": "中国",
+      "source": "中国新闻网",
+      "sourceId": "cn-politics",
+      "number": 53
     },
     {
       "title": "肖冰东任自贡市人民政府代理市长",
@@ -2146,7 +2176,7 @@
       "topic": "中国",
       "source": "中国新闻网",
       "sourceId": "cn-politics",
-      "number": 52
+      "number": 54
     },
     {
       "title": "中共中央批准 徐建同志任重庆市委常委",
@@ -2157,7 +2187,7 @@
       "topic": "中国",
       "source": "中国新闻网",
       "sourceId": "cn-politics",
-      "number": 53
+      "number": 55
     },
     {
       "title": "烈士纪念日向人民英雄敬献花篮仪式在京隆重举行 习近平等党和国家领导人出席",
@@ -2168,7 +2198,7 @@
       "topic": "中国",
       "source": "中国新闻网",
       "sourceId": "cn-politics",
-      "number": 54
+      "number": 56
     },
     {
       "title": "国台办谈“台独”是中美共同的敌人",
@@ -2179,7 +2209,7 @@
       "topic": "中国",
       "source": "中国新闻网",
       "sourceId": "cn-politics",
-      "number": 55
+      "number": 57
     },
     {
       "title": "【“十五五”开好局起好步】推动科技强国建设不断迈上新台阶",
@@ -2190,18 +2220,7 @@
       "topic": "中国",
       "source": "中国新闻网",
       "sourceId": "cn-politics",
-      "number": 56
-    },
-    {
-      "title": "国台办：坚决反对“台独”分裂符合中美双方共同利益",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-30/10706062.shtml",
-      "summary": "9月30日，国务院台办举行例行新闻发布会。有记者问，近日，《人民日报》刊文指出，一个中国原则是中美关系的政治基础。“台…",
-      "publishedAt": "2026-09-30T02:32:07.000Z",
-      "category": "政治",
-      "topic": "中国",
-      "source": "中国新闻网",
-      "sourceId": "cn-politics",
-      "number": 57
+      "number": 58
     },
     {
       "category": "AI",
@@ -2214,7 +2233,7 @@
       "reportDate": "2026-09-30",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 58
+      "number": 59
     },
     {
       "category": "AI",
@@ -2227,7 +2246,7 @@
       "reportDate": "2026-09-30",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 59
+      "number": 60
     },
     {
       "category": "AI",
@@ -2240,7 +2259,7 @@
       "reportDate": "2026-09-30",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 60
+      "number": 61
     },
     {
       "category": "AI",
@@ -2253,7 +2272,7 @@
       "reportDate": "2026-09-30",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 61
+      "number": 62
     },
     {
       "category": "AI",
@@ -2266,7 +2285,7 @@
       "reportDate": "2026-09-30",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 62
+      "number": 63
     },
     {
       "category": "AI",
@@ -2279,7 +2298,7 @@
       "reportDate": "2026-09-30",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 63
+      "number": 64
     },
     {
       "category": "AI",
@@ -2292,7 +2311,7 @@
       "reportDate": "2026-09-30",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 64
+      "number": 65
     },
     {
       "category": "AI",
@@ -2305,7 +2324,7 @@
       "reportDate": "2026-09-30",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 65
+      "number": 66
     },
     {
       "category": "AI",
@@ -2318,7 +2337,7 @@
       "reportDate": "2026-09-30",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 66
+      "number": 67
     },
     {
       "category": "AI",
@@ -2331,7 +2350,7 @@
       "reportDate": "2026-09-30",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 67
+      "number": 68
     },
     {
       "category": "AI",
@@ -2344,7 +2363,7 @@
       "reportDate": "2026-09-30",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 68
+      "number": 69
     },
     {
       "category": "AI",
@@ -2357,7 +2376,7 @@
       "reportDate": "2026-09-30",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 69
+      "number": 70
     },
     {
       "category": "AI",
@@ -2370,7 +2389,7 @@
       "reportDate": "2026-09-30",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 70
+      "number": 71
     },
     {
       "category": "AI",
@@ -2383,7 +2402,7 @@
       "reportDate": "2026-09-30",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 71
+      "number": 72
     },
     {
       "category": "AI",
@@ -2396,7 +2415,7 @@
       "reportDate": "2026-09-30",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 72
+      "number": 73
     },
     {
       "category": "AI",
@@ -2409,7 +2428,7 @@
       "reportDate": "2026-09-30",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 73
+      "number": 74
     },
     {
       "category": "AI",
@@ -2422,7 +2441,7 @@
       "reportDate": "2026-09-30",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 74
+      "number": 75
     },
     {
       "category": "AI",
@@ -2435,7 +2454,7 @@
       "reportDate": "2026-09-30",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 75
+      "number": 76
     },
     {
       "category": "AI",
@@ -2448,7 +2467,7 @@
       "reportDate": "2026-09-30",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 76
+      "number": 77
     },
     {
       "category": "AI",
@@ -2461,7 +2480,7 @@
       "reportDate": "2026-09-30",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 77
+      "number": 78
     },
     {
       "category": "AI",
@@ -2474,7 +2493,7 @@
       "reportDate": "2026-09-30",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 78
+      "number": 79
     },
     {
       "category": "AI",
@@ -2487,7 +2506,7 @@
       "reportDate": "2026-09-30",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 79
+      "number": 80
     },
     {
       "category": "AI",
@@ -2500,7 +2519,7 @@
       "reportDate": "2026-09-30",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 80
+      "number": 81
     },
     {
       "category": "AI",
@@ -2513,7 +2532,7 @@
       "reportDate": "2026-09-30",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 81
+      "number": 82
     },
     {
       "category": "AI",
@@ -2526,7 +2545,7 @@
       "reportDate": "2026-09-30",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 82
+      "number": 83
     },
     {
       "category": "AI",
@@ -2539,7 +2558,7 @@
       "reportDate": "2026-09-30",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 83
+      "number": 84
     },
     {
       "category": "AI",
@@ -2552,7 +2571,7 @@
       "reportDate": "2026-09-30",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 84
+      "number": 85
     }
   ]
 }
