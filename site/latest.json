@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-10-03T05:48:16.518Z",
+  "collectedAt": "2026-10-03T06:32:31.637Z",
   "topics": {
     "时事": [
       "百度热搜"
@@ -38,8 +38,8 @@
       "name": "百度热搜 · 时事",
       "url": "https://top.baidu.com/board?tab=realtime",
       "status": "ok",
-      "lastAttempt": "2026-10-03T05:48:16.518Z",
-      "lastSuccess": "2026-10-03T05:48:16.518Z",
+      "lastAttempt": "2026-10-03T06:32:31.637Z",
+      "lastSuccess": "2026-10-03T06:32:31.637Z",
       "items": [
         {
           "category": "时事",
@@ -48,7 +48,7 @@
           "summary": "百度热搜未提供摘要，可点开查看相关新闻。",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E9%AB%98%E9%93%81%E7%AB%99%E5%AE%A2%E6%B5%81%E5%8F%88%E2%80%9C%E7%88%86%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-03T05:48:16.518Z",
+          "publishedAt": "2026-10-03T06:32:31.637Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -60,7 +60,7 @@
           "summary": "国庆假期期间，你选择了哪种出行方式？是自驾、高铁、还是飞机长途出行。不管哪种交通方式，都需要警惕出行长途路上可能遭遇“…",
           "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BB%BD%E9%95%BF%E9%80%94%E5%87%BA%E8%A1%8C%E9%98%B2%E6%8A%A4%E6%8C%87%E5%8D%97%E8%AF%B7%E6%94%B6%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-03T05:48:16.518Z",
+          "publishedAt": "2026-10-03T06:32:31.637Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -68,23 +68,11 @@
         {
           "category": "时事",
           "topic": "百度热搜",
-          "title": "现在的酒店为什么都不查房了",
-          "summary": "现在的酒店为什么都不查房了？酒店不查房，首先就是一笔“经济账”。住户损坏的物品价格，抵不上酒店用人成本。其次，免押金、…",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%A8%E7%9A%84%E9%85%92%E5%BA%97%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E4%B8%8D%E6%9F%A5%E6%88%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+          "title": "增程车 高速排队充电",
+          "summary": "近日，国庆高速新能源车充电拥堵，枣阳北服务区推出充至80%强制离场新规，增程车扎堆排队充电引发争议，有人认为增程车可燃…",
+          "url": "https://www.baidu.com/s?wd=%E5%A2%9E%E7%A8%8B%E8%BD%A6+%E9%AB%98%E9%80%9F%E6%8E%92%E9%98%9F%E5%85%85%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-03T05:48:16.518Z",
-          "timeLabel": "热搜采集",
-          "linkLabel": "查看相关新闻",
-          "sourceId": "baidu"
-        },
-        {
-          "category": "时事",
-          "topic": "百度热搜",
-          "title": "茶颜悦色零食店像金粒门帮忙装修的",
-          "summary": "今年来，茶颜悦色可谓动作频频。一方面，它们终于不再像以前一样那么“克制”，把门店开到了广州这样的一线城市；另一方面，切…",
-          "url": "https://www.baidu.com/s?wd=%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E9%9B%B6%E9%A3%9F%E5%BA%97%E5%83%8F%E9%87%91%E7%B2%92%E9%97%A8%E5%B8%AE%E5%BF%99%E8%A3%85%E4%BF%AE%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news",
-          "source": "百度热搜",
-          "publishedAt": "2026-10-03T05:48:16.518Z",
+          "publishedAt": "2026-10-03T06:32:31.637Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -96,7 +84,19 @@
           "summary": "近日，69岁的华伯在浙江大学医学院附属第一医院转危为安。此前，华伯上山砍毛竹时左前臂被竹子刺伤，伤口化脓，过了3天突然…",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A0%8D%E6%AF%9B%E7%AB%B9%E8%A2%AB%E5%88%BA%E4%B8%80%E4%B8%8B+%E7%A1%AE%E8%AF%8A%E2%80%9C%E4%B8%83%E6%97%A5%E7%96%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-03T05:48:16.518Z",
+          "publishedAt": "2026-10-03T06:32:31.637Z",
+          "timeLabel": "热搜采集",
+          "linkLabel": "查看相关新闻",
+          "sourceId": "baidu"
+        },
+        {
+          "category": "时事",
+          "topic": "百度热搜",
+          "title": "现在的酒店为什么都不查房了",
+          "summary": "现在的酒店为什么都不查房了？酒店不查房，首先就是一笔“经济账”。住户损坏的物品价格，抵不上酒店用人成本。其次，免押金、…",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%A8%E7%9A%84%E9%85%92%E5%BA%97%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E4%B8%8D%E6%9F%A5%E6%88%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+          "source": "百度热搜",
+          "publishedAt": "2026-10-03T06:32:31.637Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -108,7 +108,7 @@
           "summary": "“十一”长假刚启幕，第一批“节日病”患者已到达医院急诊。10月2日，记者从医院了解到，假期以来，突发性耳聋、消化道出血…",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E7%AC%AC%E4%B8%80%E6%89%B9%E8%8A%82%E6%97%A5%E7%97%85%E6%82%A3%E8%80%85%E5%B7%B2%E5%88%B0%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-03T05:48:16.518Z",
+          "publishedAt": "2026-10-03T06:32:31.637Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -120,8 +120,8 @@
       "name": "网易体育（署名媒体）",
       "url": "https://sports.163.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-03T05:48:16.518Z",
-      "lastSuccess": "2026-10-03T05:48:16.518Z",
+      "lastAttempt": "2026-10-03T06:32:31.637Z",
+      "lastSuccess": "2026-10-03T06:32:31.637Z",
       "items": [
         {
           "title": "米切尔：没想到詹姆斯去76人 曾以为他会骑士勇士二选一",
@@ -157,6 +157,17 @@
           "number": 3
         },
         {
+          "title": "镜报：瓜帅将现场观战曼城主场对巴黎比赛，以表达对球队支持",
+          "url": "https://www.163.com/dy/article/L8AR3CPI0549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-10-03T06:20:07.000Z",
+          "category": "体育",
+          "topic": "英超",
+          "sourceId": "sports",
+          "summary": "10月3日，据《镜报》消息，曼城前主帅瓜迪奥拉计划重返阿蒂哈德球场，以实际行动表达对陷入困境的前东家曼城的支持。",
+          "number": 4
+        },
+        {
           "title": "报道曼城财务造假遭网暴，记者：至今还有球迷辱骂我的亡妻",
           "url": "https://www.163.com/dy/article/L8AO2CDS0549BAP0.html",
           "source": "懂球帝 · 网易体育",
@@ -165,7 +176,7 @@
           "topic": "英超",
           "sourceId": "sports",
           "summary": "《每日邮报》记者尼克-哈里斯发长文揭露曼城对他的“丑陋行为”，署名为“揭露曼城大规模作弊行为的记者。”",
-          "number": 4
+          "number": 5
         },
         {
           "title": "切尔西27/28赛季主场球衣曝光：蓝金配色，袖口“终点线”抢眼",
@@ -176,17 +187,6 @@
           "topic": "英超",
           "sourceId": "sports",
           "summary": "知名足球装备网站Footy Headlines曝光了切尔西下赛季的主场球衣，主体为蓝金配色，袖口处的棋盘格图案尤为抢眼。",
-          "number": 5
-        },
-        {
-          "title": "波特调侃曼城案：我们球队的缺席人数快赶上他们的违规数量了",
-          "url": "https://www.163.com/dy/article/L89M2FJH0549BAP0.html",
-          "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-10-02T19:33:00.000Z",
-          "category": "体育",
-          "topic": "英超",
-          "sourceId": "sports",
-          "summary": "据RMC Sport报道，瑞典国家队主帅格雷厄姆-波特在欧国联对阵波黑的赛前发布会上，拿近期备受关注的曼城财务违规案开…",
           "number": 6
         },
         {
@@ -278,48 +278,37 @@
           "number": 14
         },
         {
-          "title": "全市场：那不勒斯或在明年夏天卖小麦，双方在薪资方面有分歧",
-          "url": "https://www.163.com/dy/article/L88PGQVU0549BAP0.html",
-          "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-10-02T11:14:02.000Z",
+          "title": "小布虽败亦是成长！德约盛赞中国战士",
+          "url": "https://www.163.com/dy/article/L8AR06KA05298CTE.html",
+          "source": "网球之家 · 网易体育",
+          "publishedAt": "2026-10-03T06:18:29.000Z",
           "category": "体育",
-          "topic": "意甲",
+          "topic": "网球",
           "sourceId": "sports",
-          "summary": "据TMW报道，那不勒斯可能在2027年夏天出售麦克托米奈，原因是双方在续约薪资方面存在分歧。",
+          "summary": "北京中网夜场男单第二轮焦点之战中，中国选手布云朝克特在先下一城的绝佳局面下，历经三小时鏖战，遗憾遭德约科维奇逆转，以1…",
           "number": 15
         },
         {
-          "title": "亚运会｜吴易昺获网球男单亚军",
-          "url": "https://www.163.com/dy/article/L8AHELUQ0512D3VJ.html",
-          "source": "新京报 · 网易体育",
-          "publishedAt": "2026-10-03T03:31:31.000Z",
+          "title": "吴易昺带病作战无缘亚运会金牌，德约谈上海参赛：取决于中网成绩",
+          "url": "https://www.163.com/dy/article/L8AQUQP305298CTE.html",
+          "source": "网球之家 · 网易体育",
+          "publishedAt": "2026-10-03T06:17:43.000Z",
           "category": "体育",
           "topic": "网球",
           "sourceId": "sports",
-          "summary": "据新华社日本名古屋10月3日电 在刚刚结束的爱知·名古屋亚运会网球男子单打决赛中，中国队选手吴易昺以0:2不敌中国香港…",
+          "summary": "就在刚刚，名古屋亚运会网球男子单打决赛落幕。中国选手吴易昺以2-6 4-6不敌中国香港选手黄泽林，继2018年雅加达亚…",
           "number": 16
         },
         {
-          "title": "吴易昺0-2不敌中国香港选手黄泽林，获得亚运会网球男单亚军",
-          "url": "https://www.163.com/dy/article/L8AGQPTS0549BAP0.html",
-          "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-10-03T03:20:40.000Z",
+          "title": "郑钦文战强敌，朱琳吃油条，德约三连夸，小布不抱怨主场似客场",
+          "url": "https://www.163.com/dy/article/L8AQU3ND05298CTE.html",
+          "source": "网球之家 · 网易体育",
+          "publishedAt": "2026-10-03T06:17:19.000Z",
           "category": "体育",
           "topic": "网球",
           "sourceId": "sports",
-          "summary": "北京时间10月3日，爱知·名古屋亚运会网球男单决赛，中国选手吴易昺0-2不敌中国香港选手黄泽林，获得亚运会网球男单银牌…",
+          "summary": "每天三分钟，知晓天下网球事。球迷朋友大家好，今天是2026年10月3日星期六，欢迎收听收看由《网球之家》为您提供的新闻…",
           "number": 17
-        },
-        {
-          "title": "周琦现身中网现场，为萨巴伦卡和扎拉祖哈的比赛挑边",
-          "url": "https://www.163.com/dy/article/L8AG8AN10549BAP0.html",
-          "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-10-03T03:10:34.000Z",
-          "category": "体育",
-          "topic": "网球",
-          "sourceId": "sports",
-          "summary": "北京时间10月2日，北京北汽球员周琦现身中网比赛现场，为萨巴伦卡和扎拉祖阿的比赛挑边。",
-          "number": 18
         }
       ]
     },
@@ -328,8 +317,8 @@
       "name": "东方财富 · 美股",
       "url": "https://stock.eastmoney.com/america.html",
       "status": "ok",
-      "lastAttempt": "2026-10-03T05:48:16.518Z",
-      "lastSuccess": "2026-10-03T05:48:16.518Z",
+      "lastAttempt": "2026-10-03T06:32:31.637Z",
+      "lastSuccess": "2026-10-03T06:32:31.637Z",
       "items": [
         {
           "category": "金融",
@@ -361,6 +350,17 @@
           "url": "https://finance.eastmoney.com/a/202610033888452624.html",
           "publishedAt": "2026-10-02T23:18:00.000Z",
           "source": "东方财富 · 第一财经",
+          "kind": "报道",
+          "sourceId": "eastmoney-us-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "美股",
+          "title": "微软官方X账号被劫持，黑客借Clippy推广加密货币",
+          "summary": "当地时间10月2日，科技媒体Windows Latest报道称，微软官方X账号遭到黑客入侵，并被用于推广一款以Clip…",
+          "url": "https://finance.eastmoney.com/a/202610033888479560.html",
+          "publishedAt": "2026-10-03T06:00:00.000Z",
+          "source": "东方财富 · 经纬科创",
           "kind": "报道",
           "sourceId": "eastmoney-us-stock"
         },
@@ -404,8 +404,8 @@
       "name": "东方财富 · A股",
       "url": "https://stock.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-03T05:48:16.518Z",
-      "lastSuccess": "2026-10-03T05:48:16.518Z",
+      "lastAttempt": "2026-10-03T06:32:31.637Z",
+      "lastSuccess": "2026-10-03T06:32:31.637Z",
       "items": [
         {
           "category": "金融",
@@ -437,6 +437,17 @@
           "url": "https://finance.eastmoney.com/a/202610033888472354.html",
           "publishedAt": "2026-10-03T03:39:00.000Z",
           "source": "东方财富 · 券商中国",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "A股节后上涨胜率超60% 机构：持股过节或更合算！外围股市上涨 股民盼着开门红",
+          "summary": "这个国庆长假，你选择了持股过节还是持币过节？",
+          "url": "https://finance.eastmoney.com/a/202610033888480445.html",
+          "publishedAt": "2026-10-03T06:08:00.000Z",
+          "source": "东方财富 · 时代周报",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
@@ -571,17 +582,6 @@
           "source": "东方财富 · 中新经纬",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "半导体、通信相关主题ETF成为前9月“吸金王” 最高“吸金”超442亿元",
-          "summary": "尽管市场震荡回调、成交持续缩量，ETF市场却暗流涌动，9月股票ETF资金净流入超463亿元，科创50、创业板、沪深30…",
-          "url": "https://finance.eastmoney.com/a/202610023888380390.html",
-          "publishedAt": "2026-10-02T16:08:00.000Z",
-          "source": "东方财富 · 中国基金报",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
         }
       ]
     },
@@ -590,7 +590,7 @@
       "name": "东方财富 · 中国期货",
       "url": "https://futures.eastmoney.com/",
       "status": "error",
-      "lastAttempt": "2026-10-03T05:48:16.518Z",
+      "lastAttempt": "2026-10-03T06:32:31.637Z",
       "lastSuccess": "2026-10-01T23:53:41.146Z",
       "items": [
         {
@@ -622,8 +622,8 @@
       "name": "东方财富 · 宏观财经",
       "url": "https://finance.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-03T05:48:16.518Z",
-      "lastSuccess": "2026-10-03T05:48:16.518Z",
+      "lastAttempt": "2026-10-03T06:32:31.637Z",
+      "lastSuccess": "2026-10-03T06:32:31.637Z",
       "items": [
         {
           "category": "金融",
@@ -753,8 +753,8 @@
       "name": "新浪财经 · 美股",
       "url": "https://finance.sina.com.cn/stock/usstock/",
       "status": "ok",
-      "lastAttempt": "2026-10-03T05:48:16.518Z",
-      "lastSuccess": "2026-10-03T05:48:16.518Z",
+      "lastAttempt": "2026-10-03T06:32:31.637Z",
+      "lastSuccess": "2026-10-03T06:32:31.637Z",
       "items": [
         {
           "title": "英伟达市值一夜飙升超5000亿元，盘中创历史新高",
@@ -895,8 +895,8 @@
       "name": "新浪财经 · A股",
       "url": "https://finance.sina.com.cn/stock/",
       "status": "ok",
-      "lastAttempt": "2026-10-03T05:48:16.518Z",
-      "lastSuccess": "2026-10-03T05:48:16.518Z",
+      "lastAttempt": "2026-10-03T06:32:31.637Z",
+      "lastSuccess": "2026-10-03T06:32:31.637Z",
       "items": [
         {
           "title": "A股龙虎榜透视：7家营业部成交额破千亿，资金青睐这些赛道",
@@ -982,8 +982,8 @@
       "name": "新浪财经 · 期货订阅 1",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-10-03T05:48:16.518Z",
-      "lastSuccess": "2026-10-03T05:48:16.518Z",
+      "lastAttempt": "2026-10-03T06:32:31.637Z",
+      "lastSuccess": "2026-10-03T06:32:31.637Z",
       "items": []
     },
     {
@@ -991,8 +991,8 @@
       "name": "新浪财经 · 期货订阅 2",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-10-03T05:48:16.518Z",
-      "lastSuccess": "2026-10-03T05:48:16.518Z",
+      "lastAttempt": "2026-10-03T06:32:31.637Z",
+      "lastSuccess": "2026-10-03T06:32:31.637Z",
       "items": []
     },
     {
@@ -1000,8 +1000,8 @@
       "name": "新浪财经 · 期货订阅 3",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-10-03T05:48:16.518Z",
-      "lastSuccess": "2026-10-03T05:48:16.518Z",
+      "lastAttempt": "2026-10-03T06:32:31.637Z",
+      "lastSuccess": "2026-10-03T06:32:31.637Z",
       "items": [
         {
           "title": "猪价继续寻底，市场格局生变？",
@@ -1021,8 +1021,8 @@
       "name": "中新网 · 国际",
       "url": "https://www.chinanews.com.cn/rss/world.xml",
       "status": "ok",
-      "lastAttempt": "2026-10-03T05:48:16.518Z",
-      "lastSuccess": "2026-10-03T05:48:16.518Z",
+      "lastAttempt": "2026-10-03T06:32:31.637Z",
+      "lastSuccess": "2026-10-03T06:32:31.637Z",
       "items": [
         {
           "title": "特朗普：与伊朗的战事将“很快结束”",
@@ -1081,8 +1081,8 @@
       "name": "中新网 · 国内",
       "url": "https://www.chinanews.com.cn/rss/china.xml",
       "status": "ok",
-      "lastAttempt": "2026-10-03T05:48:16.518Z",
-      "lastSuccess": "2026-10-03T05:48:16.518Z",
+      "lastAttempt": "2026-10-03T06:32:31.637Z",
+      "lastSuccess": "2026-10-03T06:32:31.637Z",
       "items": [
         {
           "title": "（长征胜利90周年）中央红军长征集结出发地：记忆从历史深处抵近",
@@ -1141,8 +1141,8 @@
       "name": "AI HOT",
       "url": "https://aihot.news/",
       "status": "ok",
-      "lastAttempt": "2026-10-03T05:48:16.518Z",
-      "lastSuccess": "2026-10-03T05:48:16.518Z",
+      "lastAttempt": "2026-10-03T06:32:31.637Z",
+      "lastSuccess": "2026-10-03T06:32:31.637Z",
       "items": [
         {
           "category": "AI",
@@ -1299,7 +1299,7 @@
       "summary": "百度热搜未提供摘要，可点开查看相关新闻。",
       "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E9%AB%98%E9%93%81%E7%AB%99%E5%AE%A2%E6%B5%81%E5%8F%88%E2%80%9C%E7%88%86%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-03T05:48:16.518Z",
+      "publishedAt": "2026-10-03T06:32:31.637Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1312,7 +1312,7 @@
       "summary": "国庆假期期间，你选择了哪种出行方式？是自驾、高铁、还是飞机长途出行。不管哪种交通方式，都需要警惕出行长途路上可能遭遇“…",
       "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BB%BD%E9%95%BF%E9%80%94%E5%87%BA%E8%A1%8C%E9%98%B2%E6%8A%A4%E6%8C%87%E5%8D%97%E8%AF%B7%E6%94%B6%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-03T05:48:16.518Z",
+      "publishedAt": "2026-10-03T06:32:31.637Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1321,11 +1321,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "现在的酒店为什么都不查房了",
-      "summary": "现在的酒店为什么都不查房了？酒店不查房，首先就是一笔“经济账”。住户损坏的物品价格，抵不上酒店用人成本。其次，免押金、…",
-      "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%A8%E7%9A%84%E9%85%92%E5%BA%97%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E4%B8%8D%E6%9F%A5%E6%88%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "增程车 高速排队充电",
+      "summary": "近日，国庆高速新能源车充电拥堵，枣阳北服务区推出充至80%强制离场新规，增程车扎堆排队充电引发争议，有人认为增程车可燃…",
+      "url": "https://www.baidu.com/s?wd=%E5%A2%9E%E7%A8%8B%E8%BD%A6+%E9%AB%98%E9%80%9F%E6%8E%92%E9%98%9F%E5%85%85%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-03T05:48:16.518Z",
+      "publishedAt": "2026-10-03T06:32:31.637Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1334,11 +1334,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "茶颜悦色零食店像金粒门帮忙装修的",
-      "summary": "今年来，茶颜悦色可谓动作频频。一方面，它们终于不再像以前一样那么“克制”，把门店开到了广州这样的一线城市；另一方面，切…",
-      "url": "https://www.baidu.com/s?wd=%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E9%9B%B6%E9%A3%9F%E5%BA%97%E5%83%8F%E9%87%91%E7%B2%92%E9%97%A8%E5%B8%AE%E5%BF%99%E8%A3%85%E4%BF%AE%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "男子砍毛竹被刺一下 确诊“七日疯”",
+      "summary": "近日，69岁的华伯在浙江大学医学院附属第一医院转危为安。此前，华伯上山砍毛竹时左前臂被竹子刺伤，伤口化脓，过了3天突然…",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A0%8D%E6%AF%9B%E7%AB%B9%E8%A2%AB%E5%88%BA%E4%B8%80%E4%B8%8B+%E7%A1%AE%E8%AF%8A%E2%80%9C%E4%B8%83%E6%97%A5%E7%96%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-03T05:48:16.518Z",
+      "publishedAt": "2026-10-03T06:32:31.637Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1347,11 +1347,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "男子砍毛竹被刺一下 确诊“七日疯”",
-      "summary": "近日，69岁的华伯在浙江大学医学院附属第一医院转危为安。此前，华伯上山砍毛竹时左前臂被竹子刺伤，伤口化脓，过了3天突然…",
-      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A0%8D%E6%AF%9B%E7%AB%B9%E8%A2%AB%E5%88%BA%E4%B8%80%E4%B8%8B+%E7%A1%AE%E8%AF%8A%E2%80%9C%E4%B8%83%E6%97%A5%E7%96%AF%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "现在的酒店为什么都不查房了",
+      "summary": "现在的酒店为什么都不查房了？酒店不查房，首先就是一笔“经济账”。住户损坏的物品价格，抵不上酒店用人成本。其次，免押金、…",
+      "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%A8%E7%9A%84%E9%85%92%E5%BA%97%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E4%B8%8D%E6%9F%A5%E6%88%BF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-03T05:48:16.518Z",
+      "publishedAt": "2026-10-03T06:32:31.637Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1364,7 +1364,7 @@
       "summary": "“十一”长假刚启幕，第一批“节日病”患者已到达医院急诊。10月2日，记者从医院了解到，假期以来，突发性耳聋、消化道出血…",
       "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%BA%86%E7%AC%AC%E4%B8%80%E6%89%B9%E8%8A%82%E6%97%A5%E7%97%85%E6%82%A3%E8%80%85%E5%B7%B2%E5%88%B0%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-03T05:48:16.518Z",
+      "publishedAt": "2026-10-03T06:32:31.637Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1404,6 +1404,17 @@
       "number": 9
     },
     {
+      "title": "镜报：瓜帅将现场观战曼城主场对巴黎比赛，以表达对球队支持",
+      "url": "https://www.163.com/dy/article/L8AR3CPI0549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-10-03T06:20:07.000Z",
+      "category": "体育",
+      "topic": "英超",
+      "sourceId": "sports",
+      "summary": "10月3日，据《镜报》消息，曼城前主帅瓜迪奥拉计划重返阿蒂哈德球场，以实际行动表达对陷入困境的前东家曼城的支持。",
+      "number": 10
+    },
+    {
       "title": "报道曼城财务造假遭网暴，记者：至今还有球迷辱骂我的亡妻",
       "url": "https://www.163.com/dy/article/L8AO2CDS0549BAP0.html",
       "source": "懂球帝 · 网易体育",
@@ -1412,7 +1423,7 @@
       "topic": "英超",
       "sourceId": "sports",
       "summary": "《每日邮报》记者尼克-哈里斯发长文揭露曼城对他的“丑陋行为”，署名为“揭露曼城大规模作弊行为的记者。”",
-      "number": 10
+      "number": 11
     },
     {
       "title": "切尔西27/28赛季主场球衣曝光：蓝金配色，袖口“终点线”抢眼",
@@ -1423,17 +1434,6 @@
       "topic": "英超",
       "sourceId": "sports",
       "summary": "知名足球装备网站Footy Headlines曝光了切尔西下赛季的主场球衣，主体为蓝金配色，袖口处的棋盘格图案尤为抢眼。",
-      "number": 11
-    },
-    {
-      "title": "波特调侃曼城案：我们球队的缺席人数快赶上他们的违规数量了",
-      "url": "https://www.163.com/dy/article/L89M2FJH0549BAP0.html",
-      "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-10-02T19:33:00.000Z",
-      "category": "体育",
-      "topic": "英超",
-      "sourceId": "sports",
-      "summary": "据RMC Sport报道，瑞典国家队主帅格雷厄姆-波特在欧国联对阵波黑的赛前发布会上，拿近期备受关注的曼城财务违规案开…",
       "number": 12
     },
     {
@@ -1525,47 +1525,48 @@
       "number": 20
     },
     {
-      "title": "全市场：那不勒斯或在明年夏天卖小麦，双方在薪资方面有分歧",
-      "url": "https://www.163.com/dy/article/L88PGQVU0549BAP0.html",
-      "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-10-02T11:14:02.000Z",
+      "title": "小布虽败亦是成长！德约盛赞中国战士",
+      "url": "https://www.163.com/dy/article/L8AR06KA05298CTE.html",
+      "source": "网球之家 · 网易体育",
+      "publishedAt": "2026-10-03T06:18:29.000Z",
       "category": "体育",
-      "topic": "意甲",
+      "topic": "网球",
       "sourceId": "sports",
-      "summary": "据TMW报道，那不勒斯可能在2027年夏天出售麦克托米奈，原因是双方在续约薪资方面存在分歧。",
+      "summary": "北京中网夜场男单第二轮焦点之战中，中国选手布云朝克特在先下一城的绝佳局面下，历经三小时鏖战，遗憾遭德约科维奇逆转，以1…",
       "number": 21
     },
     {
-      "title": "亚运会｜吴易昺获网球男单亚军",
-      "url": "https://www.163.com/dy/article/L8AHELUQ0512D3VJ.html",
-      "source": "新京报 · 网易体育",
-      "publishedAt": "2026-10-03T03:31:31.000Z",
+      "title": "吴易昺带病作战无缘亚运会金牌，德约谈上海参赛：取决于中网成绩",
+      "url": "https://www.163.com/dy/article/L8AQUQP305298CTE.html",
+      "source": "网球之家 · 网易体育",
+      "publishedAt": "2026-10-03T06:17:43.000Z",
       "category": "体育",
       "topic": "网球",
       "sourceId": "sports",
-      "summary": "据新华社日本名古屋10月3日电 在刚刚结束的爱知·名古屋亚运会网球男子单打决赛中，中国队选手吴易昺以0:2不敌中国香港…",
+      "summary": "就在刚刚，名古屋亚运会网球男子单打决赛落幕。中国选手吴易昺以2-6 4-6不敌中国香港选手黄泽林，继2018年雅加达亚…",
       "number": 22
     },
     {
-      "title": "吴易昺0-2不敌中国香港选手黄泽林，获得亚运会网球男单亚军",
-      "url": "https://www.163.com/dy/article/L8AGQPTS0549BAP0.html",
-      "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-10-03T03:20:40.000Z",
+      "title": "郑钦文战强敌，朱琳吃油条，德约三连夸，小布不抱怨主场似客场",
+      "url": "https://www.163.com/dy/article/L8AQU3ND05298CTE.html",
+      "source": "网球之家 · 网易体育",
+      "publishedAt": "2026-10-03T06:17:19.000Z",
       "category": "体育",
       "topic": "网球",
       "sourceId": "sports",
-      "summary": "北京时间10月3日，爱知·名古屋亚运会网球男单决赛，中国选手吴易昺0-2不敌中国香港选手黄泽林，获得亚运会网球男单银牌…",
+      "summary": "每天三分钟，知晓天下网球事。球迷朋友大家好，今天是2026年10月3日星期六，欢迎收听收看由《网球之家》为您提供的新闻…",
       "number": 23
     },
     {
-      "title": "周琦现身中网现场，为萨巴伦卡和扎拉祖哈的比赛挑边",
-      "url": "https://www.163.com/dy/article/L8AG8AN10549BAP0.html",
-      "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-10-03T03:10:34.000Z",
-      "category": "体育",
-      "topic": "网球",
-      "sourceId": "sports",
-      "summary": "北京时间10月2日，北京北汽球员周琦现身中网比赛现场，为萨巴伦卡和扎拉祖阿的比赛挑边。",
+      "category": "金融",
+      "topic": "美股",
+      "title": "微软官方X账号被劫持，黑客借Clippy推广加密货币",
+      "summary": "当地时间10月2日，科技媒体Windows Latest报道称，微软官方X账号遭到黑客入侵，并被用于推广一款以Clip…",
+      "url": "https://finance.eastmoney.com/a/202610033888479560.html",
+      "publishedAt": "2026-10-03T06:00:00.000Z",
+      "source": "东方财富 · 经纬科创",
+      "kind": "报道",
+      "sourceId": "eastmoney-us-stock",
       "number": 24
     },
     {
@@ -1630,14 +1631,14 @@
     },
     {
       "category": "金融",
-      "topic": "美股",
-      "title": "非农不及预期！加息前景再降温，美股收涨，特斯拉涨近5%，存储板块走弱，金银回落",
-      "summary": "当地时间10月2日，美股三大指数集体收涨。",
-      "url": "https://finance.eastmoney.com/a/202610033888452624.html",
-      "publishedAt": "2026-10-02T23:18:00.000Z",
-      "source": "东方财富 · 第一财经",
+      "topic": "A股",
+      "title": "A股节后上涨胜率超60% 机构：持股过节或更合算！外围股市上涨 股民盼着开门红",
+      "summary": "这个国庆长假，你选择了持股过节还是持币过节？",
+      "url": "https://finance.eastmoney.com/a/202610033888480445.html",
+      "publishedAt": "2026-10-03T06:08:00.000Z",
+      "source": "东方财富 · 时代周报",
       "kind": "报道",
-      "sourceId": "eastmoney-us-stock",
+      "sourceId": "eastmoney-cn-stock",
       "number": 30
     },
     {
@@ -1701,18 +1702,6 @@
       "number": 35
     },
     {
-      "title": "天价离婚！顶级大佬卖股票 筹集47亿“分手费”！",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-10-03/doc-initxfym4983162.shtml",
-      "summary": "韩国“天价离婚案”有新进展！ 据最新消息，SK集团会长崔泰源将出售165.39万股SK Inc．（SK集团控股公司）股…",
-      "source": "券商中国 · 新浪财经",
-      "publishedAt": "2026-10-03T03:50:35.000Z",
-      "category": "金融",
-      "topic": "A股",
-      "sourceId": "cn-stock",
-      "kind": "报道",
-      "number": 36
-    },
-    {
       "title": "猪价继续寻底，市场格局生变？",
       "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-02/doc-initvprc1354876.shtml",
       "summary": "来源：期货日报 2026年前三季度，国内生猪市场在周期底部持续博弈，生猪期货价格偏弱震荡，养殖主体盈利承压。本轮猪周期…",
@@ -1722,7 +1711,7 @@
       "topic": "中国期货",
       "sourceId": "futures-3",
       "kind": "报道",
-      "number": 37
+      "number": 36
     },
     {
       "category": "金融",
@@ -1734,7 +1723,7 @@
       "source": "东方财富 · 新华财经",
       "kind": "报道",
       "sourceId": "eastmoney-futures",
-      "number": 38
+      "number": 37
     },
     {
       "category": "金融",
@@ -1746,7 +1735,7 @@
       "source": "东方财富 · 东方财富研究中心",
       "kind": "报道",
       "sourceId": "eastmoney-futures",
-      "number": 39
+      "number": 38
     },
     {
       "category": "金融",
@@ -1758,7 +1747,7 @@
       "source": "东方财富 · 证券时报网",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
-      "number": 40
+      "number": 39
     },
     {
       "category": "金融",
@@ -1768,6 +1757,18 @@
       "url": "https://finance.eastmoney.com/a/202610033888457516.html",
       "publishedAt": "2026-10-03T00:49:00.000Z",
       "source": "东方财富 · 财联社",
+      "kind": "报道",
+      "sourceId": "eastmoney-macro",
+      "number": 40
+    },
+    {
+      "category": "金融",
+      "topic": "宏观财经",
+      "title": "非农不及预期！加息前景再降温，美股收涨，特斯拉涨近5%，存储板块走弱，金银回落",
+      "summary": "当地时间10月2日，美股三大指数集体收涨。",
+      "url": "https://finance.eastmoney.com/a/202610033888452624.html",
+      "publishedAt": "2026-10-02T23:18:00.000Z",
+      "source": "东方财富 · 第一财经",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
       "number": 41
@@ -1809,18 +1810,6 @@
       "number": 44
     },
     {
-      "category": "金融",
-      "topic": "宏观财经",
-      "title": "全球央行艰难重启加息周期 这次有什么不同",
-      "summary": "2026年9月，美联储、欧洲央行、日本央行均加息，市场预计英国央行很快也将加息。上一轮三大央行在相近窗口内先后启动加息…",
-      "url": "https://finance.eastmoney.com/a/202610023888331826.html",
-      "publishedAt": "2026-10-02T16:33:00.000Z",
-      "source": "东方财富 · 第一财经",
-      "kind": "报道",
-      "sourceId": "eastmoney-macro",
-      "number": 45
-    },
-    {
       "title": "特朗普：与伊朗的战事将“很快结束”",
       "url": "https://www.chinanews.com.cn/gj/2026/10-03/10707354.shtml",
       "summary": "美国总统特朗普2日称，与伊朗的战事将“很快结束，伊朗永远不会拥有核武器”。",
@@ -1829,7 +1818,7 @@
       "topic": "美国",
       "source": "中国新闻网",
       "sourceId": "us-politics",
-      "number": 46
+      "number": 45
     },
     {
       "title": "美国9月非农就业增加2.9万 失业率4.2%",
@@ -1840,7 +1829,7 @@
       "topic": "美国",
       "source": "中国新闻网",
       "sourceId": "us-politics",
-      "number": 47
+      "number": 46
     },
     {
       "title": "美国联邦航空管理局：波音737 MAX软件故障不构成安全威胁",
@@ -1851,7 +1840,7 @@
       "topic": "美国",
       "source": "中国新闻网",
       "sourceId": "us-politics",
-      "number": 48
+      "number": 47
     },
     {
       "title": "美媒：美国向沙特和卡塔尔增派“爱国者”导弹系统，以保护当地能源设施",
@@ -1862,7 +1851,7 @@
       "topic": "美国",
       "source": "中国新闻网",
       "sourceId": "us-politics",
-      "number": 49
+      "number": 48
     },
     {
       "title": "美媒爆料：美国向中东增派第三个航母打击群和至多1万名兵力",
@@ -1873,7 +1862,7 @@
       "topic": "美国",
       "source": "中国新闻网",
       "sourceId": "us-politics",
-      "number": 50
+      "number": 49
     },
     {
       "title": "（长征胜利90周年）中央红军长征集结出发地：记忆从历史深处抵近",
@@ -1884,7 +1873,7 @@
       "topic": "中国",
       "source": "中国新闻网",
       "sourceId": "cn-politics",
-      "number": 51
+      "number": 50
     },
     {
       "title": "中国驻美大使阐述中美关系新定位内涵",
@@ -1895,7 +1884,7 @@
       "topic": "中国",
       "source": "中国新闻网",
       "sourceId": "cn-politics",
-      "number": 52
+      "number": 51
     },
     {
       "title": "中国驻美大使：习近平主席对美国事访问创造中美交往的历史",
@@ -1906,7 +1895,7 @@
       "topic": "中国",
       "source": "中国新闻网",
       "sourceId": "cn-politics",
-      "number": 53
+      "number": 52
     },
     {
       "title": "习近平主席华盛顿之行：三个场景的历史分量",
@@ -1917,7 +1906,7 @@
       "topic": "中国",
       "source": "中国新闻网",
       "sourceId": "cn-politics",
-      "number": 54
+      "number": 53
     },
     {
       "title": "中方代表28国呼吁国际社会遏止单边强制措施",
@@ -1928,7 +1917,7 @@
       "topic": "中国",
       "source": "中国新闻网",
       "sourceId": "cn-politics",
-      "number": 55
+      "number": 54
     },
     {
       "category": "AI",
@@ -1941,7 +1930,7 @@
       "reportDate": "2026-10-03",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 56
+      "number": 55
     },
     {
       "category": "AI",
@@ -1954,7 +1943,7 @@
       "reportDate": "2026-10-03",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 57
+      "number": 56
     },
     {
       "category": "AI",
@@ -1967,7 +1956,7 @@
       "reportDate": "2026-10-03",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 58
+      "number": 57
     },
     {
       "category": "AI",
@@ -1980,7 +1969,7 @@
       "reportDate": "2026-10-03",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 59
+      "number": 58
     },
     {
       "category": "AI",
@@ -1993,7 +1982,7 @@
       "reportDate": "2026-10-03",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 60
+      "number": 59
     },
     {
       "category": "AI",
@@ -2006,7 +1995,7 @@
       "reportDate": "2026-10-03",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 61
+      "number": 60
     },
     {
       "category": "AI",
@@ -2019,7 +2008,7 @@
       "reportDate": "2026-10-03",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 62
+      "number": 61
     },
     {
       "category": "AI",
@@ -2032,7 +2021,7 @@
       "reportDate": "2026-10-03",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 63
+      "number": 62
     },
     {
       "category": "AI",
@@ -2045,7 +2034,7 @@
       "reportDate": "2026-10-03",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 64
+      "number": 63
     },
     {
       "category": "AI",
@@ -2058,7 +2047,7 @@
       "reportDate": "2026-10-03",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 65
+      "number": 64
     },
     {
       "category": "AI",
@@ -2071,7 +2060,7 @@
       "reportDate": "2026-10-03",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 66
+      "number": 65
     },
     {
       "category": "AI",
@@ -2084,7 +2073,7 @@
       "reportDate": "2026-10-03",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 67
+      "number": 66
     }
   ]
 }
