@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-10-07T07:14:54.789Z",
+  "collectedAt": "2026-10-07T08:41:11.059Z",
   "topics": {
     "时事": [
       "百度热搜"
@@ -38,21 +38,9 @@
       "name": "百度热搜 · 时事",
       "url": "https://top.baidu.com/board?tab=realtime",
       "status": "ok",
-      "lastAttempt": "2026-10-07T07:14:54.789Z",
-      "lastSuccess": "2026-10-07T07:14:54.789Z",
+      "lastAttempt": "2026-10-07T08:41:11.059Z",
+      "lastSuccess": "2026-10-07T08:41:11.059Z",
       "items": [
-        {
-          "category": "时事",
-          "topic": "百度热搜",
-          "title": "向新图强 创新潮涌神州大地",
-          "summary": "推进中国式现代化，科技创新是必由之路。“十五五”开局之年，从传统产业的焕新突破到新兴赛道的集群成势，各行各业创新浪潮奔…",
-          "url": "https://www.baidu.com/s?wd=%E5%90%91%E6%96%B0%E5%9B%BE%E5%BC%BA+%E5%88%9B%E6%96%B0%E6%BD%AE%E6%B6%8C%E7%A5%9E%E5%B7%9E%E5%A4%A7%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news",
-          "source": "百度热搜",
-          "publishedAt": "2026-10-07T07:14:54.789Z",
-          "timeLabel": "热搜采集",
-          "linkLabel": "查看相关新闻",
-          "sourceId": "baidu"
-        },
         {
           "category": "时事",
           "topic": "百度热搜",
@@ -60,7 +48,7 @@
           "summary": "国庆假期，我国能源、基建、应急救援等多个领域传来好消息：大国重器接连突破，多项“首个”“首次”上新，多个重大交通项目迎…",
           "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%BD%E5%B7%A5%E7%A8%8B%E9%87%8D%E5%99%A8%E8%BF%9B%E5%BA%A6%E6%9D%A1%E5%88%B7%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-07T07:14:54.789Z",
+          "publishedAt": "2026-10-07T08:41:11.059Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -68,11 +56,11 @@
         {
           "category": "时事",
           "topic": "百度热搜",
-          "title": "高铁坐过站怎么办？可以免费坐回去",
-          "summary": "假期出行高峰期，旅客乘坐高铁若不慎坐过站，可联系列车工作人员说明情况。经列车长编制客运记录并交由前方停车站后，旅客可凭…",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%9D%90%E8%BF%87%E7%AB%99%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F%E5%8F%AF%E4%BB%A5%E5%85%8D%E8%B4%B9%E5%9D%90%E5%9B%9E%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news",
+          "title": "在泰失联的上海音乐教师已安全回国",
+          "summary": "10月7日，中国驻泰国大使馆发言人表示，此前在泰国曼谷失联的上海音乐教师已安全返回上海。使馆再次郑重提醒赴泰中国公民提…",
+          "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E6%B3%B0%E5%A4%B1%E8%81%94%E7%9A%84%E4%B8%8A%E6%B5%B7%E9%9F%B3%E4%B9%90%E6%95%99%E5%B8%88%E5%B7%B2%E5%AE%89%E5%85%A8%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-07T07:14:54.789Z",
+          "publishedAt": "2026-10-07T08:41:11.059Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -80,11 +68,11 @@
         {
           "category": "时事",
           "topic": "百度热搜",
-          "title": "杨利伟在土耳其发声",
-          "summary": "近日，第77届国际宇航大会在土耳其安塔利亚开幕。中国载人航天工程副总设计师杨利伟在会上表示，中国空间站将面向全球科学家…",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%A8%E5%88%A9%E4%BC%9F%E5%9C%A8%E5%9C%9F%E8%80%B3%E5%85%B6%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news",
+          "title": "今年国庆“充电焦虑”为何不明显了",
+          "summary": "今年国庆假期，新能源车出行量达到日常的1.8倍，多地高速服务区充电量将创历史新高，但“抢充电桩”的新闻却明显减少。这背…",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%9B%BD%E5%BA%86%E2%80%9C%E5%85%85%E7%94%B5%E7%84%A6%E8%99%91%E2%80%9D%E4%B8%BA%E4%BD%95%E4%B8%8D%E6%98%8E%E6%98%BE%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-07T07:14:54.789Z",
+          "publishedAt": "2026-10-07T08:41:11.059Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -92,11 +80,11 @@
         {
           "category": "时事",
           "topic": "百度热搜",
-          "title": "“买Labubu不如买香蕉”",
-          "summary": "近日，段永平因评价网友“买Labubu不如买香蕉”言论引发争议，随后发文道歉。此前，有网友提及孩子想买香蕉而非Labu…",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%B0Labubu%E4%B8%8D%E5%A6%82%E4%B9%B0%E9%A6%99%E8%95%89%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+          "title": "男子竟在高速车道停车换驾驶员",
+          "summary": "近日，男子在高速公路车辆缓行时，竟直接将车停在车道内与副驾驶换人。交警怒斥该行为极易引发交通事故，并依法对驾驶员处以罚…",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%AB%9F%E5%9C%A8%E9%AB%98%E9%80%9F%E8%BD%A6%E9%81%93%E5%81%9C%E8%BD%A6%E6%8D%A2%E9%A9%BE%E9%A9%B6%E5%91%98&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-07T07:14:54.789Z",
+          "publishedAt": "2026-10-07T08:41:11.059Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -108,7 +96,19 @@
           "summary": "国庆假期期间，网传“高铁座椅成HPV感染重灾区”引发热议。对此，首都医科大学附属北京佑安医院感染科主任医师李侗曾辟谣称…",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E9%93%81%E5%BA%A7%E6%A4%85%E6%88%90HPV%E6%84%9F%E6%9F%93%E9%87%8D%E7%81%BE%E5%8C%BA%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-07T07:14:54.789Z",
+          "publishedAt": "2026-10-07T08:41:11.059Z",
+          "timeLabel": "热搜采集",
+          "linkLabel": "查看相关新闻",
+          "sourceId": "baidu"
+        },
+        {
+          "category": "时事",
+          "topic": "百度热搜",
+          "title": "杨利伟在土耳其发声",
+          "summary": "近日，第77届国际宇航大会在土耳其安塔利亚开幕。中国载人航天工程副总设计师杨利伟在会上表示，中国空间站将面向全球科学家…",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%A8%E5%88%A9%E4%BC%9F%E5%9C%A8%E5%9C%9F%E8%80%B3%E5%85%B6%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news",
+          "source": "百度热搜",
+          "publishedAt": "2026-10-07T08:41:11.059Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -120,8 +120,8 @@
       "name": "网易体育（署名媒体）",
       "url": "https://sports.163.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-07T07:14:54.789Z",
-      "lastSuccess": "2026-10-07T07:14:54.789Z",
+      "lastAttempt": "2026-10-07T08:41:11.059Z",
+      "lastSuccess": "2026-10-07T08:41:11.059Z",
       "items": [
         {
           "title": "库里16分5助攻布朗尼4分5助攻 勇士轻取残阵湖人",
@@ -157,37 +157,48 @@
           "number": 3
         },
         {
-          "title": "阿诺德28岁，利物浦送上生日祝福：生日快乐，特伦特",
-          "url": "https://www.163.com/dy/article/L8L4VFPM0549BAP0.html",
+          "title": "ESPN：平托促成曼城案调查，但不该被视为英雄",
+          "url": "https://www.163.com/dy/article/L8LB1G3D0549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-10-07T06:25:09.000Z",
+          "publishedAt": "2026-10-07T08:11:06.000Z",
           "category": "体育",
           "topic": "英超",
           "sourceId": "sports",
-          "summary": "利物浦足球俱乐部社媒账号发文，向特伦特送上28岁生日祝福。利物浦足球俱乐部社媒账号写道：生日快乐，特伦特。",
+          "summary": "据ESPN报道，平托促成曼城案调查，但不该被视为英雄。",
           "number": 4
         },
         {
-          "title": "不想进国家队了？热刺中场M费给C罗声明点赞",
-          "url": "https://www.163.com/dy/article/L8L4VF4A0549BAP0.html",
+          "title": "热刺官方发文，祝贺凯恩成英格兰队史出场并列第一",
+          "url": "https://www.163.com/dy/article/L8LADDGJ0549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-10-07T06:25:09.000Z",
+          "publishedAt": "2026-10-07T08:00:08.000Z",
           "category": "体育",
           "topic": "英超",
           "sourceId": "sports",
-          "summary": "北京时间10月7日凌晨，C罗通过社交媒体发布了一则长篇声明，解释了退出葡萄牙国家队训练营的原因和真相。目前11个小时过…",
+          "summary": "据原文报道，热刺官方发文祝贺凯恩成英格兰队史出场并列第一。",
           "number": 5
         },
         {
-          "title": "天空：英超阵容深度榜阿森纳居首，曼城主力替补差距明显",
-          "url": "https://www.163.com/dy/article/L8L2KP570549BAP0.html",
+          "title": "前水晶宫老板：英超应解散重建，处罚曼城毫无意义",
+          "url": "https://www.163.com/dy/article/L8L8L1R40549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-10-07T05:44:21.000Z",
+          "publishedAt": "2026-10-07T07:29:22.000Z",
           "category": "体育",
           "topic": "英超",
           "sourceId": "sports",
-          "summary": "天空体育结合各项数据统计，英超阵容深度榜阿森纳居首，竞技深度也第一。",
+          "summary": "据《太阳报》报道，前水晶宫老板、talkSPORT主持人西蒙-乔丹在曼城财务违规案裁决后呼吁解散并重建英超。",
           "number": 6
+        },
+        {
+          "title": "每体：巴萨曾能以500万欧签下普维尔，但因财务状况未能完成",
+          "url": "https://www.163.com/dy/article/L8L96ROG0549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-10-07T07:39:05.000Z",
+          "category": "体育",
+          "topic": "西甲",
+          "sourceId": "sports",
+          "summary": "据《每日体育报》报道，马德里竞技后卫马克-普维尔在2023年曾有机会以500万欧元加盟巴塞罗那，但巴萨因其年轻且随后受…",
+          "number": 7
         },
         {
           "title": "世体：巴萨十五天内要踢五场关键战役，将迎来赛季的关键考验",
@@ -198,7 +209,7 @@
           "topic": "西甲",
           "sourceId": "sports",
           "summary": "据《世界体育报》报道，国家队比赛期结束后，巴塞罗那将在短短十五天内迎来五场关键战役，包括西甲对阵赫塔费、贝蒂斯和皇家马…",
-          "number": 7
+          "number": 8
         },
         {
           "title": "罗体：戴维西甲3场3球，马竞很可能买断",
@@ -209,18 +220,18 @@
           "topic": "西甲",
           "sourceId": "sports",
           "summary": "据《罗马体育报》报道，乔纳森-戴维加盟马竞后西甲3场打进3球，马竞很可能将其买断。",
-          "number": 8
+          "number": 9
         },
         {
-          "title": "巴萨致敬梅西：从北京奥运夺金开始，你的每一步都在书写历史",
-          "url": "https://www.163.com/dy/article/L8KUPII80549BAP0.html",
+          "title": "每体：拜仁加速推进JJ-加布里尔埃尔转会，球员索要7位数年薪",
+          "url": "https://www.163.com/dy/article/L8LB1FKL0549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-10-07T04:37:04.000Z",
+          "publishedAt": "2026-10-07T08:11:06.000Z",
           "category": "体育",
-          "topic": "西甲",
+          "topic": "德甲",
           "sourceId": "sports",
-          "summary": "北京时间10月7日，阿根廷在国际友谊赛中3-0战胜贝宁，阿根廷传奇球星梅西完成国家队生涯谢幕之战。赛后，梅西效力了长达…",
-          "number": 9
+          "summary": "据《每日体育报》报道，在曼联新星JJ-加布里埃尔的争夺战中，拜仁慕尼黑已领先一步，与球员代表进行了会面，但其经纪人团队…",
+          "number": 10
         },
         {
           "title": "拜仁青训负责人：德国需给年轻球员更多比赛机会",
@@ -231,7 +242,7 @@
           "topic": "德甲",
           "sourceId": "sports",
           "summary": "据Goal报道，拜仁青训负责人约亨-索尔在采访中谈到德国青训，并表示德国俱乐部需要给年轻球员更多比赛机会。",
-          "number": 10
+          "number": 11
         },
         {
           "title": "图片报：拜仁训练场启用巨型遮挡帘，孔帕尼严防外界窥探",
@@ -242,18 +253,18 @@
           "topic": "德甲",
           "sourceId": "sports",
           "summary": "据《图片报》消息，拜仁慕尼黑进一步加强训练保密措施。孔帕尼如今可以使用三块配备完整视线遮挡设施的训练场，新安装的巨型遮…",
-          "number": 11
+          "number": 12
         },
         {
-          "title": "图片报：拜仁考虑过引进鲍曼，但尚未和霍芬海姆接触",
-          "url": "https://www.163.com/dy/article/L8JR1AGS0549BAP0.html",
+          "title": "贝尼特斯：国米仍是意甲最强，科莫和罗马是竞争者",
+          "url": "https://www.163.com/dy/article/L8L8L2K00549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-10-06T18:12:09.000Z",
+          "publishedAt": "2026-10-07T07:29:22.000Z",
           "category": "体育",
-          "topic": "德甲",
+          "topic": "意甲",
           "sourceId": "sports",
-          "summary": "据《图片报》消息，拜仁慕尼黑内部确实讨论过霍芬海姆门将奥利弗-鲍曼，但目前尚未有具体进展。迄今为止，拜仁与霍芬海姆之间…",
-          "number": 12
+          "summary": "贝尼特斯在接受采访时表示，国米仍是意甲最强的球队，科莫和罗马可能成为争冠竞争者。",
+          "number": 13
         },
         {
           "title": "阿拉巴：我跟莫德里奇、里贝里和阿瑙托维奇都交流过意甲的事",
@@ -264,7 +275,7 @@
           "topic": "意甲",
           "sourceId": "sports",
           "summary": "在正式加盟乌迪内斯之后，阿拉巴出席了自己的亮相新闻发布会，本文为新闻发布会的第二部分。",
-          "number": 13
+          "number": 14
         },
         {
           "title": "阿拉巴：过去几年我一直关注意甲，这是全球最顶尖的联赛之一",
@@ -275,17 +286,6 @@
           "topic": "意甲",
           "sourceId": "sports",
           "summary": "在正式加盟乌迪内斯之后，阿拉巴出席了自己的亮相新闻发布会，本文为新闻发布会的第三部分。",
-          "number": 14
-        },
-        {
-          "title": "前热那亚中场让-奥纳纳：26岁仍想重返赛场，希望回意甲",
-          "url": "https://www.163.com/dy/article/L8K11N9Q0549BAP0.html",
-          "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-10-06T19:57:14.000Z",
-          "category": "体育",
-          "topic": "意甲",
-          "sourceId": "sports",
-          "summary": "前热那亚中场让-奥纳纳在接受迪马济奥网站采访时表示，他希望重返赛场，并称自己已经找回了身体状态。",
           "number": 15
         },
         {
@@ -328,8 +328,8 @@
       "name": "东方财富 · 美股",
       "url": "https://stock.eastmoney.com/america.html",
       "status": "ok",
-      "lastAttempt": "2026-10-07T07:14:54.789Z",
-      "lastSuccess": "2026-10-07T07:14:54.789Z",
+      "lastAttempt": "2026-10-07T08:41:11.059Z",
+      "lastSuccess": "2026-10-07T08:41:11.059Z",
       "items": [
         {
           "category": "金融",
@@ -378,28 +378,6 @@
         {
           "category": "金融",
           "topic": "美股",
-          "title": "美光科技在中国台湾的工会宣布已正式取得罢工权",
-          "summary": "美光科技在中国台湾的工会宣布已正式取得罢工权。",
-          "url": "https://finance.eastmoney.com/a/202610073888871527.html",
-          "publishedAt": "2026-10-07T06:20:00.000Z",
-          "source": "东方财富 · 财联社",
-          "kind": "报道",
-          "sourceId": "eastmoney-us-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "美股",
-          "title": "德意志银行将诺和诺德目标股价从245丹麦克朗下调至225丹麦克朗",
-          "summary": "德意志银行将诺和诺德目标股价从245丹麦克朗下调至225丹麦克朗。",
-          "url": "https://finance.eastmoney.com/a/202610073888870768.html",
-          "publishedAt": "2026-10-07T06:14:00.000Z",
-          "source": "东方财富 · 财联社",
-          "kind": "报道",
-          "sourceId": "eastmoney-us-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "美股",
           "title": "美股盘前：三大股指期货齐涨 谷歌据报洽谈十亿美元核电大单 Constellation Energy盘前上涨",
           "summary": "周二盘前，三大股指期货齐涨，欧洲主要指数普遍上涨。截至发稿，纳斯达克100指数期货涨0.61%，道指期货涨0.58%，…",
           "url": "https://finance.eastmoney.com/a/202610063888788544.html",
@@ -426,9 +404,20 @@
       "name": "东方财富 · A股",
       "url": "https://stock.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-07T07:14:54.789Z",
-      "lastSuccess": "2026-10-07T07:14:54.789Z",
+      "lastAttempt": "2026-10-07T08:41:11.059Z",
+      "lastSuccess": "2026-10-07T08:41:11.059Z",
       "items": [
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "历史大数据揭秘 国庆节后A股这样走？这个冷门行业胜率最高",
+          "summary": "目前A股市场正在筑底过程中，第四季度行情有望修复。",
+          "url": "https://finance.eastmoney.com/a/202610073888867525.html",
+          "publishedAt": "2026-10-07T04:28:00.000Z",
+          "source": "东方财富 · 数据宝",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
         {
           "category": "金融",
           "topic": "A股",
@@ -454,17 +443,6 @@
         {
           "category": "金融",
           "topic": "A股",
-          "title": "明天A股开盘 节后怎么走？多家券商最新研判出炉",
-          "summary": "明天（8日），A股将迎来国庆节后的第一个交易日。",
-          "url": "https://finance.eastmoney.com/a/202610073888870150.html",
-          "publishedAt": "2026-10-07T05:45:00.000Z",
-          "source": "东方财富 · 红星资本局",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
           "title": "节后A股怎么走？多家券商最新研判出炉",
           "summary": "【大河财立方消息】国庆长假收尾，四季度行情即将启幕。中信证券、华泰证券、东吴证券等多家券商普遍认为，节前调整更多由情绪…",
           "url": "https://finance.eastmoney.com/a/202610073888862971.html",
@@ -476,10 +454,10 @@
         {
           "category": "金融",
           "topic": "A股",
-          "title": "德意志银行将诺和诺德目标股价从245丹麦克朗下调至225丹麦克朗",
-          "summary": "德意志银行将诺和诺德目标股价从245丹麦克朗下调至225丹麦克朗。",
-          "url": "https://finance.eastmoney.com/a/202610073888870768.html",
-          "publishedAt": "2026-10-07T06:14:00.000Z",
+          "title": "英特尔盘前股价上涨2.4% 此前有报道称公司将继续参与马斯克的Terafab芯片制造项目",
+          "summary": "英特尔盘前股价上涨2.4%，此前有报道称公司将继续参与马斯克的Terafab芯片制造项目。",
+          "url": "https://finance.eastmoney.com/a/202610073888884335.html",
+          "publishedAt": "2026-10-07T08:19:00.000Z",
           "source": "东方财富 · 财联社",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
@@ -487,10 +465,32 @@
         {
           "category": "金融",
           "topic": "A股",
-          "title": "英特尔夜盘股价上涨超2%，其首席执行官表示将继续与马斯克在TeraFab项目上合作",
-          "summary": "英特尔夜盘股价上涨超2%，其首席执行官表示将继续与马斯克在TeraFab项目上合作。",
-          "url": "https://finance.eastmoney.com/a/202610073888871424.html",
-          "publishedAt": "2026-10-07T05:57:00.000Z",
+          "title": "阿斯麦期权暗示财报公布后股价将波动4.6%",
+          "summary": "期权数据显示，阿斯麦公布财报后，其股价可能出现4.6%的波动。该公司预计将于10月14日美股开盘前发布财报。",
+          "url": "https://finance.eastmoney.com/a/202610073888883698.html",
+          "publishedAt": "2026-10-07T08:09:00.000Z",
+          "source": "东方财富 · 财联社",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "西部材料：拟定增募资不超11.9亿元用于高性能稀贵金属材料产线技改项目等",
+          "summary": "西部材料(002149.SZ)公告称，公司拟向特定对象发行股票，募集资金总额不超过11.9亿元，扣除发行费用后拟用于高…",
+          "url": "https://finance.eastmoney.com/a/202610073888884930.html",
+          "publishedAt": "2026-10-07T08:31:00.000Z",
+          "source": "东方财富 · 财联社",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "SpaceX盘前股价跌近2% 公司据悉正寻求400亿美元融资以购买英伟达芯片",
+          "summary": "SpaceX盘前股价跌近2%，公司据悉正寻求400亿美元融资以购买英伟达芯片。",
+          "url": "https://finance.eastmoney.com/a/202610073888883287.html",
+          "publishedAt": "2026-10-07T08:04:00.000Z",
           "source": "东方财富 · 财联社",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
@@ -516,28 +516,6 @@
           "source": "东方财富 · 上海证券报",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "商业航天驶入快车道，21股净利润有望高增长",
-          "summary": "A股三季度行情已结束，在即将开启的四季度行情，哪些行业板块有投资机会？2026年作为“十五五”规划开局之年，工业和信息…",
-          "url": "https://finance.eastmoney.com/a/202610063888767230.html",
-          "publishedAt": "2026-10-06T09:09:00.000Z",
-          "source": "东方财富 · 数据宝",
-          "kind": "观点",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "节后A股怎么走？多家券商发声",
-          "summary": "明天（8日），A股将迎来国庆节后第一个交易日。A股四季度将如何演绎，成为近期市场热议的话题。据中新经纬梳理，多家券商近…",
-          "url": "https://finance.eastmoney.com/a/202610073888851763.html",
-          "publishedAt": "2026-10-07T02:06:00.000Z",
-          "source": "东方财富 · 中新经纬",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
         }
       ]
     },
@@ -546,7 +524,7 @@
       "name": "东方财富 · 中国期货",
       "url": "https://futures.eastmoney.com/",
       "status": "error",
-      "lastAttempt": "2026-10-07T07:14:54.789Z",
+      "lastAttempt": "2026-10-07T08:41:11.059Z",
       "lastSuccess": "2026-10-05T22:38:48.558Z",
       "items": [
         {
@@ -589,8 +567,8 @@
       "name": "东方财富 · 宏观财经",
       "url": "https://finance.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-07T07:14:54.789Z",
-      "lastSuccess": "2026-10-07T07:14:54.789Z",
+      "lastAttempt": "2026-10-07T08:41:11.059Z",
+      "lastSuccess": "2026-10-07T08:41:11.059Z",
       "items": [
         {
           "category": "金融",
@@ -687,26 +665,15 @@
       "name": "新浪财经 · 美股",
       "url": "https://finance.sina.com.cn/stock/usstock/",
       "status": "ok",
-      "lastAttempt": "2026-10-07T07:14:54.789Z",
-      "lastSuccess": "2026-10-07T07:14:54.789Z",
+      "lastAttempt": "2026-10-07T08:41:11.059Z",
+      "lastSuccess": "2026-10-07T08:41:11.059Z",
       "items": [
         {
-          "title": "美国一男子因Meta欺诈案获刑六年",
-          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukaat5010740.shtml",
-          "summary": "美国司法部周二宣布，26岁男子Adam Iza因诈骗Meta超过3700万美元、逃税以及利用洛杉矶县警局前副警长恐吓他…",
+          "title": "欲打破英伟达垄断 AMD联合韩国扩容AI芯片生态",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuksyh6025327.shtml",
+          "summary": "周三，AMD董事长兼首席执行官苏姿丰在首尔将韩国AI芯片作为合作会谈的核心议题，探讨如何将韩国AI芯片与AMD处理器组…",
           "source": "环球市场播报 · 新浪财经",
-          "publishedAt": "2026-10-07T00:17:15.000Z",
-          "category": "金融",
-          "topic": "美股",
-          "sourceId": "us-stock",
-          "kind": "报道"
-        },
-        {
-          "title": "谷歌与星座能源达成协议 澳大利亚铀矿股走高",
-          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukaat4998130.shtml",
-          "summary": "谷歌母公司Alphabet同意向星座能源（Constellation Energy）购买核电，该协议将推动新增890兆…",
-          "source": "环球市场播报 · 新浪财经",
-          "publishedAt": "2026-10-06T23:39:17.000Z",
+          "publishedAt": "2026-10-07T07:18:18.000Z",
           "category": "金融",
           "topic": "美股",
           "sourceId": "us-stock",
@@ -719,9 +686,31 @@
       "name": "新浪财经 · A股",
       "url": "https://finance.sina.com.cn/stock/",
       "status": "ok",
-      "lastAttempt": "2026-10-07T07:14:54.789Z",
-      "lastSuccess": "2026-10-07T07:14:54.789Z",
+      "lastAttempt": "2026-10-07T08:41:11.059Z",
+      "lastSuccess": "2026-10-07T08:41:11.059Z",
       "items": [
+        {
+          "title": "算力难挑大梁，华孚时尚上半年扣非盈利依然单薄",
+          "url": "https://finance.sina.com.cn/stock/s/2026-10-07/doc-iniukxhe5916348.shtml",
+          "summary": "来源：证券之星 华孚时尚（002042.SH）近期交出了一份充满“矛盾感”的半年报。报告期内，公司实现营收37.51亿…",
+          "source": "市场资讯 · 新浪财经",
+          "publishedAt": "2026-10-07T07:00:00.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock",
+          "kind": "报道"
+        },
+        {
+          "title": "三七互娱中报：扣非净利下滑，主业与现金流同步承压",
+          "url": "https://finance.sina.com.cn/stock/s/2026-10-07/doc-iniukxhe5916275.shtml",
+          "summary": "来源：证券之星 今年中报季，三七互娱（002555.SZ）再交出一份收入缩水的成绩单。上半年，公司收入同比下滑超14%…",
+          "source": "市场资讯 · 新浪财经",
+          "publishedAt": "2026-10-07T07:00:00.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock",
+          "kind": "报道"
+        },
         {
           "title": "明天A股开盘，节后怎么走？多家券商最新研判出炉",
           "url": "https://finance.sina.com.cn/roll/2026-10-07/doc-iniuksym4739170.shtml",
@@ -754,39 +743,6 @@
           "topic": "A股",
           "sourceId": "cn-stock",
           "kind": "报道"
-        },
-        {
-          "title": "高盛交易台：三星电子受财报与 ETF 资金流动影响，股价或将大幅波动",
-          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuknsp4819226.shtml",
-          "summary": "高盛销售交易部门称，受多重事件叠加影响，三星电子股票周四波动大概率加剧，包括三季度业绩预告以及半导体 ETF 调仓。",
-          "source": "环球市场播报 · 新浪财经",
-          "publishedAt": "2026-10-07T03:54:26.000Z",
-          "category": "金融",
-          "topic": "A股",
-          "sourceId": "cn-stock",
-          "kind": "报道"
-        },
-        {
-          "title": "节后股市怎么走？近5年数据这么说",
-          "url": "https://finance.sina.com.cn/wm/2026-10-07/doc-iniuknsp4829489.shtml",
-          "summary": "国庆长假即将结束，A股市场节后将如何演绎？ 记者梳理近5年数据发现，A股市场在国庆节前后呈现出一定“日历效应”，节前A…",
-          "source": "上海证券报 · 新浪财经",
-          "publishedAt": "2026-10-07T03:53:22.000Z",
-          "category": "金融",
-          "topic": "A股",
-          "sourceId": "cn-stock",
-          "kind": "报道"
-        },
-        {
-          "title": "“决战”四季度，基金：年底前成长风格有望重新占优",
-          "url": "https://finance.sina.com.cn/wm/2026-10-07/doc-iniukhki8335901.shtml",
-          "summary": "近期，多家公募机构围绕四季度行情发布最新市场研判。业内人士表示，对四季度持乐观态度。A股整体盈利处于上行周期，这个趋势…",
-          "source": "中国证券报 · 新浪财经",
-          "publishedAt": "2026-10-07T03:33:00.000Z",
-          "category": "金融",
-          "topic": "A股",
-          "sourceId": "cn-stock",
-          "kind": "观点"
         }
       ]
     },
@@ -795,8 +751,8 @@
       "name": "新浪财经 · 期货订阅 1",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-10-07T07:14:54.789Z",
-      "lastSuccess": "2026-10-07T07:14:54.789Z",
+      "lastAttempt": "2026-10-07T08:41:11.059Z",
+      "lastSuccess": "2026-10-07T08:41:11.059Z",
       "items": []
     },
     {
@@ -804,8 +760,8 @@
       "name": "新浪财经 · 期货订阅 2",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-10-07T07:14:54.789Z",
-      "lastSuccess": "2026-10-07T07:14:54.789Z",
+      "lastAttempt": "2026-10-07T08:41:11.059Z",
+      "lastSuccess": "2026-10-07T08:41:11.059Z",
       "items": []
     },
     {
@@ -813,8 +769,8 @@
       "name": "新浪财经 · 期货订阅 3",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-10-07T07:14:54.789Z",
-      "lastSuccess": "2026-10-07T07:14:54.789Z",
+      "lastAttempt": "2026-10-07T08:41:11.059Z",
+      "lastSuccess": "2026-10-07T08:41:11.059Z",
       "items": []
     },
     {
@@ -822,8 +778,8 @@
       "name": "中新网 · 国际",
       "url": "https://www.chinanews.com.cn/rss/world.xml",
       "status": "ok",
-      "lastAttempt": "2026-10-07T07:14:54.789Z",
-      "lastSuccess": "2026-10-07T07:14:54.789Z",
+      "lastAttempt": "2026-10-07T08:41:11.059Z",
+      "lastSuccess": "2026-10-07T08:41:11.059Z",
       "items": [
         {
           "title": "美国8月贸易逆差达1056亿美元 创一年多来最高值",
@@ -842,8 +798,8 @@
       "name": "中新网 · 国内",
       "url": "https://www.chinanews.com.cn/rss/china.xml",
       "status": "ok",
-      "lastAttempt": "2026-10-07T07:14:54.789Z",
-      "lastSuccess": "2026-10-07T07:14:54.789Z",
+      "lastAttempt": "2026-10-07T08:41:11.059Z",
+      "lastSuccess": "2026-10-07T08:41:11.059Z",
       "items": [
         {
           "title": "《习近平谈治国理政》第五卷西文版读书交流会在马德里举行",
@@ -952,8 +908,8 @@
       "name": "AI HOT",
       "url": "https://aihot.news/",
       "status": "ok",
-      "lastAttempt": "2026-10-07T07:14:54.789Z",
-      "lastSuccess": "2026-10-07T07:14:54.789Z",
+      "lastAttempt": "2026-10-07T08:41:11.059Z",
+      "lastSuccess": "2026-10-07T08:41:11.059Z",
       "items": [
         {
           "category": "AI",
@@ -1106,11 +1062,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "向新图强 创新潮涌神州大地",
-      "summary": "推进中国式现代化，科技创新是必由之路。“十五五”开局之年，从传统产业的焕新突破到新兴赛道的集群成势，各行各业创新浪潮奔…",
-      "url": "https://www.baidu.com/s?wd=%E5%90%91%E6%96%B0%E5%9B%BE%E5%BC%BA+%E5%88%9B%E6%96%B0%E6%BD%AE%E6%B6%8C%E7%A5%9E%E5%B7%9E%E5%A4%A7%E5%9C%B0&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "大国工程重器进度条刷新",
+      "summary": "国庆假期，我国能源、基建、应急救援等多个领域传来好消息：大国重器接连突破，多项“首个”“首次”上新，多个重大交通项目迎…",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%BD%E5%B7%A5%E7%A8%8B%E9%87%8D%E5%99%A8%E8%BF%9B%E5%BA%A6%E6%9D%A1%E5%88%B7%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-07T07:14:54.789Z",
+      "publishedAt": "2026-10-07T08:41:11.059Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1119,11 +1075,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "大国工程重器进度条刷新",
-      "summary": "国庆假期，我国能源、基建、应急救援等多个领域传来好消息：大国重器接连突破，多项“首个”“首次”上新，多个重大交通项目迎…",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%9B%BD%E5%B7%A5%E7%A8%8B%E9%87%8D%E5%99%A8%E8%BF%9B%E5%BA%A6%E6%9D%A1%E5%88%B7%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "在泰失联的上海音乐教师已安全回国",
+      "summary": "10月7日，中国驻泰国大使馆发言人表示，此前在泰国曼谷失联的上海音乐教师已安全返回上海。使馆再次郑重提醒赴泰中国公民提…",
+      "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E6%B3%B0%E5%A4%B1%E8%81%94%E7%9A%84%E4%B8%8A%E6%B5%B7%E9%9F%B3%E4%B9%90%E6%95%99%E5%B8%88%E5%B7%B2%E5%AE%89%E5%85%A8%E5%9B%9E%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-07T07:14:54.789Z",
+      "publishedAt": "2026-10-07T08:41:11.059Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1132,11 +1088,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "高铁坐过站怎么办？可以免费坐回去",
-      "summary": "假期出行高峰期，旅客乘坐高铁若不慎坐过站，可联系列车工作人员说明情况。经列车长编制客运记录并交由前方停车站后，旅客可凭…",
-      "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%9D%90%E8%BF%87%E7%AB%99%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F%E5%8F%AF%E4%BB%A5%E5%85%8D%E8%B4%B9%E5%9D%90%E5%9B%9E%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "今年国庆“充电焦虑”为何不明显了",
+      "summary": "今年国庆假期，新能源车出行量达到日常的1.8倍，多地高速服务区充电量将创历史新高，但“抢充电桩”的新闻却明显减少。这背…",
+      "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%9B%BD%E5%BA%86%E2%80%9C%E5%85%85%E7%94%B5%E7%84%A6%E8%99%91%E2%80%9D%E4%B8%BA%E4%BD%95%E4%B8%8D%E6%98%8E%E6%98%BE%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-07T07:14:54.789Z",
+      "publishedAt": "2026-10-07T08:41:11.059Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1145,11 +1101,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "杨利伟在土耳其发声",
-      "summary": "近日，第77届国际宇航大会在土耳其安塔利亚开幕。中国载人航天工程副总设计师杨利伟在会上表示，中国空间站将面向全球科学家…",
-      "url": "https://www.baidu.com/s?wd=%E6%9D%A8%E5%88%A9%E4%BC%9F%E5%9C%A8%E5%9C%9F%E8%80%B3%E5%85%B6%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "男子竟在高速车道停车换驾驶员",
+      "summary": "近日，男子在高速公路车辆缓行时，竟直接将车停在车道内与副驾驶换人。交警怒斥该行为极易引发交通事故，并依法对驾驶员处以罚…",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%AB%9F%E5%9C%A8%E9%AB%98%E9%80%9F%E8%BD%A6%E9%81%93%E5%81%9C%E8%BD%A6%E6%8D%A2%E9%A9%BE%E9%A9%B6%E5%91%98&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-07T07:14:54.789Z",
+      "publishedAt": "2026-10-07T08:41:11.059Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1158,11 +1114,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "“买Labubu不如买香蕉”",
-      "summary": "近日，段永平因评价网友“买Labubu不如买香蕉”言论引发争议，随后发文道歉。此前，有网友提及孩子想买香蕉而非Labu…",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%B0Labubu%E4%B8%8D%E5%A6%82%E4%B9%B0%E9%A6%99%E8%95%89%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "“高铁座椅成HPV感染重灾区”不实",
+      "summary": "国庆假期期间，网传“高铁座椅成HPV感染重灾区”引发热议。对此，首都医科大学附属北京佑安医院感染科主任医师李侗曾辟谣称…",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E9%93%81%E5%BA%A7%E6%A4%85%E6%88%90HPV%E6%84%9F%E6%9F%93%E9%87%8D%E7%81%BE%E5%8C%BA%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-07T07:14:54.789Z",
+      "publishedAt": "2026-10-07T08:41:11.059Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1171,11 +1127,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "“高铁座椅成HPV感染重灾区”不实",
-      "summary": "国庆假期期间，网传“高铁座椅成HPV感染重灾区”引发热议。对此，首都医科大学附属北京佑安医院感染科主任医师李侗曾辟谣称…",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E9%93%81%E5%BA%A7%E6%A4%85%E6%88%90HPV%E6%84%9F%E6%9F%93%E9%87%8D%E7%81%BE%E5%8C%BA%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "杨利伟在土耳其发声",
+      "summary": "近日，第77届国际宇航大会在土耳其安塔利亚开幕。中国载人航天工程副总设计师杨利伟在会上表示，中国空间站将面向全球科学家…",
+      "url": "https://www.baidu.com/s?wd=%E6%9D%A8%E5%88%A9%E4%BC%9F%E5%9C%A8%E5%9C%9F%E8%80%B3%E5%85%B6%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-07T07:14:54.789Z",
+      "publishedAt": "2026-10-07T08:41:11.059Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1215,37 +1171,48 @@
       "number": 9
     },
     {
-      "title": "阿诺德28岁，利物浦送上生日祝福：生日快乐，特伦特",
-      "url": "https://www.163.com/dy/article/L8L4VFPM0549BAP0.html",
+      "title": "ESPN：平托促成曼城案调查，但不该被视为英雄",
+      "url": "https://www.163.com/dy/article/L8LB1G3D0549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-10-07T06:25:09.000Z",
+      "publishedAt": "2026-10-07T08:11:06.000Z",
       "category": "体育",
       "topic": "英超",
       "sourceId": "sports",
-      "summary": "利物浦足球俱乐部社媒账号发文，向特伦特送上28岁生日祝福。利物浦足球俱乐部社媒账号写道：生日快乐，特伦特。",
+      "summary": "据ESPN报道，平托促成曼城案调查，但不该被视为英雄。",
       "number": 10
     },
     {
-      "title": "不想进国家队了？热刺中场M费给C罗声明点赞",
-      "url": "https://www.163.com/dy/article/L8L4VF4A0549BAP0.html",
+      "title": "热刺官方发文，祝贺凯恩成英格兰队史出场并列第一",
+      "url": "https://www.163.com/dy/article/L8LADDGJ0549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-10-07T06:25:09.000Z",
+      "publishedAt": "2026-10-07T08:00:08.000Z",
       "category": "体育",
       "topic": "英超",
       "sourceId": "sports",
-      "summary": "北京时间10月7日凌晨，C罗通过社交媒体发布了一则长篇声明，解释了退出葡萄牙国家队训练营的原因和真相。目前11个小时过…",
+      "summary": "据原文报道，热刺官方发文祝贺凯恩成英格兰队史出场并列第一。",
       "number": 11
     },
     {
-      "title": "天空：英超阵容深度榜阿森纳居首，曼城主力替补差距明显",
-      "url": "https://www.163.com/dy/article/L8L2KP570549BAP0.html",
+      "title": "前水晶宫老板：英超应解散重建，处罚曼城毫无意义",
+      "url": "https://www.163.com/dy/article/L8L8L1R40549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-10-07T05:44:21.000Z",
+      "publishedAt": "2026-10-07T07:29:22.000Z",
       "category": "体育",
       "topic": "英超",
       "sourceId": "sports",
-      "summary": "天空体育结合各项数据统计，英超阵容深度榜阿森纳居首，竞技深度也第一。",
+      "summary": "据《太阳报》报道，前水晶宫老板、talkSPORT主持人西蒙-乔丹在曼城财务违规案裁决后呼吁解散并重建英超。",
       "number": 12
+    },
+    {
+      "title": "每体：巴萨曾能以500万欧签下普维尔，但因财务状况未能完成",
+      "url": "https://www.163.com/dy/article/L8L96ROG0549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-10-07T07:39:05.000Z",
+      "category": "体育",
+      "topic": "西甲",
+      "sourceId": "sports",
+      "summary": "据《每日体育报》报道，马德里竞技后卫马克-普维尔在2023年曾有机会以500万欧元加盟巴塞罗那，但巴萨因其年轻且随后受…",
+      "number": 13
     },
     {
       "title": "世体：巴萨十五天内要踢五场关键战役，将迎来赛季的关键考验",
@@ -1256,7 +1223,7 @@
       "topic": "西甲",
       "sourceId": "sports",
       "summary": "据《世界体育报》报道，国家队比赛期结束后，巴塞罗那将在短短十五天内迎来五场关键战役，包括西甲对阵赫塔费、贝蒂斯和皇家马…",
-      "number": 13
+      "number": 14
     },
     {
       "title": "罗体：戴维西甲3场3球，马竞很可能买断",
@@ -1267,18 +1234,18 @@
       "topic": "西甲",
       "sourceId": "sports",
       "summary": "据《罗马体育报》报道，乔纳森-戴维加盟马竞后西甲3场打进3球，马竞很可能将其买断。",
-      "number": 14
+      "number": 15
     },
     {
-      "title": "巴萨致敬梅西：从北京奥运夺金开始，你的每一步都在书写历史",
-      "url": "https://www.163.com/dy/article/L8KUPII80549BAP0.html",
+      "title": "每体：拜仁加速推进JJ-加布里尔埃尔转会，球员索要7位数年薪",
+      "url": "https://www.163.com/dy/article/L8LB1FKL0549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-10-07T04:37:04.000Z",
+      "publishedAt": "2026-10-07T08:11:06.000Z",
       "category": "体育",
-      "topic": "西甲",
+      "topic": "德甲",
       "sourceId": "sports",
-      "summary": "北京时间10月7日，阿根廷在国际友谊赛中3-0战胜贝宁，阿根廷传奇球星梅西完成国家队生涯谢幕之战。赛后，梅西效力了长达…",
-      "number": 15
+      "summary": "据《每日体育报》报道，在曼联新星JJ-加布里埃尔的争夺战中，拜仁慕尼黑已领先一步，与球员代表进行了会面，但其经纪人团队…",
+      "number": 16
     },
     {
       "title": "拜仁青训负责人：德国需给年轻球员更多比赛机会",
@@ -1289,7 +1256,7 @@
       "topic": "德甲",
       "sourceId": "sports",
       "summary": "据Goal报道，拜仁青训负责人约亨-索尔在采访中谈到德国青训，并表示德国俱乐部需要给年轻球员更多比赛机会。",
-      "number": 16
+      "number": 17
     },
     {
       "title": "图片报：拜仁训练场启用巨型遮挡帘，孔帕尼严防外界窥探",
@@ -1300,18 +1267,18 @@
       "topic": "德甲",
       "sourceId": "sports",
       "summary": "据《图片报》消息，拜仁慕尼黑进一步加强训练保密措施。孔帕尼如今可以使用三块配备完整视线遮挡设施的训练场，新安装的巨型遮…",
-      "number": 17
+      "number": 18
     },
     {
-      "title": "图片报：拜仁考虑过引进鲍曼，但尚未和霍芬海姆接触",
-      "url": "https://www.163.com/dy/article/L8JR1AGS0549BAP0.html",
+      "title": "贝尼特斯：国米仍是意甲最强，科莫和罗马是竞争者",
+      "url": "https://www.163.com/dy/article/L8L8L2K00549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-10-06T18:12:09.000Z",
+      "publishedAt": "2026-10-07T07:29:22.000Z",
       "category": "体育",
-      "topic": "德甲",
+      "topic": "意甲",
       "sourceId": "sports",
-      "summary": "据《图片报》消息，拜仁慕尼黑内部确实讨论过霍芬海姆门将奥利弗-鲍曼，但目前尚未有具体进展。迄今为止，拜仁与霍芬海姆之间…",
-      "number": 18
+      "summary": "贝尼特斯在接受采访时表示，国米仍是意甲最强的球队，科莫和罗马可能成为争冠竞争者。",
+      "number": 19
     },
     {
       "title": "阿拉巴：我跟莫德里奇、里贝里和阿瑙托维奇都交流过意甲的事",
@@ -1322,7 +1289,7 @@
       "topic": "意甲",
       "sourceId": "sports",
       "summary": "在正式加盟乌迪内斯之后，阿拉巴出席了自己的亮相新闻发布会，本文为新闻发布会的第二部分。",
-      "number": 19
+      "number": 20
     },
     {
       "title": "阿拉巴：过去几年我一直关注意甲，这是全球最顶尖的联赛之一",
@@ -1333,17 +1300,6 @@
       "topic": "意甲",
       "sourceId": "sports",
       "summary": "在正式加盟乌迪内斯之后，阿拉巴出席了自己的亮相新闻发布会，本文为新闻发布会的第三部分。",
-      "number": 20
-    },
-    {
-      "title": "前热那亚中场让-奥纳纳：26岁仍想重返赛场，希望回意甲",
-      "url": "https://www.163.com/dy/article/L8K11N9Q0549BAP0.html",
-      "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-10-06T19:57:14.000Z",
-      "category": "体育",
-      "topic": "意甲",
-      "sourceId": "sports",
-      "summary": "前热那亚中场让-奥纳纳在接受迪马济奥网站采访时表示，他希望重返赛场，并称自己已经找回了身体状态。",
       "number": 21
     },
     {
@@ -1380,28 +1336,16 @@
       "number": 24
     },
     {
+      "title": "欲打破英伟达垄断 AMD联合韩国扩容AI芯片生态",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuksyh6025327.shtml",
+      "summary": "周三，AMD董事长兼首席执行官苏姿丰在首尔将韩国AI芯片作为合作会谈的核心议题，探讨如何将韩国AI芯片与AMD处理器组…",
+      "source": "环球市场播报 · 新浪财经",
+      "publishedAt": "2026-10-07T07:18:18.000Z",
       "category": "金融",
       "topic": "美股",
-      "title": "美光科技在中国台湾的工会宣布已正式取得罢工权",
-      "summary": "美光科技在中国台湾的工会宣布已正式取得罢工权。",
-      "url": "https://finance.eastmoney.com/a/202610073888871527.html",
-      "publishedAt": "2026-10-07T06:20:00.000Z",
-      "source": "东方财富 · 财联社",
+      "sourceId": "us-stock",
       "kind": "报道",
-      "sourceId": "eastmoney-us-stock",
       "number": 25
-    },
-    {
-      "category": "金融",
-      "topic": "美股",
-      "title": "德意志银行将诺和诺德目标股价从245丹麦克朗下调至225丹麦克朗",
-      "summary": "德意志银行将诺和诺德目标股价从245丹麦克朗下调至225丹麦克朗。",
-      "url": "https://finance.eastmoney.com/a/202610073888870768.html",
-      "publishedAt": "2026-10-07T06:14:00.000Z",
-      "source": "东方财富 · 财联社",
-      "kind": "报道",
-      "sourceId": "eastmoney-us-stock",
-      "number": 26
     },
     {
       "category": "金融",
@@ -1413,31 +1357,7 @@
       "source": "东方财富 · 哈富证券",
       "kind": "报道",
       "sourceId": "eastmoney-us-stock",
-      "number": 27
-    },
-    {
-      "title": "美国一男子因Meta欺诈案获刑六年",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukaat5010740.shtml",
-      "summary": "美国司法部周二宣布，26岁男子Adam Iza因诈骗Meta超过3700万美元、逃税以及利用洛杉矶县警局前副警长恐吓他…",
-      "source": "环球市场播报 · 新浪财经",
-      "publishedAt": "2026-10-07T00:17:15.000Z",
-      "category": "金融",
-      "topic": "美股",
-      "sourceId": "us-stock",
-      "kind": "报道",
-      "number": 28
-    },
-    {
-      "title": "谷歌与星座能源达成协议 澳大利亚铀矿股走高",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukaat4998130.shtml",
-      "summary": "谷歌母公司Alphabet同意向星座能源（Constellation Energy）购买核电，该协议将推动新增890兆…",
-      "source": "环球市场播报 · 新浪财经",
-      "publishedAt": "2026-10-06T23:39:17.000Z",
-      "category": "金融",
-      "topic": "美股",
-      "sourceId": "us-stock",
-      "kind": "报道",
-      "number": 29
+      "number": 26
     },
     {
       "category": "金融",
@@ -1449,39 +1369,75 @@
       "source": "东方财富 · 哈富证券",
       "kind": "报道",
       "sourceId": "eastmoney-us-stock",
+      "number": 27
+    },
+    {
+      "category": "金融",
+      "topic": "美股",
+      "title": "美股ETF追踪 | 谷歌核电协议点燃核能ETF 光通信ETF领涨逾28%",
+      "summary": "周二美股三大指数集体收涨，纳指与标普500盘中双双创下历史新高。道琼斯指数收涨0.49%，纳斯达克指数收涨0.45%，…",
+      "url": "https://finance.eastmoney.com/a/202610073888835621.html",
+      "publishedAt": "2026-10-06T22:10:00.000Z",
+      "source": "东方财富 · 哈富证券",
+      "kind": "报道",
+      "sourceId": "eastmoney-us-stock",
+      "number": 28
+    },
+    {
+      "category": "金融",
+      "topic": "美股",
+      "title": "AI算力订单暴增至500亿美元！英伟达支持的Lambda拟融资40亿美元冲刺IPO",
+      "summary": "据知情人士透露，获英伟达支持的云计算初创公司Lambda正在筹集至多40亿美元资金，这将是该公司计划首次公开募股(IP…",
+      "url": "https://finance.eastmoney.com/a/202610073888834877.html",
+      "publishedAt": "2026-10-06T22:02:00.000Z",
+      "source": "东方财富 · 财联社",
+      "kind": "报道",
+      "sourceId": "eastmoney-us-stock",
+      "number": 29
+    },
+    {
+      "category": "金融",
+      "topic": "美股",
+      "title": "美股盘前：三大股指期货齐涨 谷歌据报洽谈十亿美元核电大单 Constellation Energy盘前上涨",
+      "summary": "周二盘前，三大股指期货齐涨，欧洲主要指数普遍上涨。截至发稿，纳斯达克100指数期货涨0.61%，道指期货涨0.58%，…",
+      "url": "https://finance.eastmoney.com/a/202610063888788544.html",
+      "publishedAt": "2026-10-06T11:07:00.000Z",
+      "source": "东方财富 · 哈富证券",
+      "kind": "报道",
+      "sourceId": "eastmoney-us-stock",
       "number": 30
     },
     {
-      "title": "明天A股开盘，节后怎么走？多家券商最新研判出炉",
-      "url": "https://finance.sina.com.cn/roll/2026-10-07/doc-iniuksym4739170.shtml",
-      "summary": "来源：成都商报红星资本局10月7日消息，明天（8日），A股将迎来国庆节后的第一个交易日。中信证券、华泰证券、东吴证券等…",
-      "source": "21世纪经济报道 · 新浪财经",
-      "publishedAt": "2026-10-07T06:35:56.000Z",
       "category": "金融",
       "topic": "A股",
-      "sourceId": "cn-stock",
+      "title": "西部材料：拟定增募资不超11.9亿元用于高性能稀贵金属材料产线技改项目等",
+      "summary": "西部材料(002149.SZ)公告称，公司拟向特定对象发行股票，募集资金总额不超过11.9亿元，扣除发行费用后拟用于高…",
+      "url": "https://finance.eastmoney.com/a/202610073888884930.html",
+      "publishedAt": "2026-10-07T08:31:00.000Z",
+      "source": "东方财富 · 财联社",
       "kind": "报道",
+      "sourceId": "eastmoney-cn-stock",
       "number": 31
     },
     {
-      "title": "排队超四年撤单，IPO“钉子户”博华科技冲A折戟",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniuksyc8164563.shtml",
-      "summary": "来源：北京商报 排队超四年时间，北京博华信智科技股份有限公司（以下简称“博华科技”）创业板IPO最终折戟。近日，深交所…",
-      "source": "市场资讯 · 新浪财经",
-      "publishedAt": "2026-10-07T06:21:22.000Z",
       "category": "金融",
       "topic": "A股",
-      "sourceId": "cn-stock",
+      "title": "英特尔盘前股价上涨2.4% 此前有报道称公司将继续参与马斯克的Terafab芯片制造项目",
+      "summary": "英特尔盘前股价上涨2.4%，此前有报道称公司将继续参与马斯克的Terafab芯片制造项目。",
+      "url": "https://finance.eastmoney.com/a/202610073888884335.html",
+      "publishedAt": "2026-10-07T08:19:00.000Z",
+      "source": "东方财富 · 财联社",
       "kind": "报道",
+      "sourceId": "eastmoney-cn-stock",
       "number": 32
     },
     {
       "category": "金融",
       "topic": "A股",
-      "title": "英特尔夜盘股价上涨超2%，其首席执行官表示将继续与马斯克在TeraFab项目上合作",
-      "summary": "英特尔夜盘股价上涨超2%，其首席执行官表示将继续与马斯克在TeraFab项目上合作。",
-      "url": "https://finance.eastmoney.com/a/202610073888871424.html",
-      "publishedAt": "2026-10-07T05:57:00.000Z",
+      "title": "阿斯麦期权暗示财报公布后股价将波动4.6%",
+      "summary": "期权数据显示，阿斯麦公布财报后，其股价可能出现4.6%的波动。该公司预计将于10月14日美股开盘前发布财报。",
+      "url": "https://finance.eastmoney.com/a/202610073888883698.html",
+      "publishedAt": "2026-10-07T08:09:00.000Z",
       "source": "东方财富 · 财联社",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
@@ -1490,21 +1446,21 @@
     {
       "category": "金融",
       "topic": "A股",
-      "title": "AI投资步入后半程！外资公募：褪去主题炒作 聚焦结构性业绩机会",
-      "summary": "AI投资热度仍在延续，但市场关注的重点正在发生变化。",
-      "url": "https://finance.eastmoney.com/a/202610073888867486.html",
-      "publishedAt": "2026-10-07T04:43:00.000Z",
-      "source": "东方财富 · 券商中国",
+      "title": "SpaceX盘前股价跌近2% 公司据悉正寻求400亿美元融资以购买英伟达芯片",
+      "summary": "SpaceX盘前股价跌近2%，公司据悉正寻求400亿美元融资以购买英伟达芯片。",
+      "url": "https://finance.eastmoney.com/a/202610073888883287.html",
+      "publishedAt": "2026-10-07T08:04:00.000Z",
+      "source": "东方财富 · 财联社",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
       "number": 34
     },
     {
-      "title": "东证指数迎来史上最大调整 数百只日本股票将被剔除",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuknsk6106380.shtml",
-      "summary": "日本交易所集团将于周三公布东证指数（TOPIX）史上最大规模重构，本次调整将压缩这一亚洲覆盖面最广的主要股指成分股数量…",
-      "source": "环球市场播报 · 新浪财经",
-      "publishedAt": "2026-10-07T04:30:23.000Z",
+      "title": "算力难挑大梁，华孚时尚上半年扣非盈利依然单薄",
+      "url": "https://finance.sina.com.cn/stock/s/2026-10-07/doc-iniukxhe5916348.shtml",
+      "summary": "来源：证券之星 华孚时尚（002042.SH）近期交出了一份充满“矛盾感”的半年报。报告期内，公司实现营收37.51亿…",
+      "source": "市场资讯 · 新浪财经",
+      "publishedAt": "2026-10-07T07:00:00.000Z",
       "category": "金融",
       "topic": "A股",
       "sourceId": "cn-stock",
@@ -1512,11 +1468,11 @@
       "number": 35
     },
     {
-      "title": "高盛交易台：三星电子受财报与 ETF 资金流动影响，股价或将大幅波动",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuknsp4819226.shtml",
-      "summary": "高盛销售交易部门称，受多重事件叠加影响，三星电子股票周四波动大概率加剧，包括三季度业绩预告以及半导体 ETF 调仓。",
-      "source": "环球市场播报 · 新浪财经",
-      "publishedAt": "2026-10-07T03:54:26.000Z",
+      "title": "三七互娱中报：扣非净利下滑，主业与现金流同步承压",
+      "url": "https://finance.sina.com.cn/stock/s/2026-10-07/doc-iniukxhe5916275.shtml",
+      "summary": "来源：证券之星 今年中报季，三七互娱（002555.SZ）再交出一份收入缩水的成绩单。上半年，公司收入同比下滑超14%…",
+      "source": "市场资讯 · 新浪财经",
+      "publishedAt": "2026-10-07T07:00:00.000Z",
       "category": "金融",
       "topic": "A股",
       "sourceId": "cn-stock",
