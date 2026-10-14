@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-10-14T18:38:35.709Z",
+  "collectedAt": "2026-10-14T23:15:24.529Z",
   "topics": {
     "时事": [
       "百度热搜"
@@ -38,8 +38,8 @@
       "name": "百度热搜 · 时事",
       "url": "https://top.baidu.com/board?tab=realtime",
       "status": "ok",
-      "lastAttempt": "2026-10-14T18:38:35.709Z",
-      "lastSuccess": "2026-10-14T18:38:35.709Z",
+      "lastAttempt": "2026-10-14T23:15:24.529Z",
+      "lastSuccess": "2026-10-14T23:15:24.529Z",
       "items": [
         {
           "category": "时事",
@@ -48,7 +48,7 @@
           "summary": "10月10日，商务部等七部门联合印发通知，纠治电商平台“自动跟价”等无序竞争行为。近期，各大电商平台开启双11大促，普…",
           "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%8F%8C11%E5%91%8A%E5%88%AB%E7%AE%97%E6%95%B0%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-14T18:38:35.709Z",
+          "publishedAt": "2026-10-14T23:15:24.529Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -60,7 +60,7 @@
           "summary": "这个国庆假期，全社会跨区域人员流动量再创新高，以旧换新、消费券等政策红利持续释放。假日消费不仅是观察消费趋势的重要窗口…",
           "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%9B%BD%E5%BA%86%E6%B6%88%E8%B4%B9+%E6%9C%89%E5%95%A5%E4%B8%8D%E4%B8%80%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-14T18:38:35.709Z",
+          "publishedAt": "2026-10-14T23:15:24.529Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -68,11 +68,11 @@
         {
           "category": "时事",
           "topic": "百度热搜",
-          "title": "今年冬天会更冷还是更暖",
-          "summary": "10月9日，国家气候中心通报，2026年9月已正式形成一次超强厄尔尼诺事件，预计11月前后达峰值，成为有监测以来最强。…",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%86%AC%E5%A4%A9%E4%BC%9A%E6%9B%B4%E5%86%B7%E8%BF%98%E6%98%AF%E6%9B%B4%E6%9A%96&sa=fyb_news&rsv_dl=fyb_news",
+          "title": "美股科技题材全线下挫 纳指跌近2%",
+          "summary": "昨夜今晨，在美国9月CPI数据超出预期的打压下，科技板块承压走弱，随后跌幅又在AI融资交易可持续性的担忧中持续扩大，纳…",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E9%A2%98%E6%9D%90%E5%85%A8%E7%BA%BF%E4%B8%8B%E6%8C%AB+%E7%BA%B3%E6%8C%87%E8%B7%8C%E8%BF%912%25&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-14T18:38:35.709Z",
+          "publishedAt": "2026-10-14T23:15:24.529Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -84,19 +84,7 @@
           "summary": "10月14日，成都青白江公安通报一起故意伤害案。起因是10月12日，曹某某在凤祥大道因电动车纠纷持U型锁击打向某。目前…",
           "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E6%8C%81U%E5%9E%8B%E9%94%81%E6%89%93%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-14T18:38:35.709Z",
-          "timeLabel": "热搜采集",
-          "linkLabel": "查看相关新闻",
-          "sourceId": "baidu"
-        },
-        {
-          "category": "时事",
-          "topic": "百度热搜",
-          "title": "爆火的“韩国冰奶”韩国人都没听过",
-          "summary": "今年夏季，“韩国冰奶”成为茶饮圈新宠，瑞幸等品牌相关产品销量破千万杯。事实上，所谓“韩国冰奶”并非韩国特色，不少韩风门…",
-          "url": "https://www.baidu.com/s?wd=%E7%88%86%E7%81%AB%E7%9A%84%E2%80%9C%E9%9F%A9%E5%9B%BD%E5%86%B0%E5%A5%B6%E2%80%9D%E9%9F%A9%E5%9B%BD%E4%BA%BA%E9%83%BD%E6%B2%A1%E5%90%AC%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news",
-          "source": "百度热搜",
-          "publishedAt": "2026-10-14T18:38:35.709Z",
+          "publishedAt": "2026-10-14T23:15:24.529Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -108,7 +96,19 @@
           "summary": "10月14日下午3时许，香港大埔广福道70号一间周生生金行发生财物被抢案件。一名约40岁男子佯装顾客到店，夺得一条价值…",
           "url": "https://www.baidu.com/s?wd=%E5%91%A8%E7%94%9F%E7%94%9F%E5%9B%9E%E5%BA%94%E9%A6%99%E6%B8%AF%E9%97%A8%E5%BA%97%E5%8F%91%E7%94%9F%E7%8F%A0%E5%AE%9D%E5%8A%AB%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-14T18:38:35.709Z",
+          "publishedAt": "2026-10-14T23:15:24.529Z",
+          "timeLabel": "热搜采集",
+          "linkLabel": "查看相关新闻",
+          "sourceId": "baidu"
+        },
+        {
+          "category": "时事",
+          "topic": "百度热搜",
+          "title": "爆火的“韩国冰奶”韩国人都没听过",
+          "summary": "今年夏季，“韩国冰奶”成为茶饮圈新宠，瑞幸等品牌相关产品销量破千万杯。事实上，所谓“韩国冰奶”并非韩国特色，不少韩风门…",
+          "url": "https://www.baidu.com/s?wd=%E7%88%86%E7%81%AB%E7%9A%84%E2%80%9C%E9%9F%A9%E5%9B%BD%E5%86%B0%E5%A5%B6%E2%80%9D%E9%9F%A9%E5%9B%BD%E4%BA%BA%E9%83%BD%E6%B2%A1%E5%90%AC%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news",
+          "source": "百度热搜",
+          "publishedAt": "2026-10-14T23:15:24.529Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -120,8 +120,8 @@
       "name": "网易体育（署名媒体）",
       "url": "https://sports.163.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-14T18:38:35.709Z",
-      "lastSuccess": "2026-10-14T18:38:35.709Z",
+      "lastAttempt": "2026-10-14T23:15:24.529Z",
+      "lastSuccess": "2026-10-14T23:15:24.529Z",
       "items": [
         {
           "title": "普里查德2年4420万美元续约凯尔特人评级：A",
@@ -157,125 +157,136 @@
           "number": 3
         },
         {
-          "title": "巴尔科拉欧战客场带帽，上一个做到的利物浦球员是4年前的萨拉赫",
-          "url": "https://www.163.com/dy/article/L98ET5ED0549BAP0.html",
+          "title": "亨利谈曼城被指控：无论咋罚都不能否定那些伟大球员的实力",
+          "url": "https://www.163.com/dy/article/L98SVHN90549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-10-14T18:24:13.000Z",
+          "publishedAt": "2026-10-14T22:30:11.000Z",
           "category": "体育",
           "topic": "英超",
           "sourceId": "sports",
-          "summary": "这是一个布拉德利-巴尔科拉理所应当不会忘记的夜晚，表现比之前好得多。这是自2022年10月萨拉赫在埃布罗克斯球场之后，…",
+          "summary": "前阿森纳前锋蒂埃里-亨利表示，外界不应因为案件的裁决结果而否定曼城球员过去的表现，强调无论最终受到何种处罚，伟大的球员…",
           "number": 4
         },
         {
-          "title": "曼城vs巴黎：哈兰德PK登贝莱，谢尔基、恩佐、杜埃出战",
-          "url": "https://www.163.com/dy/article/L98DM3GU0549BAP0.html",
+          "title": "前利物浦中场：曼城巴黎本可能6-6收场，欧冠联赛阶段很精彩",
+          "url": "https://www.163.com/dy/article/L98SVHOQ0549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-10-14T18:02:53.000Z",
+          "publishedAt": "2026-10-14T22:30:11.000Z",
           "category": "体育",
           "topic": "英超",
           "sourceId": "sports",
-          "summary": "北京时间10月15日凌晨3点，欧冠联赛阶段第2轮展开一场焦点战役，曼城对阵巴黎。赛前，双方公布首发阵容。",
+          "summary": "欧冠联赛阶段第二轮，曼城2-4巴黎，赛后，前利物浦中场查理-亚当点评了这场比赛。",
           "number": 5
         },
         {
-          "title": "利物浦96秒连进两球，用时并列队史欧冠第二快",
-          "url": "https://www.163.com/dy/article/L98DM3MJ0549BAP0.html",
+          "title": "贝纳蒂亚：曼城逐渐找回状态时多纳鲁马再次让球队付出了代价",
+          "url": "https://www.163.com/dy/article/L98SBADF0549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-10-14T18:02:53.000Z",
+          "publishedAt": "2026-10-14T22:19:08.000Z",
           "category": "体育",
           "topic": "英超",
           "sourceId": "sports",
-          "summary": "北京时间10月15日，利物浦在欧冠客场对阵林茨。阿劳霍和巴尔科拉在96秒内先后破门，两粒连续进球的间隔并列利物浦队史欧…",
+          "summary": "巴黎圣日耳曼在一场跌宕起伏的比赛中以4-2击败曼城。曼城一度将比分追至1-3，试图发起反扑，但阿克利乌什抓住多纳鲁马扑…",
           "number": 6
         },
         {
-          "title": "马卡：库库雷利亚频施压主裁，力挺皇马利益",
-          "url": "https://www.163.com/dy/article/L98ET5HM0549BAP0.html",
+          "title": "穆帅：世上没有奇迹，面对皇马以那种强度拼搏90分钟非常艰难",
+          "url": "https://www.163.com/dy/article/L98U685F0549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-10-14T18:24:13.000Z",
+          "publishedAt": "2026-10-14T22:51:19.000Z",
           "category": "体育",
           "topic": "西甲",
           "sourceId": "sports",
-          "summary": "皇马对比利亚雷亚尔的RefCam视频曝光了库库雷利亚在裁判面前为球队出头的一面",
+          "summary": "率队在欧冠联赛阶段第2轮客场4-3击败罗马之后，皇家马德里主教练穆里尼奥接受了来自意大利天空体育罗马跟队记者安杰洛-曼…",
           "number": 7
         },
         {
-          "title": "官方：皇马就科纳特黄牌的上诉成功，黄牌取消",
-          "url": "https://www.163.com/dy/article/L98E8QOK0549BAP0.html",
+          "title": "加斯佩里尼：我们最后7分钟彻底短路；其余时间远胜于皇马",
+          "url": "https://www.163.com/dy/article/L98U68V00549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-10-14T18:13:07.000Z",
+          "publishedAt": "2026-10-14T22:51:20.000Z",
           "category": "体育",
           "topic": "西甲",
           "sourceId": "sports",
-          "summary": "北京时间10月15日，西足协纪律委员会宣布，皇马上诉成功，在对阵比利亚雷亚尔的比赛中染黄的科纳特黄牌取消。",
+          "summary": "欧冠联赛阶段第2轮，罗马主场3-4遭皇马逆转，赛后，罗马主帅加斯佩里尼出席新闻发布会接受媒体提问，他谈到了球队在比赛最…",
           "number": 8
         },
         {
-          "title": "每体：马竞主场战拉科将不设客队看台",
-          "url": "https://www.163.com/dy/article/L98E8QOH0549BAP0.html",
+          "title": "恩德里克：若帮不上皇马，我会第一个离开",
+          "url": "https://www.163.com/dy/article/L98U68F90549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-10-14T18:13:07.000Z",
+          "publishedAt": "2026-10-14T22:51:20.000Z",
           "category": "体育",
           "topic": "西甲",
           "sourceId": "sports",
-          "summary": "根据《每日体育报》报道，马德里竞技不会在西甲第十轮向拉科鲁尼亚发放客队球票，届时这家白蓝军团将做客大都会球场，但无法拥…",
+          "summary": "恩德里克在皇家马德里欧冠逆转罗马的比赛中发挥了重要作用，赛后，他谈到了自己替补登场时的心情，以及在皇马立足的决心。",
           "number": 9
         },
         {
-          "title": "法尔克：除非有合适的迪亚斯替补，拜仁冬窗不会补强其他位置",
-          "url": "https://www.163.com/dy/article/L98B5UM10549BAP0.html",
+          "title": "德国球队失陷挪威，拜仁多特本轮客战挪超球队1平1负",
+          "url": "https://www.163.com/dy/article/L98SVHQD0549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-10-14T17:19:07.000Z",
+          "publishedAt": "2026-10-14T22:30:11.000Z",
           "category": "体育",
           "topic": "德甲",
           "sourceId": "sports",
-          "summary": "据《图片报》记者法尔克和阿加尔迪的消息，拜仁冬窗只会考虑引进路易斯-迪亚斯的替补人选，其他位置不会引进球员。",
+          "summary": "2026/27赛季欧冠联赛阶段第2轮，德甲球队拜仁慕尼黑和多特蒙德双双失陷挪威，拜仁客场3-3战平维京，多特蒙德则0-…",
           "number": 10
         },
         {
-          "title": "法尔克：拜仁希望金球奖前宣布凯恩续约至2029",
-          "url": "https://www.163.com/dy/article/L988P1UR0549BAP0.html",
+          "title": "博德闪耀1-0多特蒙德，舍沃尔德一锤定音",
+          "url": "https://www.163.com/dy/article/L98NJNAK0549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-10-14T16:37:07.000Z",
+          "publishedAt": "2026-10-14T20:56:21.000Z",
           "category": "体育",
           "topic": "德甲",
           "sourceId": "sports",
-          "summary": "记者法尔克报道，拜仁希望在即将到来的金球奖颁奖典礼前宣布哈里-凯恩的新合同。双方已经就新合同年限达成一致，合同将持续到…",
+          "summary": "北京时间10月15日欧洲冠军联赛 联赛阶段 第2轮，博德闪耀对阵多特蒙德。博德闪耀舍沃尔德破门。最终比分博德闪耀 1-…",
           "number": 11
         },
         {
-          "title": "多名维京球员赛后到拜仁更衣室换球衣，特里皮奇：我不敢去",
-          "url": "https://www.163.com/dy/article/L97IQFIG0549BAP0.html",
+          "title": "德媒：拜仁就慕尼黑1860侮辱横幅报案，警方搜查嫌疑人住所",
+          "url": "https://www.163.com/dy/article/L98FH5B60549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-10-14T10:13:25.000Z",
+          "publishedAt": "2026-10-14T18:35:08.000Z",
           "category": "体育",
           "topic": "德甲",
           "sourceId": "sports",
-          "summary": "在今天凌晨进行的欧冠联赛阶段第2轮比赛中，维京主场3-3战平拜仁，赛后，维京队长特里皮奇在接受TV2的采访时透露，自己…",
+          "summary": "据《图片报》报道，拜仁正就同城死敌慕尼黑1860的一次恶作剧采取法律行动。由于一条侮辱性横幅，事情甚至据称已发展到警方…",
           "number": 12
         },
         {
-          "title": "米体：德佬无法接受联赛阶段出局，要求那不勒斯至少进附加赛",
-          "url": "https://www.163.com/dy/article/L9837FOO0549BAP0.html",
+          "title": "本轮全军覆没，意甲四队2轮欧冠1胜1平6负，三队位于淘汰区",
+          "url": "https://www.163.com/dy/article/L98PUNPD0549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-10-14T15:00:08.000Z",
+          "publishedAt": "2026-10-14T21:37:19.000Z",
           "category": "体育",
           "topic": "意甲",
           "sourceId": "sports",
-          "summary": "《米兰体育报》消息，那不勒斯主席无法接受在联赛阶段出局，尤其是在上赛季失利之后。过去两年，直接晋级16强淘汰赛阶段都需…",
+          "summary": "2026/27赛季欧冠联赛阶段第2轮，意甲四支参赛球队全军覆没。两轮过后，四支球队只拿到了4分。",
           "number": 13
         },
         {
-          "title": "官方：帕夫洛维奇与AC米兰续约至2031年",
-          "url": "https://www.163.com/dy/article/L97QKLV20549BAP0.html",
+          "title": "斯帕莱蒂：我坚信国米和那不勒斯能找到策略并挺进欧冠淘汰赛",
+          "url": "https://www.163.com/dy/article/L98OQ7E20549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-10-14T12:30:04.000Z",
+          "publishedAt": "2026-10-14T21:17:23.000Z",
           "category": "体育",
           "topic": "意甲",
           "sourceId": "sports",
-          "summary": "AC米兰官方宣布，帕夫洛维奇与球队续约，他与俱乐部的旅程将持续到2031年。",
+          "summary": "北京时间10月16日凌晨3时，尤文图斯将在欧联杯联赛阶段第2轮客场挑战塞尔塔。比赛前夕，尤文图斯主教练斯帕莱蒂出席了新…",
           "number": 14
+        },
+        {
+          "title": "一分未得，意甲球队本轮欧冠全部失利",
+          "url": "https://www.163.com/dy/article/L98OQ8PB0549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-10-14T21:17:24.000Z",
+          "category": "体育",
+          "topic": "意甲",
+          "sourceId": "sports",
+          "summary": "欧冠联赛阶段第2轮比赛全部战罢，意甲球队本轮欧冠全部失利。",
+          "number": 15
         },
         {
           "title": "吴易昺郑钦文直播连线，郑钦文直言贝雷蒂尼颜值碾压吴易昺",
@@ -286,7 +297,7 @@
           "topic": "网球",
           "sourceId": "sports",
           "summary": "10月14日晚，吴易昺与郑钦文进行了直播连线，在直播中，吴易昺问了郑钦文觉得谁是帅哥，郑钦文表示贝雷蒂尼算一个，郑钦文…",
-          "number": 15
+          "number": 16
         },
         {
           "title": "施晗0-2不敌费尔南德斯，无缘武汉网球公开赛16强",
@@ -297,7 +308,7 @@
           "topic": "网球",
           "sourceId": "sports",
           "summary": "北京时间10月15日，武汉网球公开赛第二轮，中国选手施晗0-2不敌费尔南德斯，无缘16强。",
-          "number": 16
+          "number": 17
         },
         {
           "title": "投票梦碎！萨巴伦卡、安德列娃依旧无国旗，无缘为国征战团体赛",
@@ -308,7 +319,7 @@
           "topic": "网球",
           "sourceId": "sports",
           "summary": "如果查看当前WTA世界排名，前50名中有六位选手，在个人资料页面的名字旁没有显示所属国家旗帜。其中最受关注的两位是萨巴…",
-          "number": 17
+          "number": 18
         }
       ]
     },
@@ -317,27 +328,71 @@
       "name": "东方财富 · 美股",
       "url": "https://stock.eastmoney.com/america.html",
       "status": "ok",
-      "lastAttempt": "2026-10-14T18:38:35.709Z",
-      "lastSuccess": "2026-10-14T18:38:35.709Z",
+      "lastAttempt": "2026-10-14T23:15:24.529Z",
+      "lastSuccess": "2026-10-14T23:15:24.529Z",
       "items": [
         {
           "category": "金融",
           "topic": "美股",
-          "title": "英伟达CEO黄仁勋表示：将切断所有开发不安全AI产品的客户的供货",
-          "summary": "英伟达CEO黄仁勋表示，安全相关顾虑是行业发展的“成长阵痛”，将切断所有开发不安全AI产品的客户的供货。",
-          "url": "https://finance.eastmoney.com/a/202610153895870571.html",
-          "publishedAt": "2026-10-14T17:36:00.000Z",
-          "source": "东方财富 · 财联社",
+          "title": "美股ETF追踪 | 金银重挫 二倍做空白银ETF涨超12%",
+          "summary": "周三美股三大指数集体收跌，道琼斯指数跌0.09%，纳斯达克综合指数跌1.88%，标普500指数跌1.11%。大型科技股…",
+          "url": "https://finance.eastmoney.com/a/202610153895887740.html",
+          "publishedAt": "2026-10-14T21:18:00.000Z",
+          "source": "东方财富 · 哈富证券",
           "kind": "报道",
           "sourceId": "eastmoney-us-stock"
         },
         {
           "category": "金融",
           "topic": "美股",
-          "title": "纳斯达克100指数跌幅扩大至2% 成分股CoreWeave目前跌超15%",
-          "summary": "截至发稿，纳斯达克100指数跌幅扩大至2%，成分股CoreWeave目前跌超15%。",
-          "url": "https://finance.eastmoney.com/a/202610153895869252.html",
-          "publishedAt": "2026-10-14T17:30:00.000Z",
+          "title": "美股成交额前20：半导体集体重挫 费城半导体指数收跌4.3%录得六连跌",
+          "summary": "周三美股三大指数集体收跌，道指跌0.09%，纳指跌1.88%，标普500指数跌1.1%。热门科技股普跌，存储、半导体板…",
+          "url": "https://finance.eastmoney.com/a/202610153895885120.html",
+          "publishedAt": "2026-10-14T21:01:00.000Z",
+          "source": "东方财富 · 哈富证券",
+          "kind": "报道",
+          "sourceId": "eastmoney-us-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "美股",
+          "title": "美股收盘：三大指数齐跌，纳指跳水超510点跌1.88%；半导体、光通信、存储芯片板块集体重挫；科技股普跌，苹果市值创新高；医药股逆市大涨",
+          "summary": "美东时间周三（14日），受通胀数据恶化影响，美国三大股指集体收跌。截至收盘，纳指跌1.88%，跌超510点，创7月23…",
+          "url": "https://finance.eastmoney.com/a/202610153895903528.html",
+          "publishedAt": "2026-10-14T22:40:00.000Z",
+          "source": "东方财富 · 中新经纬",
+          "kind": "报道",
+          "sourceId": "eastmoney-us-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "美股",
+          "title": "美股芯片指数六连跌 苹果收盘市值首次站上5万亿美元；茶百道：全力配合香港证监会；周生生回应香港门店劫案丨每经早参",
+          "summary": "美股三大指数集体收跌，道指跌0.09%，纳指跌1.88%，标普500指数跌1.1%，热门科技股普跌，存储、半导体板块走…",
+          "url": "https://finance.eastmoney.com/a/202610153895895519.html",
+          "publishedAt": "2026-10-14T21:58:00.000Z",
+          "source": "东方财富 · 每日经济新闻",
+          "kind": "报道",
+          "sourceId": "eastmoney-us-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "美股",
+          "title": "美股三大指数集体收跌 纳指跌1.88%",
+          "summary": "人民财讯10月15日电，当地时间10月14日，美股三大指数集体收跌，道指跌0.09%，纳指跌1.88%，标普500指数…",
+          "url": "https://finance.eastmoney.com/a/202610153895911766.html",
+          "publishedAt": "2026-10-14T23:03:00.000Z",
+          "source": "东方财富 · 证券时报网",
+          "kind": "报道",
+          "sourceId": "eastmoney-us-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "美股",
+          "title": "【早报】纳指跳水跌超500点，半导体大跌；黄金、白银重挫，原油上涨；A股业绩预喜潮延续",
+          "summary": "1、安徽省委书记李乐成10月14日下午赴长鑫科技集团股份有限公司调研并主持召开座谈会。李乐成指出，要突出科技创新供给和…",
+          "url": "https://finance.eastmoney.com/a/202610153895912445.html",
+          "publishedAt": "2026-10-14T23:00:00.000Z",
           "source": "东方财富 · 财联社",
           "kind": "报道",
           "sourceId": "eastmoney-us-stock"
@@ -352,39 +407,6 @@
           "source": "东方财富 · 财联社",
           "kind": "报道",
           "sourceId": "eastmoney-us-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "美股",
-          "title": "美股三大指数走低 纳指跌超2% 费城半导体指数跌超4% 国际金银价格跳水",
-          "summary": "美东时间周三，美股三大指数集体走低，截至发稿，道指跌0.50%，纳指跌2.02%，标普500指数跌1.32%。",
-          "url": "https://finance.eastmoney.com/a/202610143895720794.html",
-          "publishedAt": "2026-10-14T18:01:00.000Z",
-          "source": "东方财富 · 东方财富Choice数据",
-          "kind": "报道",
-          "sourceId": "eastmoney-us-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "美股",
-          "title": "做空美股！知名大佬突然发声！",
-          "summary": "北京时间14日晚间，美股三大指数齐跌，截至发稿，道指跌0.06%，标普500指数跌0.66%，纳指跌0.95%。",
-          "url": "https://finance.eastmoney.com/a/202610143895777264.html",
-          "publishedAt": "2026-10-14T14:29:00.000Z",
-          "source": "东方财富 · 券商中国",
-          "kind": "报道",
-          "sourceId": "eastmoney-us-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "美股",
-          "title": "戴尔、甲骨文直线跳水7%，特斯拉市值蒸发超2800亿元，美股存储芯片下挫，白银暴跌5%，比特币跌破8.3万美元",
-          "summary": "北京时间10月14日晚间，美股低开。截至22时左右，美股三大指数集体下挫。",
-          "url": "https://finance.eastmoney.com/a/202610143895814640.html",
-          "publishedAt": "2026-10-14T15:05:00.000Z",
-          "source": "东方财富 · 21世纪经济报道",
-          "kind": "报道",
-          "sourceId": "eastmoney-us-stock"
         }
       ]
     },
@@ -393,27 +415,27 @@
       "name": "东方财富 · A股",
       "url": "https://stock.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-14T18:38:35.709Z",
-      "lastSuccess": "2026-10-14T18:38:35.709Z",
+      "lastAttempt": "2026-10-14T23:15:24.529Z",
+      "lastSuccess": "2026-10-14T23:15:24.529Z",
       "items": [
         {
           "category": "金融",
           "topic": "A股",
-          "title": "长鑫科技新型架构撼动存储市场 海外龙头垄断壁垒面临重估",
-          "summary": "国产存储龙头长鑫科技发布新型技术架构，全球存储龙头股价近期明显回调。10月13日，三星电子、SK海力士跌幅超过7%，1…",
-          "url": "https://finance.eastmoney.com/a/202610153895872827.html",
-          "publishedAt": "2026-10-14T18:08:00.000Z",
-          "source": "东方财富 · 证券时报",
+          "title": "全球智能家居赛道加速转型 国内产业链迎增量机会",
+          "summary": "全球智能家居赛道正从单品智能向全屋空间智能加速转型。随着端侧AI（人工智能）持续下沉至家庭场景，国内外科技企业争相布局…",
+          "url": "https://finance.eastmoney.com/a/202610153895871824.html",
+          "publishedAt": "2026-10-14T17:34:00.000Z",
+          "source": "东方财富 · 证券日报",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
         {
           "category": "金融",
           "topic": "A股",
-          "title": "Coreweave首席执行官认为股价下跌是由于市场“非理性”行为",
-          "summary": "Coreweave首席执行官认为股价下跌是由于市场“非理性”行为。",
-          "url": "https://finance.eastmoney.com/a/202610153895870788.html",
-          "publishedAt": "2026-10-14T17:51:00.000Z",
+          "title": "【早报】纳指跳水跌超500点，半导体大跌；黄金、白银重挫，原油上涨；A股业绩预喜潮延续",
+          "summary": "1、安徽省委书记李乐成10月14日下午赴长鑫科技集团股份有限公司调研并主持召开座谈会。李乐成指出，要突出科技创新供给和…",
+          "url": "https://finance.eastmoney.com/a/202610153895912445.html",
+          "publishedAt": "2026-10-14T23:00:00.000Z",
           "source": "东方财富 · 财联社",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
@@ -421,11 +443,33 @@
         {
           "category": "金融",
           "topic": "A股",
-          "title": "费城半导体指数跌幅扩大至4%",
-          "summary": "截至发稿，费城半导体指数跌幅扩大至4%，存储概念现跌4.4%，迈威尔科技跌6%，AMD、Arm跌超5%，英特尔跌超4%…",
-          "url": "https://finance.eastmoney.com/a/202610153895858471.html",
-          "publishedAt": "2026-10-14T16:24:00.000Z",
-          "source": "东方财富 · 财联社",
+          "title": "美股收盘：三大指数齐跌，纳指跳水超510点跌1.88%；半导体、光通信、存储芯片板块集体重挫；科技股普跌，苹果市值创新高；医药股逆市大涨",
+          "summary": "美东时间周三（14日），受通胀数据恶化影响，美国三大股指集体收跌。截至收盘，纳指跌1.88%，跌超510点，创7月23…",
+          "url": "https://finance.eastmoney.com/a/202610153895903528.html",
+          "publishedAt": "2026-10-14T22:40:00.000Z",
+          "source": "东方财富 · 中新经纬",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "麒麟下一代芯片演进：韬定律引路 华为发出共建半导体生态邀约",
+          "summary": "当单纯依靠半导体工艺制程演进，已经越来越难以收获如过去那样倍增的计算效益时，围绕半导体计算产业的竞争焦点，也转向了对芯…",
+          "url": "https://finance.eastmoney.com/a/202610153895911044.html",
+          "publishedAt": "2026-10-14T23:00:00.000Z",
+          "source": "东方财富 · 21世纪经济报道",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "AI硬件需求持续兑现 多家算力上市公司三季报预喜",
+          "summary": "随着AI（人工智能）大模型规模化落地、算力基础设施建设持续推进，2026年国内算力产业需求持续旺盛，产业链各环节订单加…",
+          "url": "https://finance.eastmoney.com/a/202610153895874659.html",
+          "publishedAt": "2026-10-14T17:34:00.000Z",
+          "source": "东方财富 · 证券日报",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
@@ -443,54 +487,10 @@
         {
           "category": "金融",
           "topic": "A股",
-          "title": "美股三大指数走低 纳指跌超2% 费城半导体指数跌超4% 国际金银价格跳水",
-          "summary": "美东时间周三，美股三大指数集体走低，截至发稿，道指跌0.50%，纳指跌2.02%，标普500指数跌1.32%。",
-          "url": "https://finance.eastmoney.com/a/202610143895720794.html",
-          "publishedAt": "2026-10-14T18:01:00.000Z",
-          "source": "东方财富 · 东方财富Choice数据",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "加仓银行减持科技 三季度北向资金调仓路径曝光",
-          "summary": "据东方财富Choice数据，截至2026年三季度末，北向资金共持有3974只个股，持仓总规模回落至2.58万亿元，较上…",
-          "url": "https://finance.eastmoney.com/a/202610143895588563.html",
-          "publishedAt": "2026-10-14T10:35:00.000Z",
-          "source": "东方财富 · 东方财富研究中心",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "10月14日晚间上市公司利好消息一览(附名单)",
-          "summary": "沪深两市多家上市公司10月14日晚间发布重要公告，以下为利好的消息汇总：",
-          "url": "https://finance.eastmoney.com/a/202610143895692215.html",
-          "publishedAt": "2026-10-14T12:48:00.000Z",
-          "source": "东方财富 · 东方财富研究中心",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "沪指失守3800点 超700股跌破“924”",
-          "summary": "10月14日，A股延续调整。上证指数收报3767.23点，失守3800点整数关口。以今年5月的高点4258.86点计算…",
-          "url": "https://finance.eastmoney.com/a/202610143895712378.html",
-          "publishedAt": "2026-10-14T13:13:00.000Z",
-          "source": "东方财富 · 东方财富研究中心",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "荣盛石化：预计前三季度净利润同比增长778%-823%",
-          "summary": "荣盛石化(002493.SZ)公告称，预计2026年前三季度归属于上市公司股东的净利润为78.00亿元-82.00亿元…",
-          "url": "https://finance.eastmoney.com/a/202610143895648921.html",
-          "publishedAt": "2026-10-14T12:10:00.000Z",
+          "title": "摩根大通：半导体景气延续 2027年晶圆设备支出或增38%",
+          "summary": "摩根大通10月12日发布半导体行业第三季度财报季前瞻报告指出，预计大多数覆盖企业将公布稳健的第三季度业绩，并对第四季度…",
+          "url": "https://finance.eastmoney.com/a/202610143895664062.html",
+          "publishedAt": "2026-10-14T16:27:00.000Z",
           "source": "东方财富 · 财联社",
           "kind": "观点",
           "sourceId": "eastmoney-cn-stock"
@@ -498,66 +498,33 @@
         {
           "category": "金融",
           "topic": "A股",
-          "title": "10月14日晚间沪深上市公司重大事项公告最新快递",
-          "summary": "沪深两市多家上市公司10月14日晚间发布公司公告，以下为重要公告汇总。",
-          "url": "https://finance.eastmoney.com/a/202610143895619732.html",
-          "publishedAt": "2026-10-14T11:32:00.000Z",
-          "source": "东方财富 · 东方财富Choice数据",
+          "title": "美银Q3净利润下降17% 营收不及预期股价跌逾7%",
+          "summary": "美东时间周三（10月14日）盘前，美国银行公布了2026年第三季度财报。受12亿美元监管和解费用及华尔街交易业务疲软拖…",
+          "url": "https://finance.eastmoney.com/a/202610143895796974.html",
+          "publishedAt": "2026-10-14T22:18:00.000Z",
+          "source": "东方财富 · 财联社",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
         {
           "category": "金融",
           "topic": "A股",
-          "title": "加仓银行！北向资金持仓大“换血” 宁德时代仍是第一大持仓股",
-          "summary": "10月14日，北向资金2026年第三季度持股数据披露。数据显示，截至三季度末，北向资金共持有3531只个股，持仓总规模…",
-          "url": "https://finance.eastmoney.com/a/202610143895537327.html",
-          "publishedAt": "2026-10-14T09:27:00.000Z",
-          "source": "东方财富 · 上海证券报",
+          "title": "证监会开出1.72亿元罚单！*ST清越涉欺诈发行、财务造假案",
+          "summary": "10月14日晚间，苏州清越光电科技股份有限公司（证券简称：*ST清越）公告，收到证监会下发的《行政处罚决定书》：针对公…",
+          "url": "https://finance.eastmoney.com/a/202610143895715056.html",
+          "publishedAt": "2026-10-14T22:26:00.000Z",
+          "source": "东方财富 · 大河财立方",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
         {
           "category": "金融",
           "topic": "A股",
-          "title": "求主力拉上去拿钱给孩子动手术？七匹狼5分钟垂直涨停",
-          "summary": "午后A股纺织服装板块局部异动，截至10月14日13：11，七匹狼股价还跌超2%，仅用5分钟，七匹狼股价突然垂直起飞涨停…",
-          "url": "https://finance.eastmoney.com/a/202610143895379126.html",
-          "publishedAt": "2026-10-14T06:31:00.000Z",
-          "source": "东方财富 · 21世纪经济报道",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "20%涨停！资金突然涌入！文化传媒板块再度爆发涨停潮",
-          "summary": "今日（10月14日），在A股主要指数走势分化的背景下，文化传媒板块再度爆发涨停潮。截至中午收盘，文化传媒板块整体涨幅接…",
-          "url": "https://finance.eastmoney.com/a/202610143895263848.html",
-          "publishedAt": "2026-10-14T04:31:00.000Z",
-          "source": "东方财富 · 券商中国",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "三季报业绩预增超600%！三个板块，一个强势爆发，两个“闷声发财”！",
-          "summary": "10月14日的A股市场，再次上演了“指数携手下行，结构性行情明显”的一幕。AI漫剧、传媒游戏的爆发，代表了市场对AI应…",
-          "url": "https://finance.eastmoney.com/a/202610143895697223.html",
-          "publishedAt": "2026-10-14T12:55:00.000Z",
-          "source": "东方财富 · 证券市场周刊",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "戴尔、甲骨文直线跳水7%，特斯拉市值蒸发超2800亿元，美股存储芯片下挫，白银暴跌5%，比特币跌破8.3万美元",
-          "summary": "北京时间10月14日晚间，美股低开。截至22时左右，美股三大指数集体下挫。",
-          "url": "https://finance.eastmoney.com/a/202610143895814640.html",
-          "publishedAt": "2026-10-14T15:05:00.000Z",
-          "source": "东方财富 · 21世纪经济报道",
+          "title": "受益于国际油价局势 千亿元龙头荣盛石化业绩亮眼 前三季度净利预增778%至823%",
+          "summary": "荣盛石化（SZ002493，股价11.86元，市值1184.75亿元）10月14日盘后发布《2026年前三季度业绩预告…",
+          "url": "https://finance.eastmoney.com/a/202610143895813316.html",
+          "publishedAt": "2026-10-14T16:06:00.000Z",
+          "source": "东方财富 · 每日经济新闻",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
@@ -571,6 +538,39 @@
           "source": "东方财富 · 时代财经",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "荣盛石化前三季度经营业绩大幅预增",
+          "summary": "10月14日晚，荣盛石化（002493）披露2026年三季度业绩预告，预计前三季度归母净利润78亿元—82亿元，同比增…",
+          "url": "https://finance.eastmoney.com/a/202610153895872043.html",
+          "publishedAt": "2026-10-14T18:07:00.000Z",
+          "source": "东方财富 · 证券时报",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "华凯易佰前三季度净利润同比预增逾四倍",
+          "summary": "10月14日晚间，华凯易佰科技股份有限公司（以下简称“华凯易佰”）披露2026年前三季度业绩预告。公司预计前三季度实现…",
+          "url": "https://finance.eastmoney.com/a/202610153895871260.html",
+          "publishedAt": "2026-10-14T17:34:00.000Z",
+          "source": "东方财富 · 证券日报",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "上证早知道｜688388 前三季度净利大增1197%至1319%；600391 机构净买入6633.20万元；603833 最高2亿元回购注销",
+          "summary": "·第15届中国数据中心设计高峰论坛于10月15日在上海举行《算电协同技术白皮书》现场首发。",
+          "url": "https://finance.eastmoney.com/a/202610153895908656.html",
+          "publishedAt": "2026-10-14T22:56:00.000Z",
+          "source": "东方财富 · 上海证券报",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
         }
       ]
     },
@@ -579,8 +579,8 @@
       "name": "东方财富 · 中国期货",
       "url": "https://futures.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-14T18:38:35.709Z",
-      "lastSuccess": "2026-10-14T18:38:35.709Z",
+      "lastAttempt": "2026-10-14T23:15:24.529Z",
+      "lastSuccess": "2026-10-14T23:15:24.529Z",
       "items": [
         {
           "category": "金融",
@@ -600,72 +600,50 @@
       "name": "东方财富 · 宏观财经",
       "url": "https://finance.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-14T18:38:35.709Z",
-      "lastSuccess": "2026-10-14T18:38:35.709Z",
+      "lastAttempt": "2026-10-14T23:15:24.529Z",
+      "lastSuccess": "2026-10-14T23:15:24.529Z",
       "items": [
         {
           "category": "金融",
           "topic": "宏观财经",
-          "title": "9月份CPI、PPI同比涨幅均扩大 工业领域延续价格修复趋势",
-          "summary": "10月14日，国家统计局公布9月居民消费价格指数（CPI）与工业生产者出厂价格指数（PPI）数据。9月份，CPI同比上…",
-          "url": "https://finance.eastmoney.com/a/202610153895874224.html",
-          "publishedAt": "2026-10-14T18:08:00.000Z",
-          "source": "东方财富 · 证券时报",
+          "title": "21社论丨9月外贸超预期高增，AI成出口主力",
+          "summary": "今年9月，外贸继续保持快速增长态势。根据海关总署数据，9月按美元计出口同比增长36.3%，进口同比增长31%，均较上月…",
+          "url": "https://finance.eastmoney.com/a/202610153895912065.html",
+          "publishedAt": "2026-10-14T23:01:00.000Z",
+          "source": "东方财富 · 21世纪经济报道",
           "kind": "报道",
           "sourceId": "eastmoney-macro"
         },
         {
           "category": "金融",
           "topic": "宏观财经",
-          "title": "9月CPI同比上涨0.9% 居民消费价格继续温和回升",
-          "summary": "10月14日，国家统计局发布数据显示，9月，居民消费价格指数（CPI）环比上涨0.2%，涨幅比8月回落0.2个百分点；…",
-          "url": "https://finance.eastmoney.com/a/202610153895869925.html",
-          "publishedAt": "2026-10-14T17:51:00.000Z",
-          "source": "东方财富 · 证券日报",
+          "title": "融资渠道更多元 前三季度社融增量达27.46万亿元",
+          "summary": "中国人民银行10月14日发布的金融统计数据报告显示，9月末社会融资规模存量为468.17万亿元，同比增长7.1%；广义…",
+          "url": "https://finance.eastmoney.com/a/202610153895878437.html",
+          "publishedAt": "2026-10-14T19:54:00.000Z",
+          "source": "东方财富 · 经济参考报",
           "kind": "报道",
           "sourceId": "eastmoney-macro"
         },
         {
           "category": "金融",
           "topic": "宏观财经",
-          "title": "前三季外贸增势强劲 探察数据里的“新”与“快”",
-          "summary": "10月14日，海关总署发布最新数据显示，今年前三季度，我国货物贸易进出口39.94万亿元，同比增长18.8%。其中，出…",
-          "url": "https://finance.eastmoney.com/a/202610153895874081.html",
-          "publishedAt": "2026-10-14T18:08:00.000Z",
-          "source": "东方财富 · 证券时报",
+          "title": "前三季度外贸同比增长18.8% 三季度出口首次突破8万亿元",
+          "summary": "海关总署10月14日发布数据显示，今年前三季度，我国货物贸易进出口39.94万亿元，同比增长18.8%。其中，出口23…",
+          "url": "https://finance.eastmoney.com/a/202610153895907140.html",
+          "publishedAt": "2026-10-14T22:52:00.000Z",
+          "source": "东方财富 · 中国证券报",
           "kind": "报道",
           "sourceId": "eastmoney-macro"
         },
         {
           "category": "金融",
           "topic": "宏观财经",
-          "title": "前三季社融增量超二十七万亿 股债融资占比近半",
-          "summary": "中国人民银行10月14日发布的最新金融统计数据报告显示，今年前三季度，广义货币供应量（M2）和社会融资规模存量增速均保…",
-          "url": "https://finance.eastmoney.com/a/202610153895874360.html",
-          "publishedAt": "2026-10-14T18:07:00.000Z",
-          "source": "东方财富 · 证券时报",
-          "kind": "报道",
-          "sourceId": "eastmoney-macro"
-        },
-        {
-          "category": "金融",
-          "topic": "宏观财经",
-          "title": "前三季度我国货物贸易进出口同比增长18.8% 进出口持续增长有基础、有支撑",
-          "summary": "10月14日，国务院新闻办公室举行新闻发布会，介绍2026年前三季度进出口情况。",
-          "url": "https://finance.eastmoney.com/a/202610153895870318.html",
-          "publishedAt": "2026-10-14T17:26:00.000Z",
-          "source": "东方财富 · 证券日报",
-          "kind": "报道",
-          "sourceId": "eastmoney-macro"
-        },
-        {
-          "category": "金融",
-          "topic": "宏观财经",
-          "title": "金融支持实体经济质效双升 前三季度社会融资规模增量累计为27.46万亿元",
-          "summary": "10月14日，中国人民银行公布2026年前三季度金融统计数据报告。数据显示，截至9月末，广义货币（M2）余额359.6…",
-          "url": "https://finance.eastmoney.com/a/202610153895869684.html",
-          "publishedAt": "2026-10-14T17:26:00.000Z",
-          "source": "东方财富 · 证券日报",
+          "title": "美联储观察：10月加息概率升至33.2%",
+          "summary": "据CME“美联储观察”：美联储到10月维持利率不变的概率为66.8%，累计加息25个基点的概率为33.2%。美联储到1…",
+          "url": "https://finance.eastmoney.com/a/202610153895912568.html",
+          "publishedAt": "2026-10-14T23:08:00.000Z",
+          "source": "东方财富 · 界面新闻",
           "kind": "报道",
           "sourceId": "eastmoney-macro"
         },
@@ -677,6 +655,39 @@
           "url": "https://finance.eastmoney.com/a/202610143894799951.html",
           "publishedAt": "2026-10-14T00:26:00.000Z",
           "source": "东方财富 · 财联社",
+          "kind": "报道",
+          "sourceId": "eastmoney-macro"
+        },
+        {
+          "category": "金融",
+          "topic": "宏观财经",
+          "title": "美国9月CPI通胀再度升温 强化美联储加息预期 现货黄金一度跌破4100美元关口",
+          "summary": "美国9月CPI通胀全线升温，物价压力未见明显缓解，汽油价格大幅上涨成主要推手，这给美国总统特朗普及其所属的共和党带来了…",
+          "url": "https://finance.eastmoney.com/a/202610143895769615.html",
+          "publishedAt": "2026-10-14T21:58:00.000Z",
+          "source": "东方财富 · 财联社",
+          "kind": "报道",
+          "sourceId": "eastmoney-macro"
+        },
+        {
+          "category": "金融",
+          "topic": "宏观财经",
+          "title": "央行将开展7000亿元买断式逆回购操作 四季度加发政府债券需流动性支持",
+          "summary": "今日央行宣布将于10月15日开展7000亿元买断式逆回购操作。由于10月有5000亿元6个月期买断式逆回购到期，这意味…",
+          "url": "https://finance.eastmoney.com/a/202610143895735585.html",
+          "publishedAt": "2026-10-14T22:01:00.000Z",
+          "source": "东方财富 · 财联社",
+          "kind": "报道",
+          "sourceId": "eastmoney-macro"
+        },
+        {
+          "category": "金融",
+          "topic": "宏观财经",
+          "title": "央行披露前三季度金融统计数据 透露货币政策什么信号？",
+          "summary": "14日，央行官网披露2026年前三季度金融统计数据报告。报告显示，初步统计，2026年9月末社会融资规模存量为468.…",
+          "url": "https://finance.eastmoney.com/a/202610143895780088.html",
+          "publishedAt": "2026-10-14T17:58:00.000Z",
+          "source": "东方财富 · 央广财经",
           "kind": "报道",
           "sourceId": "eastmoney-macro"
         },
@@ -705,11 +716,11 @@
         {
           "category": "金融",
           "topic": "宏观财经",
-          "title": "利空突袭 全线跳水！美联储加息大消息！",
-          "summary": "最新公布的数据显示，美国9月消费者价格指数（CPI）同比增长3.7%，高于市场预期的3.6%，而前值为3.4%。美国9…",
-          "url": "https://finance.eastmoney.com/a/202610143895695943.html",
-          "publishedAt": "2026-10-14T12:58:00.000Z",
-          "source": "东方财富 · 券商中国",
+          "title": "IMF总裁警告贝森特：仅靠经济增长难解美国债务困局",
+          "summary": "当地时间周三（10月14日），国际货币基金组织（IMF）总裁格奥尔基耶娃敦促美国财政部长贝森特削减财政赤字，并警告称，…",
+          "url": "https://finance.eastmoney.com/a/202610143895754671.html",
+          "publishedAt": "2026-10-14T13:52:00.000Z",
+          "source": "东方财富 · 财联社",
           "kind": "报道",
           "sourceId": "eastmoney-macro"
         },
@@ -749,17 +760,6 @@
         {
           "category": "金融",
           "topic": "宏观财经",
-          "title": "IMF总裁警告贝森特：仅靠经济增长难解美国债务困局",
-          "summary": "当地时间周三（10月14日），国际货币基金组织（IMF）总裁格奥尔基耶娃敦促美国财政部长贝森特削减财政赤字，并警告称，…",
-          "url": "https://finance.eastmoney.com/a/202610143895754671.html",
-          "publishedAt": "2026-10-14T13:52:00.000Z",
-          "source": "东方财富 · 财联社",
-          "kind": "报道",
-          "sourceId": "eastmoney-macro"
-        },
-        {
-          "category": "金融",
-          "topic": "宏观财经",
           "title": "国家统计局：9月CPI同比上涨0.9% PPI同比上涨5%",
           "summary": "2026年9月份居民消费价格同比上涨0.9%",
           "url": "https://finance.eastmoney.com/a/202610143895021553.html",
@@ -786,59 +786,103 @@
       "name": "新浪财经 · 美股",
       "url": "https://finance.sina.com.cn/stock/usstock/",
       "status": "ok",
-      "lastAttempt": "2026-10-14T18:38:35.709Z",
-      "lastSuccess": "2026-10-14T18:38:35.709Z",
+      "lastAttempt": "2026-10-14T23:15:24.529Z",
+      "lastSuccess": "2026-10-14T23:15:24.529Z",
       "items": [
+        {
+          "title": "美联储准备金管理购买暂停期延至11月中旬",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivhaww4427219.shtml",
+          "summary": "美联储周三表示，接下来的操作期内，将连续第三个月暂停出于准备金管理目的购买美国国库券，这表明决策者对金融体系中的银行准…",
+          "source": "环球市场播报 · 新浪财经",
+          "publishedAt": "2026-10-14T22:50:19.000Z",
+          "category": "金融",
+          "topic": "美股",
+          "sourceId": "us-stock",
+          "kind": "报道"
+        },
+        {
+          "title": "巴克莱：特斯拉-SpaceX合并消息可能在年度股东大会前公布",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivhaww4412341.shtml",
+          "summary": "巴克莱分析师表示，市场参与者目前普遍预计特斯拉将与SpaceX合并，相关消息可能会在特斯拉年度股东大会（AGM）之前公…",
+          "source": "环球市场播报 · 新浪财经",
+          "publishedAt": "2026-10-14T22:34:43.000Z",
+          "category": "金融",
+          "topic": "美股",
+          "sourceId": "us-stock",
+          "kind": "报道"
+        },
+        {
+          "title": "10月15日隔夜要闻：美股收低 纳指标普三连跌 油价上涨 苹果站上5万亿美元 OpenAI被8个州起诉",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivfwra1299389.shtml",
+          "summary": "市场 10月15日收盘：美国股市周三收低 芯片股延续近期跌势 10月15日美股成交额前20：CoreWeave跌超15…",
+          "source": "环球市场播报 · 新浪财经",
+          "publishedAt": "2026-10-14T22:30:34.000Z",
+          "category": "金融",
+          "topic": "美股",
+          "sourceId": "us-stock",
+          "kind": "报道"
+        },
+        {
+          "title": "苹果收盘市值首次达5万亿美元 成为继英伟达后全球第二家",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivfwqy4503343.shtml",
+          "summary": "苹果周三收盘市值首次达到5万亿美元，这成为市场对该公司新产品阵容持乐观态度的最新迹象，尤其是折叠屏iPhone。 苹果…",
+          "source": "环球市场播报 · 新浪财经",
+          "publishedAt": "2026-10-14T21:51:17.000Z",
+          "category": "金融",
+          "topic": "美股",
+          "sourceId": "us-stock",
+          "kind": "报道"
+        },
+        {
+          "title": "特朗普称美联储 “糟糕透顶” 人为地抬高了利率",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivfwra1260654.shtml",
+          "summary": "美国总统特朗普在亚利桑那州一场集会上发表讲话，他称美联储“糟糕透顶”，人为地抬高了利率。",
+          "source": "环球市场播报 · 新浪财经",
+          "publishedAt": "2026-10-14T21:34:56.000Z",
+          "category": "金融",
+          "topic": "美股",
+          "sourceId": "us-stock",
+          "kind": "报道"
+        },
+        {
+          "title": "美国股市：标普500指数录得7月以来最差表现 CPI超预期重燃加息忧虑",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivfwqy4476272.shtml",
+          "summary": "标普500指数录得7月下旬以来最差单日表现，此前美国消费者价格数据强于预期，引发市场担忧美联储未来几个月可能需要比预期…",
+          "source": "环球市场播报 · 新浪财经",
+          "publishedAt": "2026-10-14T21:22:03.000Z",
+          "category": "金融",
+          "topic": "美股",
+          "sourceId": "us-stock",
+          "kind": "报道"
+        },
+        {
+          "title": "10月15日美股成交额前20：CoreWeave跌超15% 债券收益率超过15% 连马斯克都直呼“吓人”",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivfwqy4445829.shtml",
+          "summary": "美股成交额第3名英伟达收跌3.16%，成交258.92亿美元。 英伟达首席执行官黄仁勋表示，假如客户正在开发不安全的人…",
+          "source": "环球市场播报 · 新浪财经",
+          "publishedAt": "2026-10-14T20:49:38.000Z",
+          "category": "金融",
+          "topic": "美股",
+          "sourceId": "us-stock",
+          "kind": "报道"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：会对开发不安全AI软件的客户断供芯片",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivfsie1282735.shtml",
+          "summary": "英伟达首席执行官黄仁勋表示，假如客户正在开发不安全的人工智能（AI）软件，他会停止向其供应芯片，不过他认为目前没有必要…",
+          "source": "环球市场播报 · 新浪财经",
+          "publishedAt": "2026-10-14T19:22:33.000Z",
+          "category": "金融",
+          "topic": "美股",
+          "sourceId": "us-stock",
+          "kind": "报道"
+        },
         {
           "title": "美联储褐皮书：能源成本上涨传导至供应链 半数辖区报告价格压力升温",
           "url": "https://finance.sina.com.cn/world/2026-10-15/doc-inivfshx8255301.shtml",
           "summary": "美联储对各辖区联系人进行的调查显示，随着能源价格上涨逐渐传导至美国各地区，最近几周12个联储辖区中有一半报告物价压力高…",
           "source": "环球市场播报 · 新浪财经",
           "publishedAt": "2026-10-14T18:34:41.000Z",
-          "category": "金融",
-          "topic": "美股",
-          "sourceId": "us-stock",
-          "kind": "报道"
-        },
-        {
-          "title": "花旗经济学家预计美联储12月加息 称核心CPI远超预期",
-          "url": "https://finance.sina.com.cn/world/2026-10-15/doc-inivfmze4503535.shtml",
-          "summary": "花旗经济学家援引9月消费者价格指数（CPI）数据，特别是核心CPI“远高于我们和共识预期”，新增对美联储12月会议加息…",
-          "source": "环球市场播报 · 新浪财经",
-          "publishedAt": "2026-10-14T16:35:06.000Z",
-          "category": "金融",
-          "topic": "美股",
-          "sourceId": "us-stock",
-          "kind": "观点"
-        },
-        {
-          "title": "哈塞特称美联储就通胀数据采取行动前还需看到更多数据",
-          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivfftc8332218.shtml",
-          "summary": "白宫国家经济委员会主任凯文·哈塞特表示，需要看到下个月的通胀数据，“然后才能判断美联储是否应该针对最新这份报告采取行动…",
-          "source": "环球市场播报 · 新浪财经",
-          "publishedAt": "2026-10-14T14:13:31.000Z",
-          "category": "金融",
-          "topic": "美股",
-          "sourceId": "us-stock",
-          "kind": "报道"
-        },
-        {
-          "title": "美联储传声筒：CPI超预期令美联储10月按兵不动面临更大压力，但尚无迹象表明官员将改变利率决策计划",
-          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivfftc8312090.shtml",
-          "summary": "美联储传声筒，名记Nick Timiraos发布文章指出，美国9月核心通胀连续第二个月超出预期，进一步强化了美联储年内…",
-          "source": "环球市场播报 · 新浪财经",
-          "publishedAt": "2026-10-14T13:44:23.000Z",
-          "category": "金融",
-          "topic": "美股",
-          "sourceId": "us-stock",
-          "kind": "报道"
-        },
-        {
-          "title": "盘前：纳指期货跌0.10% AI相关股票和债券走势稳定",
-          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivezmk4523017.shtml",
-          "summary": "全球股市周三小幅上涨，人工智能（AI）相关股票和政府债券走势趋于稳定，为市场提供了支撑。交易员在最新美国通胀数据公布前…",
-          "source": "环球市场播报 · 新浪财经",
-          "publishedAt": "2026-10-14T12:25:36.000Z",
           "category": "金融",
           "topic": "美股",
           "sourceId": "us-stock",
@@ -851,9 +895,75 @@
       "name": "新浪财经 · A股",
       "url": "https://finance.sina.com.cn/stock/",
       "status": "ok",
-      "lastAttempt": "2026-10-14T18:38:35.709Z",
-      "lastSuccess": "2026-10-14T18:38:35.709Z",
+      "lastAttempt": "2026-10-14T23:15:24.529Z",
+      "lastSuccess": "2026-10-14T23:15:24.529Z",
       "items": [
+        {
+          "title": "长鑫科技新型架构撼动存储市场 海外龙头垄断壁垒面临重估",
+          "url": "https://finance.sina.com.cn/stock/hyyj/2026-10-15/doc-inivhawy1221047.shtml",
+          "summary": "证券时报记者 阮润生 国产存储龙头长鑫科技发布新型技术架构，全球存储龙头股价近期明显回调。10月13日，三星电子、SK…",
+          "source": "证券时报 · 新浪财经",
+          "publishedAt": "2026-10-14T23:10:49.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock",
+          "kind": "报道"
+        },
+        {
+          "title": "温州宏丰定增：与实控人减持套现时间线高度重叠 有息负债居高不下",
+          "url": "https://finance.sina.com.cn/stock/aigcy/2026-10-15/doc-inivhaww4435940.shtml",
+          "summary": "近日，温州宏丰电工合金股份有限公司（300283.SZ）的定增方案调整。根据修订后的方案，公司拟向不超过35名特定投资…",
+          "source": "新浪证券 · 新浪财经",
+          "publishedAt": "2026-10-14T22:58:56.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock",
+          "kind": "报道"
+        },
+        {
+          "title": "苹果收盘市值首次达5万亿美元 成为继英伟达后全球第二家",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivfwqy4503343.shtml",
+          "summary": "苹果周三收盘市值首次达到5万亿美元，这成为市场对该公司新产品阵容持乐观态度的最新迹象，尤其是折叠屏iPhone。 苹果…",
+          "source": "环球市场播报 · 新浪财经",
+          "publishedAt": "2026-10-14T21:51:17.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock",
+          "kind": "报道"
+        },
+        {
+          "title": "利好不断提振市场关注度 游戏板块估值性价比凸显",
+          "url": "https://finance.sina.com.cn/jjxw/2026-10-15/doc-inivfwqv8199178.shtml",
+          "summary": "● 本报记者胡雨 近期A股游戏板块出现连续反弹行情。Wind数据显示，10月14日，短剧游戏、网络游戏等市场概念板块涨…",
+          "source": "中国证券报-中证网 · 新浪财经",
+          "publishedAt": "2026-10-14T20:40:10.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock",
+          "kind": "报道"
+        },
+        {
+          "title": "戴尔股价暴跌11% 引领数据中心板块抛售 担忧“企业AI时机”",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivfwqt7448029.shtml",
+          "summary": "戴尔股价周三暴跌11%，并拖累其他数据中心设备类股，原因是市场越来越担心企业在人工智能方面的支出无法证明AI建设规模的…",
+          "source": "环球市场播报 · 新浪财经",
+          "publishedAt": "2026-10-14T20:13:18.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock",
+          "kind": "报道"
+        },
+        {
+          "title": "CoreWeave股价大跌，债券收益率因AI借贷狂潮担忧接近15%",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivfshx8294351.shtml",
+          "summary": "CoreWeave的股票和债券周三双双受到打击，原因是投资者越来越担心一些科技公司为人工智能建设借债过多。 这家所谓新…",
+          "source": "环球市场播报 · 新浪财经",
+          "publishedAt": "2026-10-14T19:44:18.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock",
+          "kind": "报道"
+        },
         {
           "title": "CoreWeave首席执行官将股价暴跌归咎于市场“非理性”行为",
           "url": "https://finance.sina.com.cn/world/2026-10-15/doc-inivfshv7523015.shtml",
@@ -877,132 +987,22 @@
           "kind": "报道"
         },
         {
-          "title": "CoreWeave股价大跌，债券收益率逼近15%，市场担忧AI领域举债过度",
-          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivfmyx7584475.shtml",
-          "summary": "核心要点CoreWeave 股价大幅下挫，同时该公司债券收益率飙升。周二晚间，投资人查马斯・帕里哈皮蒂亚在 X 平台贴…",
-          "source": "环球市场播报 · 新浪财经",
-          "publishedAt": "2026-10-14T16:50:21.000Z",
+          "title": "AI硬件需求持续兑现 多家算力上市公司三季报预喜",
+          "url": "https://finance.sina.com.cn/jjxw/2026-10-15/doc-inivfshx8231585.shtml",
+          "summary": "随着AI（人工智能）大模型规模化落地、算力基础设施建设持续推进，2026年国内算力产业需求持续旺盛，产业链各环节订单加…",
+          "source": "证券日报 · 新浪财经",
+          "publishedAt": "2026-10-14T17:45:55.000Z",
           "category": "金融",
           "topic": "A股",
           "sourceId": "cn-stock",
           "kind": "报道"
         },
         {
-          "title": "美国大银行财报透视：交易业务表现分化 贷款需求仍具韧性",
-          "url": "https://finance.sina.com.cn/world/2026-10-15/doc-inivfmyx7580893.shtml",
-          "summary": "美国银行周三公布季度业绩，股票和固收交易收入不及预期，并因监管处罚计提12亿美元费用，股价一度跌逾8%。摩根士丹利财富…",
-          "source": "环球市场播报 · 新浪财经",
-          "publishedAt": "2026-10-14T16:44:54.000Z",
-          "category": "金融",
-          "topic": "A股",
-          "sourceId": "cn-stock",
-          "kind": "报道"
-        },
-        {
-          "title": "微导纳米49亿元定增：实控人方刚减持套现超8亿元 账面广义货币资金超40亿元",
-          "url": "https://finance.sina.com.cn/stock/aigcy/2026-10-14/doc-inivfmze4469341.shtml",
-          "summary": "2026年10月12日，科创板上市公司微导纳米（688147.SH）披露了一份规模空前的定增预案，拟向不超过35名特定…",
-          "source": "新浪证券 · 新浪财经",
-          "publishedAt": "2026-10-14T15:59:11.000Z",
-          "category": "金融",
-          "topic": "A股",
-          "sourceId": "cn-stock",
-          "kind": "报道"
-        },
-        {
-          "title": "光韵达13亿元定增背后：连亏两年半 分红融资比仅0.07",
-          "url": "https://finance.sina.com.cn/stock/aigcy/2026-10-14/doc-inivfmzh1232981.shtml",
-          "summary": "连亏两年，却要募资13亿元，分红融资比仅0.07。光韵达的定增方案，是一场资本运作的“标准剧本”，还是中小股东的“慢性…",
-          "source": "新浪证券 · 新浪财经",
-          "publishedAt": "2026-10-14T15:49:37.000Z",
-          "category": "金融",
-          "topic": "A股",
-          "sourceId": "cn-stock",
-          "kind": "报道"
-        },
-        {
-          "title": "伯克希尔追加3.3亿美元投资，Bending Spoons股价暴涨35%",
-          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivfftk1337868.shtml",
-          "summary": "核心要点伯克希尔・哈撒韦对 Bending Spoons 追加 3.3 亿美元投资，推动该公司股价大幅飙升。本次新一轮…",
-          "source": "环球市场播报 · 新浪财经",
-          "publishedAt": "2026-10-14T15:25:33.000Z",
-          "category": "金融",
-          "topic": "A股",
-          "sourceId": "cn-stock",
-          "kind": "报道"
-        },
-        {
-          "title": "摩根士丹利财报超预期，股票交易业务营收较市场预期高出9.09亿美元",
-          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivffsz7627418.shtml",
-          "summary": "核心要点摩根士丹利第三季度营收、净利润双双超出市场预期。业绩主要由股票交易业务拉动，该板块营收较市场预期高出 9.09…",
-          "source": "环球市场播报 · 新浪财经",
-          "publishedAt": "2026-10-14T14:51:08.000Z",
-          "category": "金融",
-          "topic": "A股",
-          "sourceId": "cn-stock",
-          "kind": "报道"
-        },
-        {
-          "title": "9月金融数据出炉，债券、股票融资占比上升",
-          "url": "https://finance.sina.com.cn/wm/2026-10-14/doc-inivffth4528927.shtml",
-          "summary": "记者丨唐婧 编辑丨张星 10月14日，中国人民银行公布2026年9月金融数据。9月末，社会融资规模存量为468.17万…",
-          "source": "21世纪经济报道 · 新浪财经",
-          "publishedAt": "2026-10-14T14:43:43.000Z",
-          "category": "金融",
-          "topic": "A股",
-          "sourceId": "cn-stock",
-          "kind": "报道"
-        },
-        {
-          "title": "美国银行股价暴跌8%，或创2010年以来最大财报后单日跌幅，华尔街质疑合规整改成本",
-          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivfftc8344938.shtml",
-          "summary": "美国银行（Bank of America）10月14日公布不及预期的第三季度业绩后，股价下跌约8%，可能创下2010年…",
-          "source": "环球市场播报 · 新浪财经",
-          "publishedAt": "2026-10-14T14:32:33.000Z",
-          "category": "金融",
-          "topic": "A股",
-          "sourceId": "cn-stock",
-          "kind": "报道"
-        },
-        {
-          "title": "今夜，5家A股公司业绩预增超5倍",
-          "url": "https://finance.sina.com.cn/stock/roll/2026-10-14/doc-inivffsz7613629.shtml",
-          "summary": "10月14日晚间，A股三季度业绩预告“报喜潮”延续，其中5家公净利润预增超5倍，具体如下：嘉元科技：预计前三季度净利同…",
-          "source": "21世纪经济报道 · 新浪财经",
-          "publishedAt": "2026-10-14T14:30:56.000Z",
-          "category": "金融",
-          "topic": "A股",
-          "sourceId": "cn-stock",
-          "kind": "报道"
-        },
-        {
-          "title": "美银股票和固收交易收入不及预期 因监管处罚计提12亿美元费用",
-          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivfftc8331677.shtml",
-          "summary": "美国银行的股票和固定收益交易业务表现不及预期，同时该行还因涉及反洗钱和制裁违规的监管处罚计提一笔费用，拖累了整体业绩。",
-          "source": "环球市场播报 · 新浪财经",
-          "publishedAt": "2026-10-14T14:12:54.000Z",
-          "category": "金融",
-          "topic": "A股",
-          "sourceId": "cn-stock",
-          "kind": "报道"
-        },
-        {
-          "title": "“牛散”陈发树，减持301050",
-          "url": "https://finance.sina.com.cn/stock/zqgd/2026-10-14/doc-inivffth4491928.shtml",
-          "summary": "“牛散”陈发树减持雷电微力（301050）。 据雷电微力10月14日晚间公告，公司收到股东陈发树出具的《权益变动触及1…",
-          "source": "新浪财经",
-          "publishedAt": "2026-10-14T14:12:02.000Z",
-          "category": "金融",
-          "topic": "A股",
-          "sourceId": "cn-stock",
-          "kind": "报道"
-        },
-        {
-          "title": "美国银行第三季度营收不及预期，叠加监管处罚，股价大跌8.4%",
-          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivfftk1251880.shtml",
-          "summary": "核心要点美国银行第三季度利润下滑 17%，至 69.3 亿美元，折合每股收益 0.91 美元。营收较市场预期低约 5.…",
-          "source": "环球市场播报 · 新浪财经",
-          "publishedAt": "2026-10-14T14:02:25.000Z",
+          "title": "绑定核心骨干 确定增长目标 湖南裕能推出限制性股票激励计划",
+          "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-15/doc-inivfsia4452324.shtml",
+          "summary": "10月14日，湖南裕能新能源电池材料股份有限公司（以下简称“湖南裕能”）披露2026年限制性股票激励计划（草案）。该公…",
+          "source": "证券日报 · 新浪财经",
+          "publishedAt": "2026-10-14T17:45:24.000Z",
           "category": "金融",
           "topic": "A股",
           "sourceId": "cn-stock",
@@ -1015,8 +1015,8 @@
       "name": "新浪财经 · 期货订阅 1",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-10-14T18:38:35.709Z",
-      "lastSuccess": "2026-10-14T18:38:35.709Z",
+      "lastAttempt": "2026-10-14T23:15:24.529Z",
+      "lastSuccess": "2026-10-14T23:15:24.529Z",
       "items": []
     },
     {
@@ -1024,8 +1024,8 @@
       "name": "新浪财经 · 期货订阅 2",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-10-14T18:38:35.709Z",
-      "lastSuccess": "2026-10-14T18:38:35.709Z",
+      "lastAttempt": "2026-10-14T23:15:24.529Z",
+      "lastSuccess": "2026-10-14T23:15:24.529Z",
       "items": []
     },
     {
@@ -1033,8 +1033,8 @@
       "name": "新浪财经 · 期货订阅 3",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-10-14T18:38:35.709Z",
-      "lastSuccess": "2026-10-14T18:38:35.709Z",
+      "lastAttempt": "2026-10-14T23:15:24.529Z",
+      "lastSuccess": "2026-10-14T23:15:24.529Z",
       "items": []
     },
     {
@@ -1042,8 +1042,8 @@
       "name": "中新网 · 国际",
       "url": "https://www.chinanews.com.cn/rss/world.xml",
       "status": "ok",
-      "lastAttempt": "2026-10-14T18:38:35.709Z",
-      "lastSuccess": "2026-10-14T18:38:35.709Z",
+      "lastAttempt": "2026-10-14T23:15:24.529Z",
+      "lastSuccess": "2026-10-14T23:15:24.529Z",
       "items": [
         {
           "title": "美国杜立特突袭者子女协会代表在华寻历史“拼图”",
@@ -1112,8 +1112,8 @@
       "name": "中新网 · 国内",
       "url": "https://www.chinanews.com.cn/rss/china.xml",
       "status": "ok",
-      "lastAttempt": "2026-10-14T18:38:35.709Z",
-      "lastSuccess": "2026-10-14T18:38:35.709Z",
+      "lastAttempt": "2026-10-14T23:15:24.529Z",
+      "lastSuccess": "2026-10-14T23:15:24.529Z",
       "items": [
         {
           "title": "李强在第140届中国进出口商品交易会开幕式上的主旨演讲（全文）",
@@ -1162,8 +1162,8 @@
       "name": "AI HOT",
       "url": "https://aihot.news/",
       "status": "ok",
-      "lastAttempt": "2026-10-14T18:38:35.709Z",
-      "lastSuccess": "2026-10-14T18:38:35.709Z",
+      "lastAttempt": "2026-10-14T23:15:24.529Z",
+      "lastSuccess": "2026-10-14T23:15:24.529Z",
       "items": [
         {
           "category": "AI",
@@ -1320,7 +1320,7 @@
       "summary": "10月10日，商务部等七部门联合印发通知，纠治电商平台“自动跟价”等无序竞争行为。近期，各大电商平台开启双11大促，普…",
       "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%8F%8C11%E5%91%8A%E5%88%AB%E7%AE%97%E6%95%B0%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-14T18:38:35.709Z",
+      "publishedAt": "2026-10-14T23:15:24.529Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1333,7 +1333,7 @@
       "summary": "这个国庆假期，全社会跨区域人员流动量再创新高，以旧换新、消费券等政策红利持续释放。假日消费不仅是观察消费趋势的重要窗口…",
       "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%9B%BD%E5%BA%86%E6%B6%88%E8%B4%B9+%E6%9C%89%E5%95%A5%E4%B8%8D%E4%B8%80%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-14T18:38:35.709Z",
+      "publishedAt": "2026-10-14T23:15:24.529Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1342,11 +1342,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "今年冬天会更冷还是更暖",
-      "summary": "10月9日，国家气候中心通报，2026年9月已正式形成一次超强厄尔尼诺事件，预计11月前后达峰值，成为有监测以来最强。…",
-      "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%86%AC%E5%A4%A9%E4%BC%9A%E6%9B%B4%E5%86%B7%E8%BF%98%E6%98%AF%E6%9B%B4%E6%9A%96&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "美股科技题材全线下挫 纳指跌近2%",
+      "summary": "昨夜今晨，在美国9月CPI数据超出预期的打压下，科技板块承压走弱，随后跌幅又在AI融资交易可持续性的担忧中持续扩大，纳…",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E9%A2%98%E6%9D%90%E5%85%A8%E7%BA%BF%E4%B8%8B%E6%8C%AB+%E7%BA%B3%E6%8C%87%E8%B7%8C%E8%BF%912%25&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-14T18:38:35.709Z",
+      "publishedAt": "2026-10-14T23:15:24.529Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1359,7 +1359,7 @@
       "summary": "10月14日，成都青白江公安通报一起故意伤害案。起因是10月12日，曹某某在凤祥大道因电动车纠纷持U型锁击打向某。目前…",
       "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E6%8C%81U%E5%9E%8B%E9%94%81%E6%89%93%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-14T18:38:35.709Z",
+      "publishedAt": "2026-10-14T23:15:24.529Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1368,11 +1368,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "爆火的“韩国冰奶”韩国人都没听过",
-      "summary": "今年夏季，“韩国冰奶”成为茶饮圈新宠，瑞幸等品牌相关产品销量破千万杯。事实上，所谓“韩国冰奶”并非韩国特色，不少韩风门…",
-      "url": "https://www.baidu.com/s?wd=%E7%88%86%E7%81%AB%E7%9A%84%E2%80%9C%E9%9F%A9%E5%9B%BD%E5%86%B0%E5%A5%B6%E2%80%9D%E9%9F%A9%E5%9B%BD%E4%BA%BA%E9%83%BD%E6%B2%A1%E5%90%AC%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "周生生回应香港门店发生珠宝劫案",
+      "summary": "10月14日下午3时许，香港大埔广福道70号一间周生生金行发生财物被抢案件。一名约40岁男子佯装顾客到店，夺得一条价值…",
+      "url": "https://www.baidu.com/s?wd=%E5%91%A8%E7%94%9F%E7%94%9F%E5%9B%9E%E5%BA%94%E9%A6%99%E6%B8%AF%E9%97%A8%E5%BA%97%E5%8F%91%E7%94%9F%E7%8F%A0%E5%AE%9D%E5%8A%AB%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-14T18:38:35.709Z",
+      "publishedAt": "2026-10-14T23:15:24.529Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1381,11 +1381,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "周生生回应香港门店发生珠宝劫案",
-      "summary": "10月14日下午3时许，香港大埔广福道70号一间周生生金行发生财物被抢案件。一名约40岁男子佯装顾客到店，夺得一条价值…",
-      "url": "https://www.baidu.com/s?wd=%E5%91%A8%E7%94%9F%E7%94%9F%E5%9B%9E%E5%BA%94%E9%A6%99%E6%B8%AF%E9%97%A8%E5%BA%97%E5%8F%91%E7%94%9F%E7%8F%A0%E5%AE%9D%E5%8A%AB%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "爆火的“韩国冰奶”韩国人都没听过",
+      "summary": "今年夏季，“韩国冰奶”成为茶饮圈新宠，瑞幸等品牌相关产品销量破千万杯。事实上，所谓“韩国冰奶”并非韩国特色，不少韩风门…",
+      "url": "https://www.baidu.com/s?wd=%E7%88%86%E7%81%AB%E7%9A%84%E2%80%9C%E9%9F%A9%E5%9B%BD%E5%86%B0%E5%A5%B6%E2%80%9D%E9%9F%A9%E5%9B%BD%E4%BA%BA%E9%83%BD%E6%B2%A1%E5%90%AC%E8%BF%87&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-14T18:38:35.709Z",
+      "publishedAt": "2026-10-14T23:15:24.529Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1425,125 +1425,136 @@
       "number": 9
     },
     {
-      "title": "巴尔科拉欧战客场带帽，上一个做到的利物浦球员是4年前的萨拉赫",
-      "url": "https://www.163.com/dy/article/L98ET5ED0549BAP0.html",
+      "title": "亨利谈曼城被指控：无论咋罚都不能否定那些伟大球员的实力",
+      "url": "https://www.163.com/dy/article/L98SVHN90549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-10-14T18:24:13.000Z",
+      "publishedAt": "2026-10-14T22:30:11.000Z",
       "category": "体育",
       "topic": "英超",
       "sourceId": "sports",
-      "summary": "这是一个布拉德利-巴尔科拉理所应当不会忘记的夜晚，表现比之前好得多。这是自2022年10月萨拉赫在埃布罗克斯球场之后，…",
+      "summary": "前阿森纳前锋蒂埃里-亨利表示，外界不应因为案件的裁决结果而否定曼城球员过去的表现，强调无论最终受到何种处罚，伟大的球员…",
       "number": 10
     },
     {
-      "title": "曼城vs巴黎：哈兰德PK登贝莱，谢尔基、恩佐、杜埃出战",
-      "url": "https://www.163.com/dy/article/L98DM3GU0549BAP0.html",
+      "title": "前利物浦中场：曼城巴黎本可能6-6收场，欧冠联赛阶段很精彩",
+      "url": "https://www.163.com/dy/article/L98SVHOQ0549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-10-14T18:02:53.000Z",
+      "publishedAt": "2026-10-14T22:30:11.000Z",
       "category": "体育",
       "topic": "英超",
       "sourceId": "sports",
-      "summary": "北京时间10月15日凌晨3点，欧冠联赛阶段第2轮展开一场焦点战役，曼城对阵巴黎。赛前，双方公布首发阵容。",
+      "summary": "欧冠联赛阶段第二轮，曼城2-4巴黎，赛后，前利物浦中场查理-亚当点评了这场比赛。",
       "number": 11
     },
     {
-      "title": "利物浦96秒连进两球，用时并列队史欧冠第二快",
-      "url": "https://www.163.com/dy/article/L98DM3MJ0549BAP0.html",
+      "title": "贝纳蒂亚：曼城逐渐找回状态时多纳鲁马再次让球队付出了代价",
+      "url": "https://www.163.com/dy/article/L98SBADF0549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-10-14T18:02:53.000Z",
+      "publishedAt": "2026-10-14T22:19:08.000Z",
       "category": "体育",
       "topic": "英超",
       "sourceId": "sports",
-      "summary": "北京时间10月15日，利物浦在欧冠客场对阵林茨。阿劳霍和巴尔科拉在96秒内先后破门，两粒连续进球的间隔并列利物浦队史欧…",
+      "summary": "巴黎圣日耳曼在一场跌宕起伏的比赛中以4-2击败曼城。曼城一度将比分追至1-3，试图发起反扑，但阿克利乌什抓住多纳鲁马扑…",
       "number": 12
     },
     {
-      "title": "马卡：库库雷利亚频施压主裁，力挺皇马利益",
-      "url": "https://www.163.com/dy/article/L98ET5HM0549BAP0.html",
+      "title": "加斯佩里尼：我们最后7分钟彻底短路；其余时间远胜于皇马",
+      "url": "https://www.163.com/dy/article/L98U68V00549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-10-14T18:24:13.000Z",
+      "publishedAt": "2026-10-14T22:51:20.000Z",
       "category": "体育",
       "topic": "西甲",
       "sourceId": "sports",
-      "summary": "皇马对比利亚雷亚尔的RefCam视频曝光了库库雷利亚在裁判面前为球队出头的一面",
+      "summary": "欧冠联赛阶段第2轮，罗马主场3-4遭皇马逆转，赛后，罗马主帅加斯佩里尼出席新闻发布会接受媒体提问，他谈到了球队在比赛最…",
       "number": 13
     },
     {
-      "title": "官方：皇马就科纳特黄牌的上诉成功，黄牌取消",
-      "url": "https://www.163.com/dy/article/L98E8QOK0549BAP0.html",
+      "title": "恩德里克：若帮不上皇马，我会第一个离开",
+      "url": "https://www.163.com/dy/article/L98U68F90549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-10-14T18:13:07.000Z",
+      "publishedAt": "2026-10-14T22:51:20.000Z",
       "category": "体育",
       "topic": "西甲",
       "sourceId": "sports",
-      "summary": "北京时间10月15日，西足协纪律委员会宣布，皇马上诉成功，在对阵比利亚雷亚尔的比赛中染黄的科纳特黄牌取消。",
+      "summary": "恩德里克在皇家马德里欧冠逆转罗马的比赛中发挥了重要作用，赛后，他谈到了自己替补登场时的心情，以及在皇马立足的决心。",
       "number": 14
     },
     {
-      "title": "每体：马竞主场战拉科将不设客队看台",
-      "url": "https://www.163.com/dy/article/L98E8QOH0549BAP0.html",
+      "title": "穆帅：世上没有奇迹，面对皇马以那种强度拼搏90分钟非常艰难",
+      "url": "https://www.163.com/dy/article/L98U685F0549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-10-14T18:13:07.000Z",
+      "publishedAt": "2026-10-14T22:51:19.000Z",
       "category": "体育",
       "topic": "西甲",
       "sourceId": "sports",
-      "summary": "根据《每日体育报》报道，马德里竞技不会在西甲第十轮向拉科鲁尼亚发放客队球票，届时这家白蓝军团将做客大都会球场，但无法拥…",
+      "summary": "率队在欧冠联赛阶段第2轮客场4-3击败罗马之后，皇家马德里主教练穆里尼奥接受了来自意大利天空体育罗马跟队记者安杰洛-曼…",
       "number": 15
     },
     {
-      "title": "法尔克：除非有合适的迪亚斯替补，拜仁冬窗不会补强其他位置",
-      "url": "https://www.163.com/dy/article/L98B5UM10549BAP0.html",
+      "title": "德国球队失陷挪威，拜仁多特本轮客战挪超球队1平1负",
+      "url": "https://www.163.com/dy/article/L98SVHQD0549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-10-14T17:19:07.000Z",
+      "publishedAt": "2026-10-14T22:30:11.000Z",
       "category": "体育",
       "topic": "德甲",
       "sourceId": "sports",
-      "summary": "据《图片报》记者法尔克和阿加尔迪的消息，拜仁冬窗只会考虑引进路易斯-迪亚斯的替补人选，其他位置不会引进球员。",
+      "summary": "2026/27赛季欧冠联赛阶段第2轮，德甲球队拜仁慕尼黑和多特蒙德双双失陷挪威，拜仁客场3-3战平维京，多特蒙德则0-…",
       "number": 16
     },
     {
-      "title": "法尔克：拜仁希望金球奖前宣布凯恩续约至2029",
-      "url": "https://www.163.com/dy/article/L988P1UR0549BAP0.html",
+      "title": "博德闪耀1-0多特蒙德，舍沃尔德一锤定音",
+      "url": "https://www.163.com/dy/article/L98NJNAK0549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-10-14T16:37:07.000Z",
+      "publishedAt": "2026-10-14T20:56:21.000Z",
       "category": "体育",
       "topic": "德甲",
       "sourceId": "sports",
-      "summary": "记者法尔克报道，拜仁希望在即将到来的金球奖颁奖典礼前宣布哈里-凯恩的新合同。双方已经就新合同年限达成一致，合同将持续到…",
+      "summary": "北京时间10月15日欧洲冠军联赛 联赛阶段 第2轮，博德闪耀对阵多特蒙德。博德闪耀舍沃尔德破门。最终比分博德闪耀 1-…",
       "number": 17
     },
     {
-      "title": "多名维京球员赛后到拜仁更衣室换球衣，特里皮奇：我不敢去",
-      "url": "https://www.163.com/dy/article/L97IQFIG0549BAP0.html",
+      "title": "德媒：拜仁就慕尼黑1860侮辱横幅报案，警方搜查嫌疑人住所",
+      "url": "https://www.163.com/dy/article/L98FH5B60549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-10-14T10:13:25.000Z",
+      "publishedAt": "2026-10-14T18:35:08.000Z",
       "category": "体育",
       "topic": "德甲",
       "sourceId": "sports",
-      "summary": "在今天凌晨进行的欧冠联赛阶段第2轮比赛中，维京主场3-3战平拜仁，赛后，维京队长特里皮奇在接受TV2的采访时透露，自己…",
+      "summary": "据《图片报》报道，拜仁正就同城死敌慕尼黑1860的一次恶作剧采取法律行动。由于一条侮辱性横幅，事情甚至据称已发展到警方…",
       "number": 18
     },
     {
-      "title": "米体：德佬无法接受联赛阶段出局，要求那不勒斯至少进附加赛",
-      "url": "https://www.163.com/dy/article/L9837FOO0549BAP0.html",
+      "title": "本轮全军覆没，意甲四队2轮欧冠1胜1平6负，三队位于淘汰区",
+      "url": "https://www.163.com/dy/article/L98PUNPD0549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-10-14T15:00:08.000Z",
+      "publishedAt": "2026-10-14T21:37:19.000Z",
       "category": "体育",
       "topic": "意甲",
       "sourceId": "sports",
-      "summary": "《米兰体育报》消息，那不勒斯主席无法接受在联赛阶段出局，尤其是在上赛季失利之后。过去两年，直接晋级16强淘汰赛阶段都需…",
+      "summary": "2026/27赛季欧冠联赛阶段第2轮，意甲四支参赛球队全军覆没。两轮过后，四支球队只拿到了4分。",
       "number": 19
     },
     {
-      "title": "官方：帕夫洛维奇与AC米兰续约至2031年",
-      "url": "https://www.163.com/dy/article/L97QKLV20549BAP0.html",
+      "title": "一分未得，意甲球队本轮欧冠全部失利",
+      "url": "https://www.163.com/dy/article/L98OQ8PB0549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-10-14T12:30:04.000Z",
+      "publishedAt": "2026-10-14T21:17:24.000Z",
       "category": "体育",
       "topic": "意甲",
       "sourceId": "sports",
-      "summary": "AC米兰官方宣布，帕夫洛维奇与球队续约，他与俱乐部的旅程将持续到2031年。",
+      "summary": "欧冠联赛阶段第2轮比赛全部战罢，意甲球队本轮欧冠全部失利。",
       "number": 20
+    },
+    {
+      "title": "斯帕莱蒂：我坚信国米和那不勒斯能找到策略并挺进欧冠淘汰赛",
+      "url": "https://www.163.com/dy/article/L98OQ7E20549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-10-14T21:17:23.000Z",
+      "category": "体育",
+      "topic": "意甲",
+      "sourceId": "sports",
+      "summary": "北京时间10月16日凌晨3时，尤文图斯将在欧联杯联赛阶段第2轮客场挑战塞尔塔。比赛前夕，尤文图斯主教练斯帕莱蒂出席了新…",
+      "number": 21
     },
     {
       "title": "吴易昺郑钦文直播连线，郑钦文直言贝雷蒂尼颜值碾压吴易昺",
@@ -1554,7 +1565,7 @@
       "topic": "网球",
       "sourceId": "sports",
       "summary": "10月14日晚，吴易昺与郑钦文进行了直播连线，在直播中，吴易昺问了郑钦文觉得谁是帅哥，郑钦文表示贝雷蒂尼算一个，郑钦文…",
-      "number": 21
+      "number": 22
     },
     {
       "title": "施晗0-2不敌费尔南德斯，无缘武汉网球公开赛16强",
@@ -1565,7 +1576,7 @@
       "topic": "网球",
       "sourceId": "sports",
       "summary": "北京时间10月15日，武汉网球公开赛第二轮，中国选手施晗0-2不敌费尔南德斯，无缘16强。",
-      "number": 22
+      "number": 23
     },
     {
       "title": "投票梦碎！萨巴伦卡、安德列娃依旧无国旗，无缘为国征战团体赛",
@@ -1576,28 +1587,16 @@
       "topic": "网球",
       "sourceId": "sports",
       "summary": "如果查看当前WTA世界排名，前50名中有六位选手，在个人资料页面的名字旁没有显示所属国家旗帜。其中最受关注的两位是萨巴…",
-      "number": 23
-    },
-    {
-      "title": "美联储褐皮书：能源成本上涨传导至供应链 半数辖区报告价格压力升温",
-      "url": "https://finance.sina.com.cn/world/2026-10-15/doc-inivfshx8255301.shtml",
-      "summary": "美联储对各辖区联系人进行的调查显示，随着能源价格上涨逐渐传导至美国各地区，最近几周12个联储辖区中有一半报告物价压力高…",
-      "source": "环球市场播报 · 新浪财经",
-      "publishedAt": "2026-10-14T18:34:41.000Z",
-      "category": "金融",
-      "topic": "美股",
-      "sourceId": "us-stock",
-      "kind": "报道",
       "number": 24
     },
     {
       "category": "金融",
       "topic": "美股",
-      "title": "美股三大指数走低 纳指跌超2% 费城半导体指数跌超4% 国际金银价格跳水",
-      "summary": "美东时间周三，美股三大指数集体走低，截至发稿，道指跌0.50%，纳指跌2.02%，标普500指数跌1.32%。",
-      "url": "https://finance.eastmoney.com/a/202610143895720794.html",
-      "publishedAt": "2026-10-14T18:01:00.000Z",
-      "source": "东方财富 · 东方财富Choice数据",
+      "title": "美股三大指数集体收跌 纳指跌1.88%",
+      "summary": "人民财讯10月15日电，当地时间10月14日，美股三大指数集体收跌，道指跌0.09%，纳指跌1.88%，标普500指数…",
+      "url": "https://finance.eastmoney.com/a/202610153895911766.html",
+      "publishedAt": "2026-10-14T23:03:00.000Z",
+      "source": "东方财富 · 证券时报网",
       "kind": "报道",
       "sourceId": "eastmoney-us-stock",
       "number": 25
@@ -1605,69 +1604,69 @@
     {
       "category": "金融",
       "topic": "美股",
-      "title": "英伟达CEO黄仁勋表示：将切断所有开发不安全AI产品的客户的供货",
-      "summary": "英伟达CEO黄仁勋表示，安全相关顾虑是行业发展的“成长阵痛”，将切断所有开发不安全AI产品的客户的供货。",
-      "url": "https://finance.eastmoney.com/a/202610153895870571.html",
-      "publishedAt": "2026-10-14T17:36:00.000Z",
+      "title": "【早报】纳指跳水跌超500点，半导体大跌；黄金、白银重挫，原油上涨；A股业绩预喜潮延续",
+      "summary": "1、安徽省委书记李乐成10月14日下午赴长鑫科技集团股份有限公司调研并主持召开座谈会。李乐成指出，要突出科技创新供给和…",
+      "url": "https://finance.eastmoney.com/a/202610153895912445.html",
+      "publishedAt": "2026-10-14T23:00:00.000Z",
       "source": "东方财富 · 财联社",
       "kind": "报道",
       "sourceId": "eastmoney-us-stock",
       "number": 26
     },
     {
-      "category": "金融",
-      "topic": "美股",
-      "title": "纳斯达克100指数跌幅扩大至2% 成分股CoreWeave目前跌超15%",
-      "summary": "截至发稿，纳斯达克100指数跌幅扩大至2%，成分股CoreWeave目前跌超15%。",
-      "url": "https://finance.eastmoney.com/a/202610153895869252.html",
-      "publishedAt": "2026-10-14T17:30:00.000Z",
-      "source": "东方财富 · 财联社",
-      "kind": "报道",
-      "sourceId": "eastmoney-us-stock",
-      "number": 27
-    },
-    {
-      "title": "花旗经济学家预计美联储12月加息 称核心CPI远超预期",
-      "url": "https://finance.sina.com.cn/world/2026-10-15/doc-inivfmze4503535.shtml",
-      "summary": "花旗经济学家援引9月消费者价格指数（CPI）数据，特别是核心CPI“远高于我们和共识预期”，新增对美联储12月会议加息…",
+      "title": "美联储准备金管理购买暂停期延至11月中旬",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivhaww4427219.shtml",
+      "summary": "美联储周三表示，接下来的操作期内，将连续第三个月暂停出于准备金管理目的购买美国国库券，这表明决策者对金融体系中的银行准…",
       "source": "环球市场播报 · 新浪财经",
-      "publishedAt": "2026-10-14T16:35:06.000Z",
+      "publishedAt": "2026-10-14T22:50:19.000Z",
       "category": "金融",
       "topic": "美股",
       "sourceId": "us-stock",
-      "kind": "观点",
-      "number": 28
+      "kind": "报道",
+      "number": 27
     },
     {
       "category": "金融",
       "topic": "美股",
-      "title": "戴尔、甲骨文直线跳水7%，特斯拉市值蒸发超2800亿元，美股存储芯片下挫，白银暴跌5%，比特币跌破8.3万美元",
-      "summary": "北京时间10月14日晚间，美股低开。截至22时左右，美股三大指数集体下挫。",
-      "url": "https://finance.eastmoney.com/a/202610143895814640.html",
-      "publishedAt": "2026-10-14T15:05:00.000Z",
-      "source": "东方财富 · 21世纪经济报道",
+      "title": "美股收盘：三大指数齐跌，纳指跳水超510点跌1.88%；半导体、光通信、存储芯片板块集体重挫；科技股普跌，苹果市值创新高；医药股逆市大涨",
+      "summary": "美东时间周三（14日），受通胀数据恶化影响，美国三大股指集体收跌。截至收盘，纳指跌1.88%，跌超510点，创7月23…",
+      "url": "https://finance.eastmoney.com/a/202610153895903528.html",
+      "publishedAt": "2026-10-14T22:40:00.000Z",
+      "source": "东方财富 · 中新经纬",
       "kind": "报道",
       "sourceId": "eastmoney-us-stock",
+      "number": 28
+    },
+    {
+      "title": "巴克莱：特斯拉-SpaceX合并消息可能在年度股东大会前公布",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivhaww4412341.shtml",
+      "summary": "巴克莱分析师表示，市场参与者目前普遍预计特斯拉将与SpaceX合并，相关消息可能会在特斯拉年度股东大会（AGM）之前公…",
+      "source": "环球市场播报 · 新浪财经",
+      "publishedAt": "2026-10-14T22:34:43.000Z",
+      "category": "金融",
+      "topic": "美股",
+      "sourceId": "us-stock",
+      "kind": "报道",
       "number": 29
     },
     {
-      "title": "CoreWeave首席执行官将股价暴跌归咎于市场“非理性”行为",
-      "url": "https://finance.sina.com.cn/world/2026-10-15/doc-inivfshv7523015.shtml",
-      "summary": "面对股价和债券价格大跌，AI云服务商CoreWeave首席执行官Mike Intrator表示，市场的表现“非理性”，…",
+      "title": "10月15日隔夜要闻：美股收低 纳指标普三连跌 油价上涨 苹果站上5万亿美元 OpenAI被8个州起诉",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivfwra1299389.shtml",
+      "summary": "市场 10月15日收盘：美国股市周三收低 芯片股延续近期跌势 10月15日美股成交额前20：CoreWeave跌超15…",
       "source": "环球市场播报 · 新浪财经",
-      "publishedAt": "2026-10-14T18:33:31.000Z",
+      "publishedAt": "2026-10-14T22:30:34.000Z",
       "category": "金融",
-      "topic": "A股",
-      "sourceId": "cn-stock",
+      "topic": "美股",
+      "sourceId": "us-stock",
       "kind": "报道",
       "number": 30
     },
     {
-      "title": "欧洲股市上涨 美国CPI出炉后医疗等防御性股票跑赢",
-      "url": "https://finance.sina.com.cn/world/2026-10-15/doc-inivfshx8241202.shtml",
-      "summary": "欧洲股市周三上涨，美国通胀数据高于预期，引发市场对利率进一步上升的担忧，投资者纷纷涌入医疗保健、食品饮料等防御性板块。",
-      "source": "环球市场播报 · 新浪财经",
-      "publishedAt": "2026-10-14T18:12:18.000Z",
+      "title": "长鑫科技新型架构撼动存储市场 海外龙头垄断壁垒面临重估",
+      "url": "https://finance.sina.com.cn/stock/hyyj/2026-10-15/doc-inivhawy1221047.shtml",
+      "summary": "证券时报记者 阮润生 国产存储龙头长鑫科技发布新型技术架构，全球存储龙头股价近期明显回调。10月13日，三星电子、SK…",
+      "source": "证券时报 · 新浪财经",
+      "publishedAt": "2026-10-14T23:10:49.000Z",
       "category": "金融",
       "topic": "A股",
       "sourceId": "cn-stock",
@@ -1677,50 +1676,62 @@
     {
       "category": "金融",
       "topic": "A股",
-      "title": "长鑫科技新型架构撼动存储市场 海外龙头垄断壁垒面临重估",
-      "summary": "国产存储龙头长鑫科技发布新型技术架构，全球存储龙头股价近期明显回调。10月13日，三星电子、SK海力士跌幅超过7%，1…",
-      "url": "https://finance.eastmoney.com/a/202610153895872827.html",
-      "publishedAt": "2026-10-14T18:08:00.000Z",
-      "source": "东方财富 · 证券时报",
+      "title": "麒麟下一代芯片演进：韬定律引路 华为发出共建半导体生态邀约",
+      "summary": "当单纯依靠半导体工艺制程演进，已经越来越难以收获如过去那样倍增的计算效益时，围绕半导体计算产业的竞争焦点，也转向了对芯…",
+      "url": "https://finance.eastmoney.com/a/202610153895911044.html",
+      "publishedAt": "2026-10-14T23:00:00.000Z",
+      "source": "东方财富 · 21世纪经济报道",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
       "number": 32
     },
     {
+      "title": "温州宏丰定增：与实控人减持套现时间线高度重叠 有息负债居高不下",
+      "url": "https://finance.sina.com.cn/stock/aigcy/2026-10-15/doc-inivhaww4435940.shtml",
+      "summary": "近日，温州宏丰电工合金股份有限公司（300283.SZ）的定增方案调整。根据修订后的方案，公司拟向不超过35名特定投资…",
+      "source": "新浪证券 · 新浪财经",
+      "publishedAt": "2026-10-14T22:58:56.000Z",
       "category": "金融",
       "topic": "A股",
-      "title": "Coreweave首席执行官认为股价下跌是由于市场“非理性”行为",
-      "summary": "Coreweave首席执行官认为股价下跌是由于市场“非理性”行为。",
-      "url": "https://finance.eastmoney.com/a/202610153895870788.html",
-      "publishedAt": "2026-10-14T17:51:00.000Z",
-      "source": "东方财富 · 财联社",
+      "sourceId": "cn-stock",
       "kind": "报道",
-      "sourceId": "eastmoney-cn-stock",
       "number": 33
     },
     {
-      "title": "CoreWeave股价大跌，债券收益率逼近15%，市场担忧AI领域举债过度",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivfmyx7584475.shtml",
-      "summary": "核心要点CoreWeave 股价大幅下挫，同时该公司债券收益率飙升。周二晚间，投资人查马斯・帕里哈皮蒂亚在 X 平台贴…",
-      "source": "环球市场播报 · 新浪财经",
-      "publishedAt": "2026-10-14T16:50:21.000Z",
       "category": "金融",
       "topic": "A股",
-      "sourceId": "cn-stock",
+      "title": "上证早知道｜688388 前三季度净利大增1197%至1319%；600391 机构净买入6633.20万元；603833 最高2亿元回购注销",
+      "summary": "·第15届中国数据中心设计高峰论坛于10月15日在上海举行《算电协同技术白皮书》现场首发。",
+      "url": "https://finance.eastmoney.com/a/202610153895908656.html",
+      "publishedAt": "2026-10-14T22:56:00.000Z",
+      "source": "东方财富 · 上海证券报",
       "kind": "报道",
+      "sourceId": "eastmoney-cn-stock",
       "number": 34
     },
     {
-      "title": "美国大银行财报透视：交易业务表现分化 贷款需求仍具韧性",
-      "url": "https://finance.sina.com.cn/world/2026-10-15/doc-inivfmyx7580893.shtml",
-      "summary": "美国银行周三公布季度业绩，股票和固收交易收入不及预期，并因监管处罚计提12亿美元费用，股价一度跌逾8%。摩根士丹利财富…",
-      "source": "环球市场播报 · 新浪财经",
-      "publishedAt": "2026-10-14T16:44:54.000Z",
       "category": "金融",
       "topic": "A股",
-      "sourceId": "cn-stock",
+      "title": "证监会开出1.72亿元罚单！*ST清越涉欺诈发行、财务造假案",
+      "summary": "10月14日晚间，苏州清越光电科技股份有限公司（证券简称：*ST清越）公告，收到证监会下发的《行政处罚决定书》：针对公…",
+      "url": "https://finance.eastmoney.com/a/202610143895715056.html",
+      "publishedAt": "2026-10-14T22:26:00.000Z",
+      "source": "东方财富 · 大河财立方",
       "kind": "报道",
+      "sourceId": "eastmoney-cn-stock",
       "number": 35
+    },
+    {
+      "category": "金融",
+      "topic": "A股",
+      "title": "美银Q3净利润下降17% 营收不及预期股价跌逾7%",
+      "summary": "美东时间周三（10月14日）盘前，美国银行公布了2026年第三季度财报。受12亿美元监管和解费用及华尔街交易业务疲软拖…",
+      "url": "https://finance.eastmoney.com/a/202610143895796974.html",
+      "publishedAt": "2026-10-14T22:18:00.000Z",
+      "source": "东方财富 · 财联社",
+      "kind": "报道",
+      "sourceId": "eastmoney-cn-stock",
+      "number": 36
     },
     {
       "category": "金融",
@@ -1732,28 +1743,16 @@
       "source": "东方财富 · 新华财经",
       "kind": "报道",
       "sourceId": "eastmoney-futures",
-      "number": 36
-    },
-    {
-      "category": "金融",
-      "topic": "宏观财经",
-      "title": "9月份CPI、PPI同比涨幅均扩大 工业领域延续价格修复趋势",
-      "summary": "10月14日，国家统计局公布9月居民消费价格指数（CPI）与工业生产者出厂价格指数（PPI）数据。9月份，CPI同比上…",
-      "url": "https://finance.eastmoney.com/a/202610153895874224.html",
-      "publishedAt": "2026-10-14T18:08:00.000Z",
-      "source": "东方财富 · 证券时报",
-      "kind": "报道",
-      "sourceId": "eastmoney-macro",
       "number": 37
     },
     {
       "category": "金融",
       "topic": "宏观财经",
-      "title": "前三季外贸增势强劲 探察数据里的“新”与“快”",
-      "summary": "10月14日，海关总署发布最新数据显示，今年前三季度，我国货物贸易进出口39.94万亿元，同比增长18.8%。其中，出…",
-      "url": "https://finance.eastmoney.com/a/202610153895874081.html",
-      "publishedAt": "2026-10-14T18:08:00.000Z",
-      "source": "东方财富 · 证券时报",
+      "title": "美联储观察：10月加息概率升至33.2%",
+      "summary": "据CME“美联储观察”：美联储到10月维持利率不变的概率为66.8%，累计加息25个基点的概率为33.2%。美联储到1…",
+      "url": "https://finance.eastmoney.com/a/202610153895912568.html",
+      "publishedAt": "2026-10-14T23:08:00.000Z",
+      "source": "东方财富 · 界面新闻",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
       "number": 38
@@ -1761,11 +1760,11 @@
     {
       "category": "金融",
       "topic": "宏观财经",
-      "title": "前三季社融增量超二十七万亿 股债融资占比近半",
-      "summary": "中国人民银行10月14日发布的最新金融统计数据报告显示，今年前三季度，广义货币供应量（M2）和社会融资规模存量增速均保…",
-      "url": "https://finance.eastmoney.com/a/202610153895874360.html",
-      "publishedAt": "2026-10-14T18:07:00.000Z",
-      "source": "东方财富 · 证券时报",
+      "title": "21社论丨9月外贸超预期高增，AI成出口主力",
+      "summary": "今年9月，外贸继续保持快速增长态势。根据海关总署数据，9月按美元计出口同比增长36.3%，进口同比增长31%，均较上月…",
+      "url": "https://finance.eastmoney.com/a/202610153895912065.html",
+      "publishedAt": "2026-10-14T23:01:00.000Z",
+      "source": "东方财富 · 21世纪经济报道",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
       "number": 39
@@ -1773,11 +1772,11 @@
     {
       "category": "金融",
       "topic": "宏观财经",
-      "title": "9月CPI同比上涨0.9% 居民消费价格继续温和回升",
-      "summary": "10月14日，国家统计局发布数据显示，9月，居民消费价格指数（CPI）环比上涨0.2%，涨幅比8月回落0.2个百分点；…",
-      "url": "https://finance.eastmoney.com/a/202610153895869925.html",
-      "publishedAt": "2026-10-14T17:51:00.000Z",
-      "source": "东方财富 · 证券日报",
+      "title": "前三季度外贸同比增长18.8% 三季度出口首次突破8万亿元",
+      "summary": "海关总署10月14日发布数据显示，今年前三季度，我国货物贸易进出口39.94万亿元，同比增长18.8%。其中，出口23…",
+      "url": "https://finance.eastmoney.com/a/202610153895907140.html",
+      "publishedAt": "2026-10-14T22:52:00.000Z",
+      "source": "东方财富 · 中国证券报",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
       "number": 40
@@ -1785,11 +1784,11 @@
     {
       "category": "金融",
       "topic": "宏观财经",
-      "title": "前三季度我国货物贸易进出口同比增长18.8% 进出口持续增长有基础、有支撑",
-      "summary": "10月14日，国务院新闻办公室举行新闻发布会，介绍2026年前三季度进出口情况。",
-      "url": "https://finance.eastmoney.com/a/202610153895870318.html",
-      "publishedAt": "2026-10-14T17:26:00.000Z",
-      "source": "东方财富 · 证券日报",
+      "title": "央行将开展7000亿元买断式逆回购操作 四季度加发政府债券需流动性支持",
+      "summary": "今日央行宣布将于10月15日开展7000亿元买断式逆回购操作。由于10月有5000亿元6个月期买断式逆回购到期，这意味…",
+      "url": "https://finance.eastmoney.com/a/202610143895735585.html",
+      "publishedAt": "2026-10-14T22:01:00.000Z",
+      "source": "东方财富 · 财联社",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
       "number": 41
@@ -1797,14 +1796,26 @@
     {
       "category": "金融",
       "topic": "宏观财经",
-      "title": "金融支持实体经济质效双升 前三季度社会融资规模增量累计为27.46万亿元",
-      "summary": "10月14日，中国人民银行公布2026年前三季度金融统计数据报告。数据显示，截至9月末，广义货币（M2）余额359.6…",
-      "url": "https://finance.eastmoney.com/a/202610153895869684.html",
-      "publishedAt": "2026-10-14T17:26:00.000Z",
-      "source": "东方财富 · 证券日报",
+      "title": "美国9月CPI通胀再度升温 强化美联储加息预期 现货黄金一度跌破4100美元关口",
+      "summary": "美国9月CPI通胀全线升温，物价压力未见明显缓解，汽油价格大幅上涨成主要推手，这给美国总统特朗普及其所属的共和党带来了…",
+      "url": "https://finance.eastmoney.com/a/202610143895769615.html",
+      "publishedAt": "2026-10-14T21:58:00.000Z",
+      "source": "东方财富 · 财联社",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
       "number": 42
+    },
+    {
+      "category": "金融",
+      "topic": "宏观财经",
+      "title": "融资渠道更多元 前三季度社融增量达27.46万亿元",
+      "summary": "中国人民银行10月14日发布的金融统计数据报告显示，9月末社会融资规模存量为468.17万亿元，同比增长7.1%；广义…",
+      "url": "https://finance.eastmoney.com/a/202610153895878437.html",
+      "publishedAt": "2026-10-14T19:54:00.000Z",
+      "source": "东方财富 · 经济参考报",
+      "kind": "报道",
+      "sourceId": "eastmoney-macro",
+      "number": 43
     },
     {
       "title": "美国杜立特突袭者子女协会代表在华寻历史“拼图”",
@@ -1815,7 +1826,7 @@
       "topic": "美国",
       "source": "中国新闻网",
       "sourceId": "us-politics",
-      "number": 43
+      "number": 44
     },
     {
       "title": "美国9月消费者价格指数涨幅超预期",
@@ -1826,7 +1837,7 @@
       "topic": "美国",
       "source": "中国新闻网",
       "sourceId": "us-politics",
-      "number": 44
+      "number": 45
     },
     {
       "title": "特朗普宣布要在格陵兰岛大规模勘探资源，意味着什么？",
@@ -1837,7 +1848,7 @@
       "topic": "美国",
       "source": "中国新闻网",
       "sourceId": "us-politics",
-      "number": 45
+      "number": 46
     },
     {
       "title": "白宫新发言人首秀口误：“我的丈夫”说成“我的总统”",
@@ -1848,7 +1859,7 @@
       "topic": "美国",
       "source": "中国新闻网",
       "sourceId": "us-politics",
-      "number": 46
+      "number": 47
     },
     {
       "title": "美国佛州一囚犯被执行注射死刑",
@@ -1859,7 +1870,7 @@
       "topic": "美国",
       "source": "中国新闻网",
       "sourceId": "us-politics",
-      "number": 47
+      "number": 48
     },
     {
       "title": "美国驻希腊大使辞职，曾与特朗普长子订婚",
@@ -1870,7 +1881,7 @@
       "topic": "美国",
       "source": "中国新闻网",
       "sourceId": "us-politics",
-      "number": 48
+      "number": 49
     },
     {
       "title": "李强在第140届中国进出口商品交易会开幕式上的主旨演讲（全文）",
@@ -1881,7 +1892,7 @@
       "topic": "中国",
       "source": "中国新闻网",
       "sourceId": "cn-politics",
-      "number": 49
+      "number": 50
     },
     {
       "title": "习近平总书记为健康中国建设取得决定性进展指明方向",
@@ -1892,7 +1903,7 @@
       "topic": "中国",
       "source": "中国新闻网",
       "sourceId": "cn-politics",
-      "number": 50
+      "number": 51
     },
     {
       "title": "江西省南昌市政协原党组书记、主席肖玉文被“双开”",
@@ -1903,7 +1914,7 @@
       "topic": "中国",
       "source": "中国新闻网",
       "sourceId": "cn-politics",
-      "number": 51
+      "number": 52
     },
     {
       "title": "四川省华蓥市人大常委会原党组书记、主任刘光文严重违纪违法被开除党籍",
@@ -1914,7 +1925,7 @@
       "topic": "中国",
       "source": "中国新闻网",
       "sourceId": "cn-politics",
-      "number": 52
+      "number": 53
     },
     {
       "category": "AI",
@@ -1927,7 +1938,7 @@
       "reportDate": "2026-10-14",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 53
+      "number": 54
     },
     {
       "category": "AI",
@@ -1940,7 +1951,7 @@
       "reportDate": "2026-10-14",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 54
+      "number": 55
     },
     {
       "category": "AI",
@@ -1953,7 +1964,7 @@
       "reportDate": "2026-10-14",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 55
+      "number": 56
     },
     {
       "category": "AI",
@@ -1966,7 +1977,7 @@
       "reportDate": "2026-10-14",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 56
+      "number": 57
     },
     {
       "category": "AI",
@@ -1979,7 +1990,7 @@
       "reportDate": "2026-10-14",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 57
+      "number": 58
     },
     {
       "category": "AI",
@@ -1992,7 +2003,7 @@
       "reportDate": "2026-10-14",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 58
+      "number": 59
     },
     {
       "category": "AI",
@@ -2005,7 +2016,7 @@
       "reportDate": "2026-10-14",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 59
+      "number": 60
     },
     {
       "category": "AI",
@@ -2018,7 +2029,7 @@
       "reportDate": "2026-10-14",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 60
+      "number": 61
     },
     {
       "category": "AI",
@@ -2031,7 +2042,7 @@
       "reportDate": "2026-10-14",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 61
+      "number": 62
     },
     {
       "category": "AI",
@@ -2044,7 +2055,7 @@
       "reportDate": "2026-10-14",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 62
+      "number": 63
     },
     {
       "category": "AI",
@@ -2057,7 +2068,7 @@
       "reportDate": "2026-10-14",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 63
+      "number": 64
     }
   ]
 }
