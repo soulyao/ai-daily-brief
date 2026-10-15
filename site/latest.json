@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-10-15T05:17:27.471Z",
+  "collectedAt": "2026-10-15T05:54:13.640Z",
   "topics": {
     "时事": [
       "百度热搜"
@@ -38,8 +38,8 @@
       "name": "百度热搜 · 时事",
       "url": "https://top.baidu.com/board?tab=realtime",
       "status": "ok",
-      "lastAttempt": "2026-10-15T05:17:27.471Z",
-      "lastSuccess": "2026-10-15T05:17:27.471Z",
+      "lastAttempt": "2026-10-15T05:54:13.640Z",
+      "lastSuccess": "2026-10-15T05:54:13.640Z",
       "items": [
         {
           "category": "时事",
@@ -48,7 +48,7 @@
           "summary": "在14日的发布会上，海关总署介绍了我国第一大外贸主体——民营企业的外贸运行情况。外贸产业结构加速向“新赛道”“高赛道”…",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%96%B0%E4%B8%89%E6%A0%B7%E2%80%9D%E4%BA%A7%E5%93%81%E5%87%BA%E5%8F%A3%E5%A2%9E%E9%95%BF43.6%25&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-15T05:17:27.471Z",
+          "publishedAt": "2026-10-15T05:54:13.640Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -60,7 +60,31 @@
           "summary": "10月15日，福州撞脸陈小春工人视频拍摄者发声，称因视频走红给处于上市关键期的企业带来压力，已主动离职。此前10月14…",
           "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E6%92%9E%E8%84%B8%E9%99%88%E5%B0%8F%E6%98%A5+%E6%8B%8D%E6%91%84%E8%80%85%E5%B7%B2%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-15T05:17:27.471Z",
+          "publishedAt": "2026-10-15T05:54:13.640Z",
+          "timeLabel": "热搜采集",
+          "linkLabel": "查看相关新闻",
+          "sourceId": "baidu"
+        },
+        {
+          "category": "时事",
+          "topic": "百度热搜",
+          "title": "创业板指跌逾4%",
+          "summary": "10月15日，指数持续走弱，创业板指下挫跌逾4.00%，沪指跌2.42%，深成指跌3.28%。算力硬件、半导体芯片、煤…",
+          "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E8%B7%8C%E9%80%BE4%25&sa=fyb_news&rsv_dl=fyb_news",
+          "source": "百度热搜",
+          "publishedAt": "2026-10-15T05:54:13.640Z",
+          "timeLabel": "热搜采集",
+          "linkLabel": "查看相关新闻",
+          "sourceId": "baidu"
+        },
+        {
+          "category": "时事",
+          "topic": "百度热搜",
+          "title": "全球股市大跌原因找到了",
+          "summary": "10月15日，受美股科技股暴跌影响，日韩股市跟随大跌。数据显示，日经225指数期货跌幅达4.81%。同时，金银价格亦出…",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+          "source": "百度热搜",
+          "publishedAt": "2026-10-15T05:54:13.640Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -72,31 +96,7 @@
           "summary": "拥有人大本科、香港中文大学硕士学历的罗颖（化名），曾在北京媒体与大厂工作，年薪达20万元。32岁时，她选择辞职返回合肥…",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%A1%95%E5%A3%AB%E5%A4%A7%E5%8E%82%E8%BE%9E%E8%81%8C%E5%BD%93%E8%80%81%E5%B8%88+%E6%9C%88%E8%96%AA%E9%99%8D%E8%87%B39%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-15T05:17:27.471Z",
-          "timeLabel": "热搜采集",
-          "linkLabel": "查看相关新闻",
-          "sourceId": "baidu"
-        },
-        {
-          "category": "时事",
-          "topic": "百度热搜",
-          "title": "水果罐头为啥不“甜”了",
-          "summary": "截至2025年，水果罐头行业面临市场萎缩困境。起因是冷链物流成熟、鲜果供应充足，且消费者减糖控糖成主流趋势，被贴“高糖…",
-          "url": "https://www.baidu.com/s?wd=%E6%B0%B4%E6%9E%9C%E7%BD%90%E5%A4%B4%E4%B8%BA%E5%95%A5%E4%B8%8D%E2%80%9C%E7%94%9C%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-          "source": "百度热搜",
-          "publishedAt": "2026-10-15T05:17:27.471Z",
-          "timeLabel": "热搜采集",
-          "linkLabel": "查看相关新闻",
-          "sourceId": "baidu"
-        },
-        {
-          "category": "时事",
-          "topic": "百度热搜",
-          "title": "圆通总裁潘水苗出任影视飓风董事长",
-          "summary": "10月15日，头部影视内容创作团队“影视飓风”运营主体公司杭州星奥传媒有限公司于近日发生工商变更，圆通速递（60023…",
-          "url": "https://www.baidu.com/s?wd=%E5%9C%86%E9%80%9A%E6%80%BB%E8%A3%81%E6%BD%98%E6%B0%B4%E8%8B%97%E5%87%BA%E4%BB%BB%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E8%91%A3%E4%BA%8B%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news",
-          "source": "百度热搜",
-          "publishedAt": "2026-10-15T05:17:27.471Z",
+          "publishedAt": "2026-10-15T05:54:13.640Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -108,7 +108,7 @@
           "summary": "10月11日，在南宁飞往杭州的四川航空航班上，因婴儿哭闹不止且独自带娃的阿姨腾不出手，两名空姐轮流将孩子抱在怀里轻晃安…",
           "url": "https://www.baidu.com/s?wd=%E5%A9%B4%E5%84%BF%E9%A3%9E%E6%9C%BA%E4%B8%8A%E5%85%A8%E7%A8%8B%E5%93%AD%E9%97%B9+%E4%B9%98%E5%AE%A2%E6%97%A0%E4%B8%80%E4%BA%BA%E6%8A%B1%E6%80%A8&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-15T05:17:27.471Z",
+          "publishedAt": "2026-10-15T05:54:13.640Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -120,8 +120,8 @@
       "name": "网易体育（署名媒体）",
       "url": "https://sports.163.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-15T05:17:27.471Z",
-      "lastSuccess": "2026-10-15T05:17:27.471Z",
+      "lastAttempt": "2026-10-15T05:54:13.640Z",
+      "lastSuccess": "2026-10-15T05:54:13.640Z",
       "items": [
         {
           "title": "NBA战报：活塞128-106大胜森林狼，杰伦-杜伦24+3+1",
@@ -157,6 +157,28 @@
           "number": 3
         },
         {
+          "title": "基恩：利马居然说上赛季曼联很棒，说出这种话要被罚两周薪水",
+          "url": "https://www.163.com/dy/article/L99LUN6R0549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-10-15T05:46:38.000Z",
+          "category": "体育",
+          "topic": "英超",
+          "sourceId": "sports",
+          "summary": "罗伊‑基恩在节目《The Overlap》中点评利桑德罗‑马丁内斯赛后公开抨击曼联高层一事，他重点针对利马“上赛季我们…",
+          "number": 4
+        },
+        {
+          "title": "认同利马，斯科尔斯：曼联拿不下最顶尖球员，就该问责高层",
+          "url": "https://www.163.com/dy/article/L99K3EQ30549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-10-15T05:14:17.000Z",
+          "category": "体育",
+          "topic": "英超",
+          "sourceId": "sports",
+          "summary": "前球员保罗‑斯科尔斯与尼基‑巴特认同利桑德罗‑马丁内斯对曼联董事会以及威尔科克斯的看法，曼联拿不下最顶尖球员，就该问责…",
+          "number": 5
+        },
+        {
           "title": "对阵曼城传射建功，杜埃发文：感觉太棒了！",
           "url": "https://www.163.com/dy/article/L99JHGVE0549BAP0.html",
           "source": "懂球帝 · 网易体育",
@@ -165,29 +187,18 @@
           "topic": "英超",
           "sourceId": "sports",
           "summary": "北京时间10月15日，本赛季欧冠联赛阶段第2轮比赛，巴黎圣日耳曼客场4-2战胜曼城。赛后，本场比赛表现出色的巴黎攻击手…",
-          "number": 4
-        },
-        {
-          "title": "100秒连丢两球，8连胜的曼城溃败，都怪指控？",
-          "url": "https://www.163.com/dy/article/L99JGQ4C0514R9P4.html",
-          "source": "澎湃新闻 · 网易体育",
-          "publishedAt": "2026-10-15T05:04:06.000Z",
-          "category": "体育",
-          "topic": "英超",
-          "sourceId": "sports",
-          "summary": "与全世界为敌，或许可以赢在一时，却永远无法赢下一世。",
-          "number": 5
-        },
-        {
-          "title": "阿什拉夫：战胜曼城很美妙；努诺-门德斯是世界最佳边后卫",
-          "url": "https://www.163.com/dy/article/L99H21QR0549BAP0.html",
-          "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-10-15T04:21:05.000Z",
-          "category": "体育",
-          "topic": "英超",
-          "sourceId": "sports",
-          "summary": "在欧冠联赛阶段第二轮客场击败曼城后，巴黎后卫阿什拉夫接受了TNT体育的采访。",
           "number": 6
+        },
+        {
+          "title": "从1比3到4比3！皇马逆转罗马，但穆里尼奥的麻烦才刚开始",
+          "url": "https://www.163.com/dy/article/L99LF2JK0514R9P4.html",
+          "source": "澎湃新闻 · 网易体育",
+          "publishedAt": "2026-10-15T05:38:06.000Z",
+          "category": "体育",
+          "topic": "西甲",
+          "sourceId": "sports",
+          "summary": "“你永远不能认定皇马已经出局。”皇马与罗马的赛后，居莱尔在ins上写下了这么一句话。",
+          "number": 7
         },
         {
           "title": "日本组合成员：M!LK头像登上诺坎普广告牌；巴萨会拿欧冠冠军",
@@ -198,7 +209,7 @@
           "topic": "西甲",
           "sourceId": "sports",
           "summary": "“感谢戈登打入首球！在弗里克的带领下，我相信巴萨一定会夺得欧冠冠军！！！！！今后我也会继续支持你们。”",
-          "number": 7
+          "number": 8
         },
         {
           "title": "替补出场闪耀全场！居莱尔31分钟2次助攻策动1球助皇马逆转",
@@ -209,17 +220,6 @@
           "topic": "西甲",
           "sourceId": "sports",
           "summary": "北京时间10月15日，欧冠联赛第二轮，皇家马德里客场4-3逆转罗马。比赛中，土耳其中场居莱尔替补登场发挥出色，送出两次…",
-          "number": 8
-        },
-        {
-          "title": "每体：哈姆扎首要目标是出场，不介意回巴萨B队练级",
-          "url": "https://www.163.com/dy/article/L9977A140549BAP0.html",
-          "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-10-15T01:29:11.000Z",
-          "category": "体育",
-          "topic": "西甲",
-          "sourceId": "sports",
-          "summary": "每日体育报报道，哈姆扎发现自己很难在巴塞罗那一线队获得上场时间，因为在弗里克的顺位中，拉菲尼亚、热苏斯、戈登和奥尔莫都…",
           "number": 9
         },
         {
@@ -328,7 +328,7 @@
       "name": "东方财富 · 美股",
       "url": "https://stock.eastmoney.com/america.html",
       "status": "error",
-      "lastAttempt": "2026-10-15T05:17:27.471Z",
+      "lastAttempt": "2026-10-15T05:54:13.640Z",
       "lastSuccess": "2026-10-15T04:41:53.205Z",
       "items": [
         {
@@ -360,8 +360,8 @@
       "name": "东方财富 · A股",
       "url": "https://stock.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-15T05:17:27.471Z",
-      "lastSuccess": "2026-10-15T05:17:27.471Z",
+      "lastAttempt": "2026-10-15T05:54:13.640Z",
+      "lastSuccess": "2026-10-15T05:54:13.640Z",
       "items": [
         {
           "category": "金融",
@@ -388,22 +388,33 @@
         {
           "category": "金融",
           "topic": "A股",
-          "title": "曾毓群，现场捐赠超4亿元股票",
-          "summary": "10月15日，在2026世界储能大会开幕式上，宁德时代董事长曾毓群向上海交通大学宁德高等研究院捐赠150万股宁德时代股…",
-          "url": "https://finance.eastmoney.com/a/202610153896695464.html",
-          "publishedAt": "2026-10-15T05:11:00.000Z",
-          "source": "东方财富 · 上海证券报",
+          "title": "上证面对面 | 新华资产总裁陈一江：把握“时代资产”机遇 将长期资本优势转化为耐心资本功能",
+          "summary": "中共中央、国务院日前印发《关于发展新质生产力的意见》，明确提出大力推进科技创新。作为支持科技创新的重要耐心资本，保险资…",
+          "url": "https://finance.eastmoney.com/a/202610153896756941.html",
+          "publishedAt": "2026-10-15T05:31:00.000Z",
+          "source": "东方财富 · 上海证券报·中国证券网",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
         {
           "category": "金融",
           "topic": "A股",
-          "title": "通胀爆表、AI融资担忧双重利空压顶，费城半导体指数坠入熊市",
-          "summary": "就在美联储10月“按兵不动”已经快没有悬念之际，一份意外的通胀数据再度燃起加不加息的争论。",
-          "url": "https://finance.eastmoney.com/a/202610153896665224.html",
-          "publishedAt": "2026-10-15T03:44:00.000Z",
-          "source": "东方财富 · 21世纪经济报道",
+          "title": "台积电第三季度净利润7,631亿元新台币",
+          "summary": "南方财经10月15日电，台积电第三季度净利润7,631亿元新台币，预估7,394.9亿元新台币。",
+          "url": "https://finance.eastmoney.com/a/202610153896760190.html",
+          "publishedAt": "2026-10-15T05:33:00.000Z",
+          "source": "东方财富 · 南方财经网",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "台积电第三季度净利润7631亿元台币 预估7,394.9亿元台币",
+          "summary": "台积电第三季度净利润7,631亿元台币，预估7,394.9亿元台币。",
+          "url": "https://finance.eastmoney.com/a/202610153896754587.html",
+          "publishedAt": "2026-10-15T05:30:00.000Z",
+          "source": "东方财富 · 财联社",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
@@ -465,10 +476,32 @@
         {
           "category": "金融",
           "topic": "A股",
-          "title": "沪指午后跌超2% 全市场超5000只个股下跌",
-          "summary": "沪指午后跌超2%，深成指跌超2.5%，创业板指跌超3%。煤炭、油气开采及服务、港口航运板块跌幅居前。全市场超5000只…",
-          "url": "https://finance.eastmoney.com/a/202610153896680942.html",
-          "publishedAt": "2026-10-15T05:06:00.000Z",
+          "title": "创业板指跌幅扩大至4%",
+          "summary": "创业板指跌幅扩大至4%，沪指跌2.42%，深证成指跌3.28%。两市下跌个股超4800只。",
+          "url": "https://finance.eastmoney.com/a/202610153896759556.html",
+          "publishedAt": "2026-10-15T05:31:00.000Z",
+          "source": "东方财富 · 第一财经",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "创业板指午后跌超4%刷新年内新低",
+          "summary": "A股指数持续走弱，创业板指午后跌超4%刷新年内新低，科创50指数现跌近4%。",
+          "url": "https://finance.eastmoney.com/a/202610153896759657.html",
+          "publishedAt": "2026-10-15T05:29:00.000Z",
+          "source": "东方财富 · 界面新闻",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "双创指数持续走弱 创业板指午后跌超4%",
+          "summary": "双创指数持续走弱，创业板指午后跌超4%刷新年内新低，科创50指数现跌近4%。",
+          "url": "https://finance.eastmoney.com/a/202610153896748610.html",
+          "publishedAt": "2026-10-15T05:28:00.000Z",
           "source": "东方财富 · 东方财富Choice数据",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
@@ -476,21 +509,10 @@
         {
           "category": "金融",
           "topic": "A股",
-          "title": "沪深两市成交额突破1万亿元 较上一个交易日此时放量超1300亿元",
-          "summary": "沪深两市成交额突破1万亿元，较上一个交易日此时放量超1300亿元。",
-          "url": "https://finance.eastmoney.com/a/202610153896674620.html",
-          "publishedAt": "2026-10-15T05:03:00.000Z",
-          "source": "东方财富 · 东方财富Choice数据",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "A股大盘半日跌近2％，失守3700点！超5000只个股飘绿",
-          "summary": "【大河财立方消息】10月15日，上证指数午盘跌1.98%，深证成指跌2.78％，创业板指跌3.42%，科创综指跌3.1…",
-          "url": "https://finance.eastmoney.com/a/202610153896665767.html",
-          "publishedAt": "2026-10-15T03:31:00.000Z",
+          "title": "午后大盘跌超2％！科创综指、创业板指均跌超3％",
+          "summary": "10月15日午后，指数持续走弱，沪指下挫跌逾2.1%，现报3688.07点，深成指跌2.84%，科创综指、创业板指均跌…",
+          "url": "https://finance.eastmoney.com/a/202610153896717036.html",
+          "publishedAt": "2026-10-15T05:12:00.000Z",
           "source": "东方财富 · 大河财立方",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
@@ -498,11 +520,11 @@
         {
           "category": "金融",
           "topic": "A股",
-          "title": "羲禾科技科创板IPO过会：募资额降至18.3亿元 第一大客户销售占比超55%",
-          "summary": "10月14日，据上交所最新披露的信息，上海羲禾科技股份有限公司（下称“羲禾科技”）科创板IPO获得上市委会议通过。",
-          "url": "https://finance.eastmoney.com/a/202610153896669193.html",
-          "publishedAt": "2026-10-15T04:51:00.000Z",
-          "source": "东方财富 · 澎湃新闻",
+          "title": "沪指跌逾2% 科创50、创业板指均跌超3%",
+          "summary": "指数持续走弱，沪指下挫跌逾2.00%，深成指跌2.54%，科创50、创业板指均跌超3%。算力硬件、半导体芯片、煤炭、油…",
+          "url": "https://finance.eastmoney.com/a/202610153896709324.html",
+          "publishedAt": "2026-10-15T05:11:00.000Z",
+          "source": "东方财富 · 财联社",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         }
@@ -513,8 +535,8 @@
       "name": "东方财富 · 中国期货",
       "url": "https://futures.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-15T05:17:27.471Z",
-      "lastSuccess": "2026-10-15T05:17:27.471Z",
+      "lastAttempt": "2026-10-15T05:54:13.640Z",
+      "lastSuccess": "2026-10-15T05:54:13.640Z",
       "items": [
         {
           "category": "金融",
@@ -556,8 +578,8 @@
       "name": "东方财富 · 宏观财经",
       "url": "https://finance.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-15T05:17:27.471Z",
-      "lastSuccess": "2026-10-15T05:17:27.471Z",
+      "lastAttempt": "2026-10-15T05:54:13.640Z",
+      "lastSuccess": "2026-10-15T05:54:13.640Z",
       "items": [
         {
           "category": "金融",
@@ -606,33 +628,22 @@
         {
           "category": "金融",
           "topic": "宏观财经",
+          "title": "美国9月通胀超预期，本月加息稳了？",
+          "summary": "美国劳工统计局周三发布的数据显示，9月消费者价格指数（CPI）环比上涨0.6%，涨幅比上月扩大0.2个百分点；剔除食品…",
+          "url": "https://finance.eastmoney.com/a/202610153896761089.html",
+          "publishedAt": "2026-10-15T03:11:00.000Z",
+          "source": "东方财富 · 界面新闻",
+          "kind": "报道",
+          "sourceId": "eastmoney-macro"
+        },
+        {
+          "category": "金融",
+          "topic": "宏观财经",
           "title": "郭施亮：美联储10月加息概率飙升，新一轮加息周期如何影响A股？",
           "summary": "美国最新CPI、核心CPI数据超出市场预期，通胀压力仍未见明显缓解。其中，汽油价格持续上涨，成为推高美国通胀的主要因素…",
           "url": "https://finance.eastmoney.com/a/202610153896623774.html",
           "publishedAt": "2026-10-15T02:21:00.000Z",
           "source": "东方财富 · 大河财立方",
-          "kind": "报道",
-          "sourceId": "eastmoney-macro"
-        },
-        {
-          "category": "金融",
-          "topic": "宏观财经",
-          "title": "21社论丨9月外贸超预期高增，AI成出口主力",
-          "summary": "今年9月，外贸继续保持快速增长态势。根据海关总署数据，9月按美元计出口同比增长36.3%，进口同比增长31%，均较上月…",
-          "url": "https://finance.eastmoney.com/a/202610153895912065.html",
-          "publishedAt": "2026-10-14T23:01:00.000Z",
-          "source": "东方财富 · 21世纪经济报道",
-          "kind": "报道",
-          "sourceId": "eastmoney-macro"
-        },
-        {
-          "category": "金融",
-          "topic": "宏观财经",
-          "title": "欧洲央行行长候选人诺特：供给冲击频发 政策或需偏向鹰派",
-          "summary": "新华财经北京10月15日电接替欧洲央行行长克里斯蒂娜·拉加德（Christine Lagarde）职位的候选人之一克拉…",
-          "url": "https://finance.eastmoney.com/a/202610153896663933.html",
-          "publishedAt": "2026-10-15T04:06:00.000Z",
-          "source": "东方财富 · 新华财经",
           "kind": "报道",
           "sourceId": "eastmoney-macro"
         },
@@ -679,17 +690,6 @@
           "source": "东方财富 · 央行网站",
           "kind": "报道",
           "sourceId": "eastmoney-macro"
-        },
-        {
-          "category": "金融",
-          "topic": "宏观财经",
-          "title": "IMF总裁警告贝森特：仅靠经济增长难解美国债务困局",
-          "summary": "当地时间周三（10月14日），国际货币基金组织（IMF）总裁格奥尔基耶娃敦促美国财政部长贝森特削减财政赤字，并警告称，…",
-          "url": "https://finance.eastmoney.com/a/202610143895754671.html",
-          "publishedAt": "2026-10-14T13:52:00.000Z",
-          "source": "东方财富 · 财联社",
-          "kind": "报道",
-          "sourceId": "eastmoney-macro"
         }
       ]
     },
@@ -698,8 +698,8 @@
       "name": "新浪财经 · 美股",
       "url": "https://finance.sina.com.cn/stock/usstock/",
       "status": "ok",
-      "lastAttempt": "2026-10-15T05:17:27.471Z",
-      "lastSuccess": "2026-10-15T05:17:27.471Z",
+      "lastAttempt": "2026-10-15T05:54:13.640Z",
+      "lastSuccess": "2026-10-15T05:54:13.640Z",
       "items": [
         {
           "title": "英伟达支持的AI药企Iambic通过美国IPO筹资1.5亿美元",
@@ -744,17 +744,6 @@
           "topic": "美股",
           "sourceId": "us-stock",
           "kind": "报道"
-        },
-        {
-          "title": "美国股指期货亚洲早盘下跌 CPI数据超预期加剧美联储加息担忧",
-          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivhawy1229020.shtml",
-          "summary": "继隔夜美股大盘重挫后，美国股指期货周四亚洲早盘继续下跌，此前公布的9月CPI数据高于预期，加剧了市场对于美联储进一步加…",
-          "source": "环球市场播报 · 新浪财经",
-          "publishedAt": "2026-10-14T23:19:26.000Z",
-          "category": "金融",
-          "topic": "美股",
-          "sourceId": "us-stock",
-          "kind": "报道"
         }
       ]
     },
@@ -763,9 +752,20 @@
       "name": "新浪财经 · A股",
       "url": "https://finance.sina.com.cn/stock/",
       "status": "ok",
-      "lastAttempt": "2026-10-15T05:17:27.471Z",
-      "lastSuccess": "2026-10-15T05:17:27.471Z",
+      "lastAttempt": "2026-10-15T05:54:13.640Z",
+      "lastSuccess": "2026-10-15T05:54:13.640Z",
       "items": [
+        {
+          "title": "15%收益率戳破AI云商的无限资金美梦 韩国在全球科技股下跌中首当其冲",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivhtuq4540604.shtml",
+          "summary": "全球半导体股票抛售潮促使韩国股市基准指数一度下跌逾8%，凸显了投资者撤离AI交易高泡沫领域的力度。 对美联储加息和AI…",
+          "source": "环球市场播报 · 新浪财经",
+          "publishedAt": "2026-10-15T05:18:58.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock",
+          "kind": "报道"
+        },
         {
           "title": "多家机构调整阿斯麦目标价",
           "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivhtui7329466.shtml",
@@ -794,6 +794,17 @@
           "summary": "花旗发布研报称，开启对农业银行（01288）的30天正面催化剂观察，因其强劲的第三季业绩有望超预期，盈利增速有望加速至…",
           "source": "新浪港股 · 新浪财经",
           "publishedAt": "2026-10-15T04:40:59.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock",
+          "kind": "报道"
+        },
+        {
+          "title": "纽银梅隆(BK.US)代币化美债回购：技术炫技还是业务刚需？",
+          "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-15/doc-inivhpns4648247.shtml",
+          "summary": "据 Woofun AI 消息，纽约梅隆（BK.US）在 Tradeweb（TW.US） 平台完成首例基于代币化抵押品的…",
+          "source": "智通财经APP · 新浪财经",
+          "publishedAt": "2026-10-15T04:38:35.000Z",
           "category": "金融",
           "topic": "A股",
           "sourceId": "cn-stock",
@@ -894,9 +905,20 @@
       "name": "新浪财经 · 期货订阅 1",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-10-15T05:17:27.471Z",
-      "lastSuccess": "2026-10-15T05:17:27.471Z",
+      "lastAttempt": "2026-10-15T05:54:13.640Z",
+      "lastSuccess": "2026-10-15T05:54:13.640Z",
       "items": [
+        {
+          "title": "国泰君安：沪锡盘中跌破了37万关口",
+          "url": "https://finance.sina.com.cn/money/nmetal/gjshz/2026-10-15/doc-inivhtui7352260.shtml",
+          "summary": "国泰君安期货市场分析师 张驰宁 Z0020302 刚进入四季度，沪锡几乎没给多头喘息的机会，主力合约从40万上方一路走…",
+          "source": "市场资讯 · 新浪财经",
+          "publishedAt": "2026-10-15T05:46:09.000Z",
+          "category": "金融",
+          "topic": "中国期货",
+          "sourceId": "futures-1",
+          "kind": "报道"
+        },
         {
           "title": "中信建投期货：10月15日黑色系早报",
           "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-15/doc-inivhiew1356235.shtml",
@@ -918,7 +940,17 @@
           "topic": "中国期货",
           "sourceId": "futures-1",
           "kind": "报道"
-        },
+        }
+      ]
+    },
+    {
+      "id": "futures-2",
+      "name": "新浪财经 · 期货订阅 2",
+      "url": "https://finance.sina.com.cn/",
+      "status": "ok",
+      "lastAttempt": "2026-10-15T05:54:13.640Z",
+      "lastSuccess": "2026-10-15T05:54:13.640Z",
+      "items": [
         {
           "title": "光大期货农产品类日报10.15",
           "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-15/doc-inivhiep7454011.shtml",
@@ -927,7 +959,7 @@
           "publishedAt": "2026-10-15T02:27:21.000Z",
           "category": "金融",
           "topic": "中国期货",
-          "sourceId": "futures-1",
+          "sourceId": "futures-2",
           "kind": "报道"
         },
         {
@@ -938,19 +970,9 @@
           "publishedAt": "2026-10-15T02:25:56.000Z",
           "category": "金融",
           "topic": "中国期货",
-          "sourceId": "futures-1",
+          "sourceId": "futures-2",
           "kind": "报道"
-        }
-      ]
-    },
-    {
-      "id": "futures-2",
-      "name": "新浪财经 · 期货订阅 2",
-      "url": "https://finance.sina.com.cn/",
-      "status": "ok",
-      "lastAttempt": "2026-10-15T05:17:27.471Z",
-      "lastSuccess": "2026-10-15T05:17:27.471Z",
-      "items": [
+        },
         {
           "title": "2026年9月全国期货市场交易情况：成交量同比增长53.9%",
           "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-15/doc-inivhiew1307378.shtml",
@@ -980,8 +1002,8 @@
       "name": "新浪财经 · 期货订阅 3",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-10-15T05:17:27.471Z",
-      "lastSuccess": "2026-10-15T05:17:27.471Z",
+      "lastAttempt": "2026-10-15T05:54:13.640Z",
+      "lastSuccess": "2026-10-15T05:54:13.640Z",
       "items": [
         {
           "title": "【沥燃日报】成本端回落高硫逆袭走强，BU-FU价差缩至历史低位",
@@ -1001,8 +1023,8 @@
       "name": "中新网 · 国际",
       "url": "https://www.chinanews.com.cn/rss/world.xml",
       "status": "ok",
-      "lastAttempt": "2026-10-15T05:17:27.471Z",
-      "lastSuccess": "2026-10-15T05:17:27.471Z",
+      "lastAttempt": "2026-10-15T05:54:13.640Z",
+      "lastSuccess": "2026-10-15T05:54:13.640Z",
       "items": [
         {
           "title": "美官员称美方考虑对伊朗使用“炸弹之母”",
@@ -1051,9 +1073,29 @@
       "name": "中新网 · 国内",
       "url": "https://www.chinanews.com.cn/rss/china.xml",
       "status": "ok",
-      "lastAttempt": "2026-10-15T05:17:27.471Z",
-      "lastSuccess": "2026-10-15T05:17:27.471Z",
+      "lastAttempt": "2026-10-15T05:54:13.640Z",
+      "lastSuccess": "2026-10-15T05:54:13.640Z",
       "items": [
+        {
+          "title": "李强在中朝新鸭绿江大桥开通仪式上发表视频致辞",
+          "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714934.shtml",
+          "summary": "中新社北京10月15日电 中国国务院总理李强10月15日在中朝新鸭绿江大桥开通仪式上发表视频致辞。",
+          "publishedAt": "2026-10-15T05:38:03.000Z",
+          "category": "政治",
+          "topic": "中国",
+          "source": "中国新闻网",
+          "sourceId": "cn-politics"
+        },
+        {
+          "title": "李强在中朝新鸭绿江大桥开通仪式上发表视频致辞",
+          "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714904.shtml",
+          "summary": "10月15日，国务院总理李强在中朝新鸭绿江大桥开通仪式上发表视频致辞。 新华社记者 黄敬文 摄 新华社北京10月15日…",
+          "publishedAt": "2026-10-15T05:21:45.000Z",
+          "category": "政治",
+          "topic": "中国",
+          "source": "中国新闻网",
+          "sourceId": "cn-politics"
+        },
         {
           "title": "青海省果洛州政府原党组成员、副州长西热被查",
           "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714884.shtml",
@@ -1083,16 +1125,6 @@
           "topic": "中国",
           "source": "中国新闻网",
           "sourceId": "cn-politics"
-        },
-        {
-          "title": "李强在第140届中国进出口商品交易会开幕式上的主旨演讲（全文）",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714723.shtml",
-          "summary": "新华社广州10月14日电",
-          "publishedAt": "2026-10-14T13:58:44.000Z",
-          "category": "政治",
-          "topic": "中国",
-          "source": "中国新闻网",
-          "sourceId": "cn-politics"
         }
       ]
     },
@@ -1101,8 +1133,8 @@
       "name": "AI HOT",
       "url": "https://aihot.news/",
       "status": "ok",
-      "lastAttempt": "2026-10-15T05:17:27.471Z",
-      "lastSuccess": "2026-10-15T05:17:27.471Z",
+      "lastAttempt": "2026-10-15T05:54:13.640Z",
+      "lastSuccess": "2026-10-15T05:54:13.640Z",
       "items": [
         {
           "category": "AI",
@@ -1259,7 +1291,7 @@
       "summary": "在14日的发布会上，海关总署介绍了我国第一大外贸主体——民营企业的外贸运行情况。外贸产业结构加速向“新赛道”“高赛道”…",
       "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%96%B0%E4%B8%89%E6%A0%B7%E2%80%9D%E4%BA%A7%E5%93%81%E5%87%BA%E5%8F%A3%E5%A2%9E%E9%95%BF43.6%25&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-15T05:17:27.471Z",
+      "publishedAt": "2026-10-15T05:54:13.640Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1272,7 +1304,7 @@
       "summary": "10月15日，福州撞脸陈小春工人视频拍摄者发声，称因视频走红给处于上市关键期的企业带来压力，已主动离职。此前10月14…",
       "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E6%92%9E%E8%84%B8%E9%99%88%E5%B0%8F%E6%98%A5+%E6%8B%8D%E6%91%84%E8%80%85%E5%B7%B2%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-15T05:17:27.471Z",
+      "publishedAt": "2026-10-15T05:54:13.640Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1281,11 +1313,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "女硕士大厂辞职当老师 月薪降至9千",
-      "summary": "拥有人大本科、香港中文大学硕士学历的罗颖（化名），曾在北京媒体与大厂工作，年薪达20万元。32岁时，她选择辞职返回合肥…",
-      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%A1%95%E5%A3%AB%E5%A4%A7%E5%8E%82%E8%BE%9E%E8%81%8C%E5%BD%93%E8%80%81%E5%B8%88+%E6%9C%88%E8%96%AA%E9%99%8D%E8%87%B39%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "创业板指跌逾4%",
+      "summary": "10月15日，指数持续走弱，创业板指下挫跌逾4.00%，沪指跌2.42%，深成指跌3.28%。算力硬件、半导体芯片、煤…",
+      "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E8%B7%8C%E9%80%BE4%25&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-15T05:17:27.471Z",
+      "publishedAt": "2026-10-15T05:54:13.640Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1294,11 +1326,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "水果罐头为啥不“甜”了",
-      "summary": "截至2025年，水果罐头行业面临市场萎缩困境。起因是冷链物流成熟、鲜果供应充足，且消费者减糖控糖成主流趋势，被贴“高糖…",
-      "url": "https://www.baidu.com/s?wd=%E6%B0%B4%E6%9E%9C%E7%BD%90%E5%A4%B4%E4%B8%BA%E5%95%A5%E4%B8%8D%E2%80%9C%E7%94%9C%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "全球股市大跌原因找到了",
+      "summary": "10月15日，受美股科技股暴跌影响，日韩股市跟随大跌。数据显示，日经225指数期货跌幅达4.81%。同时，金银价格亦出…",
+      "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-15T05:17:27.471Z",
+      "publishedAt": "2026-10-15T05:54:13.640Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1307,11 +1339,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "圆通总裁潘水苗出任影视飓风董事长",
-      "summary": "10月15日，头部影视内容创作团队“影视飓风”运营主体公司杭州星奥传媒有限公司于近日发生工商变更，圆通速递（60023…",
-      "url": "https://www.baidu.com/s?wd=%E5%9C%86%E9%80%9A%E6%80%BB%E8%A3%81%E6%BD%98%E6%B0%B4%E8%8B%97%E5%87%BA%E4%BB%BB%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E8%91%A3%E4%BA%8B%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "女硕士大厂辞职当老师 月薪降至9千",
+      "summary": "拥有人大本科、香港中文大学硕士学历的罗颖（化名），曾在北京媒体与大厂工作，年薪达20万元。32岁时，她选择辞职返回合肥…",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%A1%95%E5%A3%AB%E5%A4%A7%E5%8E%82%E8%BE%9E%E8%81%8C%E5%BD%93%E8%80%81%E5%B8%88+%E6%9C%88%E8%96%AA%E9%99%8D%E8%87%B39%E5%8D%83&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-15T05:17:27.471Z",
+      "publishedAt": "2026-10-15T05:54:13.640Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1324,7 +1356,7 @@
       "summary": "10月11日，在南宁飞往杭州的四川航空航班上，因婴儿哭闹不止且独自带娃的阿姨腾不出手，两名空姐轮流将孩子抱在怀里轻晃安…",
       "url": "https://www.baidu.com/s?wd=%E5%A9%B4%E5%84%BF%E9%A3%9E%E6%9C%BA%E4%B8%8A%E5%85%A8%E7%A8%8B%E5%93%AD%E9%97%B9+%E4%B9%98%E5%AE%A2%E6%97%A0%E4%B8%80%E4%BA%BA%E6%8A%B1%E6%80%A8&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-15T05:17:27.471Z",
+      "publishedAt": "2026-10-15T05:54:13.640Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1364,6 +1396,28 @@
       "number": 9
     },
     {
+      "title": "基恩：利马居然说上赛季曼联很棒，说出这种话要被罚两周薪水",
+      "url": "https://www.163.com/dy/article/L99LUN6R0549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-10-15T05:46:38.000Z",
+      "category": "体育",
+      "topic": "英超",
+      "sourceId": "sports",
+      "summary": "罗伊‑基恩在节目《The Overlap》中点评利桑德罗‑马丁内斯赛后公开抨击曼联高层一事，他重点针对利马“上赛季我们…",
+      "number": 10
+    },
+    {
+      "title": "认同利马，斯科尔斯：曼联拿不下最顶尖球员，就该问责高层",
+      "url": "https://www.163.com/dy/article/L99K3EQ30549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-10-15T05:14:17.000Z",
+      "category": "体育",
+      "topic": "英超",
+      "sourceId": "sports",
+      "summary": "前球员保罗‑斯科尔斯与尼基‑巴特认同利桑德罗‑马丁内斯对曼联董事会以及威尔科克斯的看法，曼联拿不下最顶尖球员，就该问责…",
+      "number": 11
+    },
+    {
       "title": "对阵曼城传射建功，杜埃发文：感觉太棒了！",
       "url": "https://www.163.com/dy/article/L99JHGVE0549BAP0.html",
       "source": "懂球帝 · 网易体育",
@@ -1372,29 +1426,18 @@
       "topic": "英超",
       "sourceId": "sports",
       "summary": "北京时间10月15日，本赛季欧冠联赛阶段第2轮比赛，巴黎圣日耳曼客场4-2战胜曼城。赛后，本场比赛表现出色的巴黎攻击手…",
-      "number": 10
-    },
-    {
-      "title": "100秒连丢两球，8连胜的曼城溃败，都怪指控？",
-      "url": "https://www.163.com/dy/article/L99JGQ4C0514R9P4.html",
-      "source": "澎湃新闻 · 网易体育",
-      "publishedAt": "2026-10-15T05:04:06.000Z",
-      "category": "体育",
-      "topic": "英超",
-      "sourceId": "sports",
-      "summary": "与全世界为敌，或许可以赢在一时，却永远无法赢下一世。",
-      "number": 11
-    },
-    {
-      "title": "阿什拉夫：战胜曼城很美妙；努诺-门德斯是世界最佳边后卫",
-      "url": "https://www.163.com/dy/article/L99H21QR0549BAP0.html",
-      "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-10-15T04:21:05.000Z",
-      "category": "体育",
-      "topic": "英超",
-      "sourceId": "sports",
-      "summary": "在欧冠联赛阶段第二轮客场击败曼城后，巴黎后卫阿什拉夫接受了TNT体育的采访。",
       "number": 12
+    },
+    {
+      "title": "从1比3到4比3！皇马逆转罗马，但穆里尼奥的麻烦才刚开始",
+      "url": "https://www.163.com/dy/article/L99LF2JK0514R9P4.html",
+      "source": "澎湃新闻 · 网易体育",
+      "publishedAt": "2026-10-15T05:38:06.000Z",
+      "category": "体育",
+      "topic": "西甲",
+      "sourceId": "sports",
+      "summary": "“你永远不能认定皇马已经出局。”皇马与罗马的赛后，居莱尔在ins上写下了这么一句话。",
+      "number": 13
     },
     {
       "title": "日本组合成员：M!LK头像登上诺坎普广告牌；巴萨会拿欧冠冠军",
@@ -1405,7 +1448,7 @@
       "topic": "西甲",
       "sourceId": "sports",
       "summary": "“感谢戈登打入首球！在弗里克的带领下，我相信巴萨一定会夺得欧冠冠军！！！！！今后我也会继续支持你们。”",
-      "number": 13
+      "number": 14
     },
     {
       "title": "替补出场闪耀全场！居莱尔31分钟2次助攻策动1球助皇马逆转",
@@ -1416,17 +1459,6 @@
       "topic": "西甲",
       "sourceId": "sports",
       "summary": "北京时间10月15日，欧冠联赛第二轮，皇家马德里客场4-3逆转罗马。比赛中，土耳其中场居莱尔替补登场发挥出色，送出两次…",
-      "number": 14
-    },
-    {
-      "title": "每体：哈姆扎首要目标是出场，不介意回巴萨B队练级",
-      "url": "https://www.163.com/dy/article/L9977A140549BAP0.html",
-      "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-10-15T01:29:11.000Z",
-      "category": "体育",
-      "topic": "西甲",
-      "sourceId": "sports",
-      "summary": "每日体育报报道，哈姆扎发现自己很难在巴塞罗那一线队获得上场时间，因为在弗里克的顺位中，拉菲尼亚、热苏斯、戈登和奥尔莫都…",
       "number": 15
     },
     {
@@ -1601,25 +1633,25 @@
       "number": 30
     },
     {
-      "title": "多家机构调整阿斯麦目标价",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivhtui7329466.shtml",
-      "summary": "花旗集团将阿斯麦控股目标股价从2200欧元上调至2300欧元；汇丰将阿斯麦控股目标股价从2177欧元上调至2261欧元…",
-      "source": "环球市场播报 · 新浪财经",
-      "publishedAt": "2026-10-15T05:16:04.000Z",
       "category": "金融",
       "topic": "A股",
-      "sourceId": "cn-stock",
+      "title": "台积电第三季度净利润7,631亿元新台币",
+      "summary": "南方财经10月15日电，台积电第三季度净利润7,631亿元新台币，预估7,394.9亿元新台币。",
+      "url": "https://finance.eastmoney.com/a/202610153896760190.html",
+      "publishedAt": "2026-10-15T05:33:00.000Z",
+      "source": "东方财富 · 南方财经网",
       "kind": "报道",
+      "sourceId": "eastmoney-cn-stock",
       "number": 31
     },
     {
       "category": "金融",
       "topic": "A股",
-      "title": "曾毓群，现场捐赠超4亿元股票",
-      "summary": "10月15日，在2026世界储能大会开幕式上，宁德时代董事长曾毓群向上海交通大学宁德高等研究院捐赠150万股宁德时代股…",
-      "url": "https://finance.eastmoney.com/a/202610153896695464.html",
-      "publishedAt": "2026-10-15T05:11:00.000Z",
-      "source": "东方财富 · 上海证券报",
+      "title": "上证面对面 | 新华资产总裁陈一江：把握“时代资产”机遇 将长期资本优势转化为耐心资本功能",
+      "summary": "中共中央、国务院日前印发《关于发展新质生产力的意见》，明确提出大力推进科技创新。作为支持科技创新的重要耐心资本，保险资…",
+      "url": "https://finance.eastmoney.com/a/202610153896756941.html",
+      "publishedAt": "2026-10-15T05:31:00.000Z",
+      "source": "东方财富 · 上海证券报·中国证券网",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
       "number": 32
@@ -1627,11 +1659,11 @@
     {
       "category": "金融",
       "topic": "A股",
-      "title": "沪指午后跌超2% 全市场超5000只个股下跌",
-      "summary": "沪指午后跌超2%，深成指跌超2.5%，创业板指跌超3%。煤炭、油气开采及服务、港口航运板块跌幅居前。全市场超5000只…",
-      "url": "https://finance.eastmoney.com/a/202610153896680942.html",
-      "publishedAt": "2026-10-15T05:06:00.000Z",
-      "source": "东方财富 · 东方财富Choice数据",
+      "title": "创业板指跌幅扩大至4%",
+      "summary": "创业板指跌幅扩大至4%，沪指跌2.42%，深证成指跌3.28%。两市下跌个股超4800只。",
+      "url": "https://finance.eastmoney.com/a/202610153896759556.html",
+      "publishedAt": "2026-10-15T05:31:00.000Z",
+      "source": "东方财富 · 第一财经",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
       "number": 33
@@ -1639,11 +1671,11 @@
     {
       "category": "金融",
       "topic": "A股",
-      "title": "沪深两市成交额突破1万亿元 较上一个交易日此时放量超1300亿元",
-      "summary": "沪深两市成交额突破1万亿元，较上一个交易日此时放量超1300亿元。",
-      "url": "https://finance.eastmoney.com/a/202610153896674620.html",
-      "publishedAt": "2026-10-15T05:03:00.000Z",
-      "source": "东方财富 · 东方财富Choice数据",
+      "title": "台积电第三季度净利润7631亿元台币 预估7,394.9亿元台币",
+      "summary": "台积电第三季度净利润7,631亿元台币，预估7,394.9亿元台币。",
+      "url": "https://finance.eastmoney.com/a/202610153896754587.html",
+      "publishedAt": "2026-10-15T05:30:00.000Z",
+      "source": "东方财富 · 财联社",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
       "number": 34
@@ -1651,26 +1683,38 @@
     {
       "category": "金融",
       "topic": "A股",
-      "title": "羲禾科技科创板IPO过会：募资额降至18.3亿元 第一大客户销售占比超55%",
-      "summary": "10月14日，据上交所最新披露的信息，上海羲禾科技股份有限公司（下称“羲禾科技”）科创板IPO获得上市委会议通过。",
-      "url": "https://finance.eastmoney.com/a/202610153896669193.html",
-      "publishedAt": "2026-10-15T04:51:00.000Z",
-      "source": "东方财富 · 澎湃新闻",
+      "title": "创业板指午后跌超4%刷新年内新低",
+      "summary": "A股指数持续走弱，创业板指午后跌超4%刷新年内新低，科创50指数现跌近4%。",
+      "url": "https://finance.eastmoney.com/a/202610153896759657.html",
+      "publishedAt": "2026-10-15T05:29:00.000Z",
+      "source": "东方财富 · 界面新闻",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
       "number": 35
     },
     {
-      "title": "名创优品于10月14日斥资约21.43万美元回购约8.38万股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-15/doc-inivhpns4640233.shtml",
-      "summary": "名创优品（09896）发布公告，于2026年10月14日该公司斥资约21.43万美元回购约8.38万股，回购价格为每股…",
-      "source": "新浪港股 · 新浪财经",
-      "publishedAt": "2026-10-15T04:48:00.000Z",
       "category": "金融",
       "topic": "A股",
-      "sourceId": "cn-stock",
+      "title": "双创指数持续走弱 创业板指午后跌超4%",
+      "summary": "双创指数持续走弱，创业板指午后跌超4%刷新年内新低，科创50指数现跌近4%。",
+      "url": "https://finance.eastmoney.com/a/202610153896748610.html",
+      "publishedAt": "2026-10-15T05:28:00.000Z",
+      "source": "东方财富 · 东方财富Choice数据",
       "kind": "报道",
+      "sourceId": "eastmoney-cn-stock",
       "number": 36
+    },
+    {
+      "title": "国泰君安：沪锡盘中跌破了37万关口",
+      "url": "https://finance.sina.com.cn/money/nmetal/gjshz/2026-10-15/doc-inivhtui7352260.shtml",
+      "summary": "国泰君安期货市场分析师 张驰宁 Z0020302 刚进入四季度，沪锡几乎没给多头喘息的机会，主力合约从40万上方一路走…",
+      "source": "市场资讯 · 新浪财经",
+      "publishedAt": "2026-10-15T05:46:09.000Z",
+      "category": "金融",
+      "topic": "中国期货",
+      "sourceId": "futures-1",
+      "kind": "报道",
+      "number": 37
     },
     {
       "category": "金融",
@@ -1682,7 +1726,7 @@
       "source": "东方财富 · 期货日报",
       "kind": "报道",
       "sourceId": "eastmoney-futures",
-      "number": 37
+      "number": 38
     },
     {
       "category": "金融",
@@ -1694,7 +1738,7 @@
       "source": "东方财富 · 东方财富研究中心",
       "kind": "报道",
       "sourceId": "eastmoney-futures",
-      "number": 38
+      "number": 39
     },
     {
       "title": "中信建投期货：10月15日黑色系早报",
@@ -1706,7 +1750,7 @@
       "topic": "中国期货",
       "sourceId": "futures-1",
       "kind": "报道",
-      "number": 39
+      "number": 40
     },
     {
       "title": "光大期货有色金属类日报10.15",
@@ -1718,7 +1762,7 @@
       "topic": "中国期货",
       "sourceId": "futures-1",
       "kind": "报道",
-      "number": 40
+      "number": 41
     },
     {
       "title": "光大期货农产品类日报10.15",
@@ -1728,33 +1772,9 @@
       "publishedAt": "2026-10-15T02:27:21.000Z",
       "category": "金融",
       "topic": "中国期货",
-      "sourceId": "futures-1",
-      "kind": "报道",
-      "number": 41
-    },
-    {
-      "title": "光大期货矿钢煤焦类日报10.15",
-      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-15/doc-inivhier8183903.shtml",
-      "summary": "螺纹钢： （邱跃成，从业资格号：F3046854；交易咨询资格号：Z0016941） 昨日螺纹盘面震荡下跌，截至日盘螺…",
-      "source": "市场资讯 · 新浪财经",
-      "publishedAt": "2026-10-15T02:25:56.000Z",
-      "category": "金融",
-      "topic": "中国期货",
-      "sourceId": "futures-1",
+      "sourceId": "futures-2",
       "kind": "报道",
       "number": 42
-    },
-    {
-      "category": "金融",
-      "topic": "宏观财经",
-      "title": "欧洲央行行长候选人诺特：供给冲击频发 政策或需偏向鹰派",
-      "summary": "新华财经北京10月15日电接替欧洲央行行长克里斯蒂娜·拉加德（Christine Lagarde）职位的候选人之一克拉…",
-      "url": "https://finance.eastmoney.com/a/202610153896663933.html",
-      "publishedAt": "2026-10-15T04:06:00.000Z",
-      "source": "东方财富 · 新华财经",
-      "kind": "报道",
-      "sourceId": "eastmoney-macro",
-      "number": 43
     },
     {
       "category": "金融",
@@ -1765,6 +1785,18 @@
       "publishedAt": "2026-10-15T03:18:00.000Z",
       "source": "东方财富 · 财联社",
       "kind": "观点",
+      "sourceId": "eastmoney-macro",
+      "number": 43
+    },
+    {
+      "category": "金融",
+      "topic": "宏观财经",
+      "title": "美国9月通胀超预期，本月加息稳了？",
+      "summary": "美国劳工统计局周三发布的数据显示，9月消费者价格指数（CPI）环比上涨0.6%，涨幅比上月扩大0.2个百分点；剔除食品…",
+      "url": "https://finance.eastmoney.com/a/202610153896761089.html",
+      "publishedAt": "2026-10-15T03:11:00.000Z",
+      "source": "东方财富 · 界面新闻",
+      "kind": "报道",
       "sourceId": "eastmoney-macro",
       "number": 44
     },
@@ -1861,6 +1893,17 @@
       "number": 52
     },
     {
+      "title": "李强在中朝新鸭绿江大桥开通仪式上发表视频致辞",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714934.shtml",
+      "summary": "中新社北京10月15日电 中国国务院总理李强10月15日在中朝新鸭绿江大桥开通仪式上发表视频致辞。",
+      "publishedAt": "2026-10-15T05:38:03.000Z",
+      "category": "政治",
+      "topic": "中国",
+      "source": "中国新闻网",
+      "sourceId": "cn-politics",
+      "number": 53
+    },
+    {
       "title": "青海省果洛州政府原党组成员、副州长西热被查",
       "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714884.shtml",
       "summary": "中新网10月15日电 据青海省纪委监委消息：青海省果洛州政府原党组成员、副州长西热涉嫌严重违纪违法，主动投案，目前正接…",
@@ -1869,7 +1912,7 @@
       "topic": "中国",
       "source": "中国新闻网",
       "sourceId": "cn-politics",
-      "number": 53
+      "number": 54
     },
     {
       "title": "外交部组织驻华使节赴宁夏参访",
@@ -1880,24 +1923,13 @@
       "topic": "中国",
       "source": "中国新闻网",
       "sourceId": "cn-politics",
-      "number": 54
+      "number": 55
     },
     {
       "title": "第一观察 | 习近平主席向广交会致贺信传递高水平开放强音",
       "url": "https://www.chinanews.com.cn/gn/2026/10-15/10714777.shtml",
       "summary": "“十五五”开局之年，被誉为“中国第一展”的中国进出口商品交易会迎来创办70周年。",
       "publishedAt": "2026-10-15T01:49:15.000Z",
-      "category": "政治",
-      "topic": "中国",
-      "source": "中国新闻网",
-      "sourceId": "cn-politics",
-      "number": 55
-    },
-    {
-      "title": "李强在第140届中国进出口商品交易会开幕式上的主旨演讲（全文）",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714723.shtml",
-      "summary": "新华社广州10月14日电",
-      "publishedAt": "2026-10-14T13:58:44.000Z",
       "category": "政治",
       "topic": "中国",
       "source": "中国新闻网",
