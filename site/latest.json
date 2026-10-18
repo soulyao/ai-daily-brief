@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-10-18T05:10:57.757Z",
+  "collectedAt": "2026-10-18T05:53:41.617Z",
   "topics": {
     "时事": [
       "百度热搜"
@@ -38,8 +38,8 @@
       "name": "百度热搜 · 时事",
       "url": "https://top.baidu.com/board?tab=realtime",
       "status": "ok",
-      "lastAttempt": "2026-10-18T05:10:57.757Z",
-      "lastSuccess": "2026-10-18T05:10:57.757Z",
+      "lastAttempt": "2026-10-18T05:53:41.617Z",
+      "lastSuccess": "2026-10-18T05:53:41.617Z",
       "items": [
         {
           "category": "时事",
@@ -48,7 +48,7 @@
           "summary": "本周，我国在航天、能源、交通等领域捷报频传，从空间探索到工程建设，硬核成果持续“上新”！",
           "url": "https://www.baidu.com/s?wd=%E6%9C%AC%E5%91%A8%E6%88%91%E5%9B%BD%E7%A1%AC%E6%A0%B8%E6%88%90%E6%9E%9C%E5%AF%86%E9%9B%86%E4%B8%8A%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-18T05:10:57.757Z",
+          "publishedAt": "2026-10-18T05:53:41.617Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -60,7 +60,7 @@
           "summary": "近日，河南范女士记录带娃旅行被调侃“世界这本书读了四页全在河南”。10月17日，河南范女士回应“带娃看世界4年没出河南…",
           "url": "https://www.baidu.com/s?wd=%E7%88%B8%E5%A6%88%E5%B8%A6%E5%A8%83%E7%9C%8B%E4%B8%96%E7%95%8C+4%E5%B9%B4%E6%B2%A1%E8%B5%B0%E5%87%BA%E6%B2%B3%E5%8D%97&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-18T05:10:57.757Z",
+          "publishedAt": "2026-10-18T05:53:41.617Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -72,19 +72,7 @@
           "summary": "当地时间10月17日，法国数十万人走上街头，抗议物价上涨和公共服务恶化。随后衍生为大规模骚乱，多个城市的奢侈品门店遭到…",
           "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E5%A4%9A%E5%9C%B0%E5%A5%A2%E4%BE%88%E5%93%81%E9%97%A8%E5%BA%97%E8%A2%AB%E6%B4%97%E5%8A%AB%E4%B8%80%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-18T05:10:57.757Z",
-          "timeLabel": "热搜采集",
-          "linkLabel": "查看相关新闻",
-          "sourceId": "baidu"
-        },
-        {
-          "category": "时事",
-          "topic": "百度热搜",
-          "title": "内部人员代缴采暖费能打折系谣言",
-          "summary": "近日，北京供热企业辟谣提醒：所谓“内部人员代缴采暖费可打折”系骗局，不法人员常以“员工福利”“年底冲量”等幌子诱导居民…",
-          "url": "https://www.baidu.com/s?wd=%E5%86%85%E9%83%A8%E4%BA%BA%E5%91%98%E4%BB%A3%E7%BC%B4%E9%87%87%E6%9A%96%E8%B4%B9%E8%83%BD%E6%89%93%E6%8A%98%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news",
-          "source": "百度热搜",
-          "publishedAt": "2026-10-18T05:10:57.757Z",
+          "publishedAt": "2026-10-18T05:53:41.617Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -96,7 +84,19 @@
           "summary": "来自深圳的王先生是AB型血、太太A型血，刚出生的女儿却是O型血，王先生一度怀疑孩子非亲生。经南方医科大学深圳医院检查发…",
           "url": "https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8AB%E5%9E%8B%E8%A1%80%E5%A6%88%E5%A6%88A%E5%9E%8B%E8%A1%80+%E5%A5%B3%E5%84%BFO%E5%9E%8B%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-18T05:10:57.757Z",
+          "publishedAt": "2026-10-18T05:53:41.617Z",
+          "timeLabel": "热搜采集",
+          "linkLabel": "查看相关新闻",
+          "sourceId": "baidu"
+        },
+        {
+          "category": "时事",
+          "topic": "百度热搜",
+          "title": "内部人员代缴采暖费能打折系谣言",
+          "summary": "近日，北京供热企业辟谣提醒：所谓“内部人员代缴采暖费可打折”系骗局，不法人员常以“员工福利”“年底冲量”等幌子诱导居民…",
+          "url": "https://www.baidu.com/s?wd=%E5%86%85%E9%83%A8%E4%BA%BA%E5%91%98%E4%BB%A3%E7%BC%B4%E9%87%87%E6%9A%96%E8%B4%B9%E8%83%BD%E6%89%93%E6%8A%98%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news",
+          "source": "百度热搜",
+          "publishedAt": "2026-10-18T05:53:41.617Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -108,7 +108,7 @@
           "summary": "近日中部某市一招投标案中，仅登记1名员工、无施工能力的空壳公司竟中标3000万元项目。经查招标程序看似完备，实为内定做…",
           "url": "https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E4%BB%851%E4%BA%BA%E7%9A%84%E7%A9%BA%E5%A3%B3%E5%85%AC%E5%8F%B8%E4%B8%AD%E6%A0%873000%E4%B8%87%E9%A1%B9%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-18T05:10:57.757Z",
+          "publishedAt": "2026-10-18T05:53:41.617Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -120,8 +120,8 @@
       "name": "网易体育（署名媒体）",
       "url": "https://sports.163.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-18T05:10:57.757Z",
-      "lastSuccess": "2026-10-18T05:10:57.757Z",
+      "lastAttempt": "2026-10-18T05:53:41.617Z",
+      "lastSuccess": "2026-10-18T05:53:41.617Z",
       "items": [
         {
           "title": "Stein：步行者裁掉了老将詹姆斯-约翰逊",
@@ -361,7 +361,7 @@
       "name": "东方财富 · 美股",
       "url": "https://stock.eastmoney.com/america.html",
       "status": "error",
-      "lastAttempt": "2026-10-18T05:10:57.757Z",
+      "lastAttempt": "2026-10-18T05:53:41.617Z",
       "lastSuccess": "2026-10-17T22:20:32.058Z",
       "items": [
         {
@@ -415,8 +415,8 @@
       "name": "东方财富 · A股",
       "url": "https://stock.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-18T05:10:57.757Z",
-      "lastSuccess": "2026-10-18T05:10:57.757Z",
+      "lastAttempt": "2026-10-18T05:53:41.617Z",
+      "lastSuccess": "2026-10-18T05:53:41.617Z",
       "items": [
         {
           "category": "金融",
@@ -426,6 +426,17 @@
           "url": "https://finance.eastmoney.com/a/202610183899110241.html",
           "publishedAt": "2026-10-18T03:12:00.000Z",
           "source": "东方财富 · 每日经济新闻",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "自称与特斯拉飞行汽车技术同源！这家商业航天企业背后隐现A股公司",
+          "summary": "北京时间10月16日，特斯拉第二代Roadster在得州SpaceX火箭测试场亮相。",
+          "url": "https://finance.eastmoney.com/a/202610183899117846.html",
+          "publishedAt": "2026-10-18T05:04:00.000Z",
+          "source": "东方财富 · 证券时报",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
@@ -465,28 +476,6 @@
         {
           "category": "金融",
           "topic": "A股",
-          "title": "利好来了！多家半导体龙头出手回购",
-          "summary": "进入10月份，科创板上市公司回购延续9月份活跃态势。",
-          "url": "https://finance.eastmoney.com/a/202610183899109053.html",
-          "publishedAt": "2026-10-18T02:41:00.000Z",
-          "source": "东方财富 · 中新经纬",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "光模块高景气 光迅科技三季度净利润增长超预期 继续押注扩产",
-          "summary": "AI算力高需求下，光模块行业景气上行，光迅科技（002281.SZ）进入高速增长通道。",
-          "url": "https://finance.eastmoney.com/a/202610183899110080.html",
-          "publishedAt": "2026-10-18T02:48:00.000Z",
-          "source": "东方财富 · 界面新闻",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
           "title": "资金大举买入！A股接近阶段性底部？",
           "summary": "本周，A股三大指数大幅震荡，周内上证综指一度下探至3670多点，周五尾盘明显反弹，重回3700点上方。虽然全周三大指数…",
           "url": "https://finance.eastmoney.com/a/202610183899115316.html",
@@ -503,6 +492,50 @@
           "url": "https://finance.eastmoney.com/a/202610183899115855.html",
           "publishedAt": "2026-10-18T04:14:00.000Z",
           "source": "东方财富 · 华金证券",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "下周，苹果产业链“小巨人”来了",
+          "summary": "数据显示，根据目前的发行安排，下周有2只新股可申购，深市主板、北交所各1只。",
+          "url": "https://finance.eastmoney.com/a/202610183899121753.html",
+          "publishedAt": "2026-10-18T05:26:00.000Z",
+          "source": "东方财富 · 中国证券报",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "长鑫科技：预计前三季度扭亏为盈 净利润1310亿至1325亿元",
+          "summary": "上证智讯 10月16日晚间，长鑫科技发布2026年前三季度业绩预告称，公司预计2026年前三季度实现营业收入约2650…",
+          "url": "https://finance.eastmoney.com/a/202610183899119170.html",
+          "publishedAt": "2026-10-18T05:07:00.000Z",
+          "source": "东方财富 · 上海证券报·中国证券网",
+          "kind": "观点",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "胜科纳米：定增募资总额拟由约10.34亿元调减至约10.14亿元",
+          "summary": "上证智讯 10月17日，胜科纳米发布公告称，公司于2026年10月16日召开第二届董事会第十九次会议，审议通过了《关于…",
+          "url": "https://finance.eastmoney.com/a/202610183899119037.html",
+          "publishedAt": "2026-10-18T05:07:00.000Z",
+          "source": "东方财富 · 上海证券报·中国证券网",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "长鑫科技：董事长提议公司10亿元至20亿元回购公司股份",
+          "summary": "上证智讯 10月16日晚间，长鑫科技发布公告称，公司董事会于2026年10月16日收到公司董事长朱一明《关于提议长鑫科…",
+          "url": "https://finance.eastmoney.com/a/202610183899118916.html",
+          "publishedAt": "2026-10-18T05:07:00.000Z",
+          "source": "东方财富 · 上海证券报·中国证券网",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
@@ -560,17 +593,6 @@
           "source": "东方财富 · 经纬科创",
           "kind": "观点",
           "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "600183，预计净利翻倍！A股龙头公司，业绩利好",
-          "summary": "10月16日晚间，多家上市公司披露2026年前三季度业绩预告。其中，包括长鑫科技(688825)在内，多家存储上市公司…",
-          "url": "https://finance.eastmoney.com/a/202610183899106174.html",
-          "publishedAt": "2026-10-18T02:03:00.000Z",
-          "source": "东方财富 · 证券时报网",
-          "kind": "观点",
-          "sourceId": "eastmoney-cn-stock"
         }
       ]
     },
@@ -579,9 +601,20 @@
       "name": "东方财富 · 中国期货",
       "url": "https://futures.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-18T05:10:57.757Z",
-      "lastSuccess": "2026-10-18T05:10:57.757Z",
+      "lastAttempt": "2026-10-18T05:53:41.617Z",
+      "lastSuccess": "2026-10-18T05:53:41.617Z",
       "items": [
+        {
+          "category": "金融",
+          "topic": "中国期货",
+          "title": "白银持仓骤降54% 多头大撤离！重要信号显现？",
+          "summary": "美国商品期货交易委员会发布的最新数据显示，截至10月13日当周，COMEX白银期货投机者持有的净多头头寸已降至5735…",
+          "url": "https://finance.eastmoney.com/a/202610183899120814.html",
+          "publishedAt": "2026-10-18T05:18:00.000Z",
+          "source": "东方财富 · 期货日报",
+          "kind": "报道",
+          "sourceId": "eastmoney-futures"
+        },
         {
           "category": "金融",
           "topic": "中国期货",
@@ -592,17 +625,6 @@
           "source": "东方财富 · 华夏时报",
           "kind": "报道",
           "sourceId": "eastmoney-futures"
-        },
-        {
-          "category": "金融",
-          "topic": "中国期货",
-          "title": "强现实难敌弱预期？如何看待碳酸锂底部信号？",
-          "summary": "本周，碳酸锂期价跌破100000元/吨重要关口。截至10月16日收盘，报96320元/吨，当日下跌4.2%。",
-          "url": "https://finance.eastmoney.com/a/202610173898828395.html",
-          "publishedAt": "2026-10-16T23:45:00.000Z",
-          "source": "东方财富 · 期货日报",
-          "kind": "报道",
-          "sourceId": "eastmoney-futures"
         }
       ]
     },
@@ -611,8 +633,8 @@
       "name": "东方财富 · 宏观财经",
       "url": "https://finance.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-18T05:10:57.757Z",
-      "lastSuccess": "2026-10-18T05:10:57.757Z",
+      "lastAttempt": "2026-10-18T05:53:41.617Z",
+      "lastSuccess": "2026-10-18T05:53:41.617Z",
       "items": [
         {
           "category": "金融",
@@ -628,33 +650,11 @@
         {
           "category": "金融",
           "topic": "宏观财经",
-          "title": "下周关注：9月经济数据将公布 这些投资机会最靠谱",
-          "summary": "10月19日，国家统计局将公布9月工业增加值、固定资产投资、社零等经济数据。同日，国家统计局还将发布70个大中城市商品…",
-          "url": "https://finance.eastmoney.com/a/202610183899101685.html",
-          "publishedAt": "2026-10-18T00:42:00.000Z",
-          "source": "东方财富 · 第一财经",
-          "kind": "报道",
-          "sourceId": "eastmoney-macro"
-        },
-        {
-          "category": "金融",
-          "topic": "宏观财经",
           "title": "欧洲央行行长：欧元区通胀率创新高但不必惊慌",
           "summary": "欧盟统计局当地时间10月16日公布的数据显示，今年9月欧元区通胀率终值为3.8%，高于8月的3.2%，与本月初公布的初…",
           "url": "https://finance.eastmoney.com/a/202610183899117568.html",
           "publishedAt": "2026-10-18T04:56:00.000Z",
           "source": "东方财富 · 界面新闻",
-          "kind": "报道",
-          "sourceId": "eastmoney-macro"
-        },
-        {
-          "category": "金融",
-          "topic": "宏观财经",
-          "title": "央行副行长宣昌能：中国将坚定实施扩大内需战略",
-          "summary": "中新经纬10月18日电据央行微信公众号18日消息，2026年10月14日至17日国际货币基金组织(以下简称“基金组织”…",
-          "url": "https://finance.eastmoney.com/a/202610183899112252.html",
-          "publishedAt": "2026-10-18T03:13:00.000Z",
-          "source": "东方财富 · 中新经纬",
           "kind": "报道",
           "sourceId": "eastmoney-macro"
         },
@@ -679,17 +679,6 @@
           "source": "东方财富 · 数据宝",
           "kind": "报道",
           "sourceId": "eastmoney-macro"
-        },
-        {
-          "category": "金融",
-          "topic": "宏观财经",
-          "title": "人民币汇率延续双向波动格局 市场化程度和政策透明度将继续提高",
-          "summary": "10月16日，在岸、离岸人民币对美元汇率同步上行，人民币对美元汇率中间价保持调升，市场弹性进一步显现。专家认为，当前出…",
-          "url": "https://finance.eastmoney.com/a/202610173898821520.html",
-          "publishedAt": "2026-10-16T23:44:00.000Z",
-          "source": "东方财富 · 中国证券报",
-          "kind": "报道",
-          "sourceId": "eastmoney-macro"
         }
       ]
     },
@@ -698,8 +687,8 @@
       "name": "新浪财经 · 美股",
       "url": "https://finance.sina.com.cn/stock/usstock/",
       "status": "ok",
-      "lastAttempt": "2026-10-18T05:10:57.757Z",
-      "lastSuccess": "2026-10-18T05:10:57.757Z",
+      "lastAttempt": "2026-10-18T05:53:41.617Z",
+      "lastSuccess": "2026-10-18T05:53:41.617Z",
       "items": [
         {
           "title": "特斯拉跑车完成空中特技 引发与SpaceX合并猜想",
@@ -741,8 +730,8 @@
       "name": "新浪财经 · A股",
       "url": "https://finance.sina.com.cn/stock/",
       "status": "ok",
-      "lastAttempt": "2026-10-18T05:10:57.757Z",
-      "lastSuccess": "2026-10-18T05:10:57.757Z",
+      "lastAttempt": "2026-10-18T05:53:41.617Z",
+      "lastSuccess": "2026-10-18T05:53:41.617Z",
       "items": [
         {
           "title": "生益科技，预计净利翻倍！A股龙头公司，业绩利好",
@@ -817,8 +806,8 @@
       "name": "新浪财经 · 期货订阅 1",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-10-18T05:10:57.757Z",
-      "lastSuccess": "2026-10-18T05:10:57.757Z",
+      "lastAttempt": "2026-10-18T05:53:41.617Z",
+      "lastSuccess": "2026-10-18T05:53:41.617Z",
       "items": []
     },
     {
@@ -826,8 +815,8 @@
       "name": "新浪财经 · 期货订阅 2",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-10-18T05:10:57.757Z",
-      "lastSuccess": "2026-10-18T05:10:57.757Z",
+      "lastAttempt": "2026-10-18T05:53:41.617Z",
+      "lastSuccess": "2026-10-18T05:53:41.617Z",
       "items": []
     },
     {
@@ -835,8 +824,8 @@
       "name": "新浪财经 · 期货订阅 3",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-10-18T05:10:57.757Z",
-      "lastSuccess": "2026-10-18T05:10:57.757Z",
+      "lastAttempt": "2026-10-18T05:53:41.617Z",
+      "lastSuccess": "2026-10-18T05:53:41.617Z",
       "items": [
         {
           "title": "央行：支持更多类型境外投资者参与中国金融市场",
@@ -856,8 +845,8 @@
       "name": "中新网 · 国际",
       "url": "https://www.chinanews.com.cn/rss/world.xml",
       "status": "ok",
-      "lastAttempt": "2026-10-18T05:10:57.757Z",
-      "lastSuccess": "2026-10-18T05:10:57.757Z",
+      "lastAttempt": "2026-10-18T05:53:41.617Z",
+      "lastSuccess": "2026-10-18T05:53:41.617Z",
       "items": [
         {
           "title": "上任不到一周遭解雇 扎卡里亚发文：为特朗普工作是一种荣幸",
@@ -896,9 +885,29 @@
       "name": "中新网 · 国内",
       "url": "https://www.chinanews.com.cn/rss/china.xml",
       "status": "ok",
-      "lastAttempt": "2026-10-18T05:10:57.757Z",
-      "lastSuccess": "2026-10-18T05:10:57.757Z",
+      "lastAttempt": "2026-10-18T05:53:41.617Z",
+      "lastSuccess": "2026-10-18T05:53:41.617Z",
       "items": [
+        {
+          "title": "习言道｜这场会上，习近平说“今天可能要让你们失望了”",
+          "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716605.shtml",
+          "summary": "中新网10月18日电 题：这场会上，习近平说“今天可能要让你们失望了”",
+          "publishedAt": "2026-10-18T05:39:54.000Z",
+          "category": "政治",
+          "topic": "中国",
+          "source": "中国新闻网",
+          "sourceId": "cn-politics"
+        },
+        {
+          "title": "广西壮族自治区政协原副主席黄日波接受国家监委监察调查",
+          "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716601.shtml",
+          "summary": "中新社北京10月18日电 中国官方18日通报，广西壮族自治区政协原副主席黄日波涉嫌严重职务违法，目前正接受国家监委监察…",
+          "publishedAt": "2026-10-18T05:31:31.000Z",
+          "category": "政治",
+          "topic": "中国",
+          "source": "中国新闻网",
+          "sourceId": "cn-politics"
+        },
         {
           "title": "健康中国迈入“十五五” 这场大会释放多重新信号",
           "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716587.shtml",
@@ -988,36 +997,6 @@
           "topic": "中国",
           "source": "中国新闻网",
           "sourceId": "cn-politics"
-        },
-        {
-          "title": "李强在2026世界传统医药大会开幕式上的致辞（全文）",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716350.shtml",
-          "summary": "新华社北京10月17日电",
-          "publishedAt": "2026-10-17T11:24:11.000Z",
-          "category": "政治",
-          "topic": "中国",
-          "source": "中国新闻网",
-          "sourceId": "cn-politics"
-        },
-        {
-          "title": "李强出席2026世界传统医药大会开幕式并致辞",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716342.shtml",
-          "summary": "新华社北京10月17日电 10月17日上午，国务院总理李强在北京出席2026世界传统医药大会开幕式并致辞。",
-          "publishedAt": "2026-10-17T11:22:59.000Z",
-          "category": "政治",
-          "topic": "中国",
-          "source": "中国新闻网",
-          "sourceId": "cn-politics"
-        },
-        {
-          "title": "李强抵达塔什干开始对乌兹别克斯坦进行正式访问",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716348.shtml",
-          "summary": "中新社塔什干10月17日电 10月17日上午，应乌兹别克斯坦总理阿里波夫邀请，中国国务院总理李强乘包机离开北京，对乌兹…",
-          "publishedAt": "2026-10-17T11:11:45.000Z",
-          "category": "政治",
-          "topic": "中国",
-          "source": "中国新闻网",
-          "sourceId": "cn-politics"
         }
       ]
     },
@@ -1026,8 +1005,8 @@
       "name": "AI HOT",
       "url": "https://aihot.news/",
       "status": "ok",
-      "lastAttempt": "2026-10-18T05:10:57.757Z",
-      "lastSuccess": "2026-10-18T05:10:57.757Z",
+      "lastAttempt": "2026-10-18T05:53:41.617Z",
+      "lastSuccess": "2026-10-18T05:53:41.617Z",
       "items": [
         {
           "category": "AI",
@@ -1064,7 +1043,7 @@
       "summary": "本周，我国在航天、能源、交通等领域捷报频传，从空间探索到工程建设，硬核成果持续“上新”！",
       "url": "https://www.baidu.com/s?wd=%E6%9C%AC%E5%91%A8%E6%88%91%E5%9B%BD%E7%A1%AC%E6%A0%B8%E6%88%90%E6%9E%9C%E5%AF%86%E9%9B%86%E4%B8%8A%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-18T05:10:57.757Z",
+      "publishedAt": "2026-10-18T05:53:41.617Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1077,7 +1056,7 @@
       "summary": "近日，河南范女士记录带娃旅行被调侃“世界这本书读了四页全在河南”。10月17日，河南范女士回应“带娃看世界4年没出河南…",
       "url": "https://www.baidu.com/s?wd=%E7%88%B8%E5%A6%88%E5%B8%A6%E5%A8%83%E7%9C%8B%E4%B8%96%E7%95%8C+4%E5%B9%B4%E6%B2%A1%E8%B5%B0%E5%87%BA%E6%B2%B3%E5%8D%97&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-18T05:10:57.757Z",
+      "publishedAt": "2026-10-18T05:53:41.617Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1090,7 +1069,7 @@
       "summary": "当地时间10月17日，法国数十万人走上街头，抗议物价上涨和公共服务恶化。随后衍生为大规模骚乱，多个城市的奢侈品门店遭到…",
       "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E5%A4%9A%E5%9C%B0%E5%A5%A2%E4%BE%88%E5%93%81%E9%97%A8%E5%BA%97%E8%A2%AB%E6%B4%97%E5%8A%AB%E4%B8%80%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-18T05:10:57.757Z",
+      "publishedAt": "2026-10-18T05:53:41.617Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1099,11 +1078,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "内部人员代缴采暖费能打折系谣言",
-      "summary": "近日，北京供热企业辟谣提醒：所谓“内部人员代缴采暖费可打折”系骗局，不法人员常以“员工福利”“年底冲量”等幌子诱导居民…",
-      "url": "https://www.baidu.com/s?wd=%E5%86%85%E9%83%A8%E4%BA%BA%E5%91%98%E4%BB%A3%E7%BC%B4%E9%87%87%E6%9A%96%E8%B4%B9%E8%83%BD%E6%89%93%E6%8A%98%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "爸爸AB型血妈妈A型血 女儿O型血",
+      "summary": "来自深圳的王先生是AB型血、太太A型血，刚出生的女儿却是O型血，王先生一度怀疑孩子非亲生。经南方医科大学深圳医院检查发…",
+      "url": "https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8AB%E5%9E%8B%E8%A1%80%E5%A6%88%E5%A6%88A%E5%9E%8B%E8%A1%80+%E5%A5%B3%E5%84%BFO%E5%9E%8B%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-18T05:10:57.757Z",
+      "publishedAt": "2026-10-18T05:53:41.617Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1112,11 +1091,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "爸爸AB型血妈妈A型血 女儿O型血",
-      "summary": "来自深圳的王先生是AB型血、太太A型血，刚出生的女儿却是O型血，王先生一度怀疑孩子非亲生。经南方医科大学深圳医院检查发…",
-      "url": "https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8AB%E5%9E%8B%E8%A1%80%E5%A6%88%E5%A6%88A%E5%9E%8B%E8%A1%80+%E5%A5%B3%E5%84%BFO%E5%9E%8B%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "内部人员代缴采暖费能打折系谣言",
+      "summary": "近日，北京供热企业辟谣提醒：所谓“内部人员代缴采暖费可打折”系骗局，不法人员常以“员工福利”“年底冲量”等幌子诱导居民…",
+      "url": "https://www.baidu.com/s?wd=%E5%86%85%E9%83%A8%E4%BA%BA%E5%91%98%E4%BB%A3%E7%BC%B4%E9%87%87%E6%9A%96%E8%B4%B9%E8%83%BD%E6%89%93%E6%8A%98%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-18T05:10:57.757Z",
+      "publishedAt": "2026-10-18T05:53:41.617Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1129,7 +1108,7 @@
       "summary": "近日中部某市一招投标案中，仅登记1名员工、无施工能力的空壳公司竟中标3000万元项目。经查招标程序看似完备，实为内定做…",
       "url": "https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E4%BB%851%E4%BA%BA%E7%9A%84%E7%A9%BA%E5%A3%B3%E5%85%AC%E5%8F%B8%E4%B8%AD%E6%A0%873000%E4%B8%87%E9%A1%B9%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-18T05:10:57.757Z",
+      "publishedAt": "2026-10-18T05:53:41.617Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1441,11 +1420,11 @@
     {
       "category": "金融",
       "topic": "A股",
-      "title": "华金证券：A股短期可能见底 建议逢低配置科技成长",
-      "summary": "复盘历史，A股震荡后筑底回升主要受政策和外部事件、基本面和流动性等因素驱动。（1）2010年以来A股震荡后筑底回升共有…",
-      "url": "https://finance.eastmoney.com/a/202610183899115855.html",
-      "publishedAt": "2026-10-18T04:14:00.000Z",
-      "source": "东方财富 · 华金证券",
+      "title": "下周，苹果产业链“小巨人”来了",
+      "summary": "数据显示，根据目前的发行安排，下周有2只新股可申购，深市主板、北交所各1只。",
+      "url": "https://finance.eastmoney.com/a/202610183899121753.html",
+      "publishedAt": "2026-10-18T05:26:00.000Z",
+      "source": "东方财富 · 中国证券报",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
       "number": 34
@@ -1453,23 +1432,23 @@
     {
       "category": "金融",
       "topic": "A股",
-      "title": "中船集团与重庆深化产业链协作 9项合作在渝签约",
-      "summary": "人民财讯10月18日电，据上游新闻，10月16日，2026年中国船舶集团重庆地区供需对接会（船舶海工装备专场）在中船（…",
-      "url": "https://finance.eastmoney.com/a/202610183899116426.html",
-      "publishedAt": "2026-10-18T04:12:00.000Z",
-      "source": "东方财富 · 证券时报网",
-      "kind": "报道",
+      "title": "长鑫科技：预计前三季度扭亏为盈 净利润1310亿至1325亿元",
+      "summary": "上证智讯 10月16日晚间，长鑫科技发布2026年前三季度业绩预告称，公司预计2026年前三季度实现营业收入约2650…",
+      "url": "https://finance.eastmoney.com/a/202610183899119170.html",
+      "publishedAt": "2026-10-18T05:07:00.000Z",
+      "source": "东方财富 · 上海证券报·中国证券网",
+      "kind": "观点",
       "sourceId": "eastmoney-cn-stock",
       "number": 35
     },
     {
       "category": "金融",
       "topic": "A股",
-      "title": "资金大举买入！A股接近阶段性底部？",
-      "summary": "本周，A股三大指数大幅震荡，周内上证综指一度下探至3670多点，周五尾盘明显反弹，重回3700点上方。虽然全周三大指数…",
-      "url": "https://finance.eastmoney.com/a/202610183899115316.html",
-      "publishedAt": "2026-10-18T04:06:00.000Z",
-      "source": "东方财富 · 期货日报",
+      "title": "胜科纳米：定增募资总额拟由约10.34亿元调减至约10.14亿元",
+      "summary": "上证智讯 10月17日，胜科纳米发布公告称，公司于2026年10月16日召开第二届董事会第十九次会议，审议通过了《关于…",
+      "url": "https://finance.eastmoney.com/a/202610183899119037.html",
+      "publishedAt": "2026-10-18T05:07:00.000Z",
+      "source": "东方财富 · 上海证券报·中国证券网",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
       "number": 36
@@ -1477,11 +1456,11 @@
     {
       "category": "金融",
       "topic": "A股",
-      "title": "A股PCB巨头，迎超100家机构调研！净利预增逾100%！",
-      "summary": "上周（10月12日—16日）共有227家A股上市公司接受机构投资者调研。",
-      "url": "https://finance.eastmoney.com/a/202610183899116074.html",
-      "publishedAt": "2026-10-18T04:03:00.000Z",
-      "source": "东方财富 · 证券时报",
+      "title": "长鑫科技：董事长提议公司10亿元至20亿元回购公司股份",
+      "summary": "上证智讯 10月16日晚间，长鑫科技发布公告称，公司董事会于2026年10月16日收到公司董事长朱一明《关于提议长鑫科…",
+      "url": "https://finance.eastmoney.com/a/202610183899118916.html",
+      "publishedAt": "2026-10-18T05:07:00.000Z",
+      "source": "东方财富 · 上海证券报·中国证券网",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
       "number": 37
@@ -1489,11 +1468,11 @@
     {
       "category": "金融",
       "topic": "A股",
-      "title": "事关资本市场 重磅论坛明日开幕！连跌4周后 A股会反弹吗？回测来了",
-      "summary": "刚过去的交易周（10月12日至16日），A股市场经历了新一轮探底。",
-      "url": "https://finance.eastmoney.com/a/202610183899110241.html",
-      "publishedAt": "2026-10-18T03:12:00.000Z",
-      "source": "东方财富 · 每日经济新闻",
+      "title": "自称与特斯拉飞行汽车技术同源！这家商业航天企业背后隐现A股公司",
+      "summary": "北京时间10月16日，特斯拉第二代Roadster在得州SpaceX火箭测试场亮相。",
+      "url": "https://finance.eastmoney.com/a/202610183899117846.html",
+      "publishedAt": "2026-10-18T05:04:00.000Z",
+      "source": "东方财富 · 证券时报",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
       "number": 38
@@ -1501,14 +1480,26 @@
     {
       "category": "金融",
       "topic": "A股",
-      "title": "光模块高景气 光迅科技三季度净利润增长超预期 继续押注扩产",
-      "summary": "AI算力高需求下，光模块行业景气上行，光迅科技（002281.SZ）进入高速增长通道。",
-      "url": "https://finance.eastmoney.com/a/202610183899110080.html",
-      "publishedAt": "2026-10-18T02:48:00.000Z",
-      "source": "东方财富 · 界面新闻",
+      "title": "华金证券：A股短期可能见底 建议逢低配置科技成长",
+      "summary": "复盘历史，A股震荡后筑底回升主要受政策和外部事件、基本面和流动性等因素驱动。（1）2010年以来A股震荡后筑底回升共有…",
+      "url": "https://finance.eastmoney.com/a/202610183899115855.html",
+      "publishedAt": "2026-10-18T04:14:00.000Z",
+      "source": "东方财富 · 华金证券",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
       "number": 39
+    },
+    {
+      "category": "金融",
+      "topic": "中国期货",
+      "title": "白银持仓骤降54% 多头大撤离！重要信号显现？",
+      "summary": "美国商品期货交易委员会发布的最新数据显示，截至10月13日当周，COMEX白银期货投机者持有的净多头头寸已降至5735…",
+      "url": "https://finance.eastmoney.com/a/202610183899120814.html",
+      "publishedAt": "2026-10-18T05:18:00.000Z",
+      "source": "东方财富 · 期货日报",
+      "kind": "报道",
+      "sourceId": "eastmoney-futures",
+      "number": 40
     },
     {
       "category": "金融",
@@ -1518,18 +1509,6 @@
       "url": "https://finance.eastmoney.com/a/202610183899113396.html",
       "publishedAt": "2026-10-18T03:55:00.000Z",
       "source": "东方财富 · 华夏时报",
-      "kind": "报道",
-      "sourceId": "eastmoney-futures",
-      "number": 40
-    },
-    {
-      "category": "金融",
-      "topic": "中国期货",
-      "title": "强现实难敌弱预期？如何看待碳酸锂底部信号？",
-      "summary": "本周，碳酸锂期价跌破100000元/吨重要关口。截至10月16日收盘，报96320元/吨，当日下跌4.2%。",
-      "url": "https://finance.eastmoney.com/a/202610173898828395.html",
-      "publishedAt": "2026-10-16T23:45:00.000Z",
-      "source": "东方财富 · 期货日报",
       "kind": "报道",
       "sourceId": "eastmoney-futures",
       "number": 41
@@ -1561,18 +1540,6 @@
     {
       "category": "金融",
       "topic": "宏观财经",
-      "title": "央行副行长宣昌能：中国将坚定实施扩大内需战略",
-      "summary": "中新经纬10月18日电据央行微信公众号18日消息，2026年10月14日至17日国际货币基金组织(以下简称“基金组织”…",
-      "url": "https://finance.eastmoney.com/a/202610183899112252.html",
-      "publishedAt": "2026-10-18T03:13:00.000Z",
-      "source": "东方财富 · 中新经纬",
-      "kind": "报道",
-      "sourceId": "eastmoney-macro",
-      "number": 44
-    },
-    {
-      "category": "金融",
-      "topic": "宏观财经",
       "title": "Anthropic联合创始人：AI有望令美国GDP提升近50% 但恐超出人类掌控",
       "summary": "美国人工智能领军企业Anthropic的联合创始人兼公共利益负责人杰克·克拉克（Jack Clark）周六表示，AI能…",
       "url": "https://finance.eastmoney.com/a/202610183899110148.html",
@@ -1580,19 +1547,7 @@
       "source": "东方财富 · 财联社",
       "kind": "观点",
       "sourceId": "eastmoney-macro",
-      "number": 45
-    },
-    {
-      "category": "金融",
-      "topic": "宏观财经",
-      "title": "下周关注：9月经济数据将公布 这些投资机会最靠谱",
-      "summary": "10月19日，国家统计局将公布9月工业增加值、固定资产投资、社零等经济数据。同日，国家统计局还将发布70个大中城市商品…",
-      "url": "https://finance.eastmoney.com/a/202610183899101685.html",
-      "publishedAt": "2026-10-18T00:42:00.000Z",
-      "source": "东方财富 · 第一财经",
-      "kind": "报道",
-      "sourceId": "eastmoney-macro",
-      "number": 46
+      "number": 44
     },
     {
       "category": "金融",
@@ -1604,19 +1559,19 @@
       "source": "东方财富 · 数据宝",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
-      "number": 47
+      "number": 45
     },
     {
       "category": "金融",
       "topic": "宏观财经",
-      "title": "人民币汇率延续双向波动格局 市场化程度和政策透明度将继续提高",
-      "summary": "10月16日，在岸、离岸人民币对美元汇率同步上行，人民币对美元汇率中间价保持调升，市场弹性进一步显现。专家认为，当前出…",
-      "url": "https://finance.eastmoney.com/a/202610173898821520.html",
-      "publishedAt": "2026-10-16T23:44:00.000Z",
-      "source": "东方财富 · 中国证券报",
+      "title": "美国9月PPI通胀大超预期 能源冲击向更多领域扩散 美联储加息预期再升温",
+      "summary": "美国劳工部周四公布的数据显示，美国9月生产者价格指数(PPI)涨幅远超市场预期，凸显在美国与伊朗战争持续之际，能源价格…",
+      "url": "https://finance.eastmoney.com/a/202610153897225376.html",
+      "publishedAt": "2026-10-15T21:54:00.000Z",
+      "source": "东方财富 · 财联社",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
-      "number": 48
+      "number": 46
     },
     {
       "title": "上任不到一周遭解雇 扎卡里亚发文：为特朗普工作是一种荣幸",
@@ -1627,7 +1582,7 @@
       "topic": "美国",
       "source": "中国新闻网",
       "sourceId": "us-politics",
-      "number": 49
+      "number": 47
     },
     {
       "title": "财政赤字逼近2万亿美元 美国财政压力有多大",
@@ -1638,7 +1593,7 @@
       "topic": "美国",
       "source": "中国新闻网",
       "sourceId": "us-politics",
-      "number": 50
+      "number": 48
     },
     {
       "title": "美媒：美国2026年麻疹确诊病例已达4410例",
@@ -1649,6 +1604,28 @@
       "topic": "美国",
       "source": "中国新闻网",
       "sourceId": "us-politics",
+      "number": 49
+    },
+    {
+      "title": "习言道｜这场会上，习近平说“今天可能要让你们失望了”",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716605.shtml",
+      "summary": "中新网10月18日电 题：这场会上，习近平说“今天可能要让你们失望了”",
+      "publishedAt": "2026-10-18T05:39:54.000Z",
+      "category": "政治",
+      "topic": "中国",
+      "source": "中国新闻网",
+      "sourceId": "cn-politics",
+      "number": 50
+    },
+    {
+      "title": "广西壮族自治区政协原副主席黄日波接受国家监委监察调查",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716601.shtml",
+      "summary": "中新社北京10月18日电 中国官方18日通报，广西壮族自治区政协原副主席黄日波涉嫌严重职务违法，目前正接受国家监委监察…",
+      "publishedAt": "2026-10-18T05:31:31.000Z",
+      "category": "政治",
+      "topic": "中国",
+      "source": "中国新闻网",
+      "sourceId": "cn-politics",
       "number": 51
     },
     {
@@ -1663,17 +1640,6 @@
       "number": 52
     },
     {
-      "title": "广西壮族自治区政协原副主席黄日波接受国家监委监察调查",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716571.shtml",
-      "summary": "中新网10月18日电 据中央纪委国家监委网站消息，广西壮族自治区政协原副主席黄日波涉嫌严重职务违法，目前正接受国家监委…",
-      "publishedAt": "2026-10-18T03:19:06.000Z",
-      "category": "政治",
-      "topic": "中国",
-      "source": "中国新闻网",
-      "sourceId": "cn-politics",
-      "number": 53
-    },
-    {
       "title": "李强会见乌兹别克斯坦总统米尔济约耶夫",
       "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716552.shtml",
       "summary": "中新社塔什干10月18日电 中国国务院总理李强10月17日在塔什干会见乌兹别克斯坦总统米尔济约耶夫。",
@@ -1682,7 +1648,7 @@
       "topic": "中国",
       "source": "中国新闻网",
       "sourceId": "cn-politics",
-      "number": 54
+      "number": 53
     },
     {
       "title": "李强同乌兹别克斯坦总理阿里波夫会谈",
@@ -1693,7 +1659,7 @@
       "topic": "中国",
       "source": "中国新闻网",
       "sourceId": "cn-politics",
-      "number": 55
+      "number": 54
     },
     {
       "title": "（近观中国）从一湖水到一张网，读懂习近平乌兰察布之行",
@@ -1704,18 +1670,7 @@
       "topic": "中国",
       "source": "中国新闻网",
       "sourceId": "cn-politics",
-      "number": 56
-    },
-    {
-      "title": "俄外交部：中国正在进行“新的伟大长征”",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-18/10716533.shtml",
-      "summary": "新华社莫斯科10月17日电(记者赵冰)今年是中国工农红军长征胜利90周年。俄罗斯外交部发言人扎哈罗娃16日在例行记者会…",
-      "publishedAt": "2026-10-18T02:19:47.000Z",
-      "category": "政治",
-      "topic": "中国",
-      "source": "中国新闻网",
-      "sourceId": "cn-politics",
-      "number": 57
+      "number": 55
     },
     {
       "category": "AI",
@@ -1728,7 +1683,7 @@
       "reportDate": "2026-10-18",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 58
+      "number": 56
     }
   ]
 }
