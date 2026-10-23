@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-10-23T05:25:30.198Z",
+  "collectedAt": "2026-10-23T06:02:14.802Z",
   "topics": {
     "时事": [
       "百度热搜"
@@ -38,8 +38,8 @@
       "name": "百度热搜 · 时事",
       "url": "https://top.baidu.com/board?tab=realtime",
       "status": "ok",
-      "lastAttempt": "2026-10-23T05:25:30.198Z",
-      "lastSuccess": "2026-10-23T05:25:30.198Z",
+      "lastAttempt": "2026-10-23T06:02:14.802Z",
+      "lastSuccess": "2026-10-23T06:02:14.802Z",
       "items": [
         {
           "category": "时事",
@@ -48,31 +48,7 @@
           "summary": "10月22日22时33分许，西藏那曲市巴青县发生7.0级地震，造成重大人员伤亡。地震发生后，中共中央总书记、国家主席、…",
           "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E8%A5%BF%E8%97%8F7.0%E7%BA%A7%E5%9C%B0%E9%9C%87%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-23T05:25:30.198Z",
-          "timeLabel": "热搜采集",
-          "linkLabel": "查看相关新闻",
-          "sourceId": "baidu"
-        },
-        {
-          "category": "时事",
-          "topic": "百度热搜",
-          "title": "西藏那曲地震已致16死65伤",
-          "summary": "百度热搜未提供摘要，可点开查看相关新闻。",
-          "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E8%97%8F%E9%82%A3%E6%9B%B2%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B416%E6%AD%BB65%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news",
-          "source": "百度热搜",
-          "publishedAt": "2026-10-23T05:25:30.198Z",
-          "timeLabel": "热搜采集",
-          "linkLabel": "查看相关新闻",
-          "sourceId": "baidu"
-        },
-        {
-          "category": "时事",
-          "topic": "百度热搜",
-          "title": "在星巴克开会1小时被提醒点单5次",
-          "summary": "目前，星巴克上海多家门店实行“消费入座”。记者发现，有顾客开会一个多小时被店员提醒点单5次，感觉像被“撵人走”，但也有…",
-          "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E6%98%9F%E5%B7%B4%E5%85%8B%E5%BC%80%E4%BC%9A1%E5%B0%8F%E6%97%B6%E8%A2%AB%E6%8F%90%E9%86%92%E7%82%B9%E5%8D%955%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news",
-          "source": "百度热搜",
-          "publishedAt": "2026-10-23T05:25:30.198Z",
+          "publishedAt": "2026-10-23T06:02:14.802Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -84,7 +60,43 @@
           "summary": "10月22日晚，西藏那曲市巴青县发生7.0级地震，震源深度10千米。目前，总台记者进入海拔4900多米的西藏那曲玛如乡…",
           "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E8%97%8F%E5%9C%B0%E9%9C%87%E7%8E%B0%E5%9C%BA%E5%9C%B0%E9%9D%A2%E7%9A%84%E8%A3%82%E7%BC%9D%E6%AF%94%E6%89%8B%E5%AE%BD&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-23T05:25:30.198Z",
+          "publishedAt": "2026-10-23T06:02:14.802Z",
+          "timeLabel": "热搜采集",
+          "linkLabel": "查看相关新闻",
+          "sourceId": "baidu"
+        },
+        {
+          "category": "时事",
+          "topic": "百度热搜",
+          "title": "西藏那曲地震已致16死65伤",
+          "summary": "百度热搜未提供摘要，可点开查看相关新闻。",
+          "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E8%97%8F%E9%82%A3%E6%9B%B2%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B416%E6%AD%BB65%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news",
+          "source": "百度热搜",
+          "publishedAt": "2026-10-23T06:02:14.802Z",
+          "timeLabel": "热搜采集",
+          "linkLabel": "查看相关新闻",
+          "sourceId": "baidu"
+        },
+        {
+          "category": "时事",
+          "topic": "百度热搜",
+          "title": "在星巴克开会1小时被提醒点单5次",
+          "summary": "目前，星巴克上海多家门店实行“消费入座”。记者发现，有顾客开会一个多小时被店员提醒点单5次，感觉像被“撵人走”，但也有…",
+          "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E6%98%9F%E5%B7%B4%E5%85%8B%E5%BC%80%E4%BC%9A1%E5%B0%8F%E6%97%B6%E8%A2%AB%E6%8F%90%E9%86%92%E7%82%B9%E5%8D%955%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news",
+          "source": "百度热搜",
+          "publishedAt": "2026-10-23T06:02:14.802Z",
+          "timeLabel": "热搜采集",
+          "linkLabel": "查看相关新闻",
+          "sourceId": "baidu"
+        },
+        {
+          "category": "时事",
+          "topic": "百度热搜",
+          "title": "中国最快高铁要更新了",
+          "summary": "明年起，国铁集团将启动近十年来最大规模车次编排改革，高铁按最高运行时速重新划分为X、G、T、K四档。此前因高铁网络爆发…",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%BF%AB%E9%AB%98%E9%93%81%E8%A6%81%E6%9B%B4%E6%96%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+          "source": "百度热搜",
+          "publishedAt": "2026-10-23T06:02:14.802Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -96,19 +108,7 @@
           "summary": "10月22日22时33分，西藏那曲市巴青县发生7.0级地震。地震发生后，自治区党委书记胡昌升连夜赶往灾区一线。23日上…",
           "url": "https://www.baidu.com/s?wd=%E8%83%A1%E6%98%8C%E5%8D%87%E6%8A%B5%E8%BE%BE7.0%E7%BA%A7%E5%9C%B0%E9%9C%87%E9%9C%87%E4%B8%AD%E6%8C%87%E6%8C%A5%E6%95%91%E6%8F%B4&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-23T05:25:30.198Z",
-          "timeLabel": "热搜采集",
-          "linkLabel": "查看相关新闻",
-          "sourceId": "baidu"
-        },
-        {
-          "category": "时事",
-          "topic": "百度热搜",
-          "title": "胡锡进：股票跌得心疼",
-          "summary": "10月23日，胡锡进发文称股票跌得心疼，于是“恶狠狠地花钱”对冲，称股市波动治愈了消费内耗，被网友调侃“终于发现日常消…",
-          "url": "https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E8%82%A1%E7%A5%A8%E8%B7%8C%E5%BE%97%E5%BF%83%E7%96%BC&sa=fyb_news&rsv_dl=fyb_news",
-          "source": "百度热搜",
-          "publishedAt": "2026-10-23T05:25:30.198Z",
+          "publishedAt": "2026-10-23T06:02:14.802Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -120,8 +120,8 @@
       "name": "网易体育（署名媒体）",
       "url": "https://sports.163.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-23T05:25:30.198Z",
-      "lastSuccess": "2026-10-23T05:25:30.198Z",
+      "lastAttempt": "2026-10-23T06:02:14.802Z",
+      "lastSuccess": "2026-10-23T06:02:14.802Z",
       "items": [
         {
           "title": "雷霆96-84掘金，亚历山大19中6得17分，约基奇13+7+5，穆雷11中2",
@@ -350,8 +350,8 @@
       "name": "东方财富 · 美股",
       "url": "https://stock.eastmoney.com/america.html",
       "status": "ok",
-      "lastAttempt": "2026-10-23T05:25:30.198Z",
-      "lastSuccess": "2026-10-23T05:25:30.198Z",
+      "lastAttempt": "2026-10-23T06:02:14.802Z",
+      "lastSuccess": "2026-10-23T06:02:14.802Z",
       "items": [
         {
           "category": "金融",
@@ -389,11 +389,11 @@
         {
           "category": "金融",
           "topic": "美股",
-          "title": "人工智能视频初创公司Higgsfield获得英伟达投资",
-          "summary": "由Snap公司前高管创立的AI视频初创公司Higgsfield Inc.宣布，已获得英伟达和TCV的投资。此轮融资将用…",
-          "url": "https://finance.eastmoney.com/a/202610233905972249.html",
-          "publishedAt": "2026-10-23T05:17:00.000Z",
-          "source": "东方财富 · 科创板日报",
+          "title": "暴跌！纳指重挫2.60%，费城半导体指数暴跌6.72%，MACOM跌超15%，COHERENT跌超12%，闪迪、SK海力士跌超8%，脸书跌近7%",
+          "summary": "北京时间10月23日凌晨，美股三大指数涨跌不一。道琼斯工业平均指数收报52867.98点，涨0.02%；纳斯达克指数收…",
+          "url": "https://finance.eastmoney.com/a/202610233906028191.html",
+          "publishedAt": "2026-10-23T05:43:00.000Z",
+          "source": "东方财富 · 中国经营报",
           "kind": "报道",
           "sourceId": "eastmoney-us-stock"
         }
@@ -404,8 +404,8 @@
       "name": "东方财富 · A股",
       "url": "https://stock.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-23T05:25:30.198Z",
-      "lastSuccess": "2026-10-23T05:25:30.198Z",
+      "lastAttempt": "2026-10-23T06:02:14.802Z",
+      "lastSuccess": "2026-10-23T06:02:14.802Z",
       "items": [
         {
           "category": "金融",
@@ -437,6 +437,17 @@
           "url": "https://finance.eastmoney.com/a/202610233905888948.html",
           "publishedAt": "2026-10-23T05:23:00.000Z",
           "source": "东方财富 · 东方财富Choice数据",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "突然超11亿元抢筹！“旗手”封死涨停 发生了什么？",
+          "summary": "10月23日早盘，券商股突然异动，华林证券直线封板，最大封单超过11亿元。与此同时，长鑫科技翻红，宁德时代A股盘中涨超…",
+          "url": "https://finance.eastmoney.com/a/202610233905993316.html",
+          "publishedAt": "2026-10-23T04:51:00.000Z",
+          "source": "东方财富 · 券商中国",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
@@ -487,55 +498,44 @@
         {
           "category": "金融",
           "topic": "A股",
-          "title": "技术面超卖叠加情绪面扰动，A股持续震荡后，何时迎来修复窗口？",
-          "summary": "10月22日，市场三大指数悉数调整。其中，上证综指跌1.48%，报3658.03点；深证成指跌2.96%，报11357…",
-          "url": "https://finance.eastmoney.com/a/202610233905138211.html",
-          "publishedAt": "2026-10-23T00:51:00.000Z",
-          "source": "东方财富 · 澎湃新闻",
+          "title": "光大证券王开：A股市场的制度建设正从应对波动走向塑造韧性和常态化赋能",
+          "summary": "光大证券首席资产配置分析师王开表示，证监会主席吴清近日在2026金融街论坛年会上发表主旨讲话，释放的积极信号不止在于短…",
+          "url": "https://finance.eastmoney.com/a/202610233906040775.html",
+          "publishedAt": "2026-10-23T05:55:00.000Z",
+          "source": "东方财富 · 人民财讯",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
         {
           "category": "金融",
           "topic": "A股",
-          "title": "券商晨会精华：AI制药技术及商业突破，湿实验产业链率先受益",
-          "summary": "财联社10月23日讯，昨日，市场全天调整，三大指数集体走弱，科创50指数大跌近3%，创业板指较今年6月的历史高点跌幅超…",
-          "url": "https://finance.eastmoney.com/a/202610233905137861.html",
-          "publishedAt": "2026-10-23T00:38:00.000Z",
-          "source": "东方财富 · 财联社",
+          "title": "华创证券首席经济学家张瑜：产业创新的载体正在重构A股的盈利结构与估值锚",
+          "summary": "华创证券首席经济学家张瑜表示，资本市场信心的重建，长期需要落脚到企业盈利与产业创新上。产业创新对A股长期价值的赋能，本…",
+          "url": "https://finance.eastmoney.com/a/202610233905999326.html",
+          "publishedAt": "2026-10-23T05:28:00.000Z",
+          "source": "东方财富 · 人民财讯",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
         {
           "category": "金融",
           "topic": "A股",
-          "title": "A股再度放量调整！4大光模块龙头午间齐发公告：在手订单充足",
-          "summary": "10月23日，A股市场早间震荡调整，沪指盘中一度跌破3600点，创业板指跌超2%，科创50指数跌超3%，沪深两市半日成…",
-          "url": "https://finance.eastmoney.com/a/202610233905948686.html",
-          "publishedAt": "2026-10-23T05:15:00.000Z",
-          "source": "东方财富 · 21世纪经济报道",
+          "title": "杨德龙评沪指跌破3600点：市场出现恐慌性抛售，这一轮下跌是挤泡沫过程",
+          "summary": "10月23日，A股三大指数集体走弱，沪指盘中跌破3600点整数关口，最低探至3574.27点，创下2025年8月以来新…",
+          "url": "https://finance.eastmoney.com/a/202610233906032681.html",
+          "publishedAt": "2026-10-23T05:13:00.000Z",
+          "source": "东方财富 · 中新经纬",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
         {
           "category": "金融",
           "topic": "A股",
-          "title": "“储能妖股”财报冰火两重天：连续四季业绩超预期，高资本开支却吓坏市场",
-          "summary": "美东时间周四盘后，美股“储能妖股”、燃料电池技术公司Bloom Energy（BE）最新披露季度财报，盈利与营收双双大…",
-          "url": "https://finance.eastmoney.com/a/202610233905927129.html",
-          "publishedAt": "2026-10-23T05:08:00.000Z",
-          "source": "东方财富 · 财联社",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "宁夏煤化工巨头业绩大涨，市场却不买账？",
-          "summary": "煤化工巨头前三季度狂揽净利143亿元，市场却不买账？",
-          "url": "https://finance.eastmoney.com/a/202610233905845064.html",
-          "publishedAt": "2026-10-23T04:13:00.000Z",
-          "source": "东方财富 · 时代财经APP",
+          "title": "意大利埃尼集团第三季度调整后净利润同比增长逾一倍至28亿欧元",
+          "summary": "10月23日，意大利能源企业埃尼集团（Eni）公布2026年第三季度及前九个月业绩。第三季度集团备考调整后息税前利润（…",
+          "url": "https://finance.eastmoney.com/a/202610233906025466.html",
+          "publishedAt": "2026-10-23T05:42:00.000Z",
+          "source": "东方财富 · 界面新闻",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         }
@@ -546,28 +546,17 @@
       "name": "东方财富 · 中国期货",
       "url": "https://futures.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-23T05:25:30.198Z",
-      "lastSuccess": "2026-10-23T05:25:30.198Z",
+      "lastAttempt": "2026-10-23T06:02:14.802Z",
+      "lastSuccess": "2026-10-23T06:02:14.802Z",
       "items": [
         {
           "category": "金融",
           "topic": "中国期货",
-          "title": "巨震！金价击穿4000美元／盎司 金饰克价一夜跌超30元",
+          "title": "巨震！金价击穿4000美元/盎司 金饰克价一夜跌超30元",
           "summary": "今日早盘，金融市场巨震，国际油价和美债上涨，贵金属价格跳水。其中，现货黄金价格向下跌破4000美元／盎司。隔夜伦敦现货…",
           "url": "https://finance.eastmoney.com/a/202610233905839735.html",
           "publishedAt": "2026-10-23T03:52:00.000Z",
           "source": "东方财富 · 期货日报",
-          "kind": "报道",
-          "sourceId": "eastmoney-futures"
-        },
-        {
-          "category": "金融",
-          "topic": "中国期货",
-          "title": "午盘播报 10月23日 周五",
-          "summary": "国内商品期货早盘收盘，主力合约多数上涨。涨幅方面，燃油涨超6%，LPG、低硫燃油涨近6%，丙烯涨近4%，原油、丁二烯胶…",
-          "url": "https://finance.eastmoney.com/a/202610233905810827.html",
-          "publishedAt": "2026-10-23T03:30:00.000Z",
-          "source": "东方财富 · 东方财富研究中心",
           "kind": "报道",
           "sourceId": "eastmoney-futures"
         },
@@ -622,8 +611,8 @@
       "name": "东方财富 · 宏观财经",
       "url": "https://finance.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-23T05:25:30.198Z",
-      "lastSuccess": "2026-10-23T05:25:30.198Z",
+      "lastAttempt": "2026-10-23T06:02:14.802Z",
+      "lastSuccess": "2026-10-23T06:02:14.802Z",
       "items": [
         {
           "category": "金融",
@@ -639,11 +628,11 @@
         {
           "category": "金融",
           "topic": "宏观财经",
-          "title": "印度10月制造业PMI初值为54.9，预期55，前值55.1",
-          "summary": "印度10月制造业PMI初值为54.9，预期55，前值55.1。",
-          "url": "https://finance.eastmoney.com/a/202610233905918736.html",
-          "publishedAt": "2026-10-23T05:00:00.000Z",
-          "source": "东方财富 · 财联社",
+          "title": "陕西前三季度GDP增长4.1%，汽车和煤炭是重要支持",
+          "summary": "随着汽车产业回升，陕西经济重回“双轮驱动”，三季度经济增长提速。",
+          "url": "https://finance.eastmoney.com/a/202610233906004057.html",
+          "publishedAt": "2026-10-23T05:27:00.000Z",
+          "source": "东方财富 · 第一财经",
           "kind": "报道",
           "sourceId": "eastmoney-macro"
         }
@@ -654,8 +643,8 @@
       "name": "新浪财经 · 美股",
       "url": "https://finance.sina.com.cn/stock/usstock/",
       "status": "ok",
-      "lastAttempt": "2026-10-23T05:25:30.198Z",
-      "lastSuccess": "2026-10-23T05:25:30.198Z",
+      "lastAttempt": "2026-10-23T06:02:14.802Z",
+      "lastSuccess": "2026-10-23T06:02:14.802Z",
       "items": [
         {
           "title": "多家机构上调纳斯达克公司目标价",
@@ -708,8 +697,8 @@
       "name": "新浪财经 · A股",
       "url": "https://finance.sina.com.cn/stock/",
       "status": "ok",
-      "lastAttempt": "2026-10-23T05:25:30.198Z",
-      "lastSuccess": "2026-10-23T05:25:30.198Z",
+      "lastAttempt": "2026-10-23T06:02:14.802Z",
+      "lastSuccess": "2026-10-23T06:02:14.802Z",
       "items": [
         {
           "title": "创业板指涨幅扩大至2%，早盘一度跌超3%",
@@ -754,17 +743,6 @@
           "topic": "A股",
           "sourceId": "cn-stock",
           "kind": "报道"
-        },
-        {
-          "title": "奥士康“A+H”：境外业务从增长引擎沦为业绩拖累 持续加码的高端PCB毛利率也已腰斩",
-          "url": "https://finance.sina.com.cn/stock/observe/2026-10-23/doc-iniweqhs8038851.shtml",
-          "summary": "出品：新浪财经上市公司研究院 作者：渚 10月20日，奥士康向不特定对象发行的10亿元可转换公司债券“奥士转债”正式在…",
-          "source": "新浪证券 · 新浪财经",
-          "publishedAt": "2026-10-23T02:02:18.000Z",
-          "category": "金融",
-          "topic": "A股",
-          "sourceId": "cn-stock",
-          "kind": "报道"
         }
       ]
     },
@@ -773,8 +751,8 @@
       "name": "新浪财经 · 期货订阅 1",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-10-23T05:25:30.198Z",
-      "lastSuccess": "2026-10-23T05:25:30.198Z",
+      "lastAttempt": "2026-10-23T06:02:14.802Z",
+      "lastSuccess": "2026-10-23T06:02:14.802Z",
       "items": [
         {
           "title": "光大期货：有色金属类日报10.23",
@@ -808,17 +786,6 @@
           "topic": "中国期货",
           "sourceId": "futures-1",
           "kind": "报道"
-        },
-        {
-          "title": "快讯：股指期货震荡下行 IM主力合约跌超4%",
-          "url": "https://finance.sina.com.cn/money/gzqh/futuresyspzx/2026-10-23/doc-iniweqhu4834952.shtml",
-          "summary": "2026年10月23日，沪深300股指期货（IF）主力合约跌1.88%，上证50股指期货（IH）主力合约跌1.52%，…",
-          "source": "市场资讯 · 新浪财经",
-          "publishedAt": "2026-10-23T02:16:31.000Z",
-          "category": "金融",
-          "topic": "中国期货",
-          "sourceId": "futures-1",
-          "kind": "报道"
         }
       ]
     },
@@ -827,9 +794,20 @@
       "name": "新浪财经 · 期货订阅 2",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-10-23T05:25:30.198Z",
-      "lastSuccess": "2026-10-23T05:25:30.198Z",
+      "lastAttempt": "2026-10-23T06:02:14.802Z",
+      "lastSuccess": "2026-10-23T06:02:14.802Z",
       "items": [
+        {
+          "title": "快讯：股指期货震荡下行 IM主力合约跌超4%",
+          "url": "https://finance.sina.com.cn/money/gzqh/futuresyspzx/2026-10-23/doc-iniweqhu4834952.shtml",
+          "summary": "2026年10月23日，沪深300股指期货（IF）主力合约跌1.88%，上证50股指期货（IH）主力合约跌1.52%，…",
+          "source": "市场资讯 · 新浪财经",
+          "publishedAt": "2026-10-23T02:16:31.000Z",
+          "category": "金融",
+          "topic": "中国期货",
+          "sourceId": "futures-2",
+          "kind": "报道"
+        },
         {
           "title": "中信建投期货：10月23日黑色早报",
           "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-23/doc-iniweiyr4950815.shtml",
@@ -892,29 +870,17 @@
       "name": "新浪财经 · 期货订阅 3",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-10-23T05:25:30.198Z",
-      "lastSuccess": "2026-10-23T05:25:30.198Z",
-      "items": [
-        {
-          "title": "【沥燃日报】地缘溢价继续推涨燃料油，沥青能否反弹取决于成本",
-          "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-23/doc-iniwecsv5717708.shtml",
-          "summary": "来源：能源研发中心 【燃料油】 期货：10月22日国内白天收盘，主力FU2701日内震荡拉升，下午开盘跳高之后尾盘有所…",
-          "source": "市场资讯 · 新浪财经",
-          "publishedAt": "2026-10-22T22:36:00.000Z",
-          "category": "金融",
-          "topic": "中国期货",
-          "sourceId": "futures-3",
-          "kind": "报道"
-        }
-      ]
+      "lastAttempt": "2026-10-23T06:02:14.802Z",
+      "lastSuccess": "2026-10-23T06:02:14.802Z",
+      "items": []
     },
     {
       "id": "us-politics",
       "name": "中新网 · 国际",
       "url": "https://www.chinanews.com.cn/rss/world.xml",
       "status": "ok",
-      "lastAttempt": "2026-10-23T05:25:30.198Z",
-      "lastSuccess": "2026-10-23T05:25:30.198Z",
+      "lastAttempt": "2026-10-23T06:02:14.802Z",
+      "lastSuccess": "2026-10-23T06:02:14.802Z",
       "items": [
         {
           "title": "民调：中期选举两周前，特朗普支持率跌至新低",
@@ -985,16 +951,6 @@
           "topic": "美国",
           "source": "中国新闻网",
           "sourceId": "us-politics"
-        },
-        {
-          "title": "美媒：美国防部拟打造新的深度潜伏间谍项目",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-22/10719349.shtml",
-          "summary": "中新网10月22日电 据美媒当地时间21日消息，多名知情人士称，美国国防部拟打造一个“更强有力的”深度潜伏间谍项目，针…",
-          "publishedAt": "2026-10-22T12:58:20.000Z",
-          "category": "政治",
-          "topic": "美国",
-          "source": "中国新闻网",
-          "sourceId": "us-politics"
         }
       ]
     },
@@ -1003,8 +959,8 @@
       "name": "中新网 · 国内",
       "url": "https://www.chinanews.com.cn/rss/china.xml",
       "status": "ok",
-      "lastAttempt": "2026-10-23T05:25:30.198Z",
-      "lastSuccess": "2026-10-23T05:25:30.198Z",
+      "lastAttempt": "2026-10-23T06:02:14.802Z",
+      "lastSuccess": "2026-10-23T06:02:14.802Z",
       "items": [
         {
           "title": "中共中央政治局召开会议 审议《关于二十届中央第七轮巡视情况的综合报告》 中共中央总书记习近平主持会议",
@@ -1073,8 +1029,8 @@
       "name": "AI HOT",
       "url": "https://aihot.news/",
       "status": "ok",
-      "lastAttempt": "2026-10-23T05:25:30.198Z",
-      "lastSuccess": "2026-10-23T05:25:30.198Z",
+      "lastAttempt": "2026-10-23T06:02:14.802Z",
+      "lastSuccess": "2026-10-23T06:02:14.802Z",
       "items": [
         {
           "category": "AI",
@@ -1231,7 +1187,7 @@
       "summary": "10月22日22时33分许，西藏那曲市巴青县发生7.0级地震，造成重大人员伤亡。地震发生后，中共中央总书记、国家主席、…",
       "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E8%A5%BF%E8%97%8F7.0%E7%BA%A7%E5%9C%B0%E9%9C%87%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-23T05:25:30.198Z",
+      "publishedAt": "2026-10-23T06:02:14.802Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1240,11 +1196,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "西藏那曲地震已致16死65伤",
-      "summary": "百度热搜未提供摘要，可点开查看相关新闻。",
-      "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E8%97%8F%E9%82%A3%E6%9B%B2%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B416%E6%AD%BB65%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "西藏地震现场地面的裂缝比手宽",
+      "summary": "10月22日晚，西藏那曲市巴青县发生7.0级地震，震源深度10千米。目前，总台记者进入海拔4900多米的西藏那曲玛如乡…",
+      "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E8%97%8F%E5%9C%B0%E9%9C%87%E7%8E%B0%E5%9C%BA%E5%9C%B0%E9%9D%A2%E7%9A%84%E8%A3%82%E7%BC%9D%E6%AF%94%E6%89%8B%E5%AE%BD&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-23T05:25:30.198Z",
+      "publishedAt": "2026-10-23T06:02:14.802Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1253,11 +1209,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "在星巴克开会1小时被提醒点单5次",
-      "summary": "目前，星巴克上海多家门店实行“消费入座”。记者发现，有顾客开会一个多小时被店员提醒点单5次，感觉像被“撵人走”，但也有…",
-      "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E6%98%9F%E5%B7%B4%E5%85%8B%E5%BC%80%E4%BC%9A1%E5%B0%8F%E6%97%B6%E8%A2%AB%E6%8F%90%E9%86%92%E7%82%B9%E5%8D%955%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "西藏那曲地震已致16死65伤",
+      "summary": "百度热搜未提供摘要，可点开查看相关新闻。",
+      "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E8%97%8F%E9%82%A3%E6%9B%B2%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B416%E6%AD%BB65%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-23T05:25:30.198Z",
+      "publishedAt": "2026-10-23T06:02:14.802Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1266,11 +1222,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "西藏地震现场地面的裂缝比手宽",
-      "summary": "10月22日晚，西藏那曲市巴青县发生7.0级地震，震源深度10千米。目前，总台记者进入海拔4900多米的西藏那曲玛如乡…",
-      "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E8%97%8F%E5%9C%B0%E9%9C%87%E7%8E%B0%E5%9C%BA%E5%9C%B0%E9%9D%A2%E7%9A%84%E8%A3%82%E7%BC%9D%E6%AF%94%E6%89%8B%E5%AE%BD&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "在星巴克开会1小时被提醒点单5次",
+      "summary": "目前，星巴克上海多家门店实行“消费入座”。记者发现，有顾客开会一个多小时被店员提醒点单5次，感觉像被“撵人走”，但也有…",
+      "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E6%98%9F%E5%B7%B4%E5%85%8B%E5%BC%80%E4%BC%9A1%E5%B0%8F%E6%97%B6%E8%A2%AB%E6%8F%90%E9%86%92%E7%82%B9%E5%8D%955%E6%AC%A1&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-23T05:25:30.198Z",
+      "publishedAt": "2026-10-23T06:02:14.802Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1279,11 +1235,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "胡昌升抵达7.0级地震震中指挥救援",
-      "summary": "10月22日22时33分，西藏那曲市巴青县发生7.0级地震。地震发生后，自治区党委书记胡昌升连夜赶往灾区一线。23日上…",
-      "url": "https://www.baidu.com/s?wd=%E8%83%A1%E6%98%8C%E5%8D%87%E6%8A%B5%E8%BE%BE7.0%E7%BA%A7%E5%9C%B0%E9%9C%87%E9%9C%87%E4%B8%AD%E6%8C%87%E6%8C%A5%E6%95%91%E6%8F%B4&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "中国最快高铁要更新了",
+      "summary": "明年起，国铁集团将启动近十年来最大规模车次编排改革，高铁按最高运行时速重新划分为X、G、T、K四档。此前因高铁网络爆发…",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%BF%AB%E9%AB%98%E9%93%81%E8%A6%81%E6%9B%B4%E6%96%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-23T05:25:30.198Z",
+      "publishedAt": "2026-10-23T06:02:14.802Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1292,11 +1248,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "胡锡进：股票跌得心疼",
-      "summary": "10月23日，胡锡进发文称股票跌得心疼，于是“恶狠狠地花钱”对冲，称股市波动治愈了消费内耗，被网友调侃“终于发现日常消…",
-      "url": "https://www.baidu.com/s?wd=%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E8%82%A1%E7%A5%A8%E8%B7%8C%E5%BE%97%E5%BF%83%E7%96%BC&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "胡昌升抵达7.0级地震震中指挥救援",
+      "summary": "10月22日22时33分，西藏那曲市巴青县发生7.0级地震。地震发生后，自治区党委书记胡昌升连夜赶往灾区一线。23日上…",
+      "url": "https://www.baidu.com/s?wd=%E8%83%A1%E6%98%8C%E5%8D%87%E6%8A%B5%E8%BE%BE7.0%E7%BA%A7%E5%9C%B0%E9%9C%87%E9%9C%87%E4%B8%AD%E6%8C%87%E6%8C%A5%E6%95%91%E6%8F%B4&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-23T05:25:30.198Z",
+      "publishedAt": "2026-10-23T06:02:14.802Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1525,11 +1481,11 @@
     {
       "category": "金融",
       "topic": "美股",
-      "title": "人工智能视频初创公司Higgsfield获得英伟达投资",
-      "summary": "由Snap公司前高管创立的AI视频初创公司Higgsfield Inc.宣布，已获得英伟达和TCV的投资。此轮融资将用…",
-      "url": "https://finance.eastmoney.com/a/202610233905972249.html",
-      "publishedAt": "2026-10-23T05:17:00.000Z",
-      "source": "东方财富 · 科创板日报",
+      "title": "暴跌！纳指重挫2.60%，费城半导体指数暴跌6.72%，MACOM跌超15%，COHERENT跌超12%，闪迪、SK海力士跌超8%，脸书跌近7%",
+      "summary": "北京时间10月23日凌晨，美股三大指数涨跌不一。道琼斯工业平均指数收报52867.98点，涨0.02%；纳斯达克指数收…",
+      "url": "https://finance.eastmoney.com/a/202610233906028191.html",
+      "publishedAt": "2026-10-23T05:43:00.000Z",
+      "source": "东方财富 · 中国经营报",
       "kind": "报道",
       "sourceId": "eastmoney-us-stock",
       "number": 27
@@ -1597,6 +1553,42 @@
     {
       "category": "金融",
       "topic": "A股",
+      "title": "光大证券王开：A股市场的制度建设正从应对波动走向塑造韧性和常态化赋能",
+      "summary": "光大证券首席资产配置分析师王开表示，证监会主席吴清近日在2026金融街论坛年会上发表主旨讲话，释放的积极信号不止在于短…",
+      "url": "https://finance.eastmoney.com/a/202610233906040775.html",
+      "publishedAt": "2026-10-23T05:55:00.000Z",
+      "source": "东方财富 · 人民财讯",
+      "kind": "报道",
+      "sourceId": "eastmoney-cn-stock",
+      "number": 33
+    },
+    {
+      "category": "金融",
+      "topic": "A股",
+      "title": "意大利埃尼集团第三季度调整后净利润同比增长逾一倍至28亿欧元",
+      "summary": "10月23日，意大利能源企业埃尼集团（Eni）公布2026年第三季度及前九个月业绩。第三季度集团备考调整后息税前利润（…",
+      "url": "https://finance.eastmoney.com/a/202610233906025466.html",
+      "publishedAt": "2026-10-23T05:42:00.000Z",
+      "source": "东方财富 · 界面新闻",
+      "kind": "报道",
+      "sourceId": "eastmoney-cn-stock",
+      "number": 34
+    },
+    {
+      "category": "金融",
+      "topic": "A股",
+      "title": "华创证券首席经济学家张瑜：产业创新的载体正在重构A股的盈利结构与估值锚",
+      "summary": "华创证券首席经济学家张瑜表示，资本市场信心的重建，长期需要落脚到企业盈利与产业创新上。产业创新对A股长期价值的赋能，本…",
+      "url": "https://finance.eastmoney.com/a/202610233905999326.html",
+      "publishedAt": "2026-10-23T05:28:00.000Z",
+      "source": "东方财富 · 人民财讯",
+      "kind": "报道",
+      "sourceId": "eastmoney-cn-stock",
+      "number": 35
+    },
+    {
+      "category": "金融",
+      "topic": "A股",
       "title": "创业板指午后翻红涨逾2% 此前一度跌逾3% “易中天”集体拉升",
       "summary": "创业板指午后翻红，此前一度跌逾3%，“易中天”集体拉升。盘面上，保险、白酒、券商概念、医疗美容、一般零售涨幅居前。截至…",
       "url": "https://finance.eastmoney.com/a/202610233905888948.html",
@@ -1604,7 +1596,7 @@
       "source": "东方财富 · 东方财富Choice数据",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
-      "number": 33
+      "number": 36
     },
     {
       "title": "创业板指涨幅扩大至2%，早盘一度跌超3%",
@@ -1616,60 +1608,24 @@
       "topic": "A股",
       "sourceId": "cn-stock",
       "kind": "报道",
-      "number": 34
-    },
-    {
-      "category": "金融",
-      "topic": "A股",
-      "title": "A股再度放量调整！4大光模块龙头午间齐发公告：在手订单充足",
-      "summary": "10月23日，A股市场早间震荡调整，沪指盘中一度跌破3600点，创业板指跌超2%，科创50指数跌超3%，沪深两市半日成…",
-      "url": "https://finance.eastmoney.com/a/202610233905948686.html",
-      "publishedAt": "2026-10-23T05:15:00.000Z",
-      "source": "东方财富 · 21世纪经济报道",
-      "kind": "报道",
-      "sourceId": "eastmoney-cn-stock",
-      "number": 35
-    },
-    {
-      "title": "指数午后回升，创业板指拉升涨逾1%，深证成指同步翻红",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-23/doc-iniweuqs4912550.shtml",
-      "summary": "10月23日消息，指数午后回升，创业板指拉升涨逾1%，深证成指同步翻红。个股方面，宁德时代、中际旭创、新易盛、东方财富…",
-      "source": "股市直击 · 新浪财经",
-      "publishedAt": "2026-10-23T05:12:17.000Z",
-      "category": "金融",
-      "topic": "A股",
-      "sourceId": "cn-stock",
-      "kind": "报道",
-      "number": 36
-    },
-    {
-      "category": "金融",
-      "topic": "A股",
-      "title": "“储能妖股”财报冰火两重天：连续四季业绩超预期，高资本开支却吓坏市场",
-      "summary": "美东时间周四盘后，美股“储能妖股”、燃料电池技术公司Bloom Energy（BE）最新披露季度财报，盈利与营收双双大…",
-      "url": "https://finance.eastmoney.com/a/202610233905927129.html",
-      "publishedAt": "2026-10-23T05:08:00.000Z",
-      "source": "东方财富 · 财联社",
-      "kind": "报道",
-      "sourceId": "eastmoney-cn-stock",
       "number": 37
     },
     {
-      "title": "名创优品于10月22日斥资24.91万美元回购9.86万股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-23/doc-iniweuqs4883395.shtml",
-      "summary": "名创优品（09896）发布公告，于2026年10月22日斥资24.91万美元回购9.86万股。",
-      "source": "新浪港股 · 新浪财经",
-      "publishedAt": "2026-10-23T04:38:22.000Z",
       "category": "金融",
       "topic": "A股",
-      "sourceId": "cn-stock",
+      "title": "杨德龙评沪指跌破3600点：市场出现恐慌性抛售，这一轮下跌是挤泡沫过程",
+      "summary": "10月23日，A股三大指数集体走弱，沪指盘中跌破3600点整数关口，最低探至3574.27点，创下2025年8月以来新…",
+      "url": "https://finance.eastmoney.com/a/202610233906032681.html",
+      "publishedAt": "2026-10-23T05:13:00.000Z",
+      "source": "东方财富 · 中新经纬",
       "kind": "报道",
+      "sourceId": "eastmoney-cn-stock",
       "number": 38
     },
     {
       "category": "金融",
       "topic": "中国期货",
-      "title": "巨震！金价击穿4000美元／盎司 金饰克价一夜跌超30元",
+      "title": "巨震！金价击穿4000美元/盎司 金饰克价一夜跌超30元",
       "summary": "今日早盘，金融市场巨震，国际油价和美债上涨，贵金属价格跳水。其中，现货黄金价格向下跌破4000美元／盎司。隔夜伦敦现货…",
       "url": "https://finance.eastmoney.com/a/202610233905839735.html",
       "publishedAt": "2026-10-23T03:52:00.000Z",
@@ -1691,18 +1647,6 @@
       "number": 40
     },
     {
-      "category": "金融",
-      "topic": "中国期货",
-      "title": "午盘播报 10月23日 周五",
-      "summary": "国内商品期货早盘收盘，主力合约多数上涨。涨幅方面，燃油涨超6%，LPG、低硫燃油涨近6%，丙烯涨近4%，原油、丁二烯胶…",
-      "url": "https://finance.eastmoney.com/a/202610233905810827.html",
-      "publishedAt": "2026-10-23T03:30:00.000Z",
-      "source": "东方财富 · 东方财富研究中心",
-      "kind": "报道",
-      "sourceId": "eastmoney-futures",
-      "number": 41
-    },
-    {
       "title": "光大期货：矿钢煤焦类日报10.23",
       "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-23/doc-iniweqhs8160241.shtml",
       "summary": "螺纹钢： （邱跃成，从业资格号：F3046854；交易咨询资格号：Z0016941） 昨日螺纹盘面震荡下跌，截至日盘螺…",
@@ -1712,7 +1656,7 @@
       "topic": "中国期货",
       "sourceId": "futures-1",
       "kind": "报道",
-      "number": 42
+      "number": 41
     },
     {
       "title": "光大期货1023黄金点评：黄金创三个月新低，市场关注资金流动性",
@@ -1724,7 +1668,7 @@
       "topic": "中国期货",
       "sourceId": "futures-1",
       "kind": "报道",
-      "number": 43
+      "number": 42
     },
     {
       "category": "金融",
@@ -1736,16 +1680,28 @@
       "source": "东方财富 · 东方财富研究中心",
       "kind": "报道",
       "sourceId": "eastmoney-futures",
+      "number": 43
+    },
+    {
+      "title": "快讯：股指期货震荡下行 IM主力合约跌超4%",
+      "url": "https://finance.sina.com.cn/money/gzqh/futuresyspzx/2026-10-23/doc-iniweqhu4834952.shtml",
+      "summary": "2026年10月23日，沪深300股指期货（IF）主力合约跌1.88%，上证50股指期货（IH）主力合约跌1.52%，…",
+      "source": "市场资讯 · 新浪财经",
+      "publishedAt": "2026-10-23T02:16:31.000Z",
+      "category": "金融",
+      "topic": "中国期货",
+      "sourceId": "futures-2",
+      "kind": "报道",
       "number": 44
     },
     {
       "category": "金融",
       "topic": "宏观财经",
-      "title": "印度10月制造业PMI初值为54.9，预期55，前值55.1",
-      "summary": "印度10月制造业PMI初值为54.9，预期55，前值55.1。",
-      "url": "https://finance.eastmoney.com/a/202610233905918736.html",
-      "publishedAt": "2026-10-23T05:00:00.000Z",
-      "source": "东方财富 · 财联社",
+      "title": "陕西前三季度GDP增长4.1%，汽车和煤炭是重要支持",
+      "summary": "随着汽车产业回升，陕西经济重回“双轮驱动”，三季度经济增长提速。",
+      "url": "https://finance.eastmoney.com/a/202610233906004057.html",
+      "publishedAt": "2026-10-23T05:27:00.000Z",
+      "source": "东方财富 · 第一财经",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
       "number": 45
