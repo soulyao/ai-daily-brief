@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-10-24T05:04:36.829Z",
+  "collectedAt": "2026-10-24T05:53:03.680Z",
   "topics": {
     "时事": [
       "百度热搜"
@@ -38,8 +38,8 @@
       "name": "百度热搜 · 时事",
       "url": "https://top.baidu.com/board?tab=realtime",
       "status": "ok",
-      "lastAttempt": "2026-10-24T05:04:36.829Z",
-      "lastSuccess": "2026-10-24T05:04:36.829Z",
+      "lastAttempt": "2026-10-24T05:53:03.680Z",
+      "lastSuccess": "2026-10-24T05:53:03.680Z",
       "items": [
         {
           "category": "时事",
@@ -48,7 +48,7 @@
           "summary": "近日，工信部等部门发布《征求意见稿》，首次将汽车维修经济性纳入新车准入管理。此前，威马等车企破产致数十万辆新能源车沦为…",
           "url": "https://www.baidu.com/s?wd=%E6%95%B0%E5%8D%81%E4%B8%87%E8%BE%86%E6%96%B0%E8%83%BD%E6%BA%90%E2%80%9C%E5%AD%A4%E5%84%BF%E8%BD%A6%E2%80%9D%E8%B0%81%E8%B4%9F%E8%B4%A3%E4%BF%AE&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-24T05:04:36.829Z",
+          "publishedAt": "2026-10-24T05:53:03.680Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -60,7 +60,7 @@
           "summary": "10月24日3时25分，我国在酒泉卫星发射中心使用长征四号乙运载火箭，成功将遥感五十三号07-09星、遥感五十六号19…",
           "url": "https://www.baidu.com/s?wd=%E7%A5%9D%E8%B4%BA%EF%BC%81%E4%B8%AD%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E4%B8%80%E7%AE%AD%E5%85%AD%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-24T05:04:36.829Z",
+          "publishedAt": "2026-10-24T05:53:03.680Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -72,7 +72,7 @@
           "summary": "10月24日，网红经济学家任泽平运营的公众号“泽平宏观”无法关注，页面提示“该账号因违规无法关注”。账号客服称是账号异…",
           "url": "https://www.baidu.com/s?wd=%E4%BB%BB%E6%B3%BD%E5%B9%B3%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E8%BF%9D%E8%A7%84%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-24T05:04:36.829Z",
+          "publishedAt": "2026-10-24T05:53:03.680Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -80,11 +80,23 @@
         {
           "category": "时事",
           "topic": "百度热搜",
-          "title": "国务院定调：减缓AI应用就业替代影响",
-          "summary": "10月23日，国务院办公厅印发意见，定调减缓人工智能应用就业替代影响。意见指出，优先在劳动力紧缺、高危岗位推广应用；稳…",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%AE%9A%E8%B0%83%EF%BC%9A%E5%87%8F%E7%BC%93AI%E5%BA%94%E7%94%A8%E5%B0%B1%E4%B8%9A%E6%9B%BF%E4%BB%A3%E5%BD%B1%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news",
+          "title": "《令人心动的offer》引医疗圈众怒",
+          "summary": "近日，《令人心动的offer》第八季医学季开播，因“盲猜是颅咽管瘤”等不严谨表述引医疗圈众怒。医疗圈指出节目呈现的医学…",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E4%BB%A4%E4%BA%BA%E5%BF%83%E5%8A%A8%E7%9A%84offer%E3%80%8B%E5%BC%95%E5%8C%BB%E7%96%97%E5%9C%88%E4%BC%97%E6%80%92&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-24T05:04:36.829Z",
+          "publishedAt": "2026-10-24T05:53:03.680Z",
+          "timeLabel": "热搜采集",
+          "linkLabel": "查看相关新闻",
+          "sourceId": "baidu"
+        },
+        {
+          "category": "时事",
+          "topic": "百度热搜",
+          "title": "1岁多女童确诊糖尿病",
+          "summary": "近日，杭州1岁8个月女孩诺诺确诊1型糖尿病，经治疗血糖已降至安全范围，但今后需每天注射胰岛素维持。此前一个月，诺诺出现…",
+          "url": "https://www.baidu.com/s?wd=1%E5%B2%81%E5%A4%9A%E5%A5%B3%E7%AB%A5%E7%A1%AE%E8%AF%8A%E7%B3%96%E5%B0%BF%E7%97%85&sa=fyb_news&rsv_dl=fyb_news",
+          "source": "百度热搜",
+          "publishedAt": "2026-10-24T05:53:03.680Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -96,19 +108,7 @@
           "summary": "当地时间10月23日，俄罗斯武装力量总参谋长格拉西莫夫表示，鉴于在赫尔松州奥列什基（又称阿廖什基）居民点开展人道主义行…",
           "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B%E5%AE%A3%E5%B8%83%E5%B0%86%E5%9C%A8%E8%B5%AB%E5%B0%94%E6%9D%BE%E6%96%B9%E5%90%91%E5%AE%9E%E6%96%BD%E5%81%9C%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-24T05:04:36.829Z",
-          "timeLabel": "热搜采集",
-          "linkLabel": "查看相关新闻",
-          "sourceId": "baidu"
-        },
-        {
-          "category": "时事",
-          "topic": "百度热搜",
-          "title": "神二十三乘组有一人将驻留一年",
-          "summary": "近日，神舟二十三号乘组在轨满5个月，进入“回家”倒计时。按计划，3名航天员中1人将执行一年期驻留试验，人选尚未公布。",
-          "url": "https://www.baidu.com/s?wd=%E7%A5%9E%E4%BA%8C%E5%8D%81%E4%B8%89%E4%B9%98%E7%BB%84%E6%9C%89%E4%B8%80%E4%BA%BA%E5%B0%86%E9%A9%BB%E7%95%99%E4%B8%80%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news",
-          "source": "百度热搜",
-          "publishedAt": "2026-10-24T05:04:36.829Z",
+          "publishedAt": "2026-10-24T05:53:03.680Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -120,8 +120,8 @@
       "name": "网易体育（署名媒体）",
       "url": "https://sports.163.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-24T05:04:36.829Z",
-      "lastSuccess": "2026-10-24T05:04:36.829Z",
+      "lastAttempt": "2026-10-24T05:53:03.680Z",
+      "lastSuccess": "2026-10-24T05:53:03.680Z",
       "items": [
         {
           "title": "勇士108-111惨遭灰熊逆转，库里24分，布泽尔25+13+6",
@@ -190,6 +190,17 @@
           "number": 6
         },
         {
+          "title": "库巴西：梅西应该永远踢下去；希望巴萨为他举办一场致敬赛",
+          "url": "https://www.163.com/dy/article/LA0Q10QC0549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-10-24T05:20:20.000Z",
+          "category": "体育",
+          "topic": "西甲",
+          "sourceId": "sports",
+          "summary": "在国家德比前，巴萨后卫库巴西接受了DSPORTS的采访，谈到了梅西对巴萨和足球世界的意义。库巴西表示，希望梅西能够永远…",
+          "number": 7
+        },
+        {
           "title": "西媒：巴萨完成2.1亿欧融资，目前总债务升至26.8亿欧",
           "url": "https://www.163.com/dy/article/LA0I5QHG0549BAP0.html",
           "source": "懂球帝 · 网易体育",
@@ -198,7 +209,7 @@
           "topic": "西甲",
           "sourceId": "sports",
           "summary": "据西班牙媒体Culemanía消息，巴萨主席胡安-拉波尔塔已完成今年7月启动的2.1亿欧元债券融资计划的第二期发行，为…",
-          "number": 7
+          "number": 8
         },
         {
           "title": "西媒：巴萨预计2050年还清球场改建贷款，比皇马早三年",
@@ -209,17 +220,6 @@
           "topic": "西甲",
           "sourceId": "sports",
           "summary": "据西班牙媒体Culemanía消息，巴萨目前预计将在2050年还清Spotify诺坎普球场改建贷款，皇马的伯纳乌球场改…",
-          "number": 8
-        },
-        {
-          "title": "热苏斯：我们始终尊重皇马，希望能在国家德比出场并进球",
-          "url": "https://www.163.com/dy/article/LA0F4OL60549BAP0.html",
-          "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-10-24T02:10:08.000Z",
-          "category": "体育",
-          "topic": "西甲",
-          "sourceId": "sports",
-          "summary": "在巴塞罗那对阵皇家马德里的国家德比前，巴萨前锋热苏斯接受了CazéTV的采访。他谈到了首次备战国家德比的感受、巴萨的进…",
           "number": 9
         },
         {
@@ -245,14 +245,14 @@
           "number": 11
         },
         {
-          "title": "图片报：孔帕尼送医后情况稳定，他的健康当前是拜仁最高优先级",
-          "url": "https://www.163.com/dy/article/L9VG5SFA0549BAP0.html",
+          "title": "德天空：因家中变故，基米希不会进入拜仁本轮德甲大名单",
+          "url": "https://www.163.com/dy/article/L9VG5SKO0549BAP0.html",
           "source": "懂球帝 · 网易体育",
           "publishedAt": "2026-10-23T17:08:59.000Z",
           "category": "体育",
           "topic": "德甲",
           "sourceId": "sports",
-          "summary": "拜仁主帅孔帕尼周五在塞贝纳大街训练基地晕倒，救援直升机随后出动，孔帕尼被急救医生送往一家医院。据《图片报》消息，孔帕尼…",
+          "summary": "拜仁将在本周末德甲第7轮客场对阵弗赖堡，据德国天空体育的消息，基米希不会进入本场比赛大名单。",
           "number": 12
         },
         {
@@ -338,9 +338,9 @@
       "id": "eastmoney-us-stock",
       "name": "东方财富 · 美股",
       "url": "https://stock.eastmoney.com/america.html",
-      "status": "error",
-      "lastAttempt": "2026-10-24T05:04:36.829Z",
-      "lastSuccess": "2026-10-24T04:38:54.851Z",
+      "status": "ok",
+      "lastAttempt": "2026-10-24T05:53:03.680Z",
+      "lastSuccess": "2026-10-24T05:53:03.680Z",
       "items": [
         {
           "category": "金融",
@@ -356,22 +356,22 @@
         {
           "category": "金融",
           "topic": "美股",
-          "title": "美股ETF追踪 | 国际油价大涨 二倍做多能源ETF涨超5%",
-          "summary": "周五美股三大指数集体收跌，道琼斯指数跌1.23%，纳斯达克指数跌0.21%，标普500指数跌0.52%。大型科技股跌多…",
-          "url": "https://finance.eastmoney.com/a/202610243906835993.html",
-          "publishedAt": "2026-10-23T21:23:00.000Z",
-          "source": "东方财富 · 哈富证券",
+          "title": "什么信号？亚马逊CEO：AWS 2027年容量基本售罄 巨额投资仍难匹配需求！",
+          "summary": "亚马逊首席执行官安迪·贾西（Andy Jassy）周五表示，受人工智能（AI）基础设施需求不断增长的影响，亚马逊网络服…",
+          "url": "https://finance.eastmoney.com/a/202610243907083341.html",
+          "publishedAt": "2026-10-24T05:51:00.000Z",
+          "source": "东方财富 · 财联社",
           "kind": "报道",
           "sourceId": "eastmoney-us-stock"
         },
         {
           "category": "金融",
           "topic": "美股",
-          "title": "亚马逊CEO称2027年底前的云计算容量基本售罄",
-          "summary": "据路透社报道，当地时间10月23日，亚马逊首席执行官Andy Jassy表示，受人工智能基础设施持续增长的影响，亚马逊…",
-          "url": "https://finance.eastmoney.com/a/202610243907073066.html",
-          "publishedAt": "2026-10-24T03:49:00.000Z",
-          "source": "东方财富 · 经纬科创",
+          "title": "21调查｜英伟达停产传闻搅动华强北，显卡一日一价，炒至6万元",
+          "summary": "英伟达消费级显卡部分型号的“停产传闻”，正在搅动华强北电脑零配件市场。",
+          "url": "https://finance.eastmoney.com/a/202610243907080446.html",
+          "publishedAt": "2026-10-24T04:35:00.000Z",
+          "source": "东方财富 · 21世纪经济报道",
           "kind": "报道",
           "sourceId": "eastmoney-us-stock"
         }
@@ -382,8 +382,8 @@
       "name": "东方财富 · A股",
       "url": "https://stock.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-24T05:04:36.829Z",
-      "lastSuccess": "2026-10-24T05:04:36.829Z",
+      "lastAttempt": "2026-10-24T05:53:03.680Z",
+      "lastSuccess": "2026-10-24T05:53:03.680Z",
       "items": [
         {
           "category": "金融",
@@ -476,17 +476,6 @@
         {
           "category": "金融",
           "topic": "A股",
-          "title": "期内孙公司土地收储产生损失，众兴菌业前三季度净利润同比减少约六成",
-          "summary": "众兴菌业（002772）10月23日披露财报，前三季度净利同比下降约六成。",
-          "url": "https://finance.eastmoney.com/a/202610243907075753.html",
-          "publishedAt": "2026-10-24T04:40:00.000Z",
-          "source": "东方财富 · 深圳商报·读创",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
           "title": "A股反弹 逾4500只个股上涨 机构：多重积极因素将支撑市场逐步企稳",
           "summary": "10月23日，A股市场全天探底回升，主要指数午后上演反攻态势。截至收盘，上证指数报3690.48点，涨0.89%；深证…",
           "url": "https://finance.eastmoney.com/a/202610243906817652.html",
@@ -527,6 +516,17 @@
           "source": "东方财富 · 中国基金报",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "多家A股公司评级获上调 券商最新点评来了",
+          "summary": "随着A股公司密集披露三季报，券商最新个股业绩点评也在近期批量出炉。",
+          "url": "https://finance.eastmoney.com/a/202610223904529722.html",
+          "publishedAt": "2026-10-22T16:20:00.000Z",
+          "source": "东方财富 · 券商中国",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
         }
       ]
     },
@@ -535,8 +535,8 @@
       "name": "东方财富 · 中国期货",
       "url": "https://futures.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-24T05:04:36.829Z",
-      "lastSuccess": "2026-10-24T05:04:36.829Z",
+      "lastAttempt": "2026-10-24T05:53:03.680Z",
+      "lastSuccess": "2026-10-24T05:53:03.680Z",
       "items": [
         {
           "category": "金融",
@@ -556,8 +556,8 @@
       "name": "东方财富 · 宏观财经",
       "url": "https://finance.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-24T05:04:36.829Z",
-      "lastSuccess": "2026-10-24T05:04:36.829Z",
+      "lastAttempt": "2026-10-24T05:53:03.680Z",
+      "lastSuccess": "2026-10-24T05:53:03.680Z",
       "items": [
         {
           "category": "金融",
@@ -577,8 +577,8 @@
       "name": "新浪财经 · 美股",
       "url": "https://finance.sina.com.cn/stock/usstock/",
       "status": "ok",
-      "lastAttempt": "2026-10-24T05:04:36.829Z",
-      "lastSuccess": "2026-10-24T05:04:36.829Z",
+      "lastAttempt": "2026-10-24T05:53:03.680Z",
+      "lastSuccess": "2026-10-24T05:53:03.680Z",
       "items": [
         {
           "title": "道指跌超650点！美股主要股指全线收跌，芯片股反弹，油价大涨，现货黄金失守4000美元关口",
@@ -631,9 +631,20 @@
       "name": "新浪财经 · A股",
       "url": "https://finance.sina.com.cn/stock/",
       "status": "ok",
-      "lastAttempt": "2026-10-24T05:04:36.829Z",
-      "lastSuccess": "2026-10-24T05:04:36.829Z",
+      "lastAttempt": "2026-10-24T05:53:03.680Z",
+      "lastSuccess": "2026-10-24T05:53:03.680Z",
       "items": [
+        {
+          "title": "002980，243家机构扎堆调研",
+          "url": "https://finance.sina.com.cn/jjxw/2026-10-24/doc-iniwhxpq8117750.shtml",
+          "summary": "来源：中国基金报 【导读】243家机构调研华盛昌 中国基金报记者 江右 近日，A股上市公司三季报进入密集披露期。虽然市…",
+          "source": "滚动播报 · 新浪财经",
+          "publishedAt": "2026-10-24T04:20:00.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock",
+          "kind": "报道"
+        },
         {
           "title": "利好！300821，净利猛增超19400%！多只A股，业绩爆发",
           "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-24/doc-iniwhxpw2165935.shtml",
@@ -718,8 +729,8 @@
       "name": "新浪财经 · 期货订阅 1",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-10-24T05:04:36.829Z",
-      "lastSuccess": "2026-10-24T05:04:36.829Z",
+      "lastAttempt": "2026-10-24T05:53:03.680Z",
+      "lastSuccess": "2026-10-24T05:53:03.680Z",
       "items": []
     },
     {
@@ -727,8 +738,8 @@
       "name": "新浪财经 · 期货订阅 2",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-10-24T05:04:36.829Z",
-      "lastSuccess": "2026-10-24T05:04:36.829Z",
+      "lastAttempt": "2026-10-24T05:53:03.680Z",
+      "lastSuccess": "2026-10-24T05:53:03.680Z",
       "items": [
         {
           "title": "证监会主席吴清会见香港特区政府财政司司长陈茂波一行",
@@ -759,8 +770,8 @@
       "name": "新浪财经 · 期货订阅 3",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-10-24T05:04:36.829Z",
-      "lastSuccess": "2026-10-24T05:04:36.829Z",
+      "lastAttempt": "2026-10-24T05:53:03.680Z",
+      "lastSuccess": "2026-10-24T05:53:03.680Z",
       "items": []
     },
     {
@@ -768,8 +779,8 @@
       "name": "中新网 · 国际",
       "url": "https://www.chinanews.com.cn/rss/world.xml",
       "status": "ok",
-      "lastAttempt": "2026-10-24T05:04:36.829Z",
-      "lastSuccess": "2026-10-24T05:04:36.829Z",
+      "lastAttempt": "2026-10-24T05:53:03.680Z",
+      "lastSuccess": "2026-10-24T05:53:03.680Z",
       "items": [
         {
           "title": "特朗普称可能对伊发动一次小规模“史诗怒火”行动",
@@ -808,8 +819,8 @@
       "name": "中新网 · 国内",
       "url": "https://www.chinanews.com.cn/rss/china.xml",
       "status": "ok",
-      "lastAttempt": "2026-10-24T05:04:36.829Z",
-      "lastSuccess": "2026-10-24T05:04:36.829Z",
+      "lastAttempt": "2026-10-24T05:53:03.680Z",
+      "lastSuccess": "2026-10-24T05:53:03.680Z",
       "items": [
         {
           "title": "王毅宣布中方进一步落实全球治理倡议的务实行动",
@@ -838,8 +849,8 @@
       "name": "AI HOT",
       "url": "https://aihot.news/",
       "status": "ok",
-      "lastAttempt": "2026-10-24T05:04:36.829Z",
-      "lastSuccess": "2026-10-24T05:04:36.829Z",
+      "lastAttempt": "2026-10-24T05:53:03.680Z",
+      "lastSuccess": "2026-10-24T05:53:03.680Z",
       "items": [
         {
           "category": "AI",
@@ -996,7 +1007,7 @@
       "summary": "近日，工信部等部门发布《征求意见稿》，首次将汽车维修经济性纳入新车准入管理。此前，威马等车企破产致数十万辆新能源车沦为…",
       "url": "https://www.baidu.com/s?wd=%E6%95%B0%E5%8D%81%E4%B8%87%E8%BE%86%E6%96%B0%E8%83%BD%E6%BA%90%E2%80%9C%E5%AD%A4%E5%84%BF%E8%BD%A6%E2%80%9D%E8%B0%81%E8%B4%9F%E8%B4%A3%E4%BF%AE&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-24T05:04:36.829Z",
+      "publishedAt": "2026-10-24T05:53:03.680Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1009,7 +1020,7 @@
       "summary": "10月24日3时25分，我国在酒泉卫星发射中心使用长征四号乙运载火箭，成功将遥感五十三号07-09星、遥感五十六号19…",
       "url": "https://www.baidu.com/s?wd=%E7%A5%9D%E8%B4%BA%EF%BC%81%E4%B8%AD%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E4%B8%80%E7%AE%AD%E5%85%AD%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-24T05:04:36.829Z",
+      "publishedAt": "2026-10-24T05:53:03.680Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1022,7 +1033,7 @@
       "summary": "10月24日，网红经济学家任泽平运营的公众号“泽平宏观”无法关注，页面提示“该账号因违规无法关注”。账号客服称是账号异…",
       "url": "https://www.baidu.com/s?wd=%E4%BB%BB%E6%B3%BD%E5%B9%B3%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E8%BF%9D%E8%A7%84%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-24T05:04:36.829Z",
+      "publishedAt": "2026-10-24T05:53:03.680Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1031,11 +1042,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "国务院定调：减缓AI应用就业替代影响",
-      "summary": "10月23日，国务院办公厅印发意见，定调减缓人工智能应用就业替代影响。意见指出，优先在劳动力紧缺、高危岗位推广应用；稳…",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%AE%9A%E8%B0%83%EF%BC%9A%E5%87%8F%E7%BC%93AI%E5%BA%94%E7%94%A8%E5%B0%B1%E4%B8%9A%E6%9B%BF%E4%BB%A3%E5%BD%B1%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "《令人心动的offer》引医疗圈众怒",
+      "summary": "近日，《令人心动的offer》第八季医学季开播，因“盲猜是颅咽管瘤”等不严谨表述引医疗圈众怒。医疗圈指出节目呈现的医学…",
+      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E4%BB%A4%E4%BA%BA%E5%BF%83%E5%8A%A8%E7%9A%84offer%E3%80%8B%E5%BC%95%E5%8C%BB%E7%96%97%E5%9C%88%E4%BC%97%E6%80%92&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-24T05:04:36.829Z",
+      "publishedAt": "2026-10-24T05:53:03.680Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1044,11 +1055,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "俄军宣布将在赫尔松方向实施停火",
-      "summary": "当地时间10月23日，俄罗斯武装力量总参谋长格拉西莫夫表示，鉴于在赫尔松州奥列什基（又称阿廖什基）居民点开展人道主义行…",
-      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B%E5%AE%A3%E5%B8%83%E5%B0%86%E5%9C%A8%E8%B5%AB%E5%B0%94%E6%9D%BE%E6%96%B9%E5%90%91%E5%AE%9E%E6%96%BD%E5%81%9C%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "1岁多女童确诊糖尿病",
+      "summary": "近日，杭州1岁8个月女孩诺诺确诊1型糖尿病，经治疗血糖已降至安全范围，但今后需每天注射胰岛素维持。此前一个月，诺诺出现…",
+      "url": "https://www.baidu.com/s?wd=1%E5%B2%81%E5%A4%9A%E5%A5%B3%E7%AB%A5%E7%A1%AE%E8%AF%8A%E7%B3%96%E5%B0%BF%E7%97%85&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-24T05:04:36.829Z",
+      "publishedAt": "2026-10-24T05:53:03.680Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1057,11 +1068,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "神二十三乘组有一人将驻留一年",
-      "summary": "近日，神舟二十三号乘组在轨满5个月，进入“回家”倒计时。按计划，3名航天员中1人将执行一年期驻留试验，人选尚未公布。",
-      "url": "https://www.baidu.com/s?wd=%E7%A5%9E%E4%BA%8C%E5%8D%81%E4%B8%89%E4%B9%98%E7%BB%84%E6%9C%89%E4%B8%80%E4%BA%BA%E5%B0%86%E9%A9%BB%E7%95%99%E4%B8%80%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "俄军宣布将在赫尔松方向实施停火",
+      "summary": "当地时间10月23日，俄罗斯武装力量总参谋长格拉西莫夫表示，鉴于在赫尔松州奥列什基（又称阿廖什基）居民点开展人道主义行…",
+      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B%E5%AE%A3%E5%B8%83%E5%B0%86%E5%9C%A8%E8%B5%AB%E5%B0%94%E6%9D%BE%E6%96%B9%E5%90%91%E5%AE%9E%E6%96%BD%E5%81%9C%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-24T05:04:36.829Z",
+      "publishedAt": "2026-10-24T05:53:03.680Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1134,6 +1145,17 @@
       "number": 12
     },
     {
+      "title": "库巴西：梅西应该永远踢下去；希望巴萨为他举办一场致敬赛",
+      "url": "https://www.163.com/dy/article/LA0Q10QC0549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-10-24T05:20:20.000Z",
+      "category": "体育",
+      "topic": "西甲",
+      "sourceId": "sports",
+      "summary": "在国家德比前，巴萨后卫库巴西接受了DSPORTS的采访，谈到了梅西对巴萨和足球世界的意义。库巴西表示，希望梅西能够永远…",
+      "number": 13
+    },
+    {
       "title": "西媒：巴萨完成2.1亿欧融资，目前总债务升至26.8亿欧",
       "url": "https://www.163.com/dy/article/LA0I5QHG0549BAP0.html",
       "source": "懂球帝 · 网易体育",
@@ -1142,7 +1164,7 @@
       "topic": "西甲",
       "sourceId": "sports",
       "summary": "据西班牙媒体Culemanía消息，巴萨主席胡安-拉波尔塔已完成今年7月启动的2.1亿欧元债券融资计划的第二期发行，为…",
-      "number": 13
+      "number": 14
     },
     {
       "title": "西媒：巴萨预计2050年还清球场改建贷款，比皇马早三年",
@@ -1153,17 +1175,6 @@
       "topic": "西甲",
       "sourceId": "sports",
       "summary": "据西班牙媒体Culemanía消息，巴萨目前预计将在2050年还清Spotify诺坎普球场改建贷款，皇马的伯纳乌球场改…",
-      "number": 14
-    },
-    {
-      "title": "热苏斯：我们始终尊重皇马，希望能在国家德比出场并进球",
-      "url": "https://www.163.com/dy/article/LA0F4OL60549BAP0.html",
-      "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-10-24T02:10:08.000Z",
-      "category": "体育",
-      "topic": "西甲",
-      "sourceId": "sports",
-      "summary": "在巴塞罗那对阵皇家马德里的国家德比前，巴萨前锋热苏斯接受了CazéTV的采访。他谈到了首次备战国家德比的感受、巴萨的进…",
       "number": 15
     },
     {
@@ -1189,14 +1200,14 @@
       "number": 17
     },
     {
-      "title": "图片报：孔帕尼送医后情况稳定，他的健康当前是拜仁最高优先级",
-      "url": "https://www.163.com/dy/article/L9VG5SFA0549BAP0.html",
+      "title": "德天空：因家中变故，基米希不会进入拜仁本轮德甲大名单",
+      "url": "https://www.163.com/dy/article/L9VG5SKO0549BAP0.html",
       "source": "懂球帝 · 网易体育",
       "publishedAt": "2026-10-23T17:08:59.000Z",
       "category": "体育",
       "topic": "德甲",
       "sourceId": "sports",
-      "summary": "拜仁主帅孔帕尼周五在塞贝纳大街训练基地晕倒，救援直升机随后出动，孔帕尼被急救医生送往一家医院。据《图片报》消息，孔帕尼…",
+      "summary": "拜仁将在本周末德甲第7轮客场对阵弗赖堡，据德国天空体育的消息，基米希不会进入本场比赛大名单。",
       "number": 18
     },
     {
@@ -1279,11 +1290,11 @@
     {
       "category": "金融",
       "topic": "美股",
-      "title": "“AI算力过剩论”搅动美股半导体板块：10月市值蒸发2.2万亿美元 马斯克、黄仁勋、IMF接连发声",
-      "summary": "10月23日（周五），亚洲科技股上演集体反弹:",
-      "url": "https://finance.eastmoney.com/a/202610243907072178.html",
-      "publishedAt": "2026-10-24T04:11:00.000Z",
-      "source": "东方财富 · 每日经济新闻",
+      "title": "什么信号？亚马逊CEO：AWS 2027年容量基本售罄 巨额投资仍难匹配需求！",
+      "summary": "亚马逊首席执行官安迪·贾西（Andy Jassy）周五表示，受人工智能（AI）基础设施需求不断增长的影响，亚马逊网络服…",
+      "url": "https://finance.eastmoney.com/a/202610243907083341.html",
+      "publishedAt": "2026-10-24T05:51:00.000Z",
+      "source": "东方财富 · 财联社",
       "kind": "报道",
       "sourceId": "eastmoney-us-stock",
       "number": 26
@@ -1291,14 +1302,26 @@
     {
       "category": "金融",
       "topic": "美股",
-      "title": "亚马逊CEO称2027年底前的云计算容量基本售罄",
-      "summary": "据路透社报道，当地时间10月23日，亚马逊首席执行官Andy Jassy表示，受人工智能基础设施持续增长的影响，亚马逊…",
-      "url": "https://finance.eastmoney.com/a/202610243907073066.html",
-      "publishedAt": "2026-10-24T03:49:00.000Z",
-      "source": "东方财富 · 经纬科创",
+      "title": "21调查｜英伟达停产传闻搅动华强北，显卡一日一价，炒至6万元",
+      "summary": "英伟达消费级显卡部分型号的“停产传闻”，正在搅动华强北电脑零配件市场。",
+      "url": "https://finance.eastmoney.com/a/202610243907080446.html",
+      "publishedAt": "2026-10-24T04:35:00.000Z",
+      "source": "东方财富 · 21世纪经济报道",
       "kind": "报道",
       "sourceId": "eastmoney-us-stock",
       "number": 27
+    },
+    {
+      "category": "金融",
+      "topic": "美股",
+      "title": "“AI算力过剩论”搅动美股半导体板块：10月市值蒸发2.2万亿美元 马斯克、黄仁勋、IMF接连发声",
+      "summary": "10月23日（周五），亚洲科技股上演集体反弹:",
+      "url": "https://finance.eastmoney.com/a/202610243907072178.html",
+      "publishedAt": "2026-10-24T04:11:00.000Z",
+      "source": "东方财富 · 每日经济新闻",
+      "kind": "报道",
+      "sourceId": "eastmoney-us-stock",
+      "number": 28
     },
     {
       "title": "道指跌超650点！美股主要股指全线收跌，芯片股反弹，油价大涨，现货黄金失守4000美元关口",
@@ -1310,7 +1333,7 @@
       "topic": "美股",
       "sourceId": "us-stock",
       "kind": "报道",
-      "number": 28
+      "number": 29
     },
     {
       "title": "10月24日隔夜要闻：美股三大指数收跌 油价大涨 金价下跌 特朗普称可能对伊发动一次小规模“史诗怒火”行动",
@@ -1322,18 +1345,6 @@
       "topic": "美股",
       "sourceId": "us-stock",
       "kind": "报道",
-      "number": 29
-    },
-    {
-      "category": "金融",
-      "topic": "美股",
-      "title": "美股ETF追踪 | 国际油价大涨 二倍做多能源ETF涨超5%",
-      "summary": "周五美股三大指数集体收跌，道琼斯指数跌1.23%，纳斯达克指数跌0.21%，标普500指数跌0.52%。大型科技股跌多…",
-      "url": "https://finance.eastmoney.com/a/202610243906835993.html",
-      "publishedAt": "2026-10-23T21:23:00.000Z",
-      "source": "东方财富 · 哈富证券",
-      "kind": "报道",
-      "sourceId": "eastmoney-us-stock",
       "number": 30
     },
     {
@@ -1361,15 +1372,15 @@
       "number": 32
     },
     {
+      "title": "002980，243家机构扎堆调研",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-24/doc-iniwhxpq8117750.shtml",
+      "summary": "来源：中国基金报 【导读】243家机构调研华盛昌 中国基金报记者 江右 近日，A股上市公司三季报进入密集披露期。虽然市…",
+      "source": "滚动播报 · 新浪财经",
+      "publishedAt": "2026-10-24T04:20:00.000Z",
       "category": "金融",
       "topic": "A股",
-      "title": "期内孙公司土地收储产生损失，众兴菌业前三季度净利润同比减少约六成",
-      "summary": "众兴菌业（002772）10月23日披露财报，前三季度净利同比下降约六成。",
-      "url": "https://finance.eastmoney.com/a/202610243907075753.html",
-      "publishedAt": "2026-10-24T04:40:00.000Z",
-      "source": "东方财富 · 深圳商报·读创",
+      "sourceId": "cn-stock",
       "kind": "报道",
-      "sourceId": "eastmoney-cn-stock",
       "number": 33
     },
     {
