@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-10-24T04:38:54.851Z",
+  "collectedAt": "2026-10-24T05:04:36.829Z",
   "topics": {
     "时事": [
       "百度热搜"
@@ -38,8 +38,8 @@
       "name": "百度热搜 · 时事",
       "url": "https://top.baidu.com/board?tab=realtime",
       "status": "ok",
-      "lastAttempt": "2026-10-24T04:38:54.851Z",
-      "lastSuccess": "2026-10-24T04:38:54.851Z",
+      "lastAttempt": "2026-10-24T05:04:36.829Z",
+      "lastSuccess": "2026-10-24T05:04:36.829Z",
       "items": [
         {
           "category": "时事",
@@ -48,7 +48,7 @@
           "summary": "近日，工信部等部门发布《征求意见稿》，首次将汽车维修经济性纳入新车准入管理。此前，威马等车企破产致数十万辆新能源车沦为…",
           "url": "https://www.baidu.com/s?wd=%E6%95%B0%E5%8D%81%E4%B8%87%E8%BE%86%E6%96%B0%E8%83%BD%E6%BA%90%E2%80%9C%E5%AD%A4%E5%84%BF%E8%BD%A6%E2%80%9D%E8%B0%81%E8%B4%9F%E8%B4%A3%E4%BF%AE&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-24T04:38:54.851Z",
+          "publishedAt": "2026-10-24T05:04:36.829Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -60,19 +60,7 @@
           "summary": "10月24日3时25分，我国在酒泉卫星发射中心使用长征四号乙运载火箭，成功将遥感五十三号07-09星、遥感五十六号19…",
           "url": "https://www.baidu.com/s?wd=%E7%A5%9D%E8%B4%BA%EF%BC%81%E4%B8%AD%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E4%B8%80%E7%AE%AD%E5%85%AD%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-24T04:38:54.851Z",
-          "timeLabel": "热搜采集",
-          "linkLabel": "查看相关新闻",
-          "sourceId": "baidu"
-        },
-        {
-          "category": "时事",
-          "topic": "百度热搜",
-          "title": "“订单排到2031年” 重量级国货爆单",
-          "summary": "10月23日工信部发布数据，今年1至9月我国造船业三大指标持续全球领跑，新接订单量同比增长163.2%，占全球81.8…",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%AE%A2%E5%8D%95%E6%8E%92%E5%88%B02031%E5%B9%B4%E2%80%9D+%E9%87%8D%E9%87%8F%E7%BA%A7%E5%9B%BD%E8%B4%A7%E7%88%86%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news",
-          "source": "百度热搜",
-          "publishedAt": "2026-10-24T04:38:54.851Z",
+          "publishedAt": "2026-10-24T05:04:36.829Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -84,7 +72,19 @@
           "summary": "10月24日，网红经济学家任泽平运营的公众号“泽平宏观”无法关注，页面提示“该账号因违规无法关注”。账号客服称是账号异…",
           "url": "https://www.baidu.com/s?wd=%E4%BB%BB%E6%B3%BD%E5%B9%B3%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E8%BF%9D%E8%A7%84%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-24T04:38:54.851Z",
+          "publishedAt": "2026-10-24T05:04:36.829Z",
+          "timeLabel": "热搜采集",
+          "linkLabel": "查看相关新闻",
+          "sourceId": "baidu"
+        },
+        {
+          "category": "时事",
+          "topic": "百度热搜",
+          "title": "国务院定调：减缓AI应用就业替代影响",
+          "summary": "10月23日，国务院办公厅印发意见，定调减缓人工智能应用就业替代影响。意见指出，优先在劳动力紧缺、高危岗位推广应用；稳…",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%AE%9A%E8%B0%83%EF%BC%9A%E5%87%8F%E7%BC%93AI%E5%BA%94%E7%94%A8%E5%B0%B1%E4%B8%9A%E6%9B%BF%E4%BB%A3%E5%BD%B1%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news",
+          "source": "百度热搜",
+          "publishedAt": "2026-10-24T05:04:36.829Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -96,7 +96,7 @@
           "summary": "当地时间10月23日，俄罗斯武装力量总参谋长格拉西莫夫表示，鉴于在赫尔松州奥列什基（又称阿廖什基）居民点开展人道主义行…",
           "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B%E5%AE%A3%E5%B8%83%E5%B0%86%E5%9C%A8%E8%B5%AB%E5%B0%94%E6%9D%BE%E6%96%B9%E5%90%91%E5%AE%9E%E6%96%BD%E5%81%9C%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-24T04:38:54.851Z",
+          "publishedAt": "2026-10-24T05:04:36.829Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -104,11 +104,11 @@
         {
           "category": "时事",
           "topic": "百度热搜",
-          "title": "居民用电量10年来首次负增长怎么看",
-          "summary": "今年1至9月，城乡居民生活用电量同比下降0.3%。这是近十年来该统计口径下累计增速首次由正转负。本次下滑属于短期现象，…",
-          "url": "https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E7%94%A8%E7%94%B5%E9%87%8F10%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E8%B4%9F%E5%A2%9E%E9%95%BF%E6%80%8E%E4%B9%88%E7%9C%8B&sa=fyb_news&rsv_dl=fyb_news",
+          "title": "神二十三乘组有一人将驻留一年",
+          "summary": "近日，神舟二十三号乘组在轨满5个月，进入“回家”倒计时。按计划，3名航天员中1人将执行一年期驻留试验，人选尚未公布。",
+          "url": "https://www.baidu.com/s?wd=%E7%A5%9E%E4%BA%8C%E5%8D%81%E4%B8%89%E4%B9%98%E7%BB%84%E6%9C%89%E4%B8%80%E4%BA%BA%E5%B0%86%E9%A9%BB%E7%95%99%E4%B8%80%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-24T04:38:54.851Z",
+          "publishedAt": "2026-10-24T05:04:36.829Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -120,9 +120,31 @@
       "name": "网易体育（署名媒体）",
       "url": "https://sports.163.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-24T04:38:54.851Z",
-      "lastSuccess": "2026-10-24T04:38:54.851Z",
+      "lastAttempt": "2026-10-24T05:04:36.829Z",
+      "lastSuccess": "2026-10-24T05:04:36.829Z",
       "items": [
+        {
+          "title": "勇士108-111惨遭灰熊逆转，库里24分，布泽尔25+13+6",
+          "url": "https://www.163.com/dy/article/LA0OOAMQ0549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-10-24T04:58:07.000Z",
+          "category": "体育",
+          "topic": "NBA",
+          "sourceId": "sports",
+          "summary": "北京时间10月24日NBA 常规赛，金州勇士对阵孟菲斯灰熊。半场勇士56-60灰熊，最终勇士108-111灰熊。金州勇…",
+          "number": 1
+        },
+        {
+          "title": "NBA战报：湖人125-117快船，里夫斯28+2+9",
+          "url": "https://www.163.com/dy/article/LA0NI1K20549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-10-24T04:37:12.000Z",
+          "category": "体育",
+          "topic": "NBA",
+          "sourceId": "sports",
+          "summary": "北京时间10月24日NBA 常规赛，洛杉矶湖人对阵洛杉矶快船。半场湖人64-64快船，最终湖人125-117快船。洛杉…",
+          "number": 2
+        },
         {
           "title": "凯尔特人107-103险胜尼克斯，塔图姆轰36+9+7，乔治15+7，唐斯22+10",
           "url": "https://www.163.com/dy/article/LA0F4PDU0549BAP0.html",
@@ -132,29 +154,18 @@
           "topic": "NBA",
           "sourceId": "sports",
           "summary": "北京时间10月24日NBA 常规赛，波士顿凯尔特人对阵纽约尼克斯。半场凯尔特人50-49尼克斯，最终凯尔特人107-1…",
-          "number": 1
-        },
-        {
-          "title": "NBA战报：老鹰128-81狂胜黄蜂，阿龙-威金斯19+1+1",
-          "url": "https://www.163.com/dy/article/LA0ECPPL0549BAP0.html",
-          "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-10-24T01:57:03.000Z",
-          "category": "体育",
-          "topic": "NBA",
-          "sourceId": "sports",
-          "summary": "北京时间10月24日NBA 常规赛，夏洛特黄蜂对阵亚特兰大老鹰。半场黄蜂43-68老鹰，最终黄蜂81-128老鹰。夏洛…",
-          "number": 2
-        },
-        {
-          "title": "Shams：被湖人裁掉的克内克特将与尼克斯签订一份双向合同",
-          "url": "https://www.163.com/dy/article/LA05VQKF0549BAP0.html",
-          "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-10-23T23:30:09.000Z",
-          "category": "体育",
-          "topic": "NBA",
-          "sourceId": "sports",
-          "summary": "当地时间10月23日，据ESPN名记Shams报道，刚刚被湖人裁掉的克内克特将与尼克斯签订一份双向合同。",
           "number": 3
+        },
+        {
+          "title": "镜报：利物浦派球探考察奥托尔比，恩杜克韦有望提前回归",
+          "url": "https://www.163.com/dy/article/LA0NI1LG0549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-10-24T04:37:12.000Z",
+          "category": "体育",
+          "topic": "英超",
+          "sourceId": "sports",
+          "summary": "据《镜报》消息，利物浦今夏的引援工作可能未能完全达到预期，但随着多笔潜在交易逐渐浮出水面，球队预计将在明年1月继续活跃…",
+          "number": 4
         },
         {
           "title": "曼城七轮全胜，客战维拉检验结果与质量是否相符",
@@ -165,7 +176,7 @@
           "topic": "英超",
           "sourceId": "sports",
           "summary": "10月24日晚间，英超联赛第8轮，曼城将在客场对阵阿斯顿维拉。",
-          "number": 4
+          "number": 5
         },
         {
           "title": "加里-奥尼尔：想留在英超并不容易，我们也想争取更高的排名",
@@ -176,17 +187,6 @@
           "topic": "英超",
           "sourceId": "sports",
           "summary": "伊普斯维奇在英超主场1-1战平诺丁汉森林。赛后，伊普斯维奇主帅加里-奥尼尔在接受天空体育采访时表示，球队依靠顽强拼搏拿…",
-          "number": 5
-        },
-        {
-          "title": "阿森纳前锋萨卡股四头肌受伤 或将缺阵至少六周",
-          "url": "https://www.163.com/dy/article/LA09HD1Q05346RC6.html",
-          "source": "新华社 · 网易体育",
-          "publishedAt": "2026-10-24T00:32:11.000Z",
-          "category": "体育",
-          "topic": "英超",
-          "sourceId": "sports",
-          "summary": "新华社伦敦10月23日电（记者袁亮）阿森纳前锋萨卡近日在欧冠对阵拜仁慕尼黑的比赛中股四头肌受伤，球队初步评估认为，他可…",
           "number": 6
         },
         {
@@ -338,8 +338,8 @@
       "id": "eastmoney-us-stock",
       "name": "东方财富 · 美股",
       "url": "https://stock.eastmoney.com/america.html",
-      "status": "ok",
-      "lastAttempt": "2026-10-24T04:38:54.851Z",
+      "status": "error",
+      "lastAttempt": "2026-10-24T05:04:36.829Z",
       "lastSuccess": "2026-10-24T04:38:54.851Z",
       "items": [
         {
@@ -382,8 +382,8 @@
       "name": "东方财富 · A股",
       "url": "https://stock.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-24T04:38:54.851Z",
-      "lastSuccess": "2026-10-24T04:38:54.851Z",
+      "lastAttempt": "2026-10-24T05:04:36.829Z",
+      "lastSuccess": "2026-10-24T05:04:36.829Z",
       "items": [
         {
           "category": "金融",
@@ -393,6 +393,17 @@
           "url": "https://finance.eastmoney.com/a/202610243907061891.html",
           "publishedAt": "2026-10-24T02:01:00.000Z",
           "source": "东方财富 · 财联社",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "利好！东岳硅材净利猛增超19400%！多只A股业绩爆发",
+          "summary": "10月23日盘后，A股上市公司集中披露2026年三季报。",
+          "url": "https://finance.eastmoney.com/a/202610243907074028.html",
+          "publishedAt": "2026-10-24T04:14:00.000Z",
+          "source": "东方财富 · 证券时报",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
@@ -454,11 +465,22 @@
         {
           "category": "金融",
           "topic": "A股",
-          "title": "社保基金新进17家A股公司：14家净利润同比增长 赣锋锂业净利润增幅达19540%",
-          "summary": "随着A股2026年三季报进入密集披露期，社保基金的最新调仓路径也逐渐浮出水面。",
-          "url": "https://finance.eastmoney.com/a/202610243907071928.html",
-          "publishedAt": "2026-10-24T04:07:00.000Z",
-          "source": "东方财富 · 时代周报",
+          "title": "华源证券：三大条件推动A股市场风险收益结构更趋有利",
+          "summary": "上证报中国证券网讯（记者荆淮侨）近期，A股市场出现调整。华源证券研究所所长助理、金融工程首席分析师杨怡玲认为，站在20…",
+          "url": "https://finance.eastmoney.com/a/202610243907076383.html",
+          "publishedAt": "2026-10-24T04:50:00.000Z",
+          "source": "东方财富 · 上海证券报·中国证券网",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "期内孙公司土地收储产生损失，众兴菌业前三季度净利润同比减少约六成",
+          "summary": "众兴菌业（002772）10月23日披露财报，前三季度净利同比下降约六成。",
+          "url": "https://finance.eastmoney.com/a/202610243907075753.html",
+          "publishedAt": "2026-10-24T04:40:00.000Z",
+          "source": "东方财富 · 深圳商报·读创",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
@@ -470,17 +492,6 @@
           "url": "https://finance.eastmoney.com/a/202610243906817652.html",
           "publishedAt": "2026-10-23T23:05:00.000Z",
           "source": "东方财富 · 上海证券报",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "A股探底回升 科技股涨幅居前",
-          "summary": "23日，A股呈现探底回升的走势，上证指数在3600点附近获得支撑反身上攻并逼近3700点，深证成指在11000点附近获…",
-          "url": "https://finance.eastmoney.com/a/202610243906815123.html",
-          "publishedAt": "2026-10-23T17:40:00.000Z",
-          "source": "东方财富 · 证券时报",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
@@ -516,17 +527,6 @@
           "source": "东方财富 · 中国基金报",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "多家A股公司评级获上调 券商最新点评来了",
-          "summary": "随着A股公司密集披露三季报，券商最新个股业绩点评也在近期批量出炉。",
-          "url": "https://finance.eastmoney.com/a/202610223904529722.html",
-          "publishedAt": "2026-10-22T16:20:00.000Z",
-          "source": "东方财富 · 券商中国",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
         }
       ]
     },
@@ -535,8 +535,8 @@
       "name": "东方财富 · 中国期货",
       "url": "https://futures.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-24T04:38:54.851Z",
-      "lastSuccess": "2026-10-24T04:38:54.851Z",
+      "lastAttempt": "2026-10-24T05:04:36.829Z",
+      "lastSuccess": "2026-10-24T05:04:36.829Z",
       "items": [
         {
           "category": "金融",
@@ -556,8 +556,8 @@
       "name": "东方财富 · 宏观财经",
       "url": "https://finance.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-24T04:38:54.851Z",
-      "lastSuccess": "2026-10-24T04:38:54.851Z",
+      "lastAttempt": "2026-10-24T05:04:36.829Z",
+      "lastSuccess": "2026-10-24T05:04:36.829Z",
       "items": [
         {
           "category": "金融",
@@ -577,8 +577,8 @@
       "name": "新浪财经 · 美股",
       "url": "https://finance.sina.com.cn/stock/usstock/",
       "status": "ok",
-      "lastAttempt": "2026-10-24T04:38:54.851Z",
-      "lastSuccess": "2026-10-24T04:38:54.851Z",
+      "lastAttempt": "2026-10-24T05:04:36.829Z",
+      "lastSuccess": "2026-10-24T05:04:36.829Z",
       "items": [
         {
           "title": "道指跌超650点！美股主要股指全线收跌，芯片股反弹，油价大涨，现货黄金失守4000美元关口",
@@ -631,8 +631,8 @@
       "name": "新浪财经 · A股",
       "url": "https://finance.sina.com.cn/stock/",
       "status": "ok",
-      "lastAttempt": "2026-10-24T04:38:54.851Z",
-      "lastSuccess": "2026-10-24T04:38:54.851Z",
+      "lastAttempt": "2026-10-24T05:04:36.829Z",
+      "lastSuccess": "2026-10-24T05:04:36.829Z",
       "items": [
         {
           "title": "利好！300821，净利猛增超19400%！多只A股，业绩爆发",
@@ -718,8 +718,8 @@
       "name": "新浪财经 · 期货订阅 1",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-10-24T04:38:54.851Z",
-      "lastSuccess": "2026-10-24T04:38:54.851Z",
+      "lastAttempt": "2026-10-24T05:04:36.829Z",
+      "lastSuccess": "2026-10-24T05:04:36.829Z",
       "items": []
     },
     {
@@ -727,8 +727,8 @@
       "name": "新浪财经 · 期货订阅 2",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-10-24T04:38:54.851Z",
-      "lastSuccess": "2026-10-24T04:38:54.851Z",
+      "lastAttempt": "2026-10-24T05:04:36.829Z",
+      "lastSuccess": "2026-10-24T05:04:36.829Z",
       "items": [
         {
           "title": "证监会主席吴清会见香港特区政府财政司司长陈茂波一行",
@@ -759,8 +759,8 @@
       "name": "新浪财经 · 期货订阅 3",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-10-24T04:38:54.851Z",
-      "lastSuccess": "2026-10-24T04:38:54.851Z",
+      "lastAttempt": "2026-10-24T05:04:36.829Z",
+      "lastSuccess": "2026-10-24T05:04:36.829Z",
       "items": []
     },
     {
@@ -768,8 +768,8 @@
       "name": "中新网 · 国际",
       "url": "https://www.chinanews.com.cn/rss/world.xml",
       "status": "ok",
-      "lastAttempt": "2026-10-24T04:38:54.851Z",
-      "lastSuccess": "2026-10-24T04:38:54.851Z",
+      "lastAttempt": "2026-10-24T05:04:36.829Z",
+      "lastSuccess": "2026-10-24T05:04:36.829Z",
       "items": [
         {
           "title": "特朗普称可能对伊发动一次小规模“史诗怒火”行动",
@@ -808,8 +808,8 @@
       "name": "中新网 · 国内",
       "url": "https://www.chinanews.com.cn/rss/china.xml",
       "status": "ok",
-      "lastAttempt": "2026-10-24T04:38:54.851Z",
-      "lastSuccess": "2026-10-24T04:38:54.851Z",
+      "lastAttempt": "2026-10-24T05:04:36.829Z",
+      "lastSuccess": "2026-10-24T05:04:36.829Z",
       "items": [
         {
           "title": "王毅宣布中方进一步落实全球治理倡议的务实行动",
@@ -838,8 +838,8 @@
       "name": "AI HOT",
       "url": "https://aihot.news/",
       "status": "ok",
-      "lastAttempt": "2026-10-24T04:38:54.851Z",
-      "lastSuccess": "2026-10-24T04:38:54.851Z",
+      "lastAttempt": "2026-10-24T05:04:36.829Z",
+      "lastSuccess": "2026-10-24T05:04:36.829Z",
       "items": [
         {
           "category": "AI",
@@ -996,7 +996,7 @@
       "summary": "近日，工信部等部门发布《征求意见稿》，首次将汽车维修经济性纳入新车准入管理。此前，威马等车企破产致数十万辆新能源车沦为…",
       "url": "https://www.baidu.com/s?wd=%E6%95%B0%E5%8D%81%E4%B8%87%E8%BE%86%E6%96%B0%E8%83%BD%E6%BA%90%E2%80%9C%E5%AD%A4%E5%84%BF%E8%BD%A6%E2%80%9D%E8%B0%81%E8%B4%9F%E8%B4%A3%E4%BF%AE&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-24T04:38:54.851Z",
+      "publishedAt": "2026-10-24T05:04:36.829Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1009,7 +1009,7 @@
       "summary": "10月24日3时25分，我国在酒泉卫星发射中心使用长征四号乙运载火箭，成功将遥感五十三号07-09星、遥感五十六号19…",
       "url": "https://www.baidu.com/s?wd=%E7%A5%9D%E8%B4%BA%EF%BC%81%E4%B8%AD%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E4%B8%80%E7%AE%AD%E5%85%AD%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-24T04:38:54.851Z",
+      "publishedAt": "2026-10-24T05:04:36.829Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1018,11 +1018,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "“订单排到2031年” 重量级国货爆单",
-      "summary": "10月23日工信部发布数据，今年1至9月我国造船业三大指标持续全球领跑，新接订单量同比增长163.2%，占全球81.8…",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%AE%A2%E5%8D%95%E6%8E%92%E5%88%B02031%E5%B9%B4%E2%80%9D+%E9%87%8D%E9%87%8F%E7%BA%A7%E5%9B%BD%E8%B4%A7%E7%88%86%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "任泽平微信公众号违规被禁止关注",
+      "summary": "10月24日，网红经济学家任泽平运营的公众号“泽平宏观”无法关注，页面提示“该账号因违规无法关注”。账号客服称是账号异…",
+      "url": "https://www.baidu.com/s?wd=%E4%BB%BB%E6%B3%BD%E5%B9%B3%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E8%BF%9D%E8%A7%84%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-24T04:38:54.851Z",
+      "publishedAt": "2026-10-24T05:04:36.829Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1031,11 +1031,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "任泽平微信公众号违规被禁止关注",
-      "summary": "10月24日，网红经济学家任泽平运营的公众号“泽平宏观”无法关注，页面提示“该账号因违规无法关注”。账号客服称是账号异…",
-      "url": "https://www.baidu.com/s?wd=%E4%BB%BB%E6%B3%BD%E5%B9%B3%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E8%BF%9D%E8%A7%84%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%85%B3%E6%B3%A8&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "国务院定调：减缓AI应用就业替代影响",
+      "summary": "10月23日，国务院办公厅印发意见，定调减缓人工智能应用就业替代影响。意见指出，优先在劳动力紧缺、高危岗位推广应用；稳…",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%AE%9A%E8%B0%83%EF%BC%9A%E5%87%8F%E7%BC%93AI%E5%BA%94%E7%94%A8%E5%B0%B1%E4%B8%9A%E6%9B%BF%E4%BB%A3%E5%BD%B1%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-24T04:38:54.851Z",
+      "publishedAt": "2026-10-24T05:04:36.829Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1048,7 +1048,7 @@
       "summary": "当地时间10月23日，俄罗斯武装力量总参谋长格拉西莫夫表示，鉴于在赫尔松州奥列什基（又称阿廖什基）居民点开展人道主义行…",
       "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B%E5%AE%A3%E5%B8%83%E5%B0%86%E5%9C%A8%E8%B5%AB%E5%B0%94%E6%9D%BE%E6%96%B9%E5%90%91%E5%AE%9E%E6%96%BD%E5%81%9C%E7%81%AB&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-24T04:38:54.851Z",
+      "publishedAt": "2026-10-24T05:04:36.829Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1057,15 +1057,37 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "居民用电量10年来首次负增长怎么看",
-      "summary": "今年1至9月，城乡居民生活用电量同比下降0.3%。这是近十年来该统计口径下累计增速首次由正转负。本次下滑属于短期现象，…",
-      "url": "https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E7%94%A8%E7%94%B5%E9%87%8F10%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E8%B4%9F%E5%A2%9E%E9%95%BF%E6%80%8E%E4%B9%88%E7%9C%8B&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "神二十三乘组有一人将驻留一年",
+      "summary": "近日，神舟二十三号乘组在轨满5个月，进入“回家”倒计时。按计划，3名航天员中1人将执行一年期驻留试验，人选尚未公布。",
+      "url": "https://www.baidu.com/s?wd=%E7%A5%9E%E4%BA%8C%E5%8D%81%E4%B8%89%E4%B9%98%E7%BB%84%E6%9C%89%E4%B8%80%E4%BA%BA%E5%B0%86%E9%A9%BB%E7%95%99%E4%B8%80%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-24T04:38:54.851Z",
+      "publishedAt": "2026-10-24T05:04:36.829Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
       "number": 6
+    },
+    {
+      "title": "勇士108-111惨遭灰熊逆转，库里24分，布泽尔25+13+6",
+      "url": "https://www.163.com/dy/article/LA0OOAMQ0549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-10-24T04:58:07.000Z",
+      "category": "体育",
+      "topic": "NBA",
+      "sourceId": "sports",
+      "summary": "北京时间10月24日NBA 常规赛，金州勇士对阵孟菲斯灰熊。半场勇士56-60灰熊，最终勇士108-111灰熊。金州勇…",
+      "number": 7
+    },
+    {
+      "title": "NBA战报：湖人125-117快船，里夫斯28+2+9",
+      "url": "https://www.163.com/dy/article/LA0NI1K20549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-10-24T04:37:12.000Z",
+      "category": "体育",
+      "topic": "NBA",
+      "sourceId": "sports",
+      "summary": "北京时间10月24日NBA 常规赛，洛杉矶湖人对阵洛杉矶快船。半场湖人64-64快船，最终湖人125-117快船。洛杉…",
+      "number": 8
     },
     {
       "title": "凯尔特人107-103险胜尼克斯，塔图姆轰36+9+7，乔治15+7，唐斯22+10",
@@ -1076,29 +1098,18 @@
       "topic": "NBA",
       "sourceId": "sports",
       "summary": "北京时间10月24日NBA 常规赛，波士顿凯尔特人对阵纽约尼克斯。半场凯尔特人50-49尼克斯，最终凯尔特人107-1…",
-      "number": 7
-    },
-    {
-      "title": "NBA战报：老鹰128-81狂胜黄蜂，阿龙-威金斯19+1+1",
-      "url": "https://www.163.com/dy/article/LA0ECPPL0549BAP0.html",
-      "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-10-24T01:57:03.000Z",
-      "category": "体育",
-      "topic": "NBA",
-      "sourceId": "sports",
-      "summary": "北京时间10月24日NBA 常规赛，夏洛特黄蜂对阵亚特兰大老鹰。半场黄蜂43-68老鹰，最终黄蜂81-128老鹰。夏洛…",
-      "number": 8
-    },
-    {
-      "title": "Shams：被湖人裁掉的克内克特将与尼克斯签订一份双向合同",
-      "url": "https://www.163.com/dy/article/LA05VQKF0549BAP0.html",
-      "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-10-23T23:30:09.000Z",
-      "category": "体育",
-      "topic": "NBA",
-      "sourceId": "sports",
-      "summary": "当地时间10月23日，据ESPN名记Shams报道，刚刚被湖人裁掉的克内克特将与尼克斯签订一份双向合同。",
       "number": 9
+    },
+    {
+      "title": "镜报：利物浦派球探考察奥托尔比，恩杜克韦有望提前回归",
+      "url": "https://www.163.com/dy/article/LA0NI1LG0549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-10-24T04:37:12.000Z",
+      "category": "体育",
+      "topic": "英超",
+      "sourceId": "sports",
+      "summary": "据《镜报》消息，利物浦今夏的引援工作可能未能完全达到预期，但随着多笔潜在交易逐渐浮出水面，球队预计将在明年1月继续活跃…",
+      "number": 10
     },
     {
       "title": "曼城七轮全胜，客战维拉检验结果与质量是否相符",
@@ -1109,7 +1120,7 @@
       "topic": "英超",
       "sourceId": "sports",
       "summary": "10月24日晚间，英超联赛第8轮，曼城将在客场对阵阿斯顿维拉。",
-      "number": 10
+      "number": 11
     },
     {
       "title": "加里-奥尼尔：想留在英超并不容易，我们也想争取更高的排名",
@@ -1120,17 +1131,6 @@
       "topic": "英超",
       "sourceId": "sports",
       "summary": "伊普斯维奇在英超主场1-1战平诺丁汉森林。赛后，伊普斯维奇主帅加里-奥尼尔在接受天空体育采访时表示，球队依靠顽强拼搏拿…",
-      "number": 11
-    },
-    {
-      "title": "阿森纳前锋萨卡股四头肌受伤 或将缺阵至少六周",
-      "url": "https://www.163.com/dy/article/LA09HD1Q05346RC6.html",
-      "source": "新华社 · 网易体育",
-      "publishedAt": "2026-10-24T00:32:11.000Z",
-      "category": "体育",
-      "topic": "英超",
-      "sourceId": "sports",
-      "summary": "新华社伦敦10月23日电（记者袁亮）阿森纳前锋萨卡近日在欧冠对阵拜仁慕尼黑的比赛中股四头肌受伤，球队初步评估认为，他可…",
       "number": 12
     },
     {
@@ -1349,6 +1349,30 @@
       "number": 31
     },
     {
+      "category": "金融",
+      "topic": "A股",
+      "title": "华源证券：三大条件推动A股市场风险收益结构更趋有利",
+      "summary": "上证报中国证券网讯（记者荆淮侨）近期，A股市场出现调整。华源证券研究所所长助理、金融工程首席分析师杨怡玲认为，站在20…",
+      "url": "https://finance.eastmoney.com/a/202610243907076383.html",
+      "publishedAt": "2026-10-24T04:50:00.000Z",
+      "source": "东方财富 · 上海证券报·中国证券网",
+      "kind": "报道",
+      "sourceId": "eastmoney-cn-stock",
+      "number": 32
+    },
+    {
+      "category": "金融",
+      "topic": "A股",
+      "title": "期内孙公司土地收储产生损失，众兴菌业前三季度净利润同比减少约六成",
+      "summary": "众兴菌业（002772）10月23日披露财报，前三季度净利同比下降约六成。",
+      "url": "https://finance.eastmoney.com/a/202610243907075753.html",
+      "publishedAt": "2026-10-24T04:40:00.000Z",
+      "source": "东方财富 · 深圳商报·读创",
+      "kind": "报道",
+      "sourceId": "eastmoney-cn-stock",
+      "number": 33
+    },
+    {
       "title": "利好！300821，净利猛增超19400%！多只A股，业绩爆发",
       "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-24/doc-iniwhxpw2165935.shtml",
       "summary": "10月23日盘后，A股上市公司集中披露2026年三季报。 横跨半导体、电子元器件、新材料、高端制造等多个高景气赛道的十…",
@@ -1358,19 +1382,19 @@
       "topic": "A股",
       "sourceId": "cn-stock",
       "kind": "报道",
-      "number": 32
+      "number": 34
     },
     {
       "category": "金融",
       "topic": "A股",
-      "title": "社保基金新进17家A股公司：14家净利润同比增长 赣锋锂业净利润增幅达19540%",
-      "summary": "随着A股2026年三季报进入密集披露期，社保基金的最新调仓路径也逐渐浮出水面。",
-      "url": "https://finance.eastmoney.com/a/202610243907071928.html",
-      "publishedAt": "2026-10-24T04:07:00.000Z",
-      "source": "东方财富 · 时代周报",
+      "title": "利好！东岳硅材净利猛增超19400%！多只A股业绩爆发",
+      "summary": "10月23日盘后，A股上市公司集中披露2026年三季报。",
+      "url": "https://finance.eastmoney.com/a/202610243907074028.html",
+      "publishedAt": "2026-10-24T04:14:00.000Z",
+      "source": "东方财富 · 证券时报",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
-      "number": 33
+      "number": 35
     },
     {
       "category": "金融",
@@ -1382,7 +1406,7 @@
       "source": "东方财富 · 财联社",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
-      "number": 34
+      "number": 36
     },
     {
       "category": "金融",
@@ -1394,30 +1418,6 @@
       "source": "东方财富 · 财联社",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
-      "number": 35
-    },
-    {
-      "title": "海航控股与零重空间签署战略合作协议 共拓飞机通信服务领域",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-24/doc-iniwhtfu4934995.shtml",
-      "summary": "2026年10月23日，海南航空控股股份有限公司（股票代码：600221，简称“海航控股”）与北京零重空间技术有限公司…",
-      "source": "新浪财经",
-      "publishedAt": "2026-10-24T02:00:51.000Z",
-      "category": "金融",
-      "topic": "A股",
-      "sourceId": "cn-stock",
-      "kind": "报道",
-      "number": 36
-    },
-    {
-      "title": "操纵股价，香港证监会出手！严查三高管",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-24/doc-iniwhtfy2253506.shtml",
-      "summary": "10月22日，香港证监会在市场失当行为审裁处，对尝•高美集团有限公司（以下简称“尝•高美”）三名高层人员，以及其五名亲…",
-      "source": "券商中国 · 新浪财经",
-      "publishedAt": "2026-10-24T01:50:21.000Z",
-      "category": "金融",
-      "topic": "A股",
-      "sourceId": "cn-stock",
-      "kind": "报道",
       "number": 37
     },
     {
