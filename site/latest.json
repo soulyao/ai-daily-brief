@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-10-25T04:43:25.155Z",
+  "collectedAt": "2026-10-25T05:22:01.093Z",
   "topics": {
     "时事": [
       "百度热搜"
@@ -38,8 +38,8 @@
       "name": "百度热搜 · 时事",
       "url": "https://top.baidu.com/board?tab=realtime",
       "status": "ok",
-      "lastAttempt": "2026-10-25T04:43:25.155Z",
-      "lastSuccess": "2026-10-25T04:43:25.155Z",
+      "lastAttempt": "2026-10-25T05:22:01.093Z",
+      "lastSuccess": "2026-10-25T05:22:01.093Z",
       "items": [
         {
           "category": "时事",
@@ -48,31 +48,7 @@
           "summary": "“中国智造”已成为中国式现代化的又一亮丽名片。人工智能“电子鼻”、火锅底料智能生产线、“水下幽灵”透明仿生水母机器人……",
           "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%8D%E6%98%AF%E7%A7%91%E5%B9%BB%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%99%BA%E9%80%A0&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-25T04:43:25.155Z",
-          "timeLabel": "热搜采集",
-          "linkLabel": "查看相关新闻",
-          "sourceId": "baidu"
-        },
-        {
-          "category": "时事",
-          "topic": "百度热搜",
-          "title": "178平方豪宅6个套间 每间都有马桶",
-          "summary": "近日，在江苏南京仙林一小区，178平方米豪宅被隔成6个套间，每间配马桶、洗衣机，邻居反映噪声扰民、家中墙裂。日前，当地…",
-          "url": "https://www.baidu.com/s?wd=178%E5%B9%B3%E6%96%B9%E8%B1%AA%E5%AE%856%E4%B8%AA%E5%A5%97%E9%97%B4+%E6%AF%8F%E9%97%B4%E9%83%BD%E6%9C%89%E9%A9%AC%E6%A1%B6&sa=fyb_news&rsv_dl=fyb_news",
-          "source": "百度热搜",
-          "publishedAt": "2026-10-25T04:43:25.155Z",
-          "timeLabel": "热搜采集",
-          "linkLabel": "查看相关新闻",
-          "sourceId": "baidu"
-        },
-        {
-          "category": "时事",
-          "topic": "百度热搜",
-          "title": "辽宁锦州大暴雨致街道成海是谣言",
-          "summary": "近日，有网民发布视频并配文称“辽宁锦州大暴雨，街道成海车辆被淹”，引发关注。经属地街道办事处核查，辽宁省锦州市近日未出…",
-          "url": "https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E9%94%A6%E5%B7%9E%E5%A4%A7%E6%9A%B4%E9%9B%A8%E8%87%B4%E8%A1%97%E9%81%93%E6%88%90%E6%B5%B7%E6%98%AF%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news",
-          "source": "百度热搜",
-          "publishedAt": "2026-10-25T04:43:25.155Z",
+          "publishedAt": "2026-10-25T05:22:01.093Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -84,7 +60,31 @@
           "summary": "近日，江苏姑娘小陈花3.8万元在鹤岗“云购房”，买下60平方米住房、又花4万多元装修。入住后，小陈发现屋顶多处漏水，中…",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B13.8%E4%B8%87%E9%B9%A4%E5%B2%97%E4%B9%B0%E6%88%BF+%E6%90%AC%E8%BF%9B%E5%8E%BB%E5%90%8E%E5%82%BB%E7%9C%BC&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-25T04:43:25.155Z",
+          "publishedAt": "2026-10-25T05:22:01.093Z",
+          "timeLabel": "热搜采集",
+          "linkLabel": "查看相关新闻",
+          "sourceId": "baidu"
+        },
+        {
+          "category": "时事",
+          "topic": "百度热搜",
+          "title": "辽宁锦州大暴雨致街道成海是谣言",
+          "summary": "近日，有网民发布视频并配文称“辽宁锦州大暴雨，街道成海车辆被淹”，引发关注。经属地街道办事处核查，辽宁省锦州市近日未出…",
+          "url": "https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E9%94%A6%E5%B7%9E%E5%A4%A7%E6%9A%B4%E9%9B%A8%E8%87%B4%E8%A1%97%E9%81%93%E6%88%90%E6%B5%B7%E6%98%AF%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news",
+          "source": "百度热搜",
+          "publishedAt": "2026-10-25T05:22:01.093Z",
+          "timeLabel": "热搜采集",
+          "linkLabel": "查看相关新闻",
+          "sourceId": "baidu"
+        },
+        {
+          "category": "时事",
+          "topic": "百度热搜",
+          "title": "178平方豪宅6个套间 每间都有马桶",
+          "summary": "近日，在江苏南京仙林一小区，178平方米豪宅被隔成6个套间，每间配马桶、洗衣机，邻居反映噪声扰民、家中墙裂。日前，当地…",
+          "url": "https://www.baidu.com/s?wd=178%E5%B9%B3%E6%96%B9%E8%B1%AA%E5%AE%856%E4%B8%AA%E5%A5%97%E9%97%B4+%E6%AF%8F%E9%97%B4%E9%83%BD%E6%9C%89%E9%A9%AC%E6%A1%B6&sa=fyb_news&rsv_dl=fyb_news",
+          "source": "百度热搜",
+          "publishedAt": "2026-10-25T05:22:01.093Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -96,7 +96,7 @@
           "summary": "近期，深圳市松岗人民医院公布一起案例，男子小维因车上常有鸟粪而莫名感染肺炎，该院已有数例类似患者。此前2023年浙江台…",
           "url": "https://www.baidu.com/s?wd=%E8%87%AA%E5%AE%B6%E8%BD%A6%E7%BB%8F%E5%B8%B8%E8%A2%AB%E9%B8%9F%E6%8B%89%E5%B1%8E%E7%94%B7%E5%AD%90%E8%8E%AB%E5%90%8D%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%82%8E&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-25T04:43:25.155Z",
+          "publishedAt": "2026-10-25T05:22:01.093Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -104,11 +104,11 @@
         {
           "category": "时事",
           "topic": "百度热搜",
-          "title": "金价大跌 深圳水贝又被挤爆了",
-          "summary": "10月24日，受国际金价下跌影响，深圳水贝市场迎来人流高峰，网友称“比菜市场人还多”。此前9月24日，国内品牌金饰克价…",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E5%8F%88%E8%A2%AB%E6%8C%A4%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+          "title": "广西当地通报“水柜多只猴子溺亡”",
+          "summary": "10月25日，广西南宁马山县林业局通报加方乡民治村水柜多只猴子溺亡事件。经核实，系猴群下山饮水不慎溺亡。目前，溺亡猴子…",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5%E2%80%9C%E6%B0%B4%E6%9F%9C%E5%A4%9A%E5%8F%AA%E7%8C%B4%E5%AD%90%E6%BA%BA%E4%BA%A1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-25T04:43:25.155Z",
+          "publishedAt": "2026-10-25T05:22:01.093Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -120,9 +120,20 @@
       "name": "网易体育（署名媒体）",
       "url": "https://sports.163.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-25T04:43:25.155Z",
-      "lastSuccess": "2026-10-25T04:43:25.155Z",
+      "lastAttempt": "2026-10-25T05:22:01.093Z",
+      "lastSuccess": "2026-10-25T05:22:01.093Z",
       "items": [
+        {
+          "title": "太阳131-122送勇士三连败，布克43+7+7，库里缺阵，伦德伯格26+9",
+          "url": "https://www.163.com/dy/article/LA3A9T0U0549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-10-25T04:43:17.000Z",
+          "category": "体育",
+          "topic": "NBA",
+          "sourceId": "sports",
+          "summary": "北京时间10月25日NBA 常规赛，菲尼克斯太阳对阵金州勇士。本场勇士背靠背客场挑战太阳，勇士库里、格林、霍福德等老将…",
+          "number": 1
+        },
         {
           "title": "掘金加时141-135逆转鹈鹕23分，贾马尔-穆雷42分，约基奇35+10+15",
           "url": "https://www.163.com/dy/article/LA37SLP10549BAP0.html",
@@ -132,7 +143,7 @@
           "topic": "NBA",
           "sourceId": "sports",
           "summary": "北京时间10月25日NBA 常规赛，丹佛掘金对阵新奥尔良鹈鹕。半场掘金57-73鹈鹕，最终掘金141-135逆转战胜鹈…",
-          "number": 1
+          "number": 2
         },
         {
           "title": "NBA｜热火三连败开局，迈阿密豪赌字母哥的阵痛期提前到来",
@@ -143,18 +154,29 @@
           "topic": "NBA",
           "sourceId": "sports",
           "summary": "迈阿密热火在休赛期押上未来换来扬尼斯·阿德托昆博时，斯波尔斯特拉治下的这支球队曾被视作东部争冠版图的重塑者。然而新赛季…",
-          "number": 2
+          "number": 3
         },
         {
-          "title": "NBA战报：马刺122-106独行侠，文班亚马23+7+2",
-          "url": "https://www.163.com/dy/article/LA33HGCJ0549BAP0.html",
+          "title": "罗马诺：曼联给卡里克额外时间，许尔策勒、埃梅里无意曼联",
+          "url": "https://www.163.com/dy/article/LA3C4GQQ0549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-10-25T02:45:06.000Z",
+          "publishedAt": "2026-10-25T05:15:18.000Z",
           "category": "体育",
-          "topic": "NBA",
+          "topic": "英超",
           "sourceId": "sports",
-          "summary": "北京时间10月25日NBA 常规赛，达拉斯独行侠对阵圣安东尼奥马刺。半场独行侠60-68马刺，最终独行侠106-122…",
-          "number": 3
+          "summary": "知名转会记者罗马诺报道，曼联在惨败科莫赛后决定暂不换帅，给予主帅卡里克更多时间，将在国际比赛日窗口前评估局势。",
+          "number": 4
+        },
+        {
+          "title": "皮尔斯-摩根：阿森纳才是榜首，曼城本赛季结束时将垫底降级",
+          "url": "https://www.163.com/dy/article/LA3C4GR40549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-10-25T05:15:18.000Z",
+          "category": "体育",
+          "topic": "英超",
+          "sourceId": "sports",
+          "summary": "10月24日英超联赛第8轮，曼城1-2不敌维拉，阿森纳2-0击败埃弗顿，积分追平争冠对手。",
+          "number": 5
         },
         {
           "title": "英超综合：曼城遭遇赛季首败 阿森纳追平积分",
@@ -165,28 +187,6 @@
           "topic": "英超",
           "sourceId": "sports",
           "summary": "新华社伦敦10月24日电（记者马邦杰）2026-2027赛季英超第八轮24日继续进行。曼城客场1:2不敌阿斯顿维拉，遭…",
-          "number": 4
-        },
-        {
-          "title": "数据辣眼，罗杰斯对阵热刺15次丢失球权+0射正、0成功过人",
-          "url": "https://www.163.com/dy/article/LA2TC34I0549BAP0.html",
-          "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-10-25T00:57:17.000Z",
-          "category": "体育",
-          "topic": "英超",
-          "sourceId": "sports",
-          "summary": "英超第8轮，切尔西0-2不敌热刺，无缘三连胜；本场比赛首发出战的罗杰斯表现不佳。",
-          "number": 5
-        },
-        {
-          "title": "TA：若昂-佩德罗缺阵对切尔西影响极大，球队在前场缺少支点",
-          "url": "https://www.163.com/dy/article/LA2Q97T80549BAP0.html",
-          "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-10-25T00:03:18.000Z",
-          "category": "体育",
-          "topic": "英超",
-          "sourceId": "sports",
-          "summary": "英超第8轮，切尔西主场0-2不敌热刺。赛后TA分析了本次比赛的重要看点。",
           "number": 6
         },
         {
@@ -361,8 +361,8 @@
       "name": "东方财富 · 美股",
       "url": "https://stock.eastmoney.com/america.html",
       "status": "ok",
-      "lastAttempt": "2026-10-25T04:43:25.155Z",
-      "lastSuccess": "2026-10-25T04:43:25.155Z",
+      "lastAttempt": "2026-10-25T05:22:01.093Z",
+      "lastSuccess": "2026-10-25T05:22:01.093Z",
       "items": [
         {
           "category": "金融",
@@ -372,6 +372,17 @@
           "url": "https://finance.eastmoney.com/a/202610253907133621.html",
           "publishedAt": "2026-10-24T17:05:00.000Z",
           "source": "东方财富 · 每日经济新闻",
+          "kind": "报道",
+          "sourceId": "eastmoney-us-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "美股",
+          "title": "标普重磅调整！将影响3750亿美元资金",
+          "summary": "日前，美国标普道琼斯指数公司正式出台新规，调整成长股和价值股的划分规则。",
+          "url": "https://finance.eastmoney.com/a/202610253907165989.html",
+          "publishedAt": "2026-10-25T05:16:00.000Z",
+          "source": "东方财富 · 上海证券报",
           "kind": "报道",
           "sourceId": "eastmoney-us-stock"
         },
@@ -418,17 +429,6 @@
           "source": "东方财富 · 中新经纬",
           "kind": "报道",
           "sourceId": "eastmoney-us-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "美股",
-          "title": "亚马逊CEO：算力订单排至2028年 企业AI应用尚未普及",
-          "summary": "当地时间10月23日，亚马逊首席执行官安迪·贾西（Andy Jassy）接受美国风险投资机构a16z访谈时表示，即使2…",
-          "url": "https://finance.eastmoney.com/a/202610243907117014.html",
-          "publishedAt": "2026-10-24T16:42:00.000Z",
-          "source": "东方财富 · 上海证券报",
-          "kind": "报道",
-          "sourceId": "eastmoney-us-stock"
         }
       ]
     },
@@ -437,8 +437,8 @@
       "name": "东方财富 · A股",
       "url": "https://stock.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-25T04:43:25.155Z",
-      "lastSuccess": "2026-10-25T04:43:25.155Z",
+      "lastAttempt": "2026-10-25T05:22:01.093Z",
+      "lastSuccess": "2026-10-25T05:22:01.093Z",
       "items": [
         {
           "category": "金融",
@@ -465,17 +465,6 @@
         {
           "category": "金融",
           "topic": "A股",
-          "title": "本周主力资金流向：9只个股吸金超10亿元 宁德时代遭抛售逾37亿元居首",
-          "summary": "本周（10月19日至23日），沪指累计跌0.69%，深证成指跌1.09%，创业板指跌3.18%。",
-          "url": "https://finance.eastmoney.com/a/202610253907135269.html",
-          "publishedAt": "2026-10-24T21:00:00.000Z",
-          "source": "东方财富 · 中新经纬",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
           "title": "德邦证券程强：A股估值已进入合理区间 多重有利条件正在汇聚",
           "summary": "“目前，A股估值已进入合理区间，前期负面因素已被较充分定价，指数进一步下行空间有限，安全边际显著增厚。多重有利条件正在…",
           "url": "https://finance.eastmoney.com/a/202610253907150483.html",
@@ -487,10 +476,10 @@
         {
           "category": "金融",
           "topic": "A股",
-          "title": "300620，重大资产重组审核通过！",
-          "summary": "光库科技拟收购安捷讯99.97%股份的事项获深交所审核通过，此次交易构成重大资产重组。",
-          "url": "https://finance.eastmoney.com/a/202610253907162311.html",
-          "publishedAt": "2026-10-25T04:19:00.000Z",
+          "title": "电科思仪：将于深圳半导体展发布新矢量网络分析仪及系列测试方案",
+          "summary": "人民财讯10月25日电，电科思仪(301689)10月24日在业绩说明会上表示，PCB测试方面公司一直在布局，此前方案…",
+          "url": "https://finance.eastmoney.com/a/202610253907164935.html",
+          "publishedAt": "2026-10-25T04:37:00.000Z",
           "source": "东方财富 · 证券时报网",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
@@ -498,11 +487,11 @@
         {
           "category": "金融",
           "topic": "A股",
-          "title": "业绩暴增，股价连续重挫！CPO概念股，机构密集调研",
-          "summary": "近一周（10月17日至23日），机构调研60多只个股，华盛昌调研机构数最多。",
-          "url": "https://finance.eastmoney.com/a/202610253907161169.html",
-          "publishedAt": "2026-10-25T04:07:00.000Z",
-          "source": "东方财富 · 数据宝",
+          "title": "300620，重大资产重组审核通过！",
+          "summary": "光库科技拟收购安捷讯99.97%股份的事项获深交所审核通过，此次交易构成重大资产重组。",
+          "url": "https://finance.eastmoney.com/a/202610253907162311.html",
+          "publishedAt": "2026-10-25T04:19:00.000Z",
+          "source": "东方财富 · 证券时报网",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
@@ -593,6 +582,17 @@
           "source": "东方财富 · 中国证券报·中证网",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "财报透视｜销售订单增加，铖昌科技前三季净利润同比涨5.18%，经营现金流增147%",
+          "summary": "10月24日，铖昌科技（001270）披露2026年第三季度报告。公司前三季度实现营业收入3.15亿元，同比增长2.8…",
+          "url": "https://finance.eastmoney.com/a/202610253907155818.html",
+          "publishedAt": "2026-10-25T02:46:00.000Z",
+          "source": "东方财富 · 深圳商报·读创",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
         }
       ]
     },
@@ -601,7 +601,7 @@
       "name": "东方财富 · 中国期货",
       "url": "https://futures.eastmoney.com/",
       "status": "error",
-      "lastAttempt": "2026-10-25T04:43:25.155Z",
+      "lastAttempt": "2026-10-25T05:22:01.093Z",
       "lastSuccess": "2026-10-24T22:29:14.809Z",
       "items": [
         {
@@ -622,8 +622,8 @@
       "name": "东方财富 · 宏观财经",
       "url": "https://finance.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-25T04:43:25.155Z",
-      "lastSuccess": "2026-10-25T04:43:25.155Z",
+      "lastAttempt": "2026-10-25T05:22:01.093Z",
+      "lastSuccess": "2026-10-25T05:22:01.093Z",
       "items": [
         {
           "category": "金融",
@@ -676,8 +676,8 @@
       "name": "新浪财经 · 美股",
       "url": "https://finance.sina.com.cn/stock/usstock/",
       "status": "ok",
-      "lastAttempt": "2026-10-25T04:43:25.155Z",
-      "lastSuccess": "2026-10-25T04:43:25.155Z",
+      "lastAttempt": "2026-10-25T05:22:01.093Z",
+      "lastSuccess": "2026-10-25T05:22:01.093Z",
       "items": [
         {
           "title": "标普出台新规！3750亿美元基金将受影响",
@@ -719,8 +719,8 @@
       "name": "新浪财经 · A股",
       "url": "https://finance.sina.com.cn/stock/",
       "status": "ok",
-      "lastAttempt": "2026-10-25T04:43:25.155Z",
-      "lastSuccess": "2026-10-25T04:43:25.155Z",
+      "lastAttempt": "2026-10-25T05:22:01.093Z",
+      "lastSuccess": "2026-10-25T05:22:01.093Z",
       "items": [
         {
           "title": "不应继续悲观！下周，哪些方向最可能“超跌反弹”？",
@@ -784,8 +784,8 @@
       "name": "新浪财经 · 期货订阅 1",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-10-25T04:43:25.155Z",
-      "lastSuccess": "2026-10-25T04:43:25.155Z",
+      "lastAttempt": "2026-10-25T05:22:01.093Z",
+      "lastSuccess": "2026-10-25T05:22:01.093Z",
       "items": []
     },
     {
@@ -793,8 +793,8 @@
       "name": "新浪财经 · 期货订阅 2",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-10-25T04:43:25.155Z",
-      "lastSuccess": "2026-10-25T04:43:25.155Z",
+      "lastAttempt": "2026-10-25T05:22:01.093Z",
+      "lastSuccess": "2026-10-25T05:22:01.093Z",
       "items": []
     },
     {
@@ -802,8 +802,8 @@
       "name": "新浪财经 · 期货订阅 3",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-10-25T04:43:25.155Z",
-      "lastSuccess": "2026-10-25T04:43:25.155Z",
+      "lastAttempt": "2026-10-25T05:22:01.093Z",
+      "lastSuccess": "2026-10-25T05:22:01.093Z",
       "items": [
         {
           "title": "证监会主席吴清会见香港特区政府财政司司长陈茂波一行",
@@ -834,8 +834,8 @@
       "name": "中新网 · 国际",
       "url": "https://www.chinanews.com.cn/rss/world.xml",
       "status": "ok",
-      "lastAttempt": "2026-10-25T04:43:25.155Z",
-      "lastSuccess": "2026-10-25T04:43:25.155Z",
+      "lastAttempt": "2026-10-25T05:22:01.093Z",
+      "lastSuccess": "2026-10-25T05:22:01.093Z",
       "items": [
         {
           "title": "“没有声音”、3秒飞出2.4公里……美国公布新一批UFO文件",
@@ -854,8 +854,8 @@
       "name": "中新网 · 国内",
       "url": "https://www.chinanews.com.cn/rss/china.xml",
       "status": "ok",
-      "lastAttempt": "2026-10-25T04:43:25.155Z",
-      "lastSuccess": "2026-10-25T04:43:25.155Z",
+      "lastAttempt": "2026-10-25T05:22:01.093Z",
+      "lastSuccess": "2026-10-25T05:22:01.093Z",
       "items": [
         {
           "title": "永葆赶考清醒 赢得历史主动——以习近平同志为核心的党中央引领新时代全面从严治党纪实",
@@ -946,16 +946,6 @@
           "topic": "中国",
           "source": "中国新闻网",
           "sourceId": "cn-politics"
-        },
-        {
-          "title": "唐登杰当选中共山西省委书记",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720368.shtml",
-          "summary": "中新社太原10月24日电 (记者 范丽芳)记者从24日举行的中共山西省第十三届委员会第一次全体会议获悉，会议选举唐登杰…",
-          "publishedAt": "2026-10-24T08:14:32.000Z",
-          "category": "政治",
-          "topic": "中国",
-          "source": "中国新闻网",
-          "sourceId": "cn-politics"
         }
       ]
     },
@@ -964,8 +954,8 @@
       "name": "AI HOT",
       "url": "https://aihot.news/",
       "status": "ok",
-      "lastAttempt": "2026-10-25T04:43:25.155Z",
-      "lastSuccess": "2026-10-25T04:43:25.155Z",
+      "lastAttempt": "2026-10-25T05:22:01.093Z",
+      "lastSuccess": "2026-10-25T05:22:01.093Z",
       "items": [
         {
           "category": "AI",
@@ -990,7 +980,7 @@
       "summary": "“中国智造”已成为中国式现代化的又一亮丽名片。人工智能“电子鼻”、火锅底料智能生产线、“水下幽灵”透明仿生水母机器人……",
       "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%8D%E6%98%AF%E7%A7%91%E5%B9%BB%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%99%BA%E9%80%A0&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-25T04:43:25.155Z",
+      "publishedAt": "2026-10-25T05:22:01.093Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -999,11 +989,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "178平方豪宅6个套间 每间都有马桶",
-      "summary": "近日，在江苏南京仙林一小区，178平方米豪宅被隔成6个套间，每间配马桶、洗衣机，邻居反映噪声扰民、家中墙裂。日前，当地…",
-      "url": "https://www.baidu.com/s?wd=178%E5%B9%B3%E6%96%B9%E8%B1%AA%E5%AE%856%E4%B8%AA%E5%A5%97%E9%97%B4+%E6%AF%8F%E9%97%B4%E9%83%BD%E6%9C%89%E9%A9%AC%E6%A1%B6&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "女子花3.8万鹤岗买房 搬进去后傻眼",
+      "summary": "近日，江苏姑娘小陈花3.8万元在鹤岗“云购房”，买下60平方米住房、又花4万多元装修。入住后，小陈发现屋顶多处漏水，中…",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B13.8%E4%B8%87%E9%B9%A4%E5%B2%97%E4%B9%B0%E6%88%BF+%E6%90%AC%E8%BF%9B%E5%8E%BB%E5%90%8E%E5%82%BB%E7%9C%BC&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-25T04:43:25.155Z",
+      "publishedAt": "2026-10-25T05:22:01.093Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1016,7 +1006,7 @@
       "summary": "近日，有网民发布视频并配文称“辽宁锦州大暴雨，街道成海车辆被淹”，引发关注。经属地街道办事处核查，辽宁省锦州市近日未出…",
       "url": "https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E9%94%A6%E5%B7%9E%E5%A4%A7%E6%9A%B4%E9%9B%A8%E8%87%B4%E8%A1%97%E9%81%93%E6%88%90%E6%B5%B7%E6%98%AF%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-25T04:43:25.155Z",
+      "publishedAt": "2026-10-25T05:22:01.093Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1025,11 +1015,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "女子花3.8万鹤岗买房 搬进去后傻眼",
-      "summary": "近日，江苏姑娘小陈花3.8万元在鹤岗“云购房”，买下60平方米住房、又花4万多元装修。入住后，小陈发现屋顶多处漏水，中…",
-      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B13.8%E4%B8%87%E9%B9%A4%E5%B2%97%E4%B9%B0%E6%88%BF+%E6%90%AC%E8%BF%9B%E5%8E%BB%E5%90%8E%E5%82%BB%E7%9C%BC&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "178平方豪宅6个套间 每间都有马桶",
+      "summary": "近日，在江苏南京仙林一小区，178平方米豪宅被隔成6个套间，每间配马桶、洗衣机，邻居反映噪声扰民、家中墙裂。日前，当地…",
+      "url": "https://www.baidu.com/s?wd=178%E5%B9%B3%E6%96%B9%E8%B1%AA%E5%AE%856%E4%B8%AA%E5%A5%97%E9%97%B4+%E6%AF%8F%E9%97%B4%E9%83%BD%E6%9C%89%E9%A9%AC%E6%A1%B6&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-25T04:43:25.155Z",
+      "publishedAt": "2026-10-25T05:22:01.093Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1042,7 +1032,7 @@
       "summary": "近期，深圳市松岗人民医院公布一起案例，男子小维因车上常有鸟粪而莫名感染肺炎，该院已有数例类似患者。此前2023年浙江台…",
       "url": "https://www.baidu.com/s?wd=%E8%87%AA%E5%AE%B6%E8%BD%A6%E7%BB%8F%E5%B8%B8%E8%A2%AB%E9%B8%9F%E6%8B%89%E5%B1%8E%E7%94%B7%E5%AD%90%E8%8E%AB%E5%90%8D%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%82%8E&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-25T04:43:25.155Z",
+      "publishedAt": "2026-10-25T05:22:01.093Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1051,15 +1041,26 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "金价大跌 深圳水贝又被挤爆了",
-      "summary": "10月24日，受国际金价下跌影响，深圳水贝市场迎来人流高峰，网友称“比菜市场人还多”。此前9月24日，国内品牌金饰克价…",
-      "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E5%8F%88%E8%A2%AB%E6%8C%A4%E7%88%86%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "广西当地通报“水柜多只猴子溺亡”",
+      "summary": "10月25日，广西南宁马山县林业局通报加方乡民治村水柜多只猴子溺亡事件。经核实，系猴群下山饮水不慎溺亡。目前，溺亡猴子…",
+      "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5%E2%80%9C%E6%B0%B4%E6%9F%9C%E5%A4%9A%E5%8F%AA%E7%8C%B4%E5%AD%90%E6%BA%BA%E4%BA%A1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-25T04:43:25.155Z",
+      "publishedAt": "2026-10-25T05:22:01.093Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
       "number": 6
+    },
+    {
+      "title": "太阳131-122送勇士三连败，布克43+7+7，库里缺阵，伦德伯格26+9",
+      "url": "https://www.163.com/dy/article/LA3A9T0U0549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-10-25T04:43:17.000Z",
+      "category": "体育",
+      "topic": "NBA",
+      "sourceId": "sports",
+      "summary": "北京时间10月25日NBA 常规赛，菲尼克斯太阳对阵金州勇士。本场勇士背靠背客场挑战太阳，勇士库里、格林、霍福德等老将…",
+      "number": 7
     },
     {
       "title": "掘金加时141-135逆转鹈鹕23分，贾马尔-穆雷42分，约基奇35+10+15",
@@ -1070,7 +1071,7 @@
       "topic": "NBA",
       "sourceId": "sports",
       "summary": "北京时间10月25日NBA 常规赛，丹佛掘金对阵新奥尔良鹈鹕。半场掘金57-73鹈鹕，最终掘金141-135逆转战胜鹈…",
-      "number": 7
+      "number": 8
     },
     {
       "title": "NBA｜热火三连败开局，迈阿密豪赌字母哥的阵痛期提前到来",
@@ -1081,18 +1082,29 @@
       "topic": "NBA",
       "sourceId": "sports",
       "summary": "迈阿密热火在休赛期押上未来换来扬尼斯·阿德托昆博时，斯波尔斯特拉治下的这支球队曾被视作东部争冠版图的重塑者。然而新赛季…",
-      "number": 8
+      "number": 9
     },
     {
-      "title": "NBA战报：马刺122-106独行侠，文班亚马23+7+2",
-      "url": "https://www.163.com/dy/article/LA33HGCJ0549BAP0.html",
+      "title": "罗马诺：曼联给卡里克额外时间，许尔策勒、埃梅里无意曼联",
+      "url": "https://www.163.com/dy/article/LA3C4GQQ0549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-10-25T02:45:06.000Z",
+      "publishedAt": "2026-10-25T05:15:18.000Z",
       "category": "体育",
-      "topic": "NBA",
+      "topic": "英超",
       "sourceId": "sports",
-      "summary": "北京时间10月25日NBA 常规赛，达拉斯独行侠对阵圣安东尼奥马刺。半场独行侠60-68马刺，最终独行侠106-122…",
-      "number": 9
+      "summary": "知名转会记者罗马诺报道，曼联在惨败科莫赛后决定暂不换帅，给予主帅卡里克更多时间，将在国际比赛日窗口前评估局势。",
+      "number": 10
+    },
+    {
+      "title": "皮尔斯-摩根：阿森纳才是榜首，曼城本赛季结束时将垫底降级",
+      "url": "https://www.163.com/dy/article/LA3C4GR40549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-10-25T05:15:18.000Z",
+      "category": "体育",
+      "topic": "英超",
+      "sourceId": "sports",
+      "summary": "10月24日英超联赛第8轮，曼城1-2不敌维拉，阿森纳2-0击败埃弗顿，积分追平争冠对手。",
+      "number": 11
     },
     {
       "title": "英超综合：曼城遭遇赛季首败 阿森纳追平积分",
@@ -1103,28 +1115,6 @@
       "topic": "英超",
       "sourceId": "sports",
       "summary": "新华社伦敦10月24日电（记者马邦杰）2026-2027赛季英超第八轮24日继续进行。曼城客场1:2不敌阿斯顿维拉，遭…",
-      "number": 10
-    },
-    {
-      "title": "数据辣眼，罗杰斯对阵热刺15次丢失球权+0射正、0成功过人",
-      "url": "https://www.163.com/dy/article/LA2TC34I0549BAP0.html",
-      "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-10-25T00:57:17.000Z",
-      "category": "体育",
-      "topic": "英超",
-      "sourceId": "sports",
-      "summary": "英超第8轮，切尔西0-2不敌热刺，无缘三连胜；本场比赛首发出战的罗杰斯表现不佳。",
-      "number": 11
-    },
-    {
-      "title": "TA：若昂-佩德罗缺阵对切尔西影响极大，球队在前场缺少支点",
-      "url": "https://www.163.com/dy/article/LA2Q97T80549BAP0.html",
-      "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-10-25T00:03:18.000Z",
-      "category": "体育",
-      "topic": "英超",
-      "sourceId": "sports",
-      "summary": "英超第8轮，切尔西主场0-2不敌热刺。赛后TA分析了本次比赛的重要看点。",
       "number": 12
     },
     {
@@ -1295,6 +1285,18 @@
     {
       "category": "金融",
       "topic": "美股",
+      "title": "标普重磅调整！将影响3750亿美元资金",
+      "summary": "日前，美国标普道琼斯指数公司正式出台新规，调整成长股和价值股的划分规则。",
+      "url": "https://finance.eastmoney.com/a/202610253907165989.html",
+      "publishedAt": "2026-10-25T05:16:00.000Z",
+      "source": "东方财富 · 上海证券报",
+      "kind": "报道",
+      "sourceId": "eastmoney-us-stock",
+      "number": 28
+    },
+    {
+      "category": "金融",
+      "topic": "美股",
       "title": "AI周报：Meta旗下Muse下载量突破1000万 长鑫与美光产生技术分歧",
       "summary": "10月20日，DeepSeek宣布开源推理框架DeepInfer，这是支撑DeepSeek大模型高吞吐、低延迟线上推理…",
       "url": "https://finance.eastmoney.com/a/202610253907160062.html",
@@ -1302,7 +1304,7 @@
       "source": "东方财富 · 第一财经",
       "kind": "报道",
       "sourceId": "eastmoney-us-stock",
-      "number": 28
+      "number": 29
     },
     {
       "category": "金融",
@@ -1314,7 +1316,7 @@
       "source": "东方财富 · 证券时报",
       "kind": "报道",
       "sourceId": "eastmoney-us-stock",
-      "number": 29
+      "number": 30
     },
     {
       "category": "金融",
@@ -1326,7 +1328,7 @@
       "source": "东方财富 · 中新经纬",
       "kind": "报道",
       "sourceId": "eastmoney-us-stock",
-      "number": 30
+      "number": 31
     },
     {
       "title": "标普出台新规！3750亿美元基金将受影响",
@@ -1338,7 +1340,7 @@
       "topic": "美股",
       "sourceId": "us-stock",
       "kind": "报道",
-      "number": 31
+      "number": 32
     },
     {
       "category": "金融",
@@ -1350,19 +1352,19 @@
       "source": "东方财富 · 第一财经",
       "kind": "报道",
       "sourceId": "eastmoney-us-stock",
-      "number": 32
+      "number": 33
     },
     {
       "category": "金融",
-      "topic": "美股",
-      "title": "对于A股调整 但斌发文：还是要“高抛低吸”！其美股三季度调仓曝光",
-      "summary": "近期，在多种因素影响下，全球科技股板块分歧加剧，出现急速调整，私募大佬的持仓动向格外受市场关注。据私募排排网最新数据，…",
-      "url": "https://finance.eastmoney.com/a/202610253907133621.html",
-      "publishedAt": "2026-10-24T17:05:00.000Z",
-      "source": "东方财富 · 每日经济新闻",
+      "topic": "A股",
+      "title": "电科思仪：将于深圳半导体展发布新矢量网络分析仪及系列测试方案",
+      "summary": "人民财讯10月25日电，电科思仪(301689)10月24日在业绩说明会上表示，PCB测试方面公司一直在布局，此前方案…",
+      "url": "https://finance.eastmoney.com/a/202610253907164935.html",
+      "publishedAt": "2026-10-25T04:37:00.000Z",
+      "source": "东方财富 · 证券时报网",
       "kind": "报道",
-      "sourceId": "eastmoney-us-stock",
-      "number": 33
+      "sourceId": "eastmoney-cn-stock",
+      "number": 34
     },
     {
       "category": "金融",
@@ -1372,18 +1374,6 @@
       "url": "https://finance.eastmoney.com/a/202610253907162311.html",
       "publishedAt": "2026-10-25T04:19:00.000Z",
       "source": "东方财富 · 证券时报网",
-      "kind": "报道",
-      "sourceId": "eastmoney-cn-stock",
-      "number": 34
-    },
-    {
-      "category": "金融",
-      "topic": "A股",
-      "title": "业绩暴增，股价连续重挫！CPO概念股，机构密集调研",
-      "summary": "近一周（10月17日至23日），机构调研60多只个股，华盛昌调研机构数最多。",
-      "url": "https://finance.eastmoney.com/a/202610253907161169.html",
-      "publishedAt": "2026-10-25T04:07:00.000Z",
-      "source": "东方财富 · 数据宝",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
       "number": 35
@@ -1425,15 +1415,15 @@
       "number": 38
     },
     {
-      "title": "不应继续悲观！下周，哪些方向最可能“超跌反弹”？",
-      "url": "https://finance.sina.com.cn/roll/2026-10-25/doc-iniwmanz6637388.shtml",
-      "summary": "每经记者|肖芮冬每经编辑|赵云 刚过去的交易周（10月19日至23日），A股市场经历了九月下旬以来连续第5周调整，最终…",
-      "source": "每日经济新闻 · 新浪财经",
-      "publishedAt": "2026-10-25T02:26:44.000Z",
       "category": "金融",
       "topic": "A股",
-      "sourceId": "cn-stock",
+      "title": "财报透视｜销售订单增加，铖昌科技前三季净利润同比涨5.18%，经营现金流增147%",
+      "summary": "10月24日，铖昌科技（001270）披露2026年第三季度报告。公司前三季度实现营业收入3.15亿元，同比增长2.8…",
+      "url": "https://finance.eastmoney.com/a/202610253907155818.html",
+      "publishedAt": "2026-10-25T02:46:00.000Z",
+      "source": "东方财富 · 深圳商报·读创",
       "kind": "报道",
+      "sourceId": "eastmoney-cn-stock",
       "number": 39
     },
     {
