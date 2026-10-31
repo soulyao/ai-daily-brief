@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-10-31T05:43:55.135Z",
+  "collectedAt": "2026-10-31T06:20:30.858Z",
   "topics": {
     "时事": [
       "百度热搜"
@@ -38,8 +38,8 @@
       "name": "百度热搜 · 时事",
       "url": "https://top.baidu.com/board?tab=realtime",
       "status": "ok",
-      "lastAttempt": "2026-10-31T05:43:55.135Z",
-      "lastSuccess": "2026-10-31T05:43:55.135Z",
+      "lastAttempt": "2026-10-31T06:20:30.858Z",
+      "lastSuccess": "2026-10-31T06:20:30.858Z",
       "items": [
         {
           "category": "时事",
@@ -48,7 +48,7 @@
           "summary": "10月31日，第七届载人航天学术大会在北京举行，王翔披露我国计划2030年前实现首次载人登月，乘组由三人组成，两人着陆…",
           "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E6%8A%AB%E9%9C%B2%EF%BC%9A%E5%B0%86%E6%9C%89%E4%B8%A4%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%99%BB%E9%99%86%E6%9C%88%E7%90%83&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-31T05:43:55.135Z",
+          "publishedAt": "2026-10-31T06:20:30.858Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -60,31 +60,7 @@
           "summary": "本周，我国在军事、能源、海洋科考、道路交通等多个领域捷报频传，硬核成果持续上新。",
           "url": "https://www.baidu.com/s?wd=%E6%9C%AC%E5%91%A8%E4%B8%AD%E5%9B%BD%E7%A1%AC%E6%A0%B8%E6%88%90%E6%9E%9C%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-31T05:43:55.135Z",
-          "timeLabel": "热搜采集",
-          "linkLabel": "查看相关新闻",
-          "sourceId": "baidu"
-        },
-        {
-          "category": "时事",
-          "topic": "百度热搜",
-          "title": "明道：这种事只有我们中国才会发生",
-          "summary": "10月30日，台湾艺人明道发视频向交警赠送锦旗，并寻找拾包的好心人当面致谢。他在服务区遗失贵重包包，被好心人送交交警，…",
-          "url": "https://www.baidu.com/s?wd=%E6%98%8E%E9%81%93%EF%BC%9A%E8%BF%99%E7%A7%8D%E4%BA%8B%E5%8F%AA%E6%9C%89%E6%88%91%E4%BB%AC%E4%B8%AD%E5%9B%BD%E6%89%8D%E4%BC%9A%E5%8F%91%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news",
-          "source": "百度热搜",
-          "publishedAt": "2026-10-31T05:43:55.135Z",
-          "timeLabel": "热搜采集",
-          "linkLabel": "查看相关新闻",
-          "sourceId": "baidu"
-        },
-        {
-          "category": "时事",
-          "topic": "百度热搜",
-          "title": "语文课文在此刻形成闭环",
-          "summary": "教育自带前瞻性，而人的理解总有滞后性。未开智时，我们只纠结哪些篇目需要背诵、哪段文字晦涩难懂。多年后再重读，才读懂文字…",
-          "url": "https://www.baidu.com/s?wd=%E8%AF%AD%E6%96%87%E8%AF%BE%E6%96%87%E5%9C%A8%E6%AD%A4%E5%88%BB%E5%BD%A2%E6%88%90%E9%97%AD%E7%8E%AF&sa=fyb_news&rsv_dl=fyb_news",
-          "source": "百度热搜",
-          "publishedAt": "2026-10-31T05:43:55.135Z",
+          "publishedAt": "2026-10-31T06:20:30.858Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -96,7 +72,7 @@
           "summary": "10月29日，美国拉斯维加斯警方公布了发生于2月3日的一起争议执法画面。多名警员连开数枪，将一名用3岁儿子当人质的男子…",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E3%E5%B2%81%E7%94%B7%E7%AB%A5%E8%A2%AB%E7%88%B6%E4%BA%B2%E6%8C%9F%E6%8C%81+%E8%AD%A6%E6%96%B9%E5%8F%8C%E5%8F%8C%E5%87%BB%E6%AF%99&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-31T05:43:55.135Z",
+          "publishedAt": "2026-10-31T06:20:30.858Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -104,11 +80,35 @@
         {
           "category": "时事",
           "topic": "百度热搜",
-          "title": "主持人跑网约车被抽成破防",
-          "summary": "近日，杭州交通918主持人于洋实测跑网约车被抽成破防，其连续在线12小时共接9单，总流水139元，但叠加租车及充电等成…",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%BB%E6%8C%81%E4%BA%BA%E8%B7%91%E7%BD%91%E7%BA%A6%E8%BD%A6%E8%A2%AB%E6%8A%BD%E6%88%90%E7%A0%B4%E9%98%B2&sa=fyb_news&rsv_dl=fyb_news",
+          "title": "明道：这种事只有我们中国才会发生",
+          "summary": "10月30日，台湾艺人明道发视频向交警赠送锦旗，并寻找拾包的好心人当面致谢。他在服务区遗失贵重包包，被好心人送交交警，…",
+          "url": "https://www.baidu.com/s?wd=%E6%98%8E%E9%81%93%EF%BC%9A%E8%BF%99%E7%A7%8D%E4%BA%8B%E5%8F%AA%E6%9C%89%E6%88%91%E4%BB%AC%E4%B8%AD%E5%9B%BD%E6%89%8D%E4%BC%9A%E5%8F%91%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-10-31T05:43:55.135Z",
+          "publishedAt": "2026-10-31T06:20:30.858Z",
+          "timeLabel": "热搜采集",
+          "linkLabel": "查看相关新闻",
+          "sourceId": "baidu"
+        },
+        {
+          "category": "时事",
+          "topic": "百度热搜",
+          "title": "“0713再就业男团”再度合体",
+          "summary": "近日，“0713再就业男团”再度合体，王铮亮、苏醒、王栎鑫、张远合唱《路过人间》，王铮亮和声氛围感拉满。",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C0713%E5%86%8D%E5%B0%B1%E4%B8%9A%E7%94%B7%E5%9B%A2%E2%80%9D%E5%86%8D%E5%BA%A6%E5%90%88%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news",
+          "source": "百度热搜",
+          "publishedAt": "2026-10-31T06:20:30.858Z",
+          "timeLabel": "热搜采集",
+          "linkLabel": "查看相关新闻",
+          "sourceId": "baidu"
+        },
+        {
+          "category": "时事",
+          "topic": "百度热搜",
+          "title": "“玄学大师”骗12岁孩子88万被判刑",
+          "summary": "10月29日，深圳中院通报，杨某某冒充玄学大师，诱导12岁小林付费许愿、允许赊账，致使小林变卖家中财物，累计被骗88万…",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%8E%84%E5%AD%A6%E5%A4%A7%E5%B8%88%E2%80%9D%E9%AA%9712%E5%B2%81%E5%AD%A9%E5%AD%9088%E4%B8%87%E8%A2%AB%E5%88%A4%E5%88%91&sa=fyb_news&rsv_dl=fyb_news",
+          "source": "百度热搜",
+          "publishedAt": "2026-10-31T06:20:30.858Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -120,9 +120,20 @@
       "name": "网易体育（署名媒体）",
       "url": "https://sports.163.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-31T05:43:55.135Z",
-      "lastSuccess": "2026-10-31T05:43:55.135Z",
+      "lastAttempt": "2026-10-31T06:20:30.858Z",
+      "lastSuccess": "2026-10-31T06:20:30.858Z",
       "items": [
+        {
+          "title": "马健：只要能为国争光詹姆斯归化来也行，管他黑的白的呢",
+          "url": "https://www.163.com/dy/article/LAITC93H0549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-10-31T06:05:14.000Z",
+          "category": "体育",
+          "topic": "NBA",
+          "sourceId": "sports",
+          "summary": "北京时间10月31日，马健在接受记者采访时谈到了中国男篮的归化问题，他说只要能为国争光詹姆斯归化来也行。",
+          "number": 1
+        },
         {
           "title": "同一天爆发，库里和克莱分别砍下31分和25分帮助各自球队取胜",
           "url": "https://www.163.com/dy/article/LAIRJ7DB0549BAP0.html",
@@ -132,7 +143,7 @@
           "topic": "NBA",
           "sourceId": "sports",
           "summary": "北京时间10月31日，NBA常规赛，库里和克莱-汤普森在同一天里全都表现出色，水花兄弟梦回巅峰，帮助各自球队取得了胜利。",
-          "number": 1
+          "number": 2
         },
         {
           "title": "狂砍31分！库里超越威尔金斯升至NBA历史得分榜第18位",
@@ -143,18 +154,29 @@
           "topic": "NBA",
           "sourceId": "sports",
           "summary": "北京时间10月31日，勇士主场112-95战胜湖人，库里拿到31分，在NBA历史得分榜升至第18位。",
-          "number": 2
+          "number": 3
         },
         {
-          "title": "勇士112-95逆转湖人25分，库里31分，东契奇空砍37+7+5",
-          "url": "https://www.163.com/dy/article/LAIPOKE60549BAP0.html",
+          "title": "桑托斯揭秘5000万镑转会：带孩子看病接到电话，停车场开启曼联谈判",
+          "url": "https://www.163.com/dy/article/LAIU07E00549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-10-31T05:02:05.000Z",
+          "publishedAt": "2026-10-31T06:16:08.000Z",
           "category": "体育",
-          "topic": "NBA",
+          "topic": "英超",
           "sourceId": "sports",
-          "summary": "北京时间10月31日NBA 常规赛季中杯小组赛，金州勇士对阵洛杉矶湖人。首节湖人东契奇21分带队35-13领先22分，…",
-          "number": 3
+          "summary": "曼联中场安德烈-桑托斯讲述了今夏从切尔西转投曼联的闪电谈判全过程，这笔交易总价值 5000 万英镑。在即将重返斯坦福桥…",
+          "number": 4
+        },
+        {
+          "title": "切尔西vs曼联裁判彼得-班克斯数据：近20场5红79黄2点",
+          "url": "https://www.163.com/dy/article/LAITC7PS0549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-10-31T06:05:13.000Z",
+          "category": "体育",
+          "topic": "英超",
+          "sourceId": "sports",
+          "summary": "北京时间10月31日20点30分，英格兰裁判彼得-班克斯将执法切尔西 vs 曼联的比赛。他近20场执法的战绩是主队11…",
+          "number": 5
         },
         {
           "title": "斯基拉：切尔西和富勒姆有意科莫中后卫拉蒙，但皇马有回购权",
@@ -165,28 +187,6 @@
           "topic": "英超",
           "sourceId": "sports",
           "summary": "据知名转会专家斯基拉的消息，切尔西和富勒姆等英超俱乐部有意科莫中后卫拉蒙，不过他也提醒这些球会，皇马拥有这名球员的回购…",
-          "number": 4
-        },
-        {
-          "title": "邮报：曼联有意7000万镑巴萨攻击手费尔明，同时关注勒温",
-          "url": "https://www.163.com/dy/article/LAI7K5T10549BAP0.html",
-          "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-10-30T23:45:05.000Z",
-          "category": "体育",
-          "topic": "英超",
-          "sourceId": "sports",
-          "summary": "曼联对巴塞罗那的攻击型中场费尔明-洛佩斯表示了兴趣，希望在下一个转会窗口增加球队的进攻选择。",
-          "number": 5
-        },
-        {
-          "title": "阿隆索：哈托因背部问题缺战曼联，还不知道他需要缺席多久",
-          "url": "https://www.163.com/dy/article/LAI721LB0549BAP0.html",
-          "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-10-30T23:35:11.000Z",
-          "category": "体育",
-          "topic": "英超",
-          "sourceId": "sports",
-          "summary": "切尔西主帅阿隆索在赛前新闻发布会上解释了哈托缺席对阵曼联比赛的原因，阿隆索确认，哈托受到背部问题困扰，将无法参加本场比…",
           "number": 6
         },
         {
@@ -361,8 +361,8 @@
       "name": "东方财富 · 美股",
       "url": "https://stock.eastmoney.com/america.html",
       "status": "ok",
-      "lastAttempt": "2026-10-31T05:43:55.135Z",
-      "lastSuccess": "2026-10-31T05:43:55.135Z",
+      "lastAttempt": "2026-10-31T06:20:30.858Z",
+      "lastSuccess": "2026-10-31T06:20:30.858Z",
       "items": [
         {
           "category": "金融",
@@ -415,8 +415,8 @@
       "name": "东方财富 · A股",
       "url": "https://stock.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-31T05:43:55.135Z",
-      "lastSuccess": "2026-10-31T05:43:55.135Z",
+      "lastAttempt": "2026-10-31T06:20:30.858Z",
+      "lastSuccess": "2026-10-31T06:20:30.858Z",
       "items": [
         {
           "category": "金融",
@@ -509,22 +509,11 @@
         {
           "category": "金融",
           "topic": "A股",
-          "title": "中国稀土开启重大资产重组：拟发行股份收购中稀凉山稀土股权，A股11月2日起停牌",
-          "summary": "10月30日晚间，中国稀土集团资源科技股份有限公司（以下简称“中国稀土”或“公司”）发布关于筹划重大资产重组事项的停牌…",
-          "url": "https://finance.eastmoney.com/a/202610313917586532.html",
-          "publishedAt": "2026-10-31T05:22:00.000Z",
-          "source": "东方财富 · 深圳商报·读创",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "券商业绩集体大考！近八成第三季度滑坡，哪些家逆势增长？",
-          "summary": "2026年赛程走过四分之三，券商业绩正经历一场“稳中有压、分化加剧”的深层洗牌。",
-          "url": "https://finance.eastmoney.com/a/202610313917585122.html",
-          "publishedAt": "2026-10-31T05:08:00.000Z",
-          "source": "东方财富 · 财联社",
+          "title": "600734，筹划重大资产重组！股票不停牌",
+          "summary": "保壳关键期之际，*ST实达（600734）拟筹划重大资产重组。",
+          "url": "https://finance.eastmoney.com/a/202610313917590653.html",
+          "publishedAt": "2026-10-31T05:52:00.000Z",
+          "source": "东方财富 · 证券时报",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
@@ -536,6 +525,17 @@
           "url": "https://finance.eastmoney.com/a/202610313917577940.html",
           "publishedAt": "2026-10-31T04:18:00.000Z",
           "source": "东方财富 · 红星资本局",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "券商业绩集体大考！近八成第三季度滑坡，哪些家逆势增长？",
+          "summary": "2026年赛程走过四分之三，券商业绩正经历一场“稳中有压、分化加剧”的深层洗牌。",
+          "url": "https://finance.eastmoney.com/a/202610313917585122.html",
+          "publishedAt": "2026-10-31T05:08:00.000Z",
+          "source": "东方财富 · 财联社",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
@@ -590,8 +590,8 @@
       "name": "东方财富 · 中国期货",
       "url": "https://futures.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-31T05:43:55.135Z",
-      "lastSuccess": "2026-10-31T05:43:55.135Z",
+      "lastAttempt": "2026-10-31T06:20:30.858Z",
+      "lastSuccess": "2026-10-31T06:20:30.858Z",
       "items": [
         {
           "category": "金融",
@@ -622,8 +622,8 @@
       "name": "东方财富 · 宏观财经",
       "url": "https://finance.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-10-31T05:43:55.135Z",
-      "lastSuccess": "2026-10-31T05:43:55.135Z",
+      "lastAttempt": "2026-10-31T06:20:30.858Z",
+      "lastSuccess": "2026-10-31T06:20:30.858Z",
       "items": [
         {
           "category": "金融",
@@ -644,6 +644,17 @@
           "url": "https://finance.eastmoney.com/a/202610313917377062.html",
           "publishedAt": "2026-10-30T23:38:00.000Z",
           "source": "东方财富 · 每日经济新闻",
+          "kind": "报道",
+          "sourceId": "eastmoney-macro"
+        },
+        {
+          "category": "金融",
+          "topic": "宏观财经",
+          "title": "10月制造业PMI回落，新动能仍保持较快增长",
+          "summary": "受季节性因素及外部环境变化等影响，在连续回升两个月之后，10月份，制造业PMI出现回落，同期非制造业PMI也回落至荣枯…",
+          "url": "https://finance.eastmoney.com/a/202610313917589634.html",
+          "publishedAt": "2026-10-31T05:34:00.000Z",
+          "source": "东方财富 · 上海证券报",
           "kind": "报道",
           "sourceId": "eastmoney-macro"
         },
@@ -683,32 +694,10 @@
         {
           "category": "金融",
           "topic": "宏观财经",
-          "title": "国家统计局，最新发布！10月PMI回落，解读来了",
-          "summary": "10月31日，国家统计局服务业调查中心和中国物流与采购联合会发布了中国采购经理指数。",
-          "url": "https://finance.eastmoney.com/a/202610313917585698.html",
-          "publishedAt": "2026-10-31T04:23:00.000Z",
-          "source": "东方财富 · 券商中国",
-          "kind": "报道",
-          "sourceId": "eastmoney-macro"
-        },
-        {
-          "category": "金融",
-          "topic": "宏观财经",
           "title": "央行：继续实施适度宽松的货币政策 保持流动性充裕",
           "summary": "2026年10月30日，中国人民银行党委书记、行长潘功胜主持召开党委会议，传达学习习近平总书记在党的二十届五中全会上的…",
           "url": "https://finance.eastmoney.com/a/202610303916819945.html",
           "publishedAt": "2026-10-30T11:07:00.000Z",
-          "source": "东方财富 · 央行网站",
-          "kind": "报道",
-          "sourceId": "eastmoney-macro"
-        },
-        {
-          "category": "金融",
-          "topic": "宏观财经",
-          "title": "央行：11月2日起每个工作日开展隔夜逆回购操作招标",
-          "summary": "为进一步优化短端利率调控机制，从2026年11月2日起，公开市场操作进行如下调整：",
-          "url": "https://finance.eastmoney.com/a/202610303916569143.html",
-          "publishedAt": "2026-10-30T09:00:00.000Z",
           "source": "东方财富 · 央行网站",
           "kind": "报道",
           "sourceId": "eastmoney-macro"
@@ -720,8 +709,8 @@
       "name": "新浪财经 · 美股",
       "url": "https://finance.sina.com.cn/stock/usstock/",
       "status": "ok",
-      "lastAttempt": "2026-10-31T05:43:55.135Z",
-      "lastSuccess": "2026-10-31T05:43:55.135Z",
+      "lastAttempt": "2026-10-31T06:20:30.858Z",
+      "lastSuccess": "2026-10-31T06:20:30.858Z",
       "items": [
         {
           "title": "“黑色星期五”！英伟达一夜蒸发1.4万亿、英特尔创52年来最大跌幅，国际金价跌破3900美元",
@@ -895,9 +884,20 @@
       "name": "新浪财经 · A股",
       "url": "https://finance.sina.com.cn/stock/",
       "status": "ok",
-      "lastAttempt": "2026-10-31T05:43:55.135Z",
-      "lastSuccess": "2026-10-31T05:43:55.135Z",
+      "lastAttempt": "2026-10-31T06:20:30.858Z",
+      "lastSuccess": "2026-10-31T06:20:30.858Z",
       "items": [
+        {
+          "title": "广发证券刘晨明：大盘蓝筹估值不高，市场信心修复具备坚实基础",
+          "url": "https://finance.sina.com.cn/roll/2026-10-31/doc-inixavkw1751878.shtml",
+          "summary": "21世纪经济报道记者杨娜娜上海报道 近期A股市场持续调整，投资者情绪偏向谨慎。围绕市场关心的估值与信心问题，记者专访了…",
+          "source": "21世纪经济报道 · 新浪财经",
+          "publishedAt": "2026-10-31T05:30:00.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock",
+          "kind": "报道"
+        },
         {
           "title": "六大行前三季中收分化、投资补差，净息差谁降了谁稳了？",
           "url": "https://finance.sina.com.cn/roll/2026-10-31/doc-inixavkz4031792.shtml",
@@ -1059,8 +1059,8 @@
       "name": "新浪财经 · 期货订阅 1",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-10-31T05:43:55.135Z",
-      "lastSuccess": "2026-10-31T05:43:55.135Z",
+      "lastAttempt": "2026-10-31T06:20:30.858Z",
+      "lastSuccess": "2026-10-31T06:20:30.858Z",
       "items": []
     },
     {
@@ -1068,8 +1068,8 @@
       "name": "新浪财经 · 期货订阅 2",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-10-31T05:43:55.135Z",
-      "lastSuccess": "2026-10-31T05:43:55.135Z",
+      "lastAttempt": "2026-10-31T06:20:30.858Z",
+      "lastSuccess": "2026-10-31T06:20:30.858Z",
       "items": []
     },
     {
@@ -1077,8 +1077,8 @@
       "name": "新浪财经 · 期货订阅 3",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-10-31T05:43:55.135Z",
-      "lastSuccess": "2026-10-31T05:43:55.135Z",
+      "lastAttempt": "2026-10-31T06:20:30.858Z",
+      "lastSuccess": "2026-10-31T06:20:30.858Z",
       "items": [
         {
           "title": "中天期货:原油横盘震荡 沪锌横向震荡",
@@ -1098,9 +1098,19 @@
       "name": "中新网 · 国际",
       "url": "https://www.chinanews.com.cn/rss/world.xml",
       "status": "ok",
-      "lastAttempt": "2026-10-31T05:43:55.135Z",
-      "lastSuccess": "2026-10-31T05:43:55.135Z",
+      "lastAttempt": "2026-10-31T06:20:30.858Z",
+      "lastSuccess": "2026-10-31T06:20:30.858Z",
       "items": [
+        {
+          "title": "突发：美国加州一处购物中心发生枪击事件 至少7人受伤",
+          "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723875.shtml",
+          "summary": "中新网10月31日电 据哥伦比亚广播公司(CBS)报道，当地时间30日晚，美国加利福尼亚州费尔菲尔德市官员表示，当地一…",
+          "publishedAt": "2026-10-31T05:48:21.000Z",
+          "category": "政治",
+          "topic": "美国",
+          "source": "中国新闻网",
+          "sourceId": "us-politics"
+        },
         {
           "title": "美国加州发生枪击致至少7人受伤",
           "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723869.shtml",
@@ -1150,16 +1160,6 @@
           "topic": "美国",
           "source": "中国新闻网",
           "sourceId": "us-politics"
-        },
-        {
-          "title": "美媒曝：特朗普施压下，乌克兰已暂停袭击俄罗斯炼油厂",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723243.shtml",
-          "summary": "中新网10月30日电 据美国《华尔街日报》当地时间10月29日报道，知情人士透露，在美国总统特朗普数周的施压动摇了基辅…",
-          "publishedAt": "2026-10-30T04:54:21.000Z",
-          "category": "政治",
-          "topic": "美国",
-          "source": "中国新闻网",
-          "sourceId": "us-politics"
         }
       ]
     },
@@ -1168,8 +1168,8 @@
       "name": "中新网 · 国内",
       "url": "https://www.chinanews.com.cn/rss/china.xml",
       "status": "ok",
-      "lastAttempt": "2026-10-31T05:43:55.135Z",
-      "lastSuccess": "2026-10-31T05:43:55.135Z",
+      "lastAttempt": "2026-10-31T06:20:30.858Z",
+      "lastSuccess": "2026-10-31T06:20:30.858Z",
       "items": [
         {
           "title": "多国人士谈五中全会：中共推进自我革新有助于提升国家发展成效",
@@ -1248,8 +1248,8 @@
       "name": "AI HOT",
       "url": "https://aihot.news/",
       "status": "ok",
-      "lastAttempt": "2026-10-31T05:43:55.135Z",
-      "lastSuccess": "2026-10-31T05:43:55.135Z",
+      "lastAttempt": "2026-10-31T06:20:30.858Z",
+      "lastSuccess": "2026-10-31T06:20:30.858Z",
       "items": [
         {
           "category": "AI",
@@ -1406,7 +1406,7 @@
       "summary": "10月31日，第七届载人航天学术大会在北京举行，王翔披露我国计划2030年前实现首次载人登月，乘组由三人组成，两人着陆…",
       "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E6%8A%AB%E9%9C%B2%EF%BC%9A%E5%B0%86%E6%9C%89%E4%B8%A4%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%99%BB%E9%99%86%E6%9C%88%E7%90%83&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-31T05:43:55.135Z",
+      "publishedAt": "2026-10-31T06:20:30.858Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1419,7 +1419,7 @@
       "summary": "本周，我国在军事、能源、海洋科考、道路交通等多个领域捷报频传，硬核成果持续上新。",
       "url": "https://www.baidu.com/s?wd=%E6%9C%AC%E5%91%A8%E4%B8%AD%E5%9B%BD%E7%A1%AC%E6%A0%B8%E6%88%90%E6%9E%9C%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-31T05:43:55.135Z",
+      "publishedAt": "2026-10-31T06:20:30.858Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1428,11 +1428,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "明道：这种事只有我们中国才会发生",
-      "summary": "10月30日，台湾艺人明道发视频向交警赠送锦旗，并寻找拾包的好心人当面致谢。他在服务区遗失贵重包包，被好心人送交交警，…",
-      "url": "https://www.baidu.com/s?wd=%E6%98%8E%E9%81%93%EF%BC%9A%E8%BF%99%E7%A7%8D%E4%BA%8B%E5%8F%AA%E6%9C%89%E6%88%91%E4%BB%AC%E4%B8%AD%E5%9B%BD%E6%89%8D%E4%BC%9A%E5%8F%91%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "美3岁男童被父亲挟持 警方双双击毙",
+      "summary": "10月29日，美国拉斯维加斯警方公布了发生于2月3日的一起争议执法画面。多名警员连开数枪，将一名用3岁儿子当人质的男子…",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E3%E5%B2%81%E7%94%B7%E7%AB%A5%E8%A2%AB%E7%88%B6%E4%BA%B2%E6%8C%9F%E6%8C%81+%E8%AD%A6%E6%96%B9%E5%8F%8C%E5%8F%8C%E5%87%BB%E6%AF%99&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-31T05:43:55.135Z",
+      "publishedAt": "2026-10-31T06:20:30.858Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1441,11 +1441,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "语文课文在此刻形成闭环",
-      "summary": "教育自带前瞻性，而人的理解总有滞后性。未开智时，我们只纠结哪些篇目需要背诵、哪段文字晦涩难懂。多年后再重读，才读懂文字…",
-      "url": "https://www.baidu.com/s?wd=%E8%AF%AD%E6%96%87%E8%AF%BE%E6%96%87%E5%9C%A8%E6%AD%A4%E5%88%BB%E5%BD%A2%E6%88%90%E9%97%AD%E7%8E%AF&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "明道：这种事只有我们中国才会发生",
+      "summary": "10月30日，台湾艺人明道发视频向交警赠送锦旗，并寻找拾包的好心人当面致谢。他在服务区遗失贵重包包，被好心人送交交警，…",
+      "url": "https://www.baidu.com/s?wd=%E6%98%8E%E9%81%93%EF%BC%9A%E8%BF%99%E7%A7%8D%E4%BA%8B%E5%8F%AA%E6%9C%89%E6%88%91%E4%BB%AC%E4%B8%AD%E5%9B%BD%E6%89%8D%E4%BC%9A%E5%8F%91%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-31T05:43:55.135Z",
+      "publishedAt": "2026-10-31T06:20:30.858Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1454,11 +1454,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "美3岁男童被父亲挟持 警方双双击毙",
-      "summary": "10月29日，美国拉斯维加斯警方公布了发生于2月3日的一起争议执法画面。多名警员连开数枪，将一名用3岁儿子当人质的男子…",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E3%E5%B2%81%E7%94%B7%E7%AB%A5%E8%A2%AB%E7%88%B6%E4%BA%B2%E6%8C%9F%E6%8C%81+%E8%AD%A6%E6%96%B9%E5%8F%8C%E5%8F%8C%E5%87%BB%E6%AF%99&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "“0713再就业男团”再度合体",
+      "summary": "近日，“0713再就业男团”再度合体，王铮亮、苏醒、王栎鑫、张远合唱《路过人间》，王铮亮和声氛围感拉满。",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C0713%E5%86%8D%E5%B0%B1%E4%B8%9A%E7%94%B7%E5%9B%A2%E2%80%9D%E5%86%8D%E5%BA%A6%E5%90%88%E4%BD%93&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-31T05:43:55.135Z",
+      "publishedAt": "2026-10-31T06:20:30.858Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1467,15 +1467,26 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "主持人跑网约车被抽成破防",
-      "summary": "近日，杭州交通918主持人于洋实测跑网约车被抽成破防，其连续在线12小时共接9单，总流水139元，但叠加租车及充电等成…",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%BB%E6%8C%81%E4%BA%BA%E8%B7%91%E7%BD%91%E7%BA%A6%E8%BD%A6%E8%A2%AB%E6%8A%BD%E6%88%90%E7%A0%B4%E9%98%B2&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "“玄学大师”骗12岁孩子88万被判刑",
+      "summary": "10月29日，深圳中院通报，杨某某冒充玄学大师，诱导12岁小林付费许愿、允许赊账，致使小林变卖家中财物，累计被骗88万…",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%8E%84%E5%AD%A6%E5%A4%A7%E5%B8%88%E2%80%9D%E9%AA%9712%E5%B2%81%E5%AD%A9%E5%AD%9088%E4%B8%87%E8%A2%AB%E5%88%A4%E5%88%91&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-10-31T05:43:55.135Z",
+      "publishedAt": "2026-10-31T06:20:30.858Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
       "number": 6
+    },
+    {
+      "title": "马健：只要能为国争光詹姆斯归化来也行，管他黑的白的呢",
+      "url": "https://www.163.com/dy/article/LAITC93H0549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-10-31T06:05:14.000Z",
+      "category": "体育",
+      "topic": "NBA",
+      "sourceId": "sports",
+      "summary": "北京时间10月31日，马健在接受记者采访时谈到了中国男篮的归化问题，他说只要能为国争光詹姆斯归化来也行。",
+      "number": 7
     },
     {
       "title": "同一天爆发，库里和克莱分别砍下31分和25分帮助各自球队取胜",
@@ -1486,7 +1497,7 @@
       "topic": "NBA",
       "sourceId": "sports",
       "summary": "北京时间10月31日，NBA常规赛，库里和克莱-汤普森在同一天里全都表现出色，水花兄弟梦回巅峰，帮助各自球队取得了胜利。",
-      "number": 7
+      "number": 8
     },
     {
       "title": "狂砍31分！库里超越威尔金斯升至NBA历史得分榜第18位",
@@ -1497,18 +1508,29 @@
       "topic": "NBA",
       "sourceId": "sports",
       "summary": "北京时间10月31日，勇士主场112-95战胜湖人，库里拿到31分，在NBA历史得分榜升至第18位。",
-      "number": 8
+      "number": 9
     },
     {
-      "title": "勇士112-95逆转湖人25分，库里31分，东契奇空砍37+7+5",
-      "url": "https://www.163.com/dy/article/LAIPOKE60549BAP0.html",
+      "title": "桑托斯揭秘5000万镑转会：带孩子看病接到电话，停车场开启曼联谈判",
+      "url": "https://www.163.com/dy/article/LAIU07E00549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-10-31T05:02:05.000Z",
+      "publishedAt": "2026-10-31T06:16:08.000Z",
       "category": "体育",
-      "topic": "NBA",
+      "topic": "英超",
       "sourceId": "sports",
-      "summary": "北京时间10月31日NBA 常规赛季中杯小组赛，金州勇士对阵洛杉矶湖人。首节湖人东契奇21分带队35-13领先22分，…",
-      "number": 9
+      "summary": "曼联中场安德烈-桑托斯讲述了今夏从切尔西转投曼联的闪电谈判全过程，这笔交易总价值 5000 万英镑。在即将重返斯坦福桥…",
+      "number": 10
+    },
+    {
+      "title": "切尔西vs曼联裁判彼得-班克斯数据：近20场5红79黄2点",
+      "url": "https://www.163.com/dy/article/LAITC7PS0549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-10-31T06:05:13.000Z",
+      "category": "体育",
+      "topic": "英超",
+      "sourceId": "sports",
+      "summary": "北京时间10月31日20点30分，英格兰裁判彼得-班克斯将执法切尔西 vs 曼联的比赛。他近20场执法的战绩是主队11…",
+      "number": 11
     },
     {
       "title": "斯基拉：切尔西和富勒姆有意科莫中后卫拉蒙，但皇马有回购权",
@@ -1519,28 +1541,6 @@
       "topic": "英超",
       "sourceId": "sports",
       "summary": "据知名转会专家斯基拉的消息，切尔西和富勒姆等英超俱乐部有意科莫中后卫拉蒙，不过他也提醒这些球会，皇马拥有这名球员的回购…",
-      "number": 10
-    },
-    {
-      "title": "邮报：曼联有意7000万镑巴萨攻击手费尔明，同时关注勒温",
-      "url": "https://www.163.com/dy/article/LAI7K5T10549BAP0.html",
-      "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-10-30T23:45:05.000Z",
-      "category": "体育",
-      "topic": "英超",
-      "sourceId": "sports",
-      "summary": "曼联对巴塞罗那的攻击型中场费尔明-洛佩斯表示了兴趣，希望在下一个转会窗口增加球队的进攻选择。",
-      "number": 11
-    },
-    {
-      "title": "阿隆索：哈托因背部问题缺战曼联，还不知道他需要缺席多久",
-      "url": "https://www.163.com/dy/article/LAI721LB0549BAP0.html",
-      "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-10-30T23:35:11.000Z",
-      "category": "体育",
-      "topic": "英超",
-      "sourceId": "sports",
-      "summary": "切尔西主帅阿隆索在赛前新闻发布会上解释了哈托缺席对阵曼联比赛的原因，阿隆索确认，哈托受到背部问题困扰，将无法参加本场比…",
       "number": 12
     },
     {
@@ -1783,14 +1783,26 @@
     {
       "category": "金融",
       "topic": "A股",
-      "title": "中国稀土开启重大资产重组：拟发行股份收购中稀凉山稀土股权，A股11月2日起停牌",
-      "summary": "10月30日晚间，中国稀土集团资源科技股份有限公司（以下简称“中国稀土”或“公司”）发布关于筹划重大资产重组事项的停牌…",
-      "url": "https://finance.eastmoney.com/a/202610313917586532.html",
-      "publishedAt": "2026-10-31T05:22:00.000Z",
-      "source": "东方财富 · 深圳商报·读创",
+      "title": "600734，筹划重大资产重组！股票不停牌",
+      "summary": "保壳关键期之际，*ST实达（600734）拟筹划重大资产重组。",
+      "url": "https://finance.eastmoney.com/a/202610313917590653.html",
+      "publishedAt": "2026-10-31T05:52:00.000Z",
+      "source": "东方财富 · 证券时报",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
       "number": 34
+    },
+    {
+      "title": "广发证券刘晨明：大盘蓝筹估值不高，市场信心修复具备坚实基础",
+      "url": "https://finance.sina.com.cn/roll/2026-10-31/doc-inixavkw1751878.shtml",
+      "summary": "21世纪经济报道记者杨娜娜上海报道 近期A股市场持续调整，投资者情绪偏向谨慎。围绕市场关心的估值与信心问题，记者专访了…",
+      "source": "21世纪经济报道 · 新浪财经",
+      "publishedAt": "2026-10-31T05:30:00.000Z",
+      "category": "金融",
+      "topic": "A股",
+      "sourceId": "cn-stock",
+      "kind": "报道",
+      "number": 35
     },
     {
       "category": "金融",
@@ -1802,7 +1814,7 @@
       "source": "东方财富 · 财联社",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
-      "number": 35
+      "number": 36
     },
     {
       "category": "金融",
@@ -1814,7 +1826,7 @@
       "source": "东方财富 · 华夏时报网",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
-      "number": 36
+      "number": 37
     },
     {
       "title": "六大行前三季中收分化、投资补差，净息差谁降了谁稳了？",
@@ -1826,7 +1838,7 @@
       "topic": "A股",
       "sourceId": "cn-stock",
       "kind": "报道",
-      "number": 37
+      "number": 38
     },
     {
       "category": "金融",
@@ -1838,18 +1850,6 @@
       "source": "东方财富 · 界面新闻",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
-      "number": 38
-    },
-    {
-      "title": "这家酒企单季净利扭亏！600779，交出“企稳”答卷",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-31/doc-inixavkx7585557.shtml",
-      "summary": "来源：大众证券报 10月30日晚间，水井坊（600779）披露2026年三季报。前三季度，公司实现营业收入19.55亿…",
-      "source": "滚动播报 · 新浪财经",
-      "publishedAt": "2026-10-31T04:55:00.000Z",
-      "category": "金融",
-      "topic": "A股",
-      "sourceId": "cn-stock",
-      "kind": "报道",
       "number": 39
     },
     {
@@ -1891,6 +1891,18 @@
     {
       "category": "金融",
       "topic": "宏观财经",
+      "title": "10月制造业PMI回落，新动能仍保持较快增长",
+      "summary": "受季节性因素及外部环境变化等影响，在连续回升两个月之后，10月份，制造业PMI出现回落，同期非制造业PMI也回落至荣枯…",
+      "url": "https://finance.eastmoney.com/a/202610313917589634.html",
+      "publishedAt": "2026-10-31T05:34:00.000Z",
+      "source": "东方财富 · 上海证券报",
+      "kind": "报道",
+      "sourceId": "eastmoney-macro",
+      "number": 43
+    },
+    {
+      "category": "金融",
+      "topic": "宏观财经",
       "title": "10月制造业PMI49.3% 新动能保持较快增长态势",
       "summary": "10月31日，国家统计局服务业调查中心和中国物流与采购联合会发布的中国采购经理指数（PMI）显示，10月份，制造业采购…",
       "url": "https://finance.eastmoney.com/a/202610313917587194.html",
@@ -1898,7 +1910,7 @@
       "source": "东方财富 · 经济参考网",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
-      "number": 43
+      "number": 44
     },
     {
       "category": "金融",
@@ -1910,7 +1922,7 @@
       "source": "东方财富 · 中国新闻网",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
-      "number": 44
+      "number": 45
     },
     {
       "category": "金融",
@@ -1920,18 +1932,6 @@
       "url": "https://finance.eastmoney.com/a/202610313917586234.html",
       "publishedAt": "2026-10-31T04:37:00.000Z",
       "source": "东方财富 · 新华财经",
-      "kind": "报道",
-      "sourceId": "eastmoney-macro",
-      "number": 45
-    },
-    {
-      "category": "金融",
-      "topic": "宏观财经",
-      "title": "国家统计局，最新发布！10月PMI回落，解读来了",
-      "summary": "10月31日，国家统计局服务业调查中心和中国物流与采购联合会发布了中国采购经理指数。",
-      "url": "https://finance.eastmoney.com/a/202610313917585698.html",
-      "publishedAt": "2026-10-31T04:23:00.000Z",
-      "source": "东方财富 · 券商中国",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
       "number": 46
@@ -1961,6 +1961,17 @@
       "number": 48
     },
     {
+      "title": "突发：美国加州一处购物中心发生枪击事件 至少7人受伤",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723875.shtml",
+      "summary": "中新网10月31日电 据哥伦比亚广播公司(CBS)报道，当地时间30日晚，美国加利福尼亚州费尔菲尔德市官员表示，当地一…",
+      "publishedAt": "2026-10-31T05:48:21.000Z",
+      "category": "政治",
+      "topic": "美国",
+      "source": "中国新闻网",
+      "sourceId": "us-politics",
+      "number": 49
+    },
+    {
       "title": "美国加州发生枪击致至少7人受伤",
       "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723869.shtml",
       "summary": "新华社快讯：据美国媒体消息，美国加利福尼亚州30日夜间发生枪击事件，目前至少7人受伤。",
@@ -1969,7 +1980,7 @@
       "topic": "美国",
       "source": "中国新闻网",
       "sourceId": "us-politics",
-      "number": 49
+      "number": 50
     },
     {
       "title": "总值21亿美元、盟友“买单”，美国批准对乌500枚“爱国者”导弹军售",
@@ -1980,7 +1991,7 @@
       "topic": "美国",
       "source": "中国新闻网",
       "sourceId": "us-politics",
-      "number": 50
+      "number": 51
     },
     {
       "title": "美方下令非紧急人员及家属撤离沙特，警告公民防范袭击",
@@ -1991,7 +2002,7 @@
       "topic": "美国",
       "source": "中国新闻网",
       "sourceId": "us-politics",
-      "number": 51
+      "number": 52
     },
     {
       "title": "美使馆称美国务院已要求非紧急岗位人员离开沙特",
@@ -2002,24 +2013,13 @@
       "topic": "美国",
       "source": "中国新闻网",
       "sourceId": "us-politics",
-      "number": 52
+      "number": 53
     },
     {
       "title": "美国突发直升机相撞事故 致3人死亡",
       "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723283.shtml",
       "summary": "中新网10月30日电 据美联社报道，美国俄勒冈州亚姆希尔县警方29日表示，当天该州发生两架直升机相撞事故，造成3人死亡…",
       "publishedAt": "2026-10-30T05:58:03.000Z",
-      "category": "政治",
-      "topic": "美国",
-      "source": "中国新闻网",
-      "sourceId": "us-politics",
-      "number": 53
-    },
-    {
-      "title": "美媒曝：特朗普施压下，乌克兰已暂停袭击俄罗斯炼油厂",
-      "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723243.shtml",
-      "summary": "中新网10月30日电 据美国《华尔街日报》当地时间10月29日报道，知情人士透露，在美国总统特朗普数周的施压动摇了基辅…",
-      "publishedAt": "2026-10-30T04:54:21.000Z",
       "category": "政治",
       "topic": "美国",
       "source": "中国新闻网",
