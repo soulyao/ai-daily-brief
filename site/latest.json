@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-11-07T06:37:53.710Z",
+  "collectedAt": "2026-11-07T07:09:52.940Z",
   "topics": {
     "时事": [
       "百度热搜"
@@ -38,8 +38,8 @@
       "name": "百度热搜 · 时事",
       "url": "https://top.baidu.com/board?tab=realtime",
       "status": "ok",
-      "lastAttempt": "2026-11-07T06:37:53.710Z",
-      "lastSuccess": "2026-11-07T06:37:53.710Z",
+      "lastAttempt": "2026-11-07T07:09:52.940Z",
+      "lastSuccess": "2026-11-07T07:09:52.940Z",
       "items": [
         {
           "category": "时事",
@@ -48,7 +48,7 @@
           "summary": "11月7日，中国驻墨尔本总领事馆及维多利亚州警方通报称，当地时间6日晚，一名中国籍熊猫外卖骑手在澳大利亚墨尔本遇害，5…",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%B1%8D%E5%A4%96%E5%8D%96%E5%91%98%E5%9C%A8%E5%A2%A8%E5%B0%94%E6%9C%AC%E9%81%87%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-11-07T06:37:53.710Z",
+          "publishedAt": "2026-11-07T07:09:52.940Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -56,47 +56,11 @@
         {
           "category": "时事",
           "topic": "百度热搜",
-          "title": "首套首条首台 本周多项硬核成果上新",
-          "summary": "从大型邮轮到人造最冷物质，从氢能产线到空中电站。本周我国交通、能源、科技多点开花，多项突破接连落地，重大工程和重要成果…",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E5%A5%97%E9%A6%96%E6%9D%A1%E9%A6%96%E5%8F%B0+%E6%9C%AC%E5%91%A8%E5%A4%9A%E9%A1%B9%E7%A1%AC%E6%A0%B8%E6%88%90%E6%9E%9C%E4%B8%8A%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news",
+          "title": "当进博会遇上APEC“中国年”",
+          "summary": "第九届中国国际进口博览会恰逢APEC“中国年”，来自APEC经济体的展品跨越山海，展示、洽谈、对接，让展台成为合作起点…",
+          "url": "https://www.baidu.com/s?wd=%E5%BD%93%E8%BF%9B%E5%8D%9A%E4%BC%9A%E9%81%87%E4%B8%8AAPEC%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-11-07T06:37:53.710Z",
-          "timeLabel": "热搜采集",
-          "linkLabel": "查看相关新闻",
-          "sourceId": "baidu"
-        },
-        {
-          "category": "时事",
-          "topic": "百度热搜",
-          "title": "台湾寺庙地下搜出近800公斤金银",
-          "summary": "近日，台湾宜兰东林寺住持父子涉嫌侵吞近7000万善款洗钱被羁押。办案人员在寺庙禅房外地下挖出十多个铁箱，藏有800公斤…",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%AF%BA%E5%BA%99%E5%9C%B0%E4%B8%8B%E6%90%9C%E5%87%BA%E8%BF%91800%E5%85%AC%E6%96%A4%E9%87%91%E9%93%B6&sa=fyb_news&rsv_dl=fyb_news",
-          "source": "百度热搜",
-          "publishedAt": "2026-11-07T06:37:53.710Z",
-          "timeLabel": "热搜采集",
-          "linkLabel": "查看相关新闻",
-          "sourceId": "baidu"
-        },
-        {
-          "category": "时事",
-          "topic": "百度热搜",
-          "title": "5子女每月各出20元赡养费 老人起诉",
-          "summary": "四川广安一对七旬夫妻共育五名子女，早年分家协议仅约定四个儿子每月各出20元赡养费。时隔二十余年，这笔钱已不够看病生活，…",
-          "url": "https://www.baidu.com/s?wd=5%E5%AD%90%E5%A5%B3%E6%AF%8F%E6%9C%88%E5%90%84%E5%87%BA20%E5%85%83%E8%B5%A1%E5%85%BB%E8%B4%B9+%E8%80%81%E4%BA%BA%E8%B5%B7%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news",
-          "source": "百度热搜",
-          "publishedAt": "2026-11-07T06:37:53.710Z",
-          "timeLabel": "热搜采集",
-          "linkLabel": "查看相关新闻",
-          "sourceId": "baidu"
-        },
-        {
-          "category": "时事",
-          "topic": "百度热搜",
-          "title": "教育部明确高中生睡眠应达到8小时",
-          "summary": "近日，江苏南京、重庆巴南区、成都等地多所学校延迟上学时间引发热议。评论指出，事实上教育部早已明确高中生睡眠时间应达到8…",
-          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E6%98%8E%E7%A1%AE%E9%AB%98%E4%B8%AD%E7%94%9F%E7%9D%A1%E7%9C%A0%E5%BA%94%E8%BE%BE%E5%88%B08%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news",
-          "source": "百度热搜",
-          "publishedAt": "2026-11-07T06:37:53.710Z",
+          "publishedAt": "2026-11-07T07:09:52.940Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -108,7 +72,43 @@
           "summary": "近日，在中国民航大学校内的一场排球友谊赛上，发生不可思议的一幕。一名大学生在比赛中无心用脚踢排球，阴差阳错将排球踢进了…",
           "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%98%B4%E5%B7%AE%E9%98%B3%E9%94%99%E8%B8%A2%E5%87%BA%E7%A5%9E%E5%A5%87%E4%B8%80%E5%B9%95%E5%85%A8%E5%9C%BA%E6%B2%B8%E8%85%BE&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-11-07T06:37:53.710Z",
+          "publishedAt": "2026-11-07T07:09:52.940Z",
+          "timeLabel": "热搜采集",
+          "linkLabel": "查看相关新闻",
+          "sourceId": "baidu"
+        },
+        {
+          "category": "时事",
+          "topic": "百度热搜",
+          "title": "男子2017年死亡销户但仍有生活轨迹",
+          "summary": "11月6日平安内蒙古通报，潜逃27年的命案逃犯石某落网，案件突破口十分特殊：一名2017年就死亡销户的男子身份，仍存在…",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%902017%E5%B9%B4%E6%AD%BB%E4%BA%A1%E9%94%80%E6%88%B7%E4%BD%86%E4%BB%8D%E6%9C%89%E7%94%9F%E6%B4%BB%E8%BD%A8%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news",
+          "source": "百度热搜",
+          "publishedAt": "2026-11-07T07:09:52.940Z",
+          "timeLabel": "热搜采集",
+          "linkLabel": "查看相关新闻",
+          "sourceId": "baidu"
+        },
+        {
+          "category": "时事",
+          "topic": "百度热搜",
+          "title": "台湾寺庙地下搜出近800公斤金银",
+          "summary": "近日，台湾宜兰东林寺住持父子涉嫌侵吞近7000万善款洗钱被羁押。办案人员在寺庙禅房外地下挖出十多个铁箱，藏有800公斤…",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%AF%BA%E5%BA%99%E5%9C%B0%E4%B8%8B%E6%90%9C%E5%87%BA%E8%BF%91800%E5%85%AC%E6%96%A4%E9%87%91%E9%93%B6&sa=fyb_news&rsv_dl=fyb_news",
+          "source": "百度热搜",
+          "publishedAt": "2026-11-07T07:09:52.940Z",
+          "timeLabel": "热搜采集",
+          "linkLabel": "查看相关新闻",
+          "sourceId": "baidu"
+        },
+        {
+          "category": "时事",
+          "topic": "百度热搜",
+          "title": "5子女每月各出20元赡养费 老人起诉",
+          "summary": "四川广安一对七旬夫妻共育五名子女，早年分家协议仅约定四个儿子每月各出20元赡养费。时隔二十余年，这笔钱已不够看病生活，…",
+          "url": "https://www.baidu.com/s?wd=5%E5%AD%90%E5%A5%B3%E6%AF%8F%E6%9C%88%E5%90%84%E5%87%BA20%E5%85%83%E8%B5%A1%E5%85%BB%E8%B4%B9+%E8%80%81%E4%BA%BA%E8%B5%B7%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news",
+          "source": "百度热搜",
+          "publishedAt": "2026-11-07T07:09:52.940Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -120,8 +120,8 @@
       "name": "网易体育（署名媒体）",
       "url": "https://sports.163.com/",
       "status": "ok",
-      "lastAttempt": "2026-11-07T06:37:53.710Z",
-      "lastSuccess": "2026-11-07T06:37:53.710Z",
+      "lastAttempt": "2026-11-07T07:09:52.940Z",
+      "lastSuccess": "2026-11-07T07:09:52.940Z",
       "items": [
         {
           "title": "开拓者118-124遭湖人逆转丢西部第一，杨瀚森2分，东契奇53分",
@@ -146,14 +146,14 @@
           "number": 2
         },
         {
-          "title": "Stein：勇士对在季中迎回巴特勒持乐观态度",
-          "url": "https://www.163.com/dy/article/LB4SJH0D0514R9KQ.html",
+          "title": "美记：卡特成各队关注对象 若能被交易将被视为勇士理想人选",
+          "url": "https://www.163.com/dy/article/LB4SJG9M0514R9KQ.html",
           "source": "北青网-北京青年报 · 网易体育",
-          "publishedAt": "2026-11-07T05:38:03.000Z",
+          "publishedAt": "2026-11-07T05:38:02.000Z",
           "category": "体育",
           "topic": "NBA",
           "sourceId": "sports",
-          "summary": "北京时间11月7日，据记者Marc Stein报道，勇士对在季中迎回吉米-巴特勒持乐观态度。",
+          "summary": "北京时间11月7日，据记者Brett Siegel报道，各支球队已经在关注魔术中锋小温德尔-卡特在交易截止日前的可交易…",
           "number": 3
         },
         {
@@ -190,6 +190,17 @@
           "number": 6
         },
         {
+          "title": "马卡：杜罗10战皇马曾打入5球，但已连续11轮西甲未进球",
+          "url": "https://www.163.com/dy/article/LB515K1C0549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-11-07T06:57:50.000Z",
+          "category": "体育",
+          "topic": "西甲",
+          "sourceId": "sports",
+          "summary": "《马卡报》的报道指出，在西甲没有任何对手比皇家马德里更能被杜罗伤害：他在10次交手中打进5球，和他面对马德里竞技时的进…",
+          "number": 7
+        },
+        {
           "title": "韩国队主帅莫雷诺：当年在巴萨伊涅斯塔曾教我视频要看空当",
           "url": "https://www.163.com/dy/article/LB4I4UFV0549BAP0.html",
           "source": "懂球帝 · 网易体育",
@@ -198,7 +209,7 @@
           "topic": "西甲",
           "sourceId": "sports",
           "summary": "罗伯特-莫雷诺曾是恩里克教练组的一员。2014年，他在此前跟随这位阿斯图里亚斯教头效力巴萨B队、罗马和维戈塞尔塔后，进…",
-          "number": 7
+          "number": 8
         },
         {
           "title": "西媒：皇马多方面研究维尼修斯低迷状态，结论是纯粹的竞技问题",
@@ -209,18 +220,18 @@
           "topic": "西甲",
           "sourceId": "sports",
           "summary": "据西班牙媒体《辩论报》报道，皇家马德里已从竞技、情感、家庭及场外因素等多方面研究维尼修斯的状态问题，结论是这纯粹是竞技…",
-          "number": 8
+          "number": 9
         },
         {
-          "title": "科莫主席：战术学巴萨，挖人学布莱顿、布伦特福德",
-          "url": "https://www.163.com/dy/article/LB4EH96L0549BAP0.html",
+          "title": "意媒：本轮意甲阿莫林将不会召开赛前新闻发布会",
+          "url": "https://www.163.com/dy/article/LB500P940549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-07T01:32:10.000Z",
+          "publishedAt": "2026-11-07T06:37:43.000Z",
           "category": "体育",
-          "topic": "西甲",
+          "topic": "意甲",
           "sourceId": "sports",
-          "summary": "《每日体育报》指出，科莫在法布雷加斯执教下正当红。球队在欧冠中历史性地以9-1大胜朗斯，上一轮又曾与以4-1击败曼联，…",
-          "number": 9
+          "summary": "北京时间本周日22时，AC米兰将会做客挑战热那亚，根据米兰新闻网的报道，此战阿莫林将不会召开赛前新闻发布会。",
+          "number": 10
         },
         {
           "title": "罗马诺：那不勒斯还没有联系其他主教练，仍希望和阿莱格里扭转局面",
@@ -231,7 +242,7 @@
           "topic": "意甲",
           "sourceId": "sports",
           "summary": "北京时间11月7日，据罗马诺消息，那不勒斯还没有联系其他主教练，仍希望和阿莱格里扭转局面。",
-          "number": 10
+          "number": 11
         },
         {
           "title": "10轮造6球，经纪人：很多意甲俱乐部来找我，表示后悔没签卡洛",
@@ -242,17 +253,6 @@
           "topic": "意甲",
           "sourceId": "sports",
           "summary": "在上赛季表现出色，37场意乙交出10球15助攻，并帮助弗罗西诺内重返意甲之后，卡洛也开始在意甲站稳脚跟。作为一名联赛新…",
-          "number": 11
-        },
-        {
-          "title": "萨巴蒂尼：那不勒斯战拉齐奥将是有史以来最超现实的一场比赛",
-          "url": "https://www.163.com/dy/article/LB47NO190549BAP0.html",
-          "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-06T23:33:21.000Z",
-          "category": "体育",
-          "topic": "意甲",
-          "sourceId": "sports",
-          "summary": "那不勒斯目前处境复杂。在欧冠输给波尔图后，球队内部又因部分球员的赛后言论引发讨论。霍伊伦否认了阿莱格里的说法。此前，阿…",
           "number": 12
         },
         {
@@ -306,8 +306,8 @@
       "name": "东方财富 · 美股",
       "url": "https://stock.eastmoney.com/america.html",
       "status": "ok",
-      "lastAttempt": "2026-11-07T06:37:53.710Z",
-      "lastSuccess": "2026-11-07T06:37:53.710Z",
+      "lastAttempt": "2026-11-07T07:09:52.940Z",
+      "lastSuccess": "2026-11-07T07:09:52.940Z",
       "items": [
         {
           "category": "金融",
@@ -330,6 +330,17 @@
           "source": "东方财富 · 哈富证券",
           "kind": "报道",
           "sourceId": "eastmoney-us-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "美股",
+          "title": "美股科技股暴跌后迅速反弹 抄底时机到了吗？",
+          "summary": "美国东部时间11月6日，科技股从此前的猛烈抛售中反弹，英伟达、AMD等普遍回升，推动纳斯达克综合指数上涨逾1%。道指收…",
+          "url": "https://finance.eastmoney.com/a/202611073925498851.html",
+          "publishedAt": "2026-11-07T06:57:00.000Z",
+          "source": "东方财富 · 21世纪经济报道",
+          "kind": "报道",
+          "sourceId": "eastmoney-us-stock"
         }
       ]
     },
@@ -338,8 +349,8 @@
       "name": "东方财富 · A股",
       "url": "https://stock.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-11-07T06:37:53.710Z",
-      "lastSuccess": "2026-11-07T06:37:53.710Z",
+      "lastAttempt": "2026-11-07T07:09:52.940Z",
+      "lastSuccess": "2026-11-07T07:09:52.940Z",
       "items": [
         {
           "category": "金融",
@@ -443,17 +454,6 @@
         {
           "category": "金融",
           "topic": "A股",
-          "title": "瑞银、高盛、大摩，持仓A股名单曝光",
-          "summary": "三季度以来A股持续调整，但QFII（合格境外机构投资者）却能逆市盈利，展现出较强的选股能力和市场敏感度。",
-          "url": "https://finance.eastmoney.com/a/202611073925496845.html",
-          "publishedAt": "2026-11-07T06:25:00.000Z",
-          "source": "东方财富 · 中新经纬",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
           "title": "创业板指优化编制方案 稳步下调个股权重上限",
           "summary": "11月6日，深交所联合下属深圳证券信息有限公司发布《关于修订创业板指数编制方案的公告》，将根据第一大样本股实际权重稳步…",
           "url": "https://finance.eastmoney.com/a/202611073925245836.html",
@@ -483,6 +483,17 @@
           "source": "东方财富 · 证券日报",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "瑞银、高盛、大摩，持仓A股名单曝光",
+          "summary": "三季度以来A股持续调整，但QFII（合格境外机构投资者）却能逆市盈利，展现出较强的选股能力和市场敏感度。",
+          "url": "https://finance.eastmoney.com/a/202611073925496845.html",
+          "publishedAt": "2026-11-07T06:25:00.000Z",
+          "source": "东方财富 · 中新经纬",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
         }
       ]
     },
@@ -491,7 +502,7 @@
       "name": "东方财富 · 中国期货",
       "url": "https://futures.eastmoney.com/",
       "status": "error",
-      "lastAttempt": "2026-11-07T06:37:53.710Z",
+      "lastAttempt": "2026-11-07T07:09:52.940Z",
       "lastSuccess": "2026-11-07T01:56:35.441Z",
       "items": [
         {
@@ -512,8 +523,8 @@
       "name": "东方财富 · 宏观财经",
       "url": "https://finance.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-11-07T06:37:53.710Z",
-      "lastSuccess": "2026-11-07T06:37:53.710Z",
+      "lastAttempt": "2026-11-07T07:09:52.940Z",
+      "lastSuccess": "2026-11-07T07:09:52.940Z",
       "items": [
         {
           "category": "金融",
@@ -577,8 +588,8 @@
       "name": "新浪财经 · 美股",
       "url": "https://finance.sina.com.cn/stock/usstock/",
       "status": "ok",
-      "lastAttempt": "2026-11-07T06:37:53.710Z",
-      "lastSuccess": "2026-11-07T06:37:53.710Z",
+      "lastAttempt": "2026-11-07T07:09:52.940Z",
+      "lastSuccess": "2026-11-07T07:09:52.940Z",
       "items": [
         {
           "title": "韩股下跌 韩国散户狂买美股 五日净买入规模超8月全月",
@@ -675,8 +686,8 @@
       "name": "新浪财经 · A股",
       "url": "https://finance.sina.com.cn/stock/",
       "status": "ok",
-      "lastAttempt": "2026-11-07T06:37:53.710Z",
-      "lastSuccess": "2026-11-07T06:37:53.710Z",
+      "lastAttempt": "2026-11-07T07:09:52.940Z",
+      "lastSuccess": "2026-11-07T07:09:52.940Z",
       "items": [
         {
           "title": "ST龙大：实控人戴学斌因涉嫌操纵证券市场被证监会立案，此前已被刑事拘留",
@@ -806,8 +817,8 @@
       "name": "新浪财经 · 期货订阅 1",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-11-07T06:37:53.710Z",
-      "lastSuccess": "2026-11-07T06:37:53.710Z",
+      "lastAttempt": "2026-11-07T07:09:52.940Z",
+      "lastSuccess": "2026-11-07T07:09:52.940Z",
       "items": []
     },
     {
@@ -815,8 +826,8 @@
       "name": "新浪财经 · 期货订阅 2",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-11-07T06:37:53.710Z",
-      "lastSuccess": "2026-11-07T06:37:53.710Z",
+      "lastAttempt": "2026-11-07T07:09:52.940Z",
+      "lastSuccess": "2026-11-07T07:09:52.940Z",
       "items": []
     },
     {
@@ -824,8 +835,8 @@
       "name": "新浪财经 · 期货订阅 3",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-11-07T06:37:53.710Z",
-      "lastSuccess": "2026-11-07T06:37:53.710Z",
+      "lastAttempt": "2026-11-07T07:09:52.940Z",
+      "lastSuccess": "2026-11-07T07:09:52.940Z",
       "items": [
         {
           "title": "中天期货:沪锌大幅下破 乙二醇短线修复",
@@ -845,8 +856,8 @@
       "name": "中新网 · 国际",
       "url": "https://www.chinanews.com.cn/rss/world.xml",
       "status": "ok",
-      "lastAttempt": "2026-11-07T06:37:53.710Z",
-      "lastSuccess": "2026-11-07T06:37:53.710Z",
+      "lastAttempt": "2026-11-07T07:09:52.940Z",
+      "lastSuccess": "2026-11-07T07:09:52.940Z",
       "items": [
         {
           "title": "伊朗称两枚导弹击中格什姆岛，宣布击落一架美国MQ-9无人机",
@@ -905,8 +916,8 @@
       "name": "中新网 · 国内",
       "url": "https://www.chinanews.com.cn/rss/china.xml",
       "status": "ok",
-      "lastAttempt": "2026-11-07T06:37:53.710Z",
-      "lastSuccess": "2026-11-07T06:37:53.710Z",
+      "lastAttempt": "2026-11-07T07:09:52.940Z",
+      "lastSuccess": "2026-11-07T07:09:52.940Z",
       "items": [
         {
           "title": "刘海星同朝鲜劳动党中央政治局委员、中央书记、国际部部长金成男举行会谈",
@@ -1015,8 +1026,8 @@
       "name": "AI HOT",
       "url": "https://aihot.news/",
       "status": "ok",
-      "lastAttempt": "2026-11-07T06:37:53.710Z",
-      "lastSuccess": "2026-11-07T06:37:53.710Z",
+      "lastAttempt": "2026-11-07T07:09:52.940Z",
+      "lastSuccess": "2026-11-07T07:09:52.940Z",
       "items": [
         {
           "category": "AI",
@@ -1173,7 +1184,7 @@
       "summary": "11月7日，中国驻墨尔本总领事馆及维多利亚州警方通报称，当地时间6日晚，一名中国籍熊猫外卖骑手在澳大利亚墨尔本遇害，5…",
       "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%B1%8D%E5%A4%96%E5%8D%96%E5%91%98%E5%9C%A8%E5%A2%A8%E5%B0%94%E6%9C%AC%E9%81%87%E5%AE%B3&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-11-07T06:37:53.710Z",
+      "publishedAt": "2026-11-07T07:09:52.940Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1182,11 +1193,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "首套首条首台 本周多项硬核成果上新",
-      "summary": "从大型邮轮到人造最冷物质，从氢能产线到空中电站。本周我国交通、能源、科技多点开花，多项突破接连落地，重大工程和重要成果…",
-      "url": "https://www.baidu.com/s?wd=%E9%A6%96%E5%A5%97%E9%A6%96%E6%9D%A1%E9%A6%96%E5%8F%B0+%E6%9C%AC%E5%91%A8%E5%A4%9A%E9%A1%B9%E7%A1%AC%E6%A0%B8%E6%88%90%E6%9E%9C%E4%B8%8A%E6%96%B0&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "当进博会遇上APEC“中国年”",
+      "summary": "第九届中国国际进口博览会恰逢APEC“中国年”，来自APEC经济体的展品跨越山海，展示、洽谈、对接，让展台成为合作起点…",
+      "url": "https://www.baidu.com/s?wd=%E5%BD%93%E8%BF%9B%E5%8D%9A%E4%BC%9A%E9%81%87%E4%B8%8AAPEC%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-11-07T06:37:53.710Z",
+      "publishedAt": "2026-11-07T07:09:52.940Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1195,11 +1206,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "台湾寺庙地下搜出近800公斤金银",
-      "summary": "近日，台湾宜兰东林寺住持父子涉嫌侵吞近7000万善款洗钱被羁押。办案人员在寺庙禅房外地下挖出十多个铁箱，藏有800公斤…",
-      "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%AF%BA%E5%BA%99%E5%9C%B0%E4%B8%8B%E6%90%9C%E5%87%BA%E8%BF%91800%E5%85%AC%E6%96%A4%E9%87%91%E9%93%B6&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "大学生阴差阳错踢出神奇一幕全场沸腾",
+      "summary": "近日，在中国民航大学校内的一场排球友谊赛上，发生不可思议的一幕。一名大学生在比赛中无心用脚踢排球，阴差阳错将排球踢进了…",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%98%B4%E5%B7%AE%E9%98%B3%E9%94%99%E8%B8%A2%E5%87%BA%E7%A5%9E%E5%A5%87%E4%B8%80%E5%B9%95%E5%85%A8%E5%9C%BA%E6%B2%B8%E8%85%BE&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-11-07T06:37:53.710Z",
+      "publishedAt": "2026-11-07T07:09:52.940Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1208,11 +1219,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "5子女每月各出20元赡养费 老人起诉",
-      "summary": "四川广安一对七旬夫妻共育五名子女，早年分家协议仅约定四个儿子每月各出20元赡养费。时隔二十余年，这笔钱已不够看病生活，…",
-      "url": "https://www.baidu.com/s?wd=5%E5%AD%90%E5%A5%B3%E6%AF%8F%E6%9C%88%E5%90%84%E5%87%BA20%E5%85%83%E8%B5%A1%E5%85%BB%E8%B4%B9+%E8%80%81%E4%BA%BA%E8%B5%B7%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "男子2017年死亡销户但仍有生活轨迹",
+      "summary": "11月6日平安内蒙古通报，潜逃27年的命案逃犯石某落网，案件突破口十分特殊：一名2017年就死亡销户的男子身份，仍存在…",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%902017%E5%B9%B4%E6%AD%BB%E4%BA%A1%E9%94%80%E6%88%B7%E4%BD%86%E4%BB%8D%E6%9C%89%E7%94%9F%E6%B4%BB%E8%BD%A8%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-11-07T06:37:53.710Z",
+      "publishedAt": "2026-11-07T07:09:52.940Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1221,11 +1232,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "教育部明确高中生睡眠应达到8小时",
-      "summary": "近日，江苏南京、重庆巴南区、成都等地多所学校延迟上学时间引发热议。评论指出，事实上教育部早已明确高中生睡眠时间应达到8…",
-      "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E6%98%8E%E7%A1%AE%E9%AB%98%E4%B8%AD%E7%94%9F%E7%9D%A1%E7%9C%A0%E5%BA%94%E8%BE%BE%E5%88%B08%E5%B0%8F%E6%97%B6&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "台湾寺庙地下搜出近800公斤金银",
+      "summary": "近日，台湾宜兰东林寺住持父子涉嫌侵吞近7000万善款洗钱被羁押。办案人员在寺庙禅房外地下挖出十多个铁箱，藏有800公斤…",
+      "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%AF%BA%E5%BA%99%E5%9C%B0%E4%B8%8B%E6%90%9C%E5%87%BA%E8%BF%91800%E5%85%AC%E6%96%A4%E9%87%91%E9%93%B6&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-11-07T06:37:53.710Z",
+      "publishedAt": "2026-11-07T07:09:52.940Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1234,11 +1245,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "大学生阴差阳错踢出神奇一幕全场沸腾",
-      "summary": "近日，在中国民航大学校内的一场排球友谊赛上，发生不可思议的一幕。一名大学生在比赛中无心用脚踢排球，阴差阳错将排球踢进了…",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%98%B4%E5%B7%AE%E9%98%B3%E9%94%99%E8%B8%A2%E5%87%BA%E7%A5%9E%E5%A5%87%E4%B8%80%E5%B9%95%E5%85%A8%E5%9C%BA%E6%B2%B8%E8%85%BE&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "5子女每月各出20元赡养费 老人起诉",
+      "summary": "四川广安一对七旬夫妻共育五名子女，早年分家协议仅约定四个儿子每月各出20元赡养费。时隔二十余年，这笔钱已不够看病生活，…",
+      "url": "https://www.baidu.com/s?wd=5%E5%AD%90%E5%A5%B3%E6%AF%8F%E6%9C%88%E5%90%84%E5%87%BA20%E5%85%83%E8%B5%A1%E5%85%BB%E8%B4%B9+%E8%80%81%E4%BA%BA%E8%B5%B7%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-11-07T06:37:53.710Z",
+      "publishedAt": "2026-11-07T07:09:52.940Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1267,14 +1278,14 @@
       "number": 8
     },
     {
-      "title": "Stein：勇士对在季中迎回巴特勒持乐观态度",
-      "url": "https://www.163.com/dy/article/LB4SJH0D0514R9KQ.html",
+      "title": "美记：卡特成各队关注对象 若能被交易将被视为勇士理想人选",
+      "url": "https://www.163.com/dy/article/LB4SJG9M0514R9KQ.html",
       "source": "北青网-北京青年报 · 网易体育",
-      "publishedAt": "2026-11-07T05:38:03.000Z",
+      "publishedAt": "2026-11-07T05:38:02.000Z",
       "category": "体育",
       "topic": "NBA",
       "sourceId": "sports",
-      "summary": "北京时间11月7日，据记者Marc Stein报道，勇士对在季中迎回吉米-巴特勒持乐观态度。",
+      "summary": "北京时间11月7日，据记者Brett Siegel报道，各支球队已经在关注魔术中锋小温德尔-卡特在交易截止日前的可交易…",
       "number": 9
     },
     {
@@ -1311,6 +1322,17 @@
       "number": 12
     },
     {
+      "title": "马卡：杜罗10战皇马曾打入5球，但已连续11轮西甲未进球",
+      "url": "https://www.163.com/dy/article/LB515K1C0549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-11-07T06:57:50.000Z",
+      "category": "体育",
+      "topic": "西甲",
+      "sourceId": "sports",
+      "summary": "《马卡报》的报道指出，在西甲没有任何对手比皇家马德里更能被杜罗伤害：他在10次交手中打进5球，和他面对马德里竞技时的进…",
+      "number": 13
+    },
+    {
       "title": "韩国队主帅莫雷诺：当年在巴萨伊涅斯塔曾教我视频要看空当",
       "url": "https://www.163.com/dy/article/LB4I4UFV0549BAP0.html",
       "source": "懂球帝 · 网易体育",
@@ -1319,7 +1341,7 @@
       "topic": "西甲",
       "sourceId": "sports",
       "summary": "罗伯特-莫雷诺曾是恩里克教练组的一员。2014年，他在此前跟随这位阿斯图里亚斯教头效力巴萨B队、罗马和维戈塞尔塔后，进…",
-      "number": 13
+      "number": 14
     },
     {
       "title": "西媒：皇马多方面研究维尼修斯低迷状态，结论是纯粹的竞技问题",
@@ -1330,18 +1352,18 @@
       "topic": "西甲",
       "sourceId": "sports",
       "summary": "据西班牙媒体《辩论报》报道，皇家马德里已从竞技、情感、家庭及场外因素等多方面研究维尼修斯的状态问题，结论是这纯粹是竞技…",
-      "number": 14
+      "number": 15
     },
     {
-      "title": "科莫主席：战术学巴萨，挖人学布莱顿、布伦特福德",
-      "url": "https://www.163.com/dy/article/LB4EH96L0549BAP0.html",
+      "title": "意媒：本轮意甲阿莫林将不会召开赛前新闻发布会",
+      "url": "https://www.163.com/dy/article/LB500P940549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-07T01:32:10.000Z",
+      "publishedAt": "2026-11-07T06:37:43.000Z",
       "category": "体育",
-      "topic": "西甲",
+      "topic": "意甲",
       "sourceId": "sports",
-      "summary": "《每日体育报》指出，科莫在法布雷加斯执教下正当红。球队在欧冠中历史性地以9-1大胜朗斯，上一轮又曾与以4-1击败曼联，…",
-      "number": 15
+      "summary": "北京时间本周日22时，AC米兰将会做客挑战热那亚，根据米兰新闻网的报道，此战阿莫林将不会召开赛前新闻发布会。",
+      "number": 16
     },
     {
       "title": "罗马诺：那不勒斯还没有联系其他主教练，仍希望和阿莱格里扭转局面",
@@ -1352,7 +1374,7 @@
       "topic": "意甲",
       "sourceId": "sports",
       "summary": "北京时间11月7日，据罗马诺消息，那不勒斯还没有联系其他主教练，仍希望和阿莱格里扭转局面。",
-      "number": 16
+      "number": 17
     },
     {
       "title": "10轮造6球，经纪人：很多意甲俱乐部来找我，表示后悔没签卡洛",
@@ -1363,17 +1385,6 @@
       "topic": "意甲",
       "sourceId": "sports",
       "summary": "在上赛季表现出色，37场意乙交出10球15助攻，并帮助弗罗西诺内重返意甲之后，卡洛也开始在意甲站稳脚跟。作为一名联赛新…",
-      "number": 17
-    },
-    {
-      "title": "萨巴蒂尼：那不勒斯战拉齐奥将是有史以来最超现实的一场比赛",
-      "url": "https://www.163.com/dy/article/LB47NO190549BAP0.html",
-      "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-06T23:33:21.000Z",
-      "category": "体育",
-      "topic": "意甲",
-      "sourceId": "sports",
-      "summary": "那不勒斯目前处境复杂。在欧冠输给波尔图后，球队内部又因部分球员的赛后言论引发讨论。霍伊伦否认了阿莱格里的说法。此前，阿…",
       "number": 18
     },
     {
@@ -1421,6 +1432,18 @@
       "number": 22
     },
     {
+      "category": "金融",
+      "topic": "美股",
+      "title": "美股科技股暴跌后迅速反弹 抄底时机到了吗？",
+      "summary": "美国东部时间11月6日，科技股从此前的猛烈抛售中反弹，英伟达、AMD等普遍回升，推动纳斯达克综合指数上涨逾1%。道指收…",
+      "url": "https://finance.eastmoney.com/a/202611073925498851.html",
+      "publishedAt": "2026-11-07T06:57:00.000Z",
+      "source": "东方财富 · 21世纪经济报道",
+      "kind": "报道",
+      "sourceId": "eastmoney-us-stock",
+      "number": 23
+    },
+    {
       "title": "韩股下跌 韩国散户狂买美股 五日净买入规模超8月全月",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwtfy8168859.shtml",
       "summary": "韩国本土股市下跌之际，韩国散户正在加大美股买入力度。仅五个交易日内，美股净买入额接近3万亿韩元，超过8月全月规模。",
@@ -1430,7 +1453,7 @@
       "topic": "美股",
       "sourceId": "us-stock",
       "kind": "报道",
-      "number": 23
+      "number": 24
     },
     {
       "title": "马斯克评估特斯拉与SpaceX合并之际 谷歌高管哈里森离任SpaceX独立董事",
@@ -1442,7 +1465,7 @@
       "topic": "美股",
       "sourceId": "us-stock",
       "kind": "报道",
-      "number": 24
+      "number": 25
     },
     {
       "title": "Meta首席战略官离职 转投AI推理初创公司Fireworks",
@@ -1454,7 +1477,7 @@
       "topic": "美股",
       "sourceId": "us-stock",
       "kind": "报道",
-      "number": 25
+      "number": 26
     },
     {
       "title": "11月7日隔夜要闻：美股涨跌不一纳指涨超1% 油价震荡 金价走低 俄美乌三方会谈将于11月10日在阿布扎比举行",
@@ -1466,7 +1489,7 @@
       "topic": "美股",
       "sourceId": "us-stock",
       "kind": "报道",
-      "number": 26
+      "number": 27
     },
     {
       "category": "金融",
@@ -1476,18 +1499,6 @@
       "url": "https://finance.eastmoney.com/a/202611073925269625.html",
       "publishedAt": "2026-11-06T22:10:00.000Z",
       "source": "东方财富 · 哈富证券",
-      "kind": "报道",
-      "sourceId": "eastmoney-us-stock",
-      "number": 27
-    },
-    {
-      "category": "金融",
-      "topic": "美股",
-      "title": "不愿为旧芯片买单？微软据报逐步终止甲骨文算力租约",
-      "summary": "最新消息显示，微软正逐步终止向甲骨文租用人工智能算力的协议，此举是微软重新评估云合作项目的一部分。",
-      "url": "https://finance.eastmoney.com/a/202611073925266485.html",
-      "publishedAt": "2026-11-06T22:08:00.000Z",
-      "source": "东方财富 · 财联社",
       "kind": "报道",
       "sourceId": "eastmoney-us-stock",
       "number": 28
