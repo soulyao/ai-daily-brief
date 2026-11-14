@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-11-14T06:25:45.640Z",
+  "collectedAt": "2026-11-14T07:03:43.116Z",
   "topics": {
     "时事": [
       "百度热搜"
@@ -38,17 +38,29 @@
       "name": "百度热搜 · 时事",
       "url": "https://top.baidu.com/board?tab=realtime",
       "status": "ok",
-      "lastAttempt": "2026-11-14T06:25:45.640Z",
-      "lastSuccess": "2026-11-14T06:25:45.640Z",
+      "lastAttempt": "2026-11-14T07:03:43.116Z",
+      "lastSuccess": "2026-11-14T07:03:43.116Z",
       "items": [
         {
           "category": "时事",
           "topic": "百度热搜",
-          "title": "全美航班停飞令已解除",
-          "summary": "当地时间11月13日，美国联邦航空管理局宣布，地面停飞指令已取消。当天稍早时，美国多个航路交通管制中心出现通信故障。出…",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%BE%8E%E8%88%AA%E7%8F%AD%E5%81%9C%E9%A3%9E%E4%BB%A4%E5%B7%B2%E8%A7%A3%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news",
+          "title": "原价129万一支的天价药进医保了",
+          "summary": "11月14日，国家医保局宣布，药明巨诺的CAR-T药物瑞基奥仑赛已被纳入医保目录。进入医保前，瑞基奥仑赛的定价为129…",
+          "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E4%BB%B7129%E4%B8%87%E4%B8%80%E6%94%AF%E7%9A%84%E5%A4%A9%E4%BB%B7%E8%8D%AF%E8%BF%9B%E5%8C%BB%E4%BF%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-11-14T06:25:45.640Z",
+          "publishedAt": "2026-11-14T07:03:43.116Z",
+          "timeLabel": "热搜采集",
+          "linkLabel": "查看相关新闻",
+          "sourceId": "baidu"
+        },
+        {
+          "category": "时事",
+          "topic": "百度热搜",
+          "title": "白宫：中美俄领导人计划APEC期间会晤",
+          "summary": "当地时间11月13日，美国白宫确认，中国、美国及俄罗斯领导人计划于11月19日APEC会议期间进行会晤。此前，中国外交…",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%EF%BC%9A%E4%B8%AD%E7%BE%8E%E4%BF%84%E9%A2%86%E5%AF%BC%E4%BA%BA%E8%AE%A1%E5%88%92APEC%E6%9C%9F%E9%97%B4%E4%BC%9A%E6%99%A4&sa=fyb_news&rsv_dl=fyb_news",
+          "source": "百度热搜",
+          "publishedAt": "2026-11-14T07:03:43.116Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -60,7 +72,7 @@
           "summary": "11月18日至19日，亚太经合组织（APEC）第三十三次领导人非正式会议在深圳举行。作为亚太地区层级最高、领域最广、最…",
           "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E8%AF%BB%E6%87%82APEC%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D%E6%96%B0%E6%9C%BA%E9%81%87&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-11-14T06:25:45.640Z",
+          "publishedAt": "2026-11-14T07:03:43.116Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -68,23 +80,11 @@
         {
           "category": "时事",
           "topic": "百度热搜",
-          "title": "原价129万一支的天价药进医保了",
-          "summary": "11月14日，国家医保局宣布，药明巨诺的CAR-T药物瑞基奥仑赛已被纳入医保目录。进入医保前，瑞基奥仑赛的定价为129…",
-          "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E4%BB%B7129%E4%B8%87%E4%B8%80%E6%94%AF%E7%9A%84%E5%A4%A9%E4%BB%B7%E8%8D%AF%E8%BF%9B%E5%8C%BB%E4%BF%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+          "title": "山姆羽绒服爆火 业内：几乎就是成本价",
+          "summary": "近期，山姆羽绒服因高充绒低价走红，多款产品在门店断码断货。针对其低价原因，有业内人士指出该羽绒服几乎就是成本价。山姆通…",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E5%A7%86%E7%BE%BD%E7%BB%92%E6%9C%8D%E7%88%86%E7%81%AB+%E4%B8%9A%E5%86%85%EF%BC%9A%E5%87%A0%E4%B9%8E%E5%B0%B1%E6%98%AF%E6%88%90%E6%9C%AC%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-11-14T06:25:45.640Z",
-          "timeLabel": "热搜采集",
-          "linkLabel": "查看相关新闻",
-          "sourceId": "baidu"
-        },
-        {
-          "category": "时事",
-          "topic": "百度热搜",
-          "title": "浙江多地试点“潮汐学校”",
-          "summary": "近日，浙江省教育厅发布规划，提出探索“潮汐学校”模式动态调配学位资源。目前，杭州萧山区与金华义乌市正推进试点，其中义乌…",
-          "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%A4%9A%E5%9C%B0%E8%AF%95%E7%82%B9%E2%80%9C%E6%BD%AE%E6%B1%90%E5%AD%A6%E6%A0%A1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-          "source": "百度热搜",
-          "publishedAt": "2026-11-14T06:25:45.640Z",
+          "publishedAt": "2026-11-14T07:03:43.116Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -96,7 +96,7 @@
           "summary": "11月14日，证监会主席吴清在参加2026中国资本市场学术年会时表示，投融资结构更加协调、适配。2024年以来，社保、…",
           "url": "https://www.baidu.com/s?wd=%E5%90%B4%E6%B8%85%EF%BC%9A%E9%95%BF%E9%92%B1%E9%95%BF%E6%8A%95%E7%9A%84%E5%88%B6%E5%BA%A6%E4%BD%93%E7%B3%BB%E4%B8%8D%E6%96%AD%E5%AE%8C%E5%96%84&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-11-14T06:25:45.640Z",
+          "publishedAt": "2026-11-14T07:03:43.116Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -108,7 +108,7 @@
           "summary": "近日，安徽怀远4名网民为博取流量，在网络平台编造传播“包地跑路、菜地免费随便挖”的不实信息，引发大量网民关注讨论、扰乱…",
           "url": "https://www.baidu.com/s?wd=4%E4%BA%BA%E9%80%A0%E8%B0%A3%E2%80%9C%E5%87%A0%E5%8D%81%E4%BA%A9%E8%94%AC%E8%8F%9C%E9%9A%8F%E4%BE%BF%E6%8C%96%E2%80%9D%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-11-14T06:25:45.640Z",
+          "publishedAt": "2026-11-14T07:03:43.116Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -120,9 +120,20 @@
       "name": "网易体育（署名媒体）",
       "url": "https://sports.163.com/",
       "status": "ok",
-      "lastAttempt": "2026-11-14T06:25:45.640Z",
-      "lastSuccess": "2026-11-14T06:25:45.640Z",
+      "lastAttempt": "2026-11-14T07:03:43.116Z",
+      "lastSuccess": "2026-11-14T07:03:43.116Z",
       "items": [
+        {
+          "title": "NBA发展联盟战报：斯托克顿国王133-129撕裂之城混音，马克-西尔斯空砍31分",
+          "url": "https://www.163.com/dy/article/LBN0L04E0549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-11-14T06:35:05.000Z",
+          "category": "体育",
+          "topic": "NBA",
+          "sourceId": "sports",
+          "summary": "北京时间11月14日NBA发展联盟 揭幕赛，斯托克顿国王对阵撕裂之城混音。半场斯托克顿国王69-62撕裂之城混音，最终…",
+          "number": 1
+        },
         {
           "title": "马刺123-85勇士豪取11连胜，文班12+12+6，伦德伯格13中1，卡斯尔32分",
           "url": "https://www.163.com/dy/article/LBMRTRUI0549BAP0.html",
@@ -132,7 +143,7 @@
           "topic": "NBA",
           "sourceId": "sports",
           "summary": "北京时间11月14日NBA NBA杯小组赛，圣安东尼奥马刺对阵金州勇士。开场马刺便打出18-0梦幻开局，半场马刺便以6…",
-          "number": 1
+          "number": 2
         },
         {
           "title": "帕金斯：即使湖人11胜2负，但他们仍不算争冠球队",
@@ -143,18 +154,18 @@
           "topic": "NBA",
           "sourceId": "sports",
           "summary": "湖人目前拥有NBA最佳战绩，但肯德里克-帕金斯还不打算把他们列入真正的争冠球队行列。他在《Road Trippin' …",
-          "number": 2
+          "number": 3
         },
         {
-          "title": "伦德伯格：会尽最大努力，不浪费库里生涯的最后几年",
-          "url": "https://www.163.com/dy/article/LBMN4AUU0549BAP0.html",
+          "title": "外媒：由于存在制裁风险，多家金融机构与曼城保持距离",
+          "url": "https://www.163.com/dy/article/LBN06F8T0549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-14T03:48:42.000Z",
+          "publishedAt": "2026-11-14T06:27:09.000Z",
           "category": "体育",
-          "topic": "NBA",
+          "topic": "英超",
           "sourceId": "sports",
-          "summary": "勇士新秀亚克塞尔-伦德博格表示，他新秀赛季的目标是入选全明星，同时帮助斯蒂芬-库里再度打出统治级赛季。他在接受泰勒-鲁…",
-          "number": 3
+          "summary": "据彭博社知情人士透露，那些通常会向将球员出售给曼城的俱乐部提供预付款的银行，目前正持观望态度，直至针对这家来自英格兰西…",
+          "number": 4
         },
         {
           "title": "切尔西女足布坎南：我觉得冠军是我们的，我们很有信心",
@@ -165,7 +176,7 @@
           "topic": "英超",
           "sourceId": "sports",
           "summary": "布坎南认为切尔西具备足够的实力和凝聚力，能够在本赛季夺回女子超级联赛冠军。她决心帮助蓝军今天下午在斯坦福桥对阵卫冕冠军…",
-          "number": 4
+          "number": 5
         },
         {
           "title": "迪尼：曼联需清洗B费或拉什福德",
@@ -176,18 +187,18 @@
           "topic": "英超",
           "sourceId": "sports",
           "summary": "曼联任命毛里西奥-波切蒂诺，等于押上了1000万英镑——这会很有看头。",
-          "number": 5
+          "number": 6
         },
         {
-          "title": "前曼联助教：B费若走，我也不惋惜",
-          "url": "https://www.163.com/dy/article/LBMHJDFQ0549BAP0.html",
+          "title": "贝贝托：很高兴拉科回归西甲，这支球队永远都会在我心里",
+          "url": "https://www.163.com/dy/article/LBN190HL0549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-14T02:12:05.000Z",
+          "publishedAt": "2026-11-14T06:46:01.000Z",
           "category": "体育",
-          "topic": "英超",
+          "topic": "西甲",
           "sourceId": "sports",
-          "summary": "有人敦促即将出任曼联主帅的毛里西奥-波切蒂诺尽快放走队长布鲁诺-费尔南德斯，这将是他上任后的首批动作之一。",
-          "number": 6
+          "summary": "何塞-罗伯托-加马-德-奥利韦拉，也就是贝贝托（1964年生于巴伊亚州萨尔瓦多），是那支拉科鲁尼亚的象征人物之一。他在…",
+          "number": 7
         },
         {
           "title": "还差西甲，邓弗里斯本赛季已在欧冠和欧国联赛场送出助攻",
@@ -198,7 +209,7 @@
           "topic": "西甲",
           "sourceId": "sports",
           "summary": "北京时间11月14日凌晨3时45分，2026/27赛季欧洲国家联赛A级A2组第5轮，荷兰主场7-0大胜希腊，皇马右后卫…",
-          "number": 7
+          "number": 8
         },
         {
           "title": "马卡：巴萨冬窗想补强中卫，财务难签主要目标",
@@ -209,17 +220,6 @@
           "topic": "西甲",
           "sourceId": "sports",
           "summary": "经济形势让体育部门难以落实主要选择",
-          "number": 8
-        },
-        {
-          "title": "热苏斯：教练都想要B席这样的球员，他在皇马每场都在进步",
-          "url": "https://www.163.com/dy/article/LBM0LE5P0549BAP0.html",
-          "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-13T21:16:05.000Z",
-          "category": "体育",
-          "topic": "西甲",
-          "sourceId": "sports",
-          "summary": "北京时间11月15日凌晨3点45分，欧国联小组赛第5轮，葡萄牙队将在主场迎战丹麦队。葡萄牙队已提前晋级八强，本场只需拿…",
           "number": 9
         },
         {
@@ -245,17 +245,6 @@
           "number": 11
         },
         {
-          "title": "官方：多特蒙德与莱茵金属的赞助合同明年到期后不再续约",
-          "url": "https://www.163.com/dy/article/LBL9KMMO0549BAP0.html",
-          "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-13T14:33:44.000Z",
-          "category": "体育",
-          "topic": "德甲",
-          "sourceId": "sports",
-          "summary": "官方消息，多特蒙德与莱茵金属之间的正式赞助合同将于2027年6月30日到期，双方决定不再续约。",
-          "number": 12
-        },
-        {
           "title": "官方：红鸟正式创立以AC米兰为核心的米兰体育与娱乐公司",
           "url": "https://www.163.com/dy/article/LBM8JVFC0549BAP0.html",
           "source": "懂球帝 · 网易体育",
@@ -264,7 +253,7 @@
           "topic": "意甲",
           "sourceId": "sports",
           "summary": "米兰的控股方红鸟资本通过全球多家知名媒体发布了新闻稿，正式宣布成立了以足球俱乐部为核心的米兰体育与娱乐公司。",
-          "number": 13
+          "number": 12
         },
         {
           "title": "米体：那不勒斯有意巴黎FC中场扎比",
@@ -275,7 +264,7 @@
           "topic": "意甲",
           "sourceId": "sports",
           "summary": "据《米兰体育报》消息，那不勒斯有意巴黎FC中场扎比。",
-          "number": 14
+          "number": 13
         },
         {
           "title": "信使报：领跑意甲，拉齐奥有意和加图索续约至2029年",
@@ -286,7 +275,7 @@
           "topic": "意甲",
           "sourceId": "sports",
           "summary": "据意大利媒体《信使报》报道，加图索执教的拉齐奥目前高居意甲积分榜榜首，球队已经连续11轮保持不败。除了加图索本人的执教…",
-          "number": 15
+          "number": 14
         },
         {
           "title": "WTA年终第二组：安德列娃、斯维托丽娜晋级，萨巴伦卡淘汰",
@@ -297,7 +286,7 @@
           "topic": "网球",
           "sourceId": "sports",
           "summary": "北京时间11月14日，WTA年终总决赛第二组小组赛结束，穆霍娃赛前选择退赛，施奈德递补，安德列娃2-0战胜施奈德三战全…",
-          "number": 16
+          "number": 15
         },
         {
           "title": "冰岛5-0大胜保加利亚，古德约翰森带帽，奥斯卡松破门",
@@ -308,7 +297,7 @@
           "topic": "网球",
           "sourceId": "sports",
           "summary": "北京时间11月14日欧洲国家联赛 C级联赛 第5轮，保加利亚对阵冰岛。保加利亚采诺夫自摆乌龙。冰岛安德里-古德约翰森帽…",
-          "number": 17
+          "number": 16
         },
         {
           "title": "科博利爆料想请费雷罗进团队，鲁内称学德约发泄情绪明年目标前五",
@@ -319,7 +308,7 @@
           "topic": "网球",
           "sourceId": "sports",
           "summary": "ATP年终总决赛即将开打，而据费雷罗此前采访透露，本站赛事他也将亲自到场指导谢尔顿，这将是师徒俩合作的第一站赛事。对此…",
-          "number": 18
+          "number": 17
         }
       ]
     },
@@ -328,8 +317,8 @@
       "name": "东方财富 · 美股",
       "url": "https://stock.eastmoney.com/america.html",
       "status": "ok",
-      "lastAttempt": "2026-11-14T06:25:45.640Z",
-      "lastSuccess": "2026-11-14T06:25:45.640Z",
+      "lastAttempt": "2026-11-14T07:03:43.116Z",
+      "lastSuccess": "2026-11-14T07:03:43.116Z",
       "items": [
         {
           "category": "金融",
@@ -363,6 +352,17 @@
           "source": "东方财富 · 新京报",
           "kind": "报道",
           "sourceId": "eastmoney-us-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "美股",
+          "title": "微软就宕机事件发表声明",
+          "summary": "微软就宕机事件发表声明，已完成解决事件根本问题的工作，恢复了其余受影响客户和地区的服务。",
+          "url": "https://finance.eastmoney.com/a/202611143931333445.html",
+          "publishedAt": "2026-11-14T06:40:00.000Z",
+          "source": "东方财富 · 财联社",
+          "kind": "报道",
+          "sourceId": "eastmoney-us-stock"
         }
       ]
     },
@@ -371,8 +371,8 @@
       "name": "东方财富 · A股",
       "url": "https://stock.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-11-14T06:25:45.640Z",
-      "lastSuccess": "2026-11-14T06:25:45.640Z",
+      "lastAttempt": "2026-11-14T07:03:43.116Z",
+      "lastSuccess": "2026-11-14T07:03:43.116Z",
       "items": [
         {
           "category": "金融",
@@ -426,28 +426,6 @@
           "url": "https://finance.eastmoney.com/a/202611143931311453.html",
           "publishedAt": "2026-11-14T03:53:00.000Z",
           "source": "东方财富 · 人民财讯",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "回购增持贷款大受欢迎 10天内超50家公司响应",
-          "summary": "随着股票回购增持再贷款政策加力推进，A股上市公司专项贷款落地提速，多数公司股价同步走强。",
-          "url": "https://finance.eastmoney.com/a/202611143931067434.html",
-          "publishedAt": "2026-11-13T17:26:00.000Z",
-          "source": "东方财富 · 证券时报",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "红利持续释放 集成电路出海大爆发！14只绩优成长股筹划回购稳信心",
-          "summary": "近日，海关总署披露10月份集成电路出口情况。今年10月，集成电路出口金额395.94亿美元，同比增长137.1%；出口…",
-          "url": "https://finance.eastmoney.com/a/202611143931223346.html",
-          "publishedAt": "2026-11-13T23:30:00.000Z",
-          "source": "东方财富 · 数据宝",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
@@ -538,6 +516,28 @@
           "source": "东方财富 · 上海证券报·中国证券网",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "标准认证需补位 产业链条要打通 规模化综合成本待降低 3D打印全域铺开还需过三关",
+          "summary": "透过工业级3D打印（增材制造）机的成形舱观察窗，一束激光正沿着数字模型分层切片后生成的截面逐行扫描。无需切削，也不用模…",
+          "url": "https://finance.eastmoney.com/a/202611143931070894.html",
+          "publishedAt": "2026-11-13T16:44:00.000Z",
+          "source": "东方财富 · 证券日报",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "中化国际资产重组：拟21亿元收购南通星辰",
+          "summary": "中化国际（600500.SH）重大资产重组进入关键节点。",
+          "url": "https://finance.eastmoney.com/a/202611143931318843.html",
+          "publishedAt": "2026-11-14T04:01:00.000Z",
+          "source": "东方财富 · 中国经营网",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
         }
       ]
     },
@@ -546,7 +546,7 @@
       "name": "东方财富 · 中国期货",
       "url": "https://futures.eastmoney.com/",
       "status": "error",
-      "lastAttempt": "2026-11-14T06:25:45.640Z",
+      "lastAttempt": "2026-11-14T07:03:43.116Z",
       "lastSuccess": "2026-11-13T23:35:36.041Z",
       "items": [
         {
@@ -567,8 +567,8 @@
       "name": "东方财富 · 宏观财经",
       "url": "https://finance.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-11-14T06:25:45.640Z",
-      "lastSuccess": "2026-11-14T06:25:45.640Z",
+      "lastAttempt": "2026-11-14T07:03:43.116Z",
+      "lastSuccess": "2026-11-14T07:03:43.116Z",
       "items": [
         {
           "category": "金融",
@@ -654,8 +654,8 @@
       "name": "新浪财经 · 美股",
       "url": "https://finance.sina.com.cn/stock/usstock/",
       "status": "ok",
-      "lastAttempt": "2026-11-14T06:25:45.640Z",
-      "lastSuccess": "2026-11-14T06:25:45.640Z",
+      "lastAttempt": "2026-11-14T07:03:43.116Z",
+      "lastSuccess": "2026-11-14T07:03:43.116Z",
       "items": [
         {
           "title": "以色列风投：英伟达风波给竞品带来机遇",
@@ -873,8 +873,8 @@
       "name": "新浪财经 · A股",
       "url": "https://finance.sina.com.cn/stock/",
       "status": "ok",
-      "lastAttempt": "2026-11-14T06:25:45.640Z",
-      "lastSuccess": "2026-11-14T06:25:45.640Z",
+      "lastAttempt": "2026-11-14T07:03:43.116Z",
+      "lastSuccess": "2026-11-14T07:03:43.116Z",
       "items": [
         {
           "title": "美联储重磅报告：AI推高股票估值，数据中心热潮堪比本世纪初互联网",
@@ -949,8 +949,8 @@
       "name": "新浪财经 · 期货订阅 1",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-11-14T06:25:45.640Z",
-      "lastSuccess": "2026-11-14T06:25:45.640Z",
+      "lastAttempt": "2026-11-14T07:03:43.116Z",
+      "lastSuccess": "2026-11-14T07:03:43.116Z",
       "items": []
     },
     {
@@ -958,8 +958,8 @@
       "name": "新浪财经 · 期货订阅 2",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-11-14T06:25:45.640Z",
-      "lastSuccess": "2026-11-14T06:25:45.640Z",
+      "lastAttempt": "2026-11-14T07:03:43.116Z",
+      "lastSuccess": "2026-11-14T07:03:43.116Z",
       "items": []
     },
     {
@@ -967,8 +967,8 @@
       "name": "新浪财经 · 期货订阅 3",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-11-14T06:25:45.640Z",
-      "lastSuccess": "2026-11-14T06:25:45.640Z",
+      "lastAttempt": "2026-11-14T07:03:43.116Z",
+      "lastSuccess": "2026-11-14T07:03:43.116Z",
       "items": []
     },
     {
@@ -976,9 +976,19 @@
       "name": "中新网 · 国际",
       "url": "https://www.chinanews.com.cn/rss/world.xml",
       "status": "ok",
-      "lastAttempt": "2026-11-14T06:25:45.640Z",
-      "lastSuccess": "2026-11-14T06:25:45.640Z",
+      "lastAttempt": "2026-11-14T07:03:43.116Z",
+      "lastSuccess": "2026-11-14T07:03:43.116Z",
       "items": [
+        {
+          "title": "美国联邦航空管理局：已解除全美航班停飞令",
+          "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731954.shtml",
+          "summary": "中新社华盛顿11月13日电 (记者 沙晗汀)美国联邦航空管理局当地时间13日晚表示，已经解除全美航班停飞令。",
+          "publishedAt": "2026-11-14T06:39:58.000Z",
+          "category": "政治",
+          "topic": "美国",
+          "source": "中国新闻网",
+          "sourceId": "us-politics"
+        },
         {
           "title": "美国联邦航空管理局：地面停飞令已解除",
           "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731903.shtml",
@@ -1026,8 +1036,8 @@
       "name": "中新网 · 国内",
       "url": "https://www.chinanews.com.cn/rss/china.xml",
       "status": "ok",
-      "lastAttempt": "2026-11-14T06:25:45.640Z",
-      "lastSuccess": "2026-11-14T06:25:45.640Z",
+      "lastAttempt": "2026-11-14T07:03:43.116Z",
+      "lastSuccess": "2026-11-14T07:03:43.116Z",
       "items": [
         {
           "title": "天津解读《气象发展“十五五”规划》 加快构建气象现代化体系",
@@ -1058,16 +1068,6 @@
           "topic": "中国",
           "source": "中国新闻网",
           "sourceId": "cn-politics"
-        },
-        {
-          "title": "李强对推进农田水利和高标准农田建设作出重要批示强调 充分发挥高标准农田综合效益 为守牢粮食安全底线建设农业强国提供坚实支撑",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731703.shtml",
-          "summary": "新华社北京11月13日电 11月13日，国务院召开全国冬春农田水利暨高标准农田建设视频会议。中共中央政治局常委、国务院…",
-          "publishedAt": "2026-11-13T12:10:53.000Z",
-          "category": "政治",
-          "topic": "中国",
-          "source": "中国新闻网",
-          "sourceId": "cn-politics"
         }
       ]
     },
@@ -1076,8 +1076,8 @@
       "name": "AI HOT",
       "url": "https://aihot.news/",
       "status": "ok",
-      "lastAttempt": "2026-11-14T06:25:45.640Z",
-      "lastSuccess": "2026-11-14T06:25:45.640Z",
+      "lastAttempt": "2026-11-14T07:03:43.116Z",
+      "lastSuccess": "2026-11-14T07:03:43.116Z",
       "items": [
         {
           "category": "AI",
@@ -1230,11 +1230,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "全美航班停飞令已解除",
-      "summary": "当地时间11月13日，美国联邦航空管理局宣布，地面停飞指令已取消。当天稍早时，美国多个航路交通管制中心出现通信故障。出…",
-      "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%BE%8E%E8%88%AA%E7%8F%AD%E5%81%9C%E9%A3%9E%E4%BB%A4%E5%B7%B2%E8%A7%A3%E9%99%A4&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "原价129万一支的天价药进医保了",
+      "summary": "11月14日，国家医保局宣布，药明巨诺的CAR-T药物瑞基奥仑赛已被纳入医保目录。进入医保前，瑞基奥仑赛的定价为129…",
+      "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E4%BB%B7129%E4%B8%87%E4%B8%80%E6%94%AF%E7%9A%84%E5%A4%A9%E4%BB%B7%E8%8D%AF%E8%BF%9B%E5%8C%BB%E4%BF%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-11-14T06:25:45.640Z",
+      "publishedAt": "2026-11-14T07:03:43.116Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1243,11 +1243,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "一组数据读懂APEC“中国年”新机遇",
-      "summary": "11月18日至19日，亚太经合组织（APEC）第三十三次领导人非正式会议在深圳举行。作为亚太地区层级最高、领域最广、最…",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E8%AF%BB%E6%87%82APEC%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D%E6%96%B0%E6%9C%BA%E9%81%87&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "白宫：中美俄领导人计划APEC期间会晤",
+      "summary": "当地时间11月13日，美国白宫确认，中国、美国及俄罗斯领导人计划于11月19日APEC会议期间进行会晤。此前，中国外交…",
+      "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%EF%BC%9A%E4%B8%AD%E7%BE%8E%E4%BF%84%E9%A2%86%E5%AF%BC%E4%BA%BA%E8%AE%A1%E5%88%92APEC%E6%9C%9F%E9%97%B4%E4%BC%9A%E6%99%A4&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-11-14T06:25:45.640Z",
+      "publishedAt": "2026-11-14T07:03:43.116Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1256,11 +1256,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "原价129万一支的天价药进医保了",
-      "summary": "11月14日，国家医保局宣布，药明巨诺的CAR-T药物瑞基奥仑赛已被纳入医保目录。进入医保前，瑞基奥仑赛的定价为129…",
-      "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E4%BB%B7129%E4%B8%87%E4%B8%80%E6%94%AF%E7%9A%84%E5%A4%A9%E4%BB%B7%E8%8D%AF%E8%BF%9B%E5%8C%BB%E4%BF%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "一组数据读懂APEC“中国年”新机遇",
+      "summary": "11月18日至19日，亚太经合组织（APEC）第三十三次领导人非正式会议在深圳举行。作为亚太地区层级最高、领域最广、最…",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E8%AF%BB%E6%87%82APEC%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D%E6%96%B0%E6%9C%BA%E9%81%87&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-11-14T06:25:45.640Z",
+      "publishedAt": "2026-11-14T07:03:43.116Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1269,11 +1269,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "浙江多地试点“潮汐学校”",
-      "summary": "近日，浙江省教育厅发布规划，提出探索“潮汐学校”模式动态调配学位资源。目前，杭州萧山区与金华义乌市正推进试点，其中义乌…",
-      "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%A4%9A%E5%9C%B0%E8%AF%95%E7%82%B9%E2%80%9C%E6%BD%AE%E6%B1%90%E5%AD%A6%E6%A0%A1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "山姆羽绒服爆火 业内：几乎就是成本价",
+      "summary": "近期，山姆羽绒服因高充绒低价走红，多款产品在门店断码断货。针对其低价原因，有业内人士指出该羽绒服几乎就是成本价。山姆通…",
+      "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E5%A7%86%E7%BE%BD%E7%BB%92%E6%9C%8D%E7%88%86%E7%81%AB+%E4%B8%9A%E5%86%85%EF%BC%9A%E5%87%A0%E4%B9%8E%E5%B0%B1%E6%98%AF%E6%88%90%E6%9C%AC%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-11-14T06:25:45.640Z",
+      "publishedAt": "2026-11-14T07:03:43.116Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1286,7 +1286,7 @@
       "summary": "11月14日，证监会主席吴清在参加2026中国资本市场学术年会时表示，投融资结构更加协调、适配。2024年以来，社保、…",
       "url": "https://www.baidu.com/s?wd=%E5%90%B4%E6%B8%85%EF%BC%9A%E9%95%BF%E9%92%B1%E9%95%BF%E6%8A%95%E7%9A%84%E5%88%B6%E5%BA%A6%E4%BD%93%E7%B3%BB%E4%B8%8D%E6%96%AD%E5%AE%8C%E5%96%84&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-11-14T06:25:45.640Z",
+      "publishedAt": "2026-11-14T07:03:43.116Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1299,11 +1299,22 @@
       "summary": "近日，安徽怀远4名网民为博取流量，在网络平台编造传播“包地跑路、菜地免费随便挖”的不实信息，引发大量网民关注讨论、扰乱…",
       "url": "https://www.baidu.com/s?wd=4%E4%BA%BA%E9%80%A0%E8%B0%A3%E2%80%9C%E5%87%A0%E5%8D%81%E4%BA%A9%E8%94%AC%E8%8F%9C%E9%9A%8F%E4%BE%BF%E6%8C%96%E2%80%9D%E8%A2%AB%E7%BD%9A&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-11-14T06:25:45.640Z",
+      "publishedAt": "2026-11-14T07:03:43.116Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
       "number": 6
+    },
+    {
+      "title": "NBA发展联盟战报：斯托克顿国王133-129撕裂之城混音，马克-西尔斯空砍31分",
+      "url": "https://www.163.com/dy/article/LBN0L04E0549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-11-14T06:35:05.000Z",
+      "category": "体育",
+      "topic": "NBA",
+      "sourceId": "sports",
+      "summary": "北京时间11月14日NBA发展联盟 揭幕赛，斯托克顿国王对阵撕裂之城混音。半场斯托克顿国王69-62撕裂之城混音，最终…",
+      "number": 7
     },
     {
       "title": "马刺123-85勇士豪取11连胜，文班12+12+6，伦德伯格13中1，卡斯尔32分",
@@ -1314,7 +1325,7 @@
       "topic": "NBA",
       "sourceId": "sports",
       "summary": "北京时间11月14日NBA NBA杯小组赛，圣安东尼奥马刺对阵金州勇士。开场马刺便打出18-0梦幻开局，半场马刺便以6…",
-      "number": 7
+      "number": 8
     },
     {
       "title": "帕金斯：即使湖人11胜2负，但他们仍不算争冠球队",
@@ -1325,18 +1336,18 @@
       "topic": "NBA",
       "sourceId": "sports",
       "summary": "湖人目前拥有NBA最佳战绩，但肯德里克-帕金斯还不打算把他们列入真正的争冠球队行列。他在《Road Trippin' …",
-      "number": 8
+      "number": 9
     },
     {
-      "title": "伦德伯格：会尽最大努力，不浪费库里生涯的最后几年",
-      "url": "https://www.163.com/dy/article/LBMN4AUU0549BAP0.html",
+      "title": "外媒：由于存在制裁风险，多家金融机构与曼城保持距离",
+      "url": "https://www.163.com/dy/article/LBN06F8T0549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-14T03:48:42.000Z",
+      "publishedAt": "2026-11-14T06:27:09.000Z",
       "category": "体育",
-      "topic": "NBA",
+      "topic": "英超",
       "sourceId": "sports",
-      "summary": "勇士新秀亚克塞尔-伦德博格表示，他新秀赛季的目标是入选全明星，同时帮助斯蒂芬-库里再度打出统治级赛季。他在接受泰勒-鲁…",
-      "number": 9
+      "summary": "据彭博社知情人士透露，那些通常会向将球员出售给曼城的俱乐部提供预付款的银行，目前正持观望态度，直至针对这家来自英格兰西…",
+      "number": 10
     },
     {
       "title": "切尔西女足布坎南：我觉得冠军是我们的，我们很有信心",
@@ -1347,7 +1358,7 @@
       "topic": "英超",
       "sourceId": "sports",
       "summary": "布坎南认为切尔西具备足够的实力和凝聚力，能够在本赛季夺回女子超级联赛冠军。她决心帮助蓝军今天下午在斯坦福桥对阵卫冕冠军…",
-      "number": 10
+      "number": 11
     },
     {
       "title": "迪尼：曼联需清洗B费或拉什福德",
@@ -1358,18 +1369,18 @@
       "topic": "英超",
       "sourceId": "sports",
       "summary": "曼联任命毛里西奥-波切蒂诺，等于押上了1000万英镑——这会很有看头。",
-      "number": 11
+      "number": 12
     },
     {
-      "title": "前曼联助教：B费若走，我也不惋惜",
-      "url": "https://www.163.com/dy/article/LBMHJDFQ0549BAP0.html",
+      "title": "贝贝托：很高兴拉科回归西甲，这支球队永远都会在我心里",
+      "url": "https://www.163.com/dy/article/LBN190HL0549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-14T02:12:05.000Z",
+      "publishedAt": "2026-11-14T06:46:01.000Z",
       "category": "体育",
-      "topic": "英超",
+      "topic": "西甲",
       "sourceId": "sports",
-      "summary": "有人敦促即将出任曼联主帅的毛里西奥-波切蒂诺尽快放走队长布鲁诺-费尔南德斯，这将是他上任后的首批动作之一。",
-      "number": 12
+      "summary": "何塞-罗伯托-加马-德-奥利韦拉，也就是贝贝托（1964年生于巴伊亚州萨尔瓦多），是那支拉科鲁尼亚的象征人物之一。他在…",
+      "number": 13
     },
     {
       "title": "还差西甲，邓弗里斯本赛季已在欧冠和欧国联赛场送出助攻",
@@ -1380,7 +1391,7 @@
       "topic": "西甲",
       "sourceId": "sports",
       "summary": "北京时间11月14日凌晨3时45分，2026/27赛季欧洲国家联赛A级A2组第5轮，荷兰主场7-0大胜希腊，皇马右后卫…",
-      "number": 13
+      "number": 14
     },
     {
       "title": "马卡：巴萨冬窗想补强中卫，财务难签主要目标",
@@ -1391,17 +1402,6 @@
       "topic": "西甲",
       "sourceId": "sports",
       "summary": "经济形势让体育部门难以落实主要选择",
-      "number": 14
-    },
-    {
-      "title": "热苏斯：教练都想要B席这样的球员，他在皇马每场都在进步",
-      "url": "https://www.163.com/dy/article/LBM0LE5P0549BAP0.html",
-      "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-13T21:16:05.000Z",
-      "category": "体育",
-      "topic": "西甲",
-      "sourceId": "sports",
-      "summary": "北京时间11月15日凌晨3点45分，欧国联小组赛第5轮，葡萄牙队将在主场迎战丹麦队。葡萄牙队已提前晋级八强，本场只需拿…",
       "number": 15
     },
     {
@@ -1427,17 +1427,6 @@
       "number": 17
     },
     {
-      "title": "官方：多特蒙德与莱茵金属的赞助合同明年到期后不再续约",
-      "url": "https://www.163.com/dy/article/LBL9KMMO0549BAP0.html",
-      "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-13T14:33:44.000Z",
-      "category": "体育",
-      "topic": "德甲",
-      "sourceId": "sports",
-      "summary": "官方消息，多特蒙德与莱茵金属之间的正式赞助合同将于2027年6月30日到期，双方决定不再续约。",
-      "number": 18
-    },
-    {
       "title": "官方：红鸟正式创立以AC米兰为核心的米兰体育与娱乐公司",
       "url": "https://www.163.com/dy/article/LBM8JVFC0549BAP0.html",
       "source": "懂球帝 · 网易体育",
@@ -1446,7 +1435,7 @@
       "topic": "意甲",
       "sourceId": "sports",
       "summary": "米兰的控股方红鸟资本通过全球多家知名媒体发布了新闻稿，正式宣布成立了以足球俱乐部为核心的米兰体育与娱乐公司。",
-      "number": 19
+      "number": 18
     },
     {
       "title": "米体：那不勒斯有意巴黎FC中场扎比",
@@ -1457,7 +1446,7 @@
       "topic": "意甲",
       "sourceId": "sports",
       "summary": "据《米兰体育报》消息，那不勒斯有意巴黎FC中场扎比。",
-      "number": 20
+      "number": 19
     },
     {
       "title": "信使报：领跑意甲，拉齐奥有意和加图索续约至2029年",
@@ -1468,7 +1457,7 @@
       "topic": "意甲",
       "sourceId": "sports",
       "summary": "据意大利媒体《信使报》报道，加图索执教的拉齐奥目前高居意甲积分榜榜首，球队已经连续11轮保持不败。除了加图索本人的执教…",
-      "number": 21
+      "number": 20
     },
     {
       "title": "WTA年终第二组：安德列娃、斯维托丽娜晋级，萨巴伦卡淘汰",
@@ -1479,7 +1468,7 @@
       "topic": "网球",
       "sourceId": "sports",
       "summary": "北京时间11月14日，WTA年终总决赛第二组小组赛结束，穆霍娃赛前选择退赛，施奈德递补，安德列娃2-0战胜施奈德三战全…",
-      "number": 22
+      "number": 21
     },
     {
       "title": "冰岛5-0大胜保加利亚，古德约翰森带帽，奥斯卡松破门",
@@ -1490,7 +1479,7 @@
       "topic": "网球",
       "sourceId": "sports",
       "summary": "北京时间11月14日欧洲国家联赛 C级联赛 第5轮，保加利亚对阵冰岛。保加利亚采诺夫自摆乌龙。冰岛安德里-古德约翰森帽…",
-      "number": 23
+      "number": 22
     },
     {
       "title": "科博利爆料想请费雷罗进团队，鲁内称学德约发泄情绪明年目标前五",
@@ -1501,6 +1490,18 @@
       "topic": "网球",
       "sourceId": "sports",
       "summary": "ATP年终总决赛即将开打，而据费雷罗此前采访透露，本站赛事他也将亲自到场指导谢尔顿，这将是师徒俩合作的第一站赛事。对此…",
+      "number": 23
+    },
+    {
+      "category": "金融",
+      "topic": "美股",
+      "title": "微软就宕机事件发表声明",
+      "summary": "微软就宕机事件发表声明，已完成解决事件根本问题的工作，恢复了其余受影响客户和地区的服务。",
+      "url": "https://finance.eastmoney.com/a/202611143931333445.html",
+      "publishedAt": "2026-11-14T06:40:00.000Z",
+      "source": "东方财富 · 财联社",
+      "kind": "报道",
+      "sourceId": "eastmoney-us-stock",
       "number": 24
     },
     {
@@ -1564,18 +1565,6 @@
       "number": 29
     },
     {
-      "title": "美联储副主席杰斐逊表态：通胀已成利率最重要的参考指标",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysepc0432942.shtml",
-      "summary": "美联储副主席菲利普·杰斐逊表示，在政策制定者考虑是否进一步加息时，通胀已成为最重要的参考指标。 杰斐逊称，近期经济活动…",
-      "source": "环球市场播报 · 新浪财经",
-      "publishedAt": "2026-11-14T00:05:46.000Z",
-      "category": "金融",
-      "topic": "美股",
-      "sourceId": "us-stock",
-      "kind": "报道",
-      "number": 30
-    },
-    {
       "category": "金融",
       "topic": "A股",
       "title": "顺着汽车产业链“长”出机器人 重庆探路“车—机同源”",
@@ -1585,7 +1574,7 @@
       "source": "东方财富 · 中国新闻网",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
-      "number": 31
+      "number": 30
     },
     {
       "category": "金融",
@@ -1597,7 +1586,7 @@
       "source": "东方财富 · 新华财经",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
-      "number": 32
+      "number": 31
     },
     {
       "category": "金融",
@@ -1609,7 +1598,7 @@
       "source": "东方财富 · 每日经济新闻",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
-      "number": 33
+      "number": 32
     },
     {
       "category": "金融",
@@ -1621,7 +1610,7 @@
       "source": "东方财富 · 证券市场周刊",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
-      "number": 34
+      "number": 33
     },
     {
       "category": "金融",
@@ -1633,7 +1622,7 @@
       "source": "东方财富 · 上海证券报·中国证券网",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
-      "number": 35
+      "number": 34
     },
     {
       "category": "金融",
@@ -1645,7 +1634,7 @@
       "source": "东方财富 · 每日经济新闻",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
-      "number": 36
+      "number": 35
     },
     {
       "category": "金融",
@@ -1657,7 +1646,7 @@
       "source": "东方财富 · 证券时报网",
       "kind": "报道",
       "sourceId": "eastmoney-futures",
-      "number": 37
+      "number": 36
     },
     {
       "category": "金融",
@@ -1669,7 +1658,7 @@
       "source": "东方财富 · 中国新闻网",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
-      "number": 38
+      "number": 37
     },
     {
       "category": "金融",
@@ -1681,7 +1670,7 @@
       "source": "东方财富 · 证券时报",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
-      "number": 39
+      "number": 38
     },
     {
       "category": "金融",
@@ -1693,7 +1682,7 @@
       "source": "东方财富 · 财联社",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
-      "number": 40
+      "number": 39
     },
     {
       "category": "金融",
@@ -1705,7 +1694,7 @@
       "source": "东方财富 · 财联社",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
-      "number": 41
+      "number": 40
     },
     {
       "category": "金融",
@@ -1717,7 +1706,7 @@
       "source": "东方财富 · 财联社",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
-      "number": 42
+      "number": 41
     },
     {
       "category": "金融",
@@ -1729,6 +1718,17 @@
       "source": "东方财富 · 央行网站",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
+      "number": 42
+    },
+    {
+      "title": "美国联邦航空管理局：已解除全美航班停飞令",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731954.shtml",
+      "summary": "中新社华盛顿11月13日电 (记者 沙晗汀)美国联邦航空管理局当地时间13日晚表示，已经解除全美航班停飞令。",
+      "publishedAt": "2026-11-14T06:39:58.000Z",
+      "category": "政治",
+      "topic": "美国",
+      "source": "中国新闻网",
+      "sourceId": "us-politics",
       "number": 43
     },
     {
@@ -1809,17 +1809,6 @@
       "number": 50
     },
     {
-      "title": "李强对推进农田水利和高标准农田建设作出重要批示强调 充分发挥高标准农田综合效益 为守牢粮食安全底线建设农业强国提供坚实支撑",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731703.shtml",
-      "summary": "新华社北京11月13日电 11月13日，国务院召开全国冬春农田水利暨高标准农田建设视频会议。中共中央政治局常委、国务院…",
-      "publishedAt": "2026-11-13T12:10:53.000Z",
-      "category": "政治",
-      "topic": "中国",
-      "source": "中国新闻网",
-      "sourceId": "cn-politics",
-      "number": 51
-    },
-    {
       "category": "AI",
       "topic": "模型发布/更新",
       "title": "Edge0 开源 145B 端侧模型，可在笔记本本地运行",
@@ -1830,7 +1819,7 @@
       "reportDate": "2026-11-14",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 52
+      "number": 51
     },
     {
       "category": "AI",
@@ -1843,7 +1832,7 @@
       "reportDate": "2026-11-14",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 53
+      "number": 52
     },
     {
       "category": "AI",
@@ -1856,7 +1845,7 @@
       "reportDate": "2026-11-14",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 54
+      "number": 53
     },
     {
       "category": "AI",
@@ -1869,7 +1858,7 @@
       "reportDate": "2026-11-14",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 55
+      "number": 54
     },
     {
       "category": "AI",
@@ -1882,7 +1871,7 @@
       "reportDate": "2026-11-14",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 56
+      "number": 55
     },
     {
       "category": "AI",
@@ -1895,7 +1884,7 @@
       "reportDate": "2026-11-14",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 57
+      "number": 56
     },
     {
       "category": "AI",
@@ -1908,7 +1897,7 @@
       "reportDate": "2026-11-14",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 58
+      "number": 57
     },
     {
       "category": "AI",
@@ -1921,7 +1910,7 @@
       "reportDate": "2026-11-14",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 59
+      "number": 58
     },
     {
       "category": "AI",
@@ -1934,7 +1923,7 @@
       "reportDate": "2026-11-14",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 60
+      "number": 59
     },
     {
       "category": "AI",
@@ -1947,7 +1936,7 @@
       "reportDate": "2026-11-14",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 61
+      "number": 60
     },
     {
       "category": "AI",
@@ -1960,7 +1949,7 @@
       "reportDate": "2026-11-14",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 62
+      "number": 61
     },
     {
       "category": "AI",
@@ -1973,7 +1962,7 @@
       "reportDate": "2026-11-14",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 63
+      "number": 62
     }
   ]
 }
