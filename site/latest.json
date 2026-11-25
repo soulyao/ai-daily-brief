@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-11-25T09:14:11.090Z",
+  "collectedAt": "2026-11-25T09:50:59.988Z",
   "topics": {
     "时事": [
       "百度热搜"
@@ -38,8 +38,8 @@
       "name": "百度热搜 · 时事",
       "url": "https://top.baidu.com/board?tab=realtime",
       "status": "ok",
-      "lastAttempt": "2026-11-25T09:14:11.090Z",
-      "lastSuccess": "2026-11-25T09:14:11.090Z",
+      "lastAttempt": "2026-11-25T09:50:59.988Z",
+      "lastSuccess": "2026-11-25T09:50:59.988Z",
       "items": [
         {
           "category": "时事",
@@ -48,7 +48,7 @@
           "summary": "11月19日，亚太经合组织(APEC)第三十三次领导人非正式会议开始前，习近平主席同与会的各经济体领导人、代表集体合影…",
           "url": "https://www.baidu.com/s?wd=%E5%90%8C%E5%BF%83%E5%90%88%E9%94%A6+%E7%BB%87%E5%90%91%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-11-25T09:14:11.090Z",
+          "publishedAt": "2026-11-25T09:50:59.988Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -56,23 +56,11 @@
         {
           "category": "时事",
           "topic": "百度热搜",
-          "title": "中外航天员实现首次“太空握手”",
-          "summary": "11月25日，神舟二十四号航天员乘组顺利进驻“天宫”，中外航天员实现首次“太空握手”。",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%96%E8%88%AA%E5%A4%A9%E5%91%98%E5%AE%9E%E7%8E%B0%E9%A6%96%E6%AC%A1%E2%80%9C%E5%A4%AA%E7%A9%BA%E6%8F%A1%E6%89%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+          "title": "“转人工转人工 给我转人工”",
+          "summary": "很多人都有这样的经历：反复喊着“转人工”，等来的依旧是AI，甚至要靠极端方式才能连上真人。转接人工在技术上早已成熟，企…",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%BD%AC%E4%BA%BA%E5%B7%A5%E8%BD%AC%E4%BA%BA%E5%B7%A5+%E7%BB%99%E6%88%91%E8%BD%AC%E4%BA%BA%E5%B7%A5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-11-25T09:14:11.090Z",
-          "timeLabel": "热搜采集",
-          "linkLabel": "查看相关新闻",
-          "sourceId": "baidu"
-        },
-        {
-          "category": "时事",
-          "topic": "百度热搜",
-          "title": "中方回应“美将对中国等国加征关税”",
-          "summary": "11月25日，外交部记者会上，记者问及美国拟对中国等国商品加征关税一事。发言人郭嘉昆表示，贸易战损人害己，中方反对借“…",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%BE%8E%E5%B0%86%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%AD%89%E5%9B%BD%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-          "source": "百度热搜",
-          "publishedAt": "2026-11-25T09:14:11.090Z",
+          "publishedAt": "2026-11-25T09:50:59.988Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -84,7 +72,7 @@
           "summary": "11月25日，搭载神舟二十四号载人飞船的长征二号F遥二十四运载火箭在酒泉卫星发射中心点火发射。神舟二十四号载人飞船与火…",
           "url": "https://www.baidu.com/s?wd=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-11-25T09:14:11.090Z",
+          "publishedAt": "2026-11-25T09:50:59.988Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -92,11 +80,11 @@
         {
           "category": "时事",
           "topic": "百度热搜",
-          "title": "央视揭秘走私孕妇血样大案",
-          "summary": "央视揭秘走私孕妇血样大案：2025年3月，深圳海关缉私局在深圳湾口岸查获一起走私孕妇血样案。此前警方接线索称有车疑载孕…",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%8F%AD%E7%A7%98%E8%B5%B0%E7%A7%81%E5%AD%95%E5%A6%87%E8%A1%80%E6%A0%B7%E5%A4%A7%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news",
+          "title": "中外航天员实现首次“太空握手”",
+          "summary": "11月25日，神舟二十四号航天员乘组顺利进驻“天宫”，中外航天员实现首次“太空握手”。",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%96%E8%88%AA%E5%A4%A9%E5%91%98%E5%AE%9E%E7%8E%B0%E9%A6%96%E6%AC%A1%E2%80%9C%E5%A4%AA%E7%A9%BA%E6%8F%A1%E6%89%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-11-25T09:14:11.090Z",
+          "publishedAt": "2026-11-25T09:50:59.988Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -104,11 +92,23 @@
         {
           "category": "时事",
           "topic": "百度热搜",
-          "title": "护卫银发与童心 让网络温暖无虞",
-          "summary": "AI诈骗谣言瞄准老人和青少年，多部门联动开展系统治理，教育辟谣平台矩阵已上线，也呼吁家庭做好把关，筑牢防护防线。",
-          "url": "https://www.baidu.com/s?wd=%E6%8A%A4%E5%8D%AB%E9%93%B6%E5%8F%91%E4%B8%8E%E7%AB%A5%E5%BF%83+%E8%AE%A9%E7%BD%91%E7%BB%9C%E6%B8%A9%E6%9A%96%E6%97%A0%E8%99%9E&sa=fyb_news&rsv_dl=fyb_news",
+          "title": "近四成低龄老年人愿意继续工作",
+          "summary": "据悉，近四成低龄老年人愿意从事有收入工作，60岁至64岁人口近1亿，多数健康状况较好、社会参与意愿较强，相关部门正推进…",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%91%E5%9B%9B%E6%88%90%E4%BD%8E%E9%BE%84%E8%80%81%E5%B9%B4%E4%BA%BA%E6%84%BF%E6%84%8F%E7%BB%A7%E7%BB%AD%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news",
           "source": "百度热搜",
-          "publishedAt": "2026-11-25T09:14:11.090Z",
+          "publishedAt": "2026-11-25T09:50:59.988Z",
+          "timeLabel": "热搜采集",
+          "linkLabel": "查看相关新闻",
+          "sourceId": "baidu"
+        },
+        {
+          "category": "时事",
+          "topic": "百度热搜",
+          "title": "中方回应“美将对中国等国加征关税”",
+          "summary": "11月25日，外交部记者会上，记者问及美国拟对中国等国商品加征关税一事。发言人郭嘉昆表示，贸易战损人害己，中方反对借“…",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%BE%8E%E5%B0%86%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%AD%89%E5%9B%BD%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+          "source": "百度热搜",
+          "publishedAt": "2026-11-25T09:50:59.988Z",
           "timeLabel": "热搜采集",
           "linkLabel": "查看相关新闻",
           "sourceId": "baidu"
@@ -120,8 +120,8 @@
       "name": "网易体育（署名媒体）",
       "url": "https://sports.163.com/",
       "status": "ok",
-      "lastAttempt": "2026-11-25T09:14:11.090Z",
-      "lastSuccess": "2026-11-25T09:14:11.090Z",
+      "lastAttempt": "2026-11-25T09:50:59.988Z",
+      "lastSuccess": "2026-11-25T09:50:59.988Z",
       "items": [
         {
           "title": "独行侠7人上双120-101掘金，弗拉格24+6+12，约基奇18+11",
@@ -157,70 +157,92 @@
           "number": 3
         },
         {
-          "title": "001人物志：17岁切尔西首秀，泰港前锋裘德-顺素上轮双响国安",
-          "url": "https://www.163.com/dy/article/LCJJP3KD0549BAP0.html",
+          "title": "B费：我不会放弃为曼联赢得英超和欧冠冠军的梦想",
+          "url": "https://www.163.com/dy/article/LCJLHH2U0549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-25T09:08:07.000Z",
+          "publishedAt": "2026-11-25T09:38:56.000Z",
           "category": "体育",
           "topic": "英超",
           "sourceId": "sports",
-          "summary": "北京时间11月25日18点，亚冠精英联赛第5轮，大阪钢巴将在主场迎战泰港。",
+          "summary": "在欧冠客场对阵葡萄牙体育的比赛前，布鲁诺-费尔南德斯接受TNT体育独家专访。他谈到了曼联本赛季糟糕的成绩、频繁更换主教…",
           "number": 4
         },
         {
-          "title": "状态复盘：布鲁日欧冠三连胜，利物浦为何不敢轻敌？",
-          "url": "https://www.163.com/dy/article/LCJJP3LE0549BAP0.html",
+          "title": "波切蒂诺：曼联不可能一夜之间回到从前，重建要靠每天的努力",
+          "url": "https://www.163.com/dy/article/LCJLHGVQ0549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-25T09:08:07.000Z",
+          "publishedAt": "2026-11-25T09:38:56.000Z",
           "category": "体育",
           "topic": "英超",
           "sourceId": "sports",
-          "summary": "10月13日的梅阿查球场，布鲁日把一场原本很难赢的比赛踢成了4比3。",
+          "summary": "欧冠联赛阶段第5轮，曼联将客场挑战葡萄牙体育。这是波切蒂诺执教曼联后的首场欧冠比赛。赛前，波切蒂诺接受了TNT体育墨西…",
           "number": 5
         },
         {
-          "title": "主客表现：布鲁日主场不败，利物浦客场进球更足",
-          "url": "https://www.163.com/dy/article/LCJGIJG10549BAP0.html",
+          "title": "阿邦拉霍：格雷茨卡似乎不适合英超，拜仁放他离队是有原因的",
+          "url": "https://www.163.com/dy/article/LCJKRRU00549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-25T08:12:08.000Z",
+          "publishedAt": "2026-11-25T09:27:06.000Z",
           "category": "体育",
           "topic": "英超",
           "sourceId": "sports",
-          "summary": "北京时间11月26日4点，欧冠将迎来布鲁日与利物浦的较量。",
+          "summary": "据Sport1报道，在阿斯顿维拉对阵加拉塔萨雷的比赛陷入苦战后，格雷茨卡目前的处境已经变得十分明显。",
           "number": 6
         },
         {
-          "title": "赛事科普：远征3970公里，巴萨今晚的欧冠客场有多难？",
-          "url": "https://www.163.com/dy/article/LCJJP3FH0549BAP0.html",
+          "title": "赛前声音：沙巴巴库主帅坦言，拼尽全力也未必赢巴塞罗那",
+          "url": "https://www.163.com/dy/article/LCJLHH0B0549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-25T09:08:07.000Z",
+          "publishedAt": "2026-11-25T09:38:56.000Z",
           "category": "体育",
           "topic": "西甲",
           "sourceId": "sports",
-          "summary": "北京时间11月26日凌晨，巴塞罗那将在阿塞拜疆首都巴库迎战沙巴巴库。",
+          "summary": "北京时间11月26日1点45分，欧冠联赛阶段第5轮，阿塞拜疆球队沙巴巴库将在巴库奥林匹克体育场迎战巴塞罗那。",
           "number": 7
         },
         {
-          "title": "皇马欧冠力争头名出线，可获淘汰赛主场优势与丰厚奖金",
-          "url": "https://www.163.com/dy/article/LCJID41J0549BAP0.html",
+          "title": "国米巴萨等队有意蒙扎前锋瓦雷拉，带走至少需4000万欧",
+          "url": "https://www.163.com/dy/article/LCJLHHA00549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-25T08:44:06.000Z",
+          "publishedAt": "2026-11-25T09:38:56.000Z",
           "category": "体育",
           "topic": "西甲",
           "sourceId": "sports",
-          "summary": "据《阿斯报》报道，皇家马德里在欧冠联赛阶段最后三轮将力争头名出线，这不仅能在淘汰赛对阵中占据优势，还将带来丰厚奖金。",
+          "summary": "这家俱乐部依托由首席执行官巴尔迪索尼及其团队开发的球探系统，该系统实时追踪着超过6万名球员。",
           "number": 8
         },
         {
-          "title": "四大AI分析马竞vs维京：三家看好主胜，DeepSeek建议平局",
-          "url": "https://www.163.com/dy/article/LCJHV5000549BAP0.html",
+          "title": "皇马本赛季各项赛事已豪取十连胜，西甲+欧冠9个主场全胜",
+          "url": "https://www.163.com/dy/article/LCJK93I50549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-25T08:36:28.000Z",
+          "publishedAt": "2026-11-25T09:16:51.000Z",
           "category": "体育",
           "topic": "西甲",
           "sourceId": "sports",
-          "summary": "北京时间11月26日04:00，欧冠联赛阶段第5轮，马德里竞技坐镇主场迎战维京。",
+          "summary": "北京时间11月25日凌晨，欧冠联赛阶段第5轮，皇马坐镇伯纳乌球场5-1逆转埃因霍温。至此，皇马本赛季各项赛事已取得十连…",
           "number": 9
+        },
+        {
+          "title": "拜仁青训主管：目标每年培养一名一线队球员，并通过青训盈利",
+          "url": "https://www.163.com/dy/article/LCJLHGV40549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-11-25T09:38:56.000Z",
+          "category": "体育",
+          "topic": "德甲",
+          "sourceId": "sports",
+          "summary": "拜仁慕尼黑青训发展及青训基地主管约亨-绍尔近日接受采访，详细介绍了拜仁发掘年轻球员的方式、青训培养理念以及俱乐部在竞技…",
+          "number": 10
+        },
+        {
+          "title": "拜仁官方：已与穆西亚拉团队建设性沟通，双方将以保密的方式继续对话",
+          "url": "https://www.163.com/dy/article/LCJLHH9D0549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-11-25T09:38:56.000Z",
+          "category": "体育",
+          "topic": "德甲",
+          "sourceId": "sports",
+          "summary": "北京时间11月25日，拜仁慕尼黑在官方社媒表示，在飞往里尔之前与穆西亚拉的管理团队进行了建设性交流。",
+          "number": 11
         },
         {
           "title": "拜仁高层因经纪人问题现分歧，埃贝尔陷入困境",
@@ -231,28 +253,6 @@
           "topic": "德甲",
           "sourceId": "sports",
           "summary": "据Sport1报道，鲁梅尼格？知情人士揭露内部反应",
-          "number": 10
-        },
-        {
-          "title": "四大AI分析里尔vs拜仁：三家看好客胜，豆包倾向平局",
-          "url": "https://www.163.com/dy/article/LCJHV7500549BAP0.html",
-          "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-25T08:36:30.000Z",
-          "category": "体育",
-          "topic": "德甲",
-          "sourceId": "sports",
-          "summary": "北京时间11月26日04:00，欧冠联赛阶段第5轮，里尔坐镇皮埃尔-莫鲁瓦球场迎战拜仁慕尼黑。",
-          "number": 11
-        },
-        {
-          "title": "技战术解析：凯恩、奥利塞同时缺席，拜仁进攻体系如何重组？",
-          "url": "https://www.163.com/dy/article/LCJHV3D50549BAP0.html",
-          "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-25T08:36:26.000Z",
-          "category": "体育",
-          "topic": "德甲",
-          "sourceId": "sports",
-          "summary": "一支球队同时失去头号中锋和最重要的进攻创造者，究竟会发生什么？",
           "number": 12
         },
         {
@@ -327,40 +327,40 @@
       "id": "eastmoney-us-stock",
       "name": "东方财富 · 美股",
       "url": "https://stock.eastmoney.com/america.html",
-      "status": "error",
-      "lastAttempt": "2026-11-25T09:14:11.090Z",
-      "lastSuccess": "2026-11-25T02:30:37.558Z",
+      "status": "ok",
+      "lastAttempt": "2026-11-25T09:50:59.988Z",
+      "lastSuccess": "2026-11-25T09:50:59.988Z",
       "items": [
         {
           "category": "金融",
           "topic": "美股",
-          "title": "英伟达B300 GPU交期大幅拉长 消费显卡产能恐遭进一步挤压",
-          "summary": "部分迹象表明，英伟达AI芯片供给或延续紧张态势。据媒体援引ODM厂商消息报道，目前包括B300、GB300在内的产品新…",
-          "url": "https://finance.eastmoney.com/a/202611253939352172.html",
-          "publishedAt": "2026-11-25T02:03:00.000Z",
-          "source": "东方财富 · 科创板日报",
+          "title": "谷歌盘前跌超10% 美股芯片股下挫 超威半导体、闪迪跌超5%",
+          "summary": "11月25日，美股盘前三大股指期货集体下跌，截至北京时间17：01，道指期货跌0.42%，纳指期货跌1.98%，标普5…",
+          "url": "https://finance.eastmoney.com/a/202611253939611956.html",
+          "publishedAt": "2026-11-25T09:41:00.000Z",
+          "source": "东方财富 · 21世纪经济报道",
           "kind": "报道",
           "sourceId": "eastmoney-us-stock"
         },
         {
           "category": "金融",
           "topic": "美股",
-          "title": "英伟达依然没有接班人",
-          "summary": "回归英伟达后，CEO黄仁勋坐实了英伟达没有接班人。",
-          "url": "https://finance.eastmoney.com/a/202611253939355754.html",
-          "publishedAt": "2026-11-25T02:05:00.000Z",
-          "source": "东方财富 · 第一财经",
+          "title": "哔哩哔哩美股盘前逆势上涨超4%",
+          "summary": "11月25日，哔哩哔哩美股盘前逆势上涨超4%，三季度营收利润双增。",
+          "url": "https://finance.eastmoney.com/a/202611253939589144.html",
+          "publishedAt": "2026-11-25T09:11:00.000Z",
+          "source": "东方财富 · 每日经济新闻",
           "kind": "报道",
           "sourceId": "eastmoney-us-stock"
         },
         {
           "category": "金融",
           "topic": "美股",
-          "title": "英伟达暴涨后回落，重仓的64只QDII基金业绩底色如何？",
-          "summary": "黄仁勋重返英伟达CEO职位引发的市场狂欢仅持续一个交易日。",
-          "url": "https://finance.eastmoney.com/a/202611253939364454.html",
-          "publishedAt": "2026-11-25T02:11:00.000Z",
-          "source": "东方财富 · 澎湃新闻",
+          "title": "哔哩哔哩美股盘前逆势上涨超4%，三季度营收利润双增",
+          "summary": "哔哩哔哩美股盘前逆势上涨超4%，三季度营收利润双增，摩根士丹利发布研报称，维持哔哩哔哩-W美股“增持”评级及21美元目…",
+          "url": "https://finance.eastmoney.com/a/202611253939592792.html",
+          "publishedAt": "2026-11-25T09:08:00.000Z",
+          "source": "东方财富 · 财联社",
           "kind": "报道",
           "sourceId": "eastmoney-us-stock"
         }
@@ -371,8 +371,8 @@
       "name": "东方财富 · A股",
       "url": "https://stock.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-11-25T09:14:11.090Z",
-      "lastSuccess": "2026-11-25T09:14:11.090Z",
+      "lastAttempt": "2026-11-25T09:50:59.988Z",
+      "lastSuccess": "2026-11-25T09:50:59.988Z",
       "items": [
         {
           "category": "金融",
@@ -421,6 +421,17 @@
         {
           "category": "金融",
           "topic": "A股",
+          "title": "谷歌盘前跌超10% 美股芯片股下挫 超威半导体、闪迪跌超5%",
+          "summary": "11月25日，美股盘前三大股指期货集体下跌，截至北京时间17：01，道指期货跌0.42%，纳指期货跌1.98%，标普5…",
+          "url": "https://finance.eastmoney.com/a/202611253939611956.html",
+          "publishedAt": "2026-11-25T09:41:00.000Z",
+          "source": "东方财富 · 21世纪经济报道",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
           "title": "突然直线拉升！20%涨停！医药赛道集体异动",
           "summary": "今日（11月25日），A股医药股逆市走高。盘中，康芝药业、拓新药业、亨迪药业直线拉升至20%涨停，双鹭药业、石药景峰、…",
           "url": "https://finance.eastmoney.com/a/202611253939411529.html",
@@ -443,11 +454,11 @@
         {
           "category": "金融",
           "topic": "A股",
-          "title": "沪指失守3500点 交投情绪降温 宽基ETF尾盘再度放量",
-          "summary": "11月25日，市场集体走弱，创业板指跌超4%，科创50指数跌超5%，沪指失守3500点。截至收盘，沪指跌2.03%，深…",
-          "url": "https://finance.eastmoney.com/a/202611253939516937.html",
-          "publishedAt": "2026-11-25T07:53:00.000Z",
-          "source": "东方财富 · 每日经济新闻",
+          "title": "美国半导体大跌，这轮AI泡沫要破裂了吗？",
+          "summary": "未来AI产业继续向前发展与相关股票大幅波动，很可能长期并存，企业之间也会出现更明显的分化。",
+          "url": "https://finance.eastmoney.com/a/202611253939598829.html",
+          "publishedAt": "2026-11-25T09:10:00.000Z",
+          "source": "东方财富 · 新京报",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
@@ -465,21 +476,21 @@
         {
           "category": "金融",
           "topic": "A股",
-          "title": "一块布催生一条链，松阳如何织就现代纺织全产业链？",
-          "summary": "立足松古平原产业沃土，浙江松阳现代纺织产业走出山区传统纺织的差异化发展路径，锚定打造全国份额最大的革基布生产基地的目标…",
-          "url": "https://finance.eastmoney.com/a/202611253939551358.html",
-          "publishedAt": "2026-11-25T08:28:00.000Z",
-          "source": "东方财富 · 上观新闻",
+          "title": "年涨幅升至A股第二！小家电股2个月涨停13次，20余股年内涨翻倍，这些则股价腰斩",
+          "summary": "财联社11月25日讯，今日（11月25日），市场人气股九阳股份再度涨停，收盘录得3连板，股价刷新2020年10月以来新…",
+          "url": "https://finance.eastmoney.com/a/202611253939610778.html",
+          "publishedAt": "2026-11-25T09:34:00.000Z",
+          "source": "东方财富 · 财联社",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
         {
           "category": "金融",
           "topic": "A股",
-          "title": "华凯易佰：拟5000万元-1亿元回购公司股份",
-          "summary": "华凯易佰11月25日公告，拟以集中竞价交易方式回购公司股份，回购总金额不低于5000万元且不超过1亿元。回购价格不超过…",
-          "url": "https://finance.eastmoney.com/a/202611253939583322.html",
-          "publishedAt": "2026-11-25T09:07:00.000Z",
+          "title": "黄仁勋回归48小时：股价冲高回落，董事会遭质疑",
+          "summary": "黄仁勋重返英伟达，股价带来的惊喜只持续了一个交易日。",
+          "url": "https://finance.eastmoney.com/a/202611253939613343.html",
+          "publishedAt": "2026-11-25T09:39:00.000Z",
           "source": "东方财富 · 界面新闻",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
@@ -487,55 +498,11 @@
         {
           "category": "金融",
           "topic": "A股",
-          "title": "基蛋生物：回购股份比例达1.07% 累计耗资约4387.89万元",
-          "summary": "中证智能财讯基蛋生物（603387）11月25日晚间公告，截至11月24日，公司通过集中竞价交易方式已累计回购公司股份…",
-          "url": "https://finance.eastmoney.com/a/202611253939581297.html",
-          "publishedAt": "2026-11-25T09:02:00.000Z",
-          "source": "东方财富 · 中国证券报·中证网",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "7只科创板个股主力资金净流入超3000万元",
-          "summary": "沪深两市全天主力资金净流出406.92亿元，其中，科创板主力资金净流出95.96亿元，主力资金净流入的有232只股，主…",
-          "url": "https://finance.eastmoney.com/a/202611253939578995.html",
-          "publishedAt": "2026-11-25T08:55:00.000Z",
-          "source": "东方财富 · 证券时报网",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "科创板高价股排行榜",
-          "summary": "以最新收盘价计算，科创板平均股价为35.88元，其中股价超100元的有58只，股价最高的是寒武纪。",
-          "url": "https://finance.eastmoney.com/a/202611253939573964.html",
-          "publishedAt": "2026-11-25T08:50:00.000Z",
-          "source": "东方财富 · 证券时报网",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "理想汽车公布最新业绩：第三季度营收288亿元，同比增加5.4%；毛利率16.7％，上年同期16.3％",
-          "summary": "25日，理想汽车发布公告，第三季度营收288亿元，同比增加5.4%，预估280亿元人民币。第三季度毛利率16.7％，上…",
-          "url": "https://finance.eastmoney.com/a/202611253939558542.html",
-          "publishedAt": "2026-11-25T08:44:00.000Z",
-          "source": "东方财富 · 中新经纬",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "Anthropic股价盘前下跌3%",
-          "summary": "Anthropic股价盘前下跌3%，前一交易日下跌6.5%。",
-          "url": "https://finance.eastmoney.com/a/202611253939584774.html",
-          "publishedAt": "2026-11-25T09:04:00.000Z",
-          "source": "东方财富 · 东方财富Choice数据",
+          "title": "日本据悉正考虑建立一套机制以确保半导体芯片及相关材料的稳定供应",
+          "summary": "日本据悉正考虑建立一套机制，以确保半导体芯片及相关材料的稳定供应。",
+          "url": "https://finance.eastmoney.com/a/202611253939590511.html",
+          "publishedAt": "2026-11-25T09:15:00.000Z",
+          "source": "东方财富 · 财联社",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         }
@@ -546,8 +513,8 @@
       "name": "东方财富 · 中国期货",
       "url": "https://futures.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-11-25T09:14:11.090Z",
-      "lastSuccess": "2026-11-25T09:14:11.090Z",
+      "lastAttempt": "2026-11-25T09:50:59.988Z",
+      "lastSuccess": "2026-11-25T09:50:59.988Z",
       "items": [
         {
           "category": "金融",
@@ -557,6 +524,17 @@
           "url": "https://finance.eastmoney.com/a/202611253939496588.html",
           "publishedAt": "2026-11-25T07:20:00.000Z",
           "source": "东方财富 · 东方财富研究中心",
+          "kind": "报道",
+          "sourceId": "eastmoney-futures"
+        },
+        {
+          "category": "金融",
+          "topic": "中国期货",
+          "title": "广期所：氢氧化锂期货将于2026年11月26日（星期四）上市交易",
+          "summary": "广期所公告，氢氧化锂期货将于2026年11月26日（星期四）在我所上市交易，各合约的挂牌基准价为：LI2706合约75…",
+          "url": "https://finance.eastmoney.com/a/202611253939589914.html",
+          "publishedAt": "2026-11-25T09:14:00.000Z",
+          "source": "东方财富 · 财联社",
           "kind": "报道",
           "sourceId": "eastmoney-futures"
         },
@@ -622,8 +600,8 @@
       "name": "东方财富 · 宏观财经",
       "url": "https://finance.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-11-25T09:14:11.090Z",
-      "lastSuccess": "2026-11-25T09:14:11.090Z",
+      "lastAttempt": "2026-11-25T09:50:59.988Z",
+      "lastSuccess": "2026-11-25T09:50:59.988Z",
       "items": [
         {
           "category": "金融",
@@ -665,9 +643,20 @@
       "name": "新浪财经 · 美股",
       "url": "https://finance.sina.com.cn/stock/usstock/",
       "status": "ok",
-      "lastAttempt": "2026-11-25T09:14:11.090Z",
-      "lastSuccess": "2026-11-25T09:14:11.090Z",
+      "lastAttempt": "2026-11-25T09:50:59.988Z",
+      "lastSuccess": "2026-11-25T09:50:59.988Z",
       "items": [
+        {
+          "title": "德银策略师：标普500到2027年底有25%上行空间",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizxxyc1766149.shtml",
+          "summary": "德意志银行称，稳健的盈利增长以及股票需求将推动标普500在2027年底升至约9000点，较上一收盘点位有25%的上涨空…",
+          "source": "环球市场播报 · 新浪财经",
+          "publishedAt": "2026-11-25T09:18:08.000Z",
+          "category": "金融",
+          "topic": "美股",
+          "sourceId": "us-stock",
+          "kind": "报道"
+        },
         {
           "title": "AI与美联储相关担忧加重空头情绪，金属跌势进一步扩大",
           "url": "https://finance.sina.com.cn/world/2026-11-25/doc-inizxxye8529049.shtml",
@@ -744,17 +733,6 @@
           "topic": "美股",
           "sourceId": "us-stock",
           "kind": "报道"
-        },
-        {
-          "title": "因黄仁勋辞职而出走的工程师后悔了：愿意考虑重回英伟达",
-          "url": "https://finance.sina.com.cn/jjxw/2026-11-25/doc-inizxpki1785501.shtml",
-          "summary": "界面新闻记者 | 宋佳楠 英伟达一名因黄仁勋辞任而离职的工程师，在黄仁勋复职之后态度发生了转变。 11月24日，前英伟…",
-          "source": "界面 · 新浪财经",
-          "publishedAt": "2026-11-25T04:20:59.000Z",
-          "category": "金融",
-          "topic": "美股",
-          "sourceId": "us-stock",
-          "kind": "报道"
         }
       ]
     },
@@ -763,9 +741,130 @@
       "name": "新浪财经 · A股",
       "url": "https://finance.sina.com.cn/stock/",
       "status": "ok",
-      "lastAttempt": "2026-11-25T09:14:11.090Z",
-      "lastSuccess": "2026-11-25T09:14:11.090Z",
+      "lastAttempt": "2026-11-25T09:50:59.988Z",
+      "lastSuccess": "2026-11-25T09:50:59.988Z",
       "items": [
+        {
+          "title": "历时不足四个月！通化金马终止收购八加一控股权意向，标的身背多项失信记录",
+          "url": "https://finance.sina.com.cn/jjxw/2026-11-25/doc-inizxxxz9461678.shtml",
+          "summary": "每经记者|黄博文每经编辑|张益铭 11月25日盘后，通化金马（000766.SZ，股价9.49元，市值92亿元）公告称…",
+          "source": "每日经济新闻 · 新浪财经",
+          "publishedAt": "2026-11-25T09:31:42.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock",
+          "kind": "报道"
+        },
+        {
+          "title": "知名服装品牌实控人，近9亿元押注长鑫科技",
+          "url": "https://finance.sina.com.cn/stock/s/2026-11-25/doc-inizxxye8555446.shtml",
+          "summary": "红星资本局11月25日消息，长鑫科技24日晚披露《关于回购股份事项前十名股东和前十名无限售条件股东持股情况公告》。其中…",
+          "source": "新浪财经",
+          "publishedAt": "2026-11-25T09:30:03.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock",
+          "kind": "报道"
+        },
+        {
+          "title": "两家A股公司明日将被“ST”，皆因财务造假！其中一家四个月前刚刚摘掉“*ST”",
+          "url": "https://finance.sina.com.cn/stock/s/2026-11-25/doc-inizxxye8555285.shtml",
+          "summary": "红星资本局11月25日消息，神雾节能（000820.SZ）公告称，公司及相关当事人于2026年11月24日收到证监会江…",
+          "source": "新浪财经",
+          "publishedAt": "2026-11-25T09:30:03.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock",
+          "kind": "报道"
+        },
+        {
+          "title": "三大股指同步刷阶段性新低！A股为何跌跌不休？",
+          "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-25/doc-inizxxye8551767.shtml",
+          "summary": "来源：金融投资报 短期反弹后A股弱势依旧，三大股指低开低走，日内反弹均未能翻红，最终集体刷新本轮调整的阶段性新低。 上…",
+          "source": "市场资讯 · 新浪财经",
+          "publishedAt": "2026-11-25T09:24:07.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock",
+          "kind": "报道"
+        },
+        {
+          "title": "中恒集团半年内两收警示函：收入确认与资产核算双线失守 财务数据承压净资产三年蒸发17亿",
+          "url": "https://finance.sina.com.cn/stock/observe/2026-11-25/doc-inizxxxz9454486.shtml",
+          "summary": "近日，中恒集团发布公告称，公司收到中国证监会广西监管局出具的警示函。这已经是2026年年内中恒集团第二次收到监管部门的…",
+          "source": "新浪证券 · 新浪财经",
+          "publishedAt": "2026-11-25T09:21:49.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock",
+          "kind": "报道"
+        },
+        {
+          "title": "私募融资市场与IPO市场相似：头部企业占据主导地位",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizxxyc1767535.shtml",
+          "summary": "周二，Anthropic 股价跌破 83 美元的 IPO 发行价，这正是今年 IPO 市场处境艰难的缩影。尽管市场完成…",
+          "source": "环球市场播报 · 新浪财经",
+          "publishedAt": "2026-11-25T09:20:02.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock",
+          "kind": "报道"
+        },
+        {
+          "title": "领益智造高溢价“加码”液冷标的 频频跨界背后净利率承压",
+          "url": "https://finance.sina.com.cn/stock/observe/2026-11-25/doc-inizxxye8543402.shtml",
+          "summary": "出品：新浪财经上市公司研究院 作者：郝显 11月12日晚间，领益智造公告向控股子公司立敏达增资8.16亿元，持股比例从…",
+          "source": "新浪财经",
+          "publishedAt": "2026-11-25T09:19:21.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock",
+          "kind": "报道"
+        },
+        {
+          "title": "超40%换手！002579，尾盘拉涨停，“五连板”",
+          "url": "https://finance.sina.com.cn/stock/bxjj/2026-11-25/doc-inizxxyi4234149.shtml",
+          "summary": "来源：大众证券报 11月25日，中京电子（002579）尾盘上演“突袭”。截至收盘，该股封住涨停，换手率为42.49%…",
+          "source": "市场资讯 · 新浪财经",
+          "publishedAt": "2026-11-25T09:19:08.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock",
+          "kind": "报道"
+        },
+        {
+          "title": "德银策略师：标普500到2027年底有25%上行空间",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizxxyc1766149.shtml",
+          "summary": "德意志银行称，稳健的盈利增长以及股票需求将推动标普500在2027年底升至约9000点，较上一收盘点位有25%的上涨空…",
+          "source": "环球市场播报 · 新浪财经",
+          "publishedAt": "2026-11-25T09:18:08.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock",
+          "kind": "报道"
+        },
+        {
+          "title": "A股神秘牛散“夫妻档”突然出手！9亿拿下硬科技龙头，全靠高端女装“输血”",
+          "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-25/doc-inizxxyc1773225.shtml",
+          "summary": "来源：南财社 国产DRAM存储龙头长鑫科技（688825，SH）因回购披露了配套股东名册，将A股一对神秘老牌投资“夫妻…",
+          "source": "市场资讯 · 新浪财经",
+          "publishedAt": "2026-11-25T09:17:10.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock",
+          "kind": "报道"
+        },
+        {
+          "title": "AI数据中心热潮持续，戴尔上调全年业绩预期",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizxxye8541487.shtml",
+          "summary": "戴尔正从中受益：越来越多企业升级服务器与其他数据中心硬件，用于本地训练 AI 模型、运行 AI 应用。 第三季度财报发…",
+          "source": "环球市场播报 · 新浪财经",
+          "publishedAt": "2026-11-25T09:16:48.000Z",
+          "category": "金融",
+          "topic": "A股",
+          "sourceId": "cn-stock",
+          "kind": "报道"
+        },
         {
           "title": "Canaccord首次覆盖Anthropic给出买入评级 目标价135美元",
           "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizxxyc1761980.shtml",
@@ -864,28 +963,6 @@
           "topic": "A股",
           "sourceId": "cn-stock",
           "kind": "报道"
-        },
-        {
-          "title": "股东年初减持后再启减持计划，艾融软件业绩与流动性同步承压",
-          "url": "https://finance.sina.com.cn/stock/s/2026-11-25/doc-inizxtsm4323178.shtml",
-          "summary": "来源：证券之星 近日，金融科技服务商艾融软件（920799.BJ）公告，公司持股5%以上股东孟庆有在完成今年2月的一轮…",
-          "source": "市场资讯 · 新浪财经",
-          "publishedAt": "2026-11-25T07:57:16.000Z",
-          "category": "金融",
-          "topic": "A股",
-          "sourceId": "cn-stock",
-          "kind": "报道"
-        },
-        {
-          "title": "仕净科技巨额财务造假股价不跌反涨为何？造假前夕有哪些异常",
-          "url": "https://finance.sina.com.cn/stock/observe/2026-11-25/doc-inizxtsc9514267.shtml",
-          "summary": "出品：新浪财经上市公司研究院 文/夏虫工作室 核心观点：仕净科技四期财报虚增营收逾19亿元，6.78亿元诉讼仲裁隐于表…",
-          "source": "新浪证券 · 新浪财经",
-          "publishedAt": "2026-11-25T07:48:37.000Z",
-          "category": "金融",
-          "topic": "A股",
-          "sourceId": "cn-stock",
-          "kind": "观点"
         }
       ]
     },
@@ -894,8 +971,8 @@
       "name": "新浪财经 · 期货订阅 1",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-11-25T09:14:11.090Z",
-      "lastSuccess": "2026-11-25T09:14:11.090Z",
+      "lastAttempt": "2026-11-25T09:50:59.988Z",
+      "lastSuccess": "2026-11-25T09:50:59.988Z",
       "items": []
     },
     {
@@ -903,8 +980,8 @@
       "name": "新浪财经 · 期货订阅 2",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-11-25T09:14:11.090Z",
-      "lastSuccess": "2026-11-25T09:14:11.090Z",
+      "lastAttempt": "2026-11-25T09:50:59.988Z",
+      "lastSuccess": "2026-11-25T09:50:59.988Z",
       "items": [
         {
           "title": "收评|国内期货主力合约涨跌不一，沪锡跌超9%",
@@ -924,8 +1001,8 @@
       "name": "新浪财经 · 期货订阅 3",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-11-25T09:14:11.090Z",
-      "lastSuccess": "2026-11-25T09:14:11.090Z",
+      "lastAttempt": "2026-11-25T09:50:59.988Z",
+      "lastSuccess": "2026-11-25T09:50:59.988Z",
       "items": []
     },
     {
@@ -933,8 +1010,8 @@
       "name": "中新网 · 国际",
       "url": "https://www.chinanews.com.cn/rss/world.xml",
       "status": "ok",
-      "lastAttempt": "2026-11-25T09:14:11.090Z",
-      "lastSuccess": "2026-11-25T09:14:11.090Z",
+      "lastAttempt": "2026-11-25T09:50:59.988Z",
+      "lastSuccess": "2026-11-25T09:50:59.988Z",
       "items": [
         {
           "title": "一直夸一直夸，完全停不下来！返美后，特朗普连续多天夸赞中国之行",
@@ -1003,8 +1080,8 @@
       "name": "中新网 · 国内",
       "url": "https://www.chinanews.com.cn/rss/china.xml",
       "status": "ok",
-      "lastAttempt": "2026-11-25T09:14:11.090Z",
-      "lastSuccess": "2026-11-25T09:14:11.090Z",
+      "lastAttempt": "2026-11-25T09:50:59.988Z",
+      "lastSuccess": "2026-11-25T09:50:59.988Z",
       "items": [
         {
           "title": "《习近平关于尊重和保障人权论述摘编》学术研讨会在越南河内举行",
@@ -1115,26 +1192,6 @@
           "topic": "中国",
           "source": "中国新闻网",
           "sourceId": "cn-politics"
-        },
-        {
-          "title": "习近平同巴基斯坦总统扎尔达里就中巴航天员执行联合飞行任务互致贺电",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737535.shtml",
-          "summary": "新华社北京11月25日电 11月25日，国家主席习近平同巴基斯坦总统扎尔达里就中巴航天员执行联合飞行任务互致贺电。",
-          "publishedAt": "2026-11-25T07:03:13.000Z",
-          "category": "政治",
-          "topic": "中国",
-          "source": "中国新闻网",
-          "sourceId": "cn-politics"
-        },
-        {
-          "title": "习近平同巴基斯坦总统扎尔达里就中巴航天员执行联合飞行任务互致贺电",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737527.shtml",
-          "summary": "新华社快讯：习近平同巴基斯坦总统扎尔达里就中巴航天员执行联合飞行任务互致贺电。",
-          "publishedAt": "2026-11-25T06:50:47.000Z",
-          "category": "政治",
-          "topic": "中国",
-          "source": "中国新闻网",
-          "sourceId": "cn-politics"
         }
       ]
     },
@@ -1143,8 +1200,8 @@
       "name": "AI HOT",
       "url": "https://aihot.news/",
       "status": "ok",
-      "lastAttempt": "2026-11-25T09:14:11.090Z",
-      "lastSuccess": "2026-11-25T09:14:11.090Z",
+      "lastAttempt": "2026-11-25T09:50:59.988Z",
+      "lastSuccess": "2026-11-25T09:50:59.988Z",
       "items": [
         {
           "category": "AI",
@@ -1301,7 +1358,7 @@
       "summary": "11月19日，亚太经合组织(APEC)第三十三次领导人非正式会议开始前，习近平主席同与会的各经济体领导人、代表集体合影…",
       "url": "https://www.baidu.com/s?wd=%E5%90%8C%E5%BF%83%E5%90%88%E9%94%A6+%E7%BB%87%E5%90%91%E6%9C%AA%E6%9D%A5&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-11-25T09:14:11.090Z",
+      "publishedAt": "2026-11-25T09:50:59.988Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1310,11 +1367,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "中外航天员实现首次“太空握手”",
-      "summary": "11月25日，神舟二十四号航天员乘组顺利进驻“天宫”，中外航天员实现首次“太空握手”。",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%96%E8%88%AA%E5%A4%A9%E5%91%98%E5%AE%9E%E7%8E%B0%E9%A6%96%E6%AC%A1%E2%80%9C%E5%A4%AA%E7%A9%BA%E6%8F%A1%E6%89%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "“转人工转人工 给我转人工”",
+      "summary": "很多人都有这样的经历：反复喊着“转人工”，等来的依旧是AI，甚至要靠极端方式才能连上真人。转接人工在技术上早已成熟，企…",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%BD%AC%E4%BA%BA%E5%B7%A5%E8%BD%AC%E4%BA%BA%E5%B7%A5+%E7%BB%99%E6%88%91%E8%BD%AC%E4%BA%BA%E5%B7%A5%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-11-25T09:14:11.090Z",
+      "publishedAt": "2026-11-25T09:50:59.988Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1323,11 +1380,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "中方回应“美将对中国等国加征关税”",
-      "summary": "11月25日，外交部记者会上，记者问及美国拟对中国等国商品加征关税一事。发言人郭嘉昆表示，贸易战损人害己，中方反对借“…",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%BE%8E%E5%B0%86%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%AD%89%E5%9B%BD%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "神舟二十四号发射成功",
+      "summary": "11月25日，搭载神舟二十四号载人飞船的长征二号F遥二十四运载火箭在酒泉卫星发射中心点火发射。神舟二十四号载人飞船与火…",
+      "url": "https://www.baidu.com/s?wd=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-11-25T09:14:11.090Z",
+      "publishedAt": "2026-11-25T09:50:59.988Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1336,11 +1393,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "神舟二十四号发射成功",
-      "summary": "11月25日，搭载神舟二十四号载人飞船的长征二号F遥二十四运载火箭在酒泉卫星发射中心点火发射。神舟二十四号载人飞船与火…",
-      "url": "https://www.baidu.com/s?wd=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "中外航天员实现首次“太空握手”",
+      "summary": "11月25日，神舟二十四号航天员乘组顺利进驻“天宫”，中外航天员实现首次“太空握手”。",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%96%E8%88%AA%E5%A4%A9%E5%91%98%E5%AE%9E%E7%8E%B0%E9%A6%96%E6%AC%A1%E2%80%9C%E5%A4%AA%E7%A9%BA%E6%8F%A1%E6%89%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-11-25T09:14:11.090Z",
+      "publishedAt": "2026-11-25T09:50:59.988Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1349,11 +1406,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "央视揭秘走私孕妇血样大案",
-      "summary": "央视揭秘走私孕妇血样大案：2025年3月，深圳海关缉私局在深圳湾口岸查获一起走私孕妇血样案。此前警方接线索称有车疑载孕…",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%8F%AD%E7%A7%98%E8%B5%B0%E7%A7%81%E5%AD%95%E5%A6%87%E8%A1%80%E6%A0%B7%E5%A4%A7%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "近四成低龄老年人愿意继续工作",
+      "summary": "据悉，近四成低龄老年人愿意从事有收入工作，60岁至64岁人口近1亿，多数健康状况较好、社会参与意愿较强，相关部门正推进…",
+      "url": "https://www.baidu.com/s?wd=%E8%BF%91%E5%9B%9B%E6%88%90%E4%BD%8E%E9%BE%84%E8%80%81%E5%B9%B4%E4%BA%BA%E6%84%BF%E6%84%8F%E7%BB%A7%E7%BB%AD%E5%B7%A5%E4%BD%9C&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-11-25T09:14:11.090Z",
+      "publishedAt": "2026-11-25T09:50:59.988Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1362,11 +1419,11 @@
     {
       "category": "时事",
       "topic": "百度热搜",
-      "title": "护卫银发与童心 让网络温暖无虞",
-      "summary": "AI诈骗谣言瞄准老人和青少年，多部门联动开展系统治理，教育辟谣平台矩阵已上线，也呼吁家庭做好把关，筑牢防护防线。",
-      "url": "https://www.baidu.com/s?wd=%E6%8A%A4%E5%8D%AB%E9%93%B6%E5%8F%91%E4%B8%8E%E7%AB%A5%E5%BF%83+%E8%AE%A9%E7%BD%91%E7%BB%9C%E6%B8%A9%E6%9A%96%E6%97%A0%E8%99%9E&sa=fyb_news&rsv_dl=fyb_news",
+      "title": "中方回应“美将对中国等国加征关税”",
+      "summary": "11月25日，外交部记者会上，记者问及美国拟对中国等国商品加征关税一事。发言人郭嘉昆表示，贸易战损人害己，中方反对借“…",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%BE%8E%E5%B0%86%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%AD%89%E5%9B%BD%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
       "source": "百度热搜",
-      "publishedAt": "2026-11-25T09:14:11.090Z",
+      "publishedAt": "2026-11-25T09:50:59.988Z",
       "timeLabel": "热搜采集",
       "linkLabel": "查看相关新闻",
       "sourceId": "baidu",
@@ -1406,70 +1463,92 @@
       "number": 9
     },
     {
-      "title": "001人物志：17岁切尔西首秀，泰港前锋裘德-顺素上轮双响国安",
-      "url": "https://www.163.com/dy/article/LCJJP3KD0549BAP0.html",
+      "title": "B费：我不会放弃为曼联赢得英超和欧冠冠军的梦想",
+      "url": "https://www.163.com/dy/article/LCJLHH2U0549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-25T09:08:07.000Z",
+      "publishedAt": "2026-11-25T09:38:56.000Z",
       "category": "体育",
       "topic": "英超",
       "sourceId": "sports",
-      "summary": "北京时间11月25日18点，亚冠精英联赛第5轮，大阪钢巴将在主场迎战泰港。",
+      "summary": "在欧冠客场对阵葡萄牙体育的比赛前，布鲁诺-费尔南德斯接受TNT体育独家专访。他谈到了曼联本赛季糟糕的成绩、频繁更换主教…",
       "number": 10
     },
     {
-      "title": "状态复盘：布鲁日欧冠三连胜，利物浦为何不敢轻敌？",
-      "url": "https://www.163.com/dy/article/LCJJP3LE0549BAP0.html",
+      "title": "波切蒂诺：曼联不可能一夜之间回到从前，重建要靠每天的努力",
+      "url": "https://www.163.com/dy/article/LCJLHGVQ0549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-25T09:08:07.000Z",
+      "publishedAt": "2026-11-25T09:38:56.000Z",
       "category": "体育",
       "topic": "英超",
       "sourceId": "sports",
-      "summary": "10月13日的梅阿查球场，布鲁日把一场原本很难赢的比赛踢成了4比3。",
+      "summary": "欧冠联赛阶段第5轮，曼联将客场挑战葡萄牙体育。这是波切蒂诺执教曼联后的首场欧冠比赛。赛前，波切蒂诺接受了TNT体育墨西…",
       "number": 11
     },
     {
-      "title": "主客表现：布鲁日主场不败，利物浦客场进球更足",
-      "url": "https://www.163.com/dy/article/LCJGIJG10549BAP0.html",
+      "title": "阿邦拉霍：格雷茨卡似乎不适合英超，拜仁放他离队是有原因的",
+      "url": "https://www.163.com/dy/article/LCJKRRU00549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-25T08:12:08.000Z",
+      "publishedAt": "2026-11-25T09:27:06.000Z",
       "category": "体育",
       "topic": "英超",
       "sourceId": "sports",
-      "summary": "北京时间11月26日4点，欧冠将迎来布鲁日与利物浦的较量。",
+      "summary": "据Sport1报道，在阿斯顿维拉对阵加拉塔萨雷的比赛陷入苦战后，格雷茨卡目前的处境已经变得十分明显。",
       "number": 12
     },
     {
-      "title": "赛事科普：远征3970公里，巴萨今晚的欧冠客场有多难？",
-      "url": "https://www.163.com/dy/article/LCJJP3FH0549BAP0.html",
+      "title": "赛前声音：沙巴巴库主帅坦言，拼尽全力也未必赢巴塞罗那",
+      "url": "https://www.163.com/dy/article/LCJLHH0B0549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-25T09:08:07.000Z",
+      "publishedAt": "2026-11-25T09:38:56.000Z",
       "category": "体育",
       "topic": "西甲",
       "sourceId": "sports",
-      "summary": "北京时间11月26日凌晨，巴塞罗那将在阿塞拜疆首都巴库迎战沙巴巴库。",
+      "summary": "北京时间11月26日1点45分，欧冠联赛阶段第5轮，阿塞拜疆球队沙巴巴库将在巴库奥林匹克体育场迎战巴塞罗那。",
       "number": 13
     },
     {
-      "title": "皇马欧冠力争头名出线，可获淘汰赛主场优势与丰厚奖金",
-      "url": "https://www.163.com/dy/article/LCJID41J0549BAP0.html",
+      "title": "国米巴萨等队有意蒙扎前锋瓦雷拉，带走至少需4000万欧",
+      "url": "https://www.163.com/dy/article/LCJLHHA00549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-25T08:44:06.000Z",
+      "publishedAt": "2026-11-25T09:38:56.000Z",
       "category": "体育",
       "topic": "西甲",
       "sourceId": "sports",
-      "summary": "据《阿斯报》报道，皇家马德里在欧冠联赛阶段最后三轮将力争头名出线，这不仅能在淘汰赛对阵中占据优势，还将带来丰厚奖金。",
+      "summary": "这家俱乐部依托由首席执行官巴尔迪索尼及其团队开发的球探系统，该系统实时追踪着超过6万名球员。",
       "number": 14
     },
     {
-      "title": "四大AI分析马竞vs维京：三家看好主胜，DeepSeek建议平局",
-      "url": "https://www.163.com/dy/article/LCJHV5000549BAP0.html",
+      "title": "皇马本赛季各项赛事已豪取十连胜，西甲+欧冠9个主场全胜",
+      "url": "https://www.163.com/dy/article/LCJK93I50549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-25T08:36:28.000Z",
+      "publishedAt": "2026-11-25T09:16:51.000Z",
       "category": "体育",
       "topic": "西甲",
       "sourceId": "sports",
-      "summary": "北京时间11月26日04:00，欧冠联赛阶段第5轮，马德里竞技坐镇主场迎战维京。",
+      "summary": "北京时间11月25日凌晨，欧冠联赛阶段第5轮，皇马坐镇伯纳乌球场5-1逆转埃因霍温。至此，皇马本赛季各项赛事已取得十连…",
       "number": 15
+    },
+    {
+      "title": "拜仁青训主管：目标每年培养一名一线队球员，并通过青训盈利",
+      "url": "https://www.163.com/dy/article/LCJLHGV40549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-11-25T09:38:56.000Z",
+      "category": "体育",
+      "topic": "德甲",
+      "sourceId": "sports",
+      "summary": "拜仁慕尼黑青训发展及青训基地主管约亨-绍尔近日接受采访，详细介绍了拜仁发掘年轻球员的方式、青训培养理念以及俱乐部在竞技…",
+      "number": 16
+    },
+    {
+      "title": "拜仁官方：已与穆西亚拉团队建设性沟通，双方将以保密的方式继续对话",
+      "url": "https://www.163.com/dy/article/LCJLHH9D0549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-11-25T09:38:56.000Z",
+      "category": "体育",
+      "topic": "德甲",
+      "sourceId": "sports",
+      "summary": "北京时间11月25日，拜仁慕尼黑在官方社媒表示，在飞往里尔之前与穆西亚拉的管理团队进行了建设性交流。",
+      "number": 17
     },
     {
       "title": "拜仁高层因经纪人问题现分歧，埃贝尔陷入困境",
@@ -1480,28 +1559,6 @@
       "topic": "德甲",
       "sourceId": "sports",
       "summary": "据Sport1报道，鲁梅尼格？知情人士揭露内部反应",
-      "number": 16
-    },
-    {
-      "title": "四大AI分析里尔vs拜仁：三家看好客胜，豆包倾向平局",
-      "url": "https://www.163.com/dy/article/LCJHV7500549BAP0.html",
-      "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-25T08:36:30.000Z",
-      "category": "体育",
-      "topic": "德甲",
-      "sourceId": "sports",
-      "summary": "北京时间11月26日04:00，欧冠联赛阶段第5轮，里尔坐镇皮埃尔-莫鲁瓦球场迎战拜仁慕尼黑。",
-      "number": 17
-    },
-    {
-      "title": "技战术解析：凯恩、奥利塞同时缺席，拜仁进攻体系如何重组？",
-      "url": "https://www.163.com/dy/article/LCJHV3D50549BAP0.html",
-      "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-25T08:36:26.000Z",
-      "category": "体育",
-      "topic": "德甲",
-      "sourceId": "sports",
-      "summary": "一支球队同时失去头号中锋和最重要的进攻创造者，究竟会发生什么？",
       "number": 18
     },
     {
@@ -1571,6 +1628,54 @@
       "number": 24
     },
     {
+      "category": "金融",
+      "topic": "美股",
+      "title": "谷歌盘前跌超10% 美股芯片股下挫 超威半导体、闪迪跌超5%",
+      "summary": "11月25日，美股盘前三大股指期货集体下跌，截至北京时间17：01，道指期货跌0.42%，纳指期货跌1.98%，标普5…",
+      "url": "https://finance.eastmoney.com/a/202611253939611956.html",
+      "publishedAt": "2026-11-25T09:41:00.000Z",
+      "source": "东方财富 · 21世纪经济报道",
+      "kind": "报道",
+      "sourceId": "eastmoney-us-stock",
+      "number": 25
+    },
+    {
+      "title": "德银策略师：标普500到2027年底有25%上行空间",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizxxyc1766149.shtml",
+      "summary": "德意志银行称，稳健的盈利增长以及股票需求将推动标普500在2027年底升至约9000点，较上一收盘点位有25%的上涨空…",
+      "source": "环球市场播报 · 新浪财经",
+      "publishedAt": "2026-11-25T09:18:08.000Z",
+      "category": "金融",
+      "topic": "美股",
+      "sourceId": "us-stock",
+      "kind": "报道",
+      "number": 26
+    },
+    {
+      "category": "金融",
+      "topic": "美股",
+      "title": "哔哩哔哩美股盘前逆势上涨超4%",
+      "summary": "11月25日，哔哩哔哩美股盘前逆势上涨超4%，三季度营收利润双增。",
+      "url": "https://finance.eastmoney.com/a/202611253939589144.html",
+      "publishedAt": "2026-11-25T09:11:00.000Z",
+      "source": "东方财富 · 每日经济新闻",
+      "kind": "报道",
+      "sourceId": "eastmoney-us-stock",
+      "number": 27
+    },
+    {
+      "category": "金融",
+      "topic": "美股",
+      "title": "哔哩哔哩美股盘前逆势上涨超4%，三季度营收利润双增",
+      "summary": "哔哩哔哩美股盘前逆势上涨超4%，三季度营收利润双增，摩根士丹利发布研报称，维持哔哩哔哩-W美股“增持”评级及21美元目…",
+      "url": "https://finance.eastmoney.com/a/202611253939592792.html",
+      "publishedAt": "2026-11-25T09:08:00.000Z",
+      "source": "东方财富 · 财联社",
+      "kind": "报道",
+      "sourceId": "eastmoney-us-stock",
+      "number": 28
+    },
+    {
       "title": "AI与美联储相关担忧加重空头情绪，金属跌势进一步扩大",
       "url": "https://finance.sina.com.cn/world/2026-11-25/doc-inizxxye8529049.shtml",
       "summary": "科技股持续下挫，交易员静待影响美联储利率决议的美国通胀数据，铜、铝、锡延续周二金属市场的猛烈抛售。 伦敦金属交易所早盘…",
@@ -1580,7 +1685,7 @@
       "topic": "美股",
       "sourceId": "us-stock",
       "kind": "报道",
-      "number": 25
+      "number": 29
     },
     {
       "title": "机构：明年可能下调美股和科技股评级",
@@ -1592,98 +1697,50 @@
       "topic": "美股",
       "sourceId": "us-stock",
       "kind": "报道",
-      "number": 26
-    },
-    {
-      "title": "Meta与亚马逊磋商解除对Muse购物AI代理的封锁，广告、搜索成为核心分歧",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizxtsm4314446.shtml",
-      "summary": "亚马逊与Meta Platforms正在持续洽谈一项合作方案，计划让Meta热门AI智能体Muse接入这家电商巨头的线…",
-      "source": "环球市场播报 · 新浪财经",
-      "publishedAt": "2026-11-25T08:17:59.000Z",
-      "category": "金融",
-      "topic": "美股",
-      "sourceId": "us-stock",
-      "kind": "报道",
-      "number": 27
-    },
-    {
-      "title": "英伟达AI芯片供不应求 B300、GB300新品订单交期大幅拉长",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizxtsc9524116.shtml",
-      "summary": "据报道，英伟达AI芯片需求持续供不应求，供应链承压加剧。 据报道援引厂商消息：B300、GB300新品订单交期大幅拉长…",
-      "source": "环球市场播报 · 新浪财经",
-      "publishedAt": "2026-11-25T08:05:05.000Z",
-      "category": "金融",
-      "topic": "美股",
-      "sourceId": "us-stock",
-      "kind": "报道",
-      "number": 28
-    },
-    {
-      "category": "金融",
-      "topic": "美股",
-      "title": "英伟达暴涨后回落，重仓的64只QDII基金业绩底色如何？",
-      "summary": "黄仁勋重返英伟达CEO职位引发的市场狂欢仅持续一个交易日。",
-      "url": "https://finance.eastmoney.com/a/202611253939364454.html",
-      "publishedAt": "2026-11-25T02:11:00.000Z",
-      "source": "东方财富 · 澎湃新闻",
-      "kind": "报道",
-      "sourceId": "eastmoney-us-stock",
-      "number": 29
-    },
-    {
-      "category": "金融",
-      "topic": "美股",
-      "title": "英伟达依然没有接班人",
-      "summary": "回归英伟达后，CEO黄仁勋坐实了英伟达没有接班人。",
-      "url": "https://finance.eastmoney.com/a/202611253939355754.html",
-      "publishedAt": "2026-11-25T02:05:00.000Z",
-      "source": "东方财富 · 第一财经",
-      "kind": "报道",
-      "sourceId": "eastmoney-us-stock",
       "number": 30
     },
     {
-      "title": "Canaccord首次覆盖Anthropic给出买入评级 目标价135美元",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizxxyc1761980.shtml",
-      "summary": "加拿大投行Canaccord Genuity于周二首次覆盖Anthropic，给出买入评级，目标价135美元，称这家刚…",
-      "source": "环球市场播报 · 新浪财经",
-      "publishedAt": "2026-11-25T09:13:17.000Z",
       "category": "金融",
       "topic": "A股",
-      "sourceId": "cn-stock",
-      "kind": "报道",
-      "number": 31
-    },
-    {
-      "title": "人工智能股票的巨大隐忧：芯片产能过剩",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizxxyi4226548.shtml",
-      "summary": "要说当下谁最需要心理疏导，那或许就得是科技行业的投资者们了。说实话，近期股市的表现有点喜怒无常。举个例子，周二，因黄仁…",
-      "source": "环球市场播报 · 新浪财经",
-      "publishedAt": "2026-11-25T09:12:02.000Z",
-      "category": "金融",
-      "topic": "A股",
-      "sourceId": "cn-stock",
-      "kind": "报道",
-      "number": 32
-    },
-    {
-      "category": "金融",
-      "topic": "A股",
-      "title": "华凯易佰：拟5000万元-1亿元回购公司股份",
-      "summary": "华凯易佰11月25日公告，拟以集中竞价交易方式回购公司股份，回购总金额不低于5000万元且不超过1亿元。回购价格不超过…",
-      "url": "https://finance.eastmoney.com/a/202611253939583322.html",
-      "publishedAt": "2026-11-25T09:07:00.000Z",
+      "title": "黄仁勋回归48小时：股价冲高回落，董事会遭质疑",
+      "summary": "黄仁勋重返英伟达，股价带来的惊喜只持续了一个交易日。",
+      "url": "https://finance.eastmoney.com/a/202611253939613343.html",
+      "publishedAt": "2026-11-25T09:39:00.000Z",
       "source": "东方财富 · 界面新闻",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
+      "number": 31
+    },
+    {
+      "category": "金融",
+      "topic": "A股",
+      "title": "年涨幅升至A股第二！小家电股2个月涨停13次，20余股年内涨翻倍，这些则股价腰斩",
+      "summary": "财联社11月25日讯，今日（11月25日），市场人气股九阳股份再度涨停，收盘录得3连板，股价刷新2020年10月以来新…",
+      "url": "https://finance.eastmoney.com/a/202611253939610778.html",
+      "publishedAt": "2026-11-25T09:34:00.000Z",
+      "source": "东方财富 · 财联社",
+      "kind": "报道",
+      "sourceId": "eastmoney-cn-stock",
+      "number": 32
+    },
+    {
+      "title": "历时不足四个月！通化金马终止收购八加一控股权意向，标的身背多项失信记录",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-25/doc-inizxxxz9461678.shtml",
+      "summary": "每经记者|黄博文每经编辑|张益铭 11月25日盘后，通化金马（000766.SZ，股价9.49元，市值92亿元）公告称…",
+      "source": "每日经济新闻 · 新浪财经",
+      "publishedAt": "2026-11-25T09:31:42.000Z",
+      "category": "金融",
+      "topic": "A股",
+      "sourceId": "cn-stock",
+      "kind": "报道",
       "number": 33
     },
     {
-      "title": "先锋精科拓展先进制程功能器件 金属加热器规划产能增加147.47%",
-      "url": "https://finance.sina.com.cn/stock/observe/2026-11-25/doc-inizxxyc1756182.shtml",
-      "summary": "出品：新浪财经上市公司研究院 作者：杳 2026年第三季度，先锋精科实现营业收入5.00亿元，同比增长59.13%，综…",
-      "source": "新浪证券 · 新浪财经",
-      "publishedAt": "2026-11-25T09:06:08.000Z",
+      "title": "知名服装品牌实控人，近9亿元押注长鑫科技",
+      "url": "https://finance.sina.com.cn/stock/s/2026-11-25/doc-inizxxye8555446.shtml",
+      "summary": "红星资本局11月25日消息，长鑫科技24日晚披露《关于回购股份事项前十名股东和前十名无限售条件股东持股情况公告》。其中…",
+      "source": "新浪财经",
+      "publishedAt": "2026-11-25T09:30:03.000Z",
       "category": "金融",
       "topic": "A股",
       "sourceId": "cn-stock",
@@ -1691,28 +1748,40 @@
       "number": 34
     },
     {
+      "title": "两家A股公司明日将被“ST”，皆因财务造假！其中一家四个月前刚刚摘掉“*ST”",
+      "url": "https://finance.sina.com.cn/stock/s/2026-11-25/doc-inizxxye8555285.shtml",
+      "summary": "红星资本局11月25日消息，神雾节能（000820.SZ）公告称，公司及相关当事人于2026年11月24日收到证监会江…",
+      "source": "新浪财经",
+      "publishedAt": "2026-11-25T09:30:03.000Z",
       "category": "金融",
       "topic": "A股",
-      "title": "Anthropic股价盘前下跌3%",
-      "summary": "Anthropic股价盘前下跌3%，前一交易日下跌6.5%。",
-      "url": "https://finance.eastmoney.com/a/202611253939584774.html",
-      "publishedAt": "2026-11-25T09:04:00.000Z",
-      "source": "东方财富 · 东方财富Choice数据",
+      "sourceId": "cn-stock",
       "kind": "报道",
-      "sourceId": "eastmoney-cn-stock",
       "number": 35
     },
     {
+      "title": "三大股指同步刷阶段性新低！A股为何跌跌不休？",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-25/doc-inizxxye8551767.shtml",
+      "summary": "来源：金融投资报 短期反弹后A股弱势依旧，三大股指低开低走，日内反弹均未能翻红，最终集体刷新本轮调整的阶段性新低。 上…",
+      "source": "市场资讯 · 新浪财经",
+      "publishedAt": "2026-11-25T09:24:07.000Z",
       "category": "金融",
       "topic": "A股",
-      "title": "基蛋生物：回购股份比例达1.07% 累计耗资约4387.89万元",
-      "summary": "中证智能财讯基蛋生物（603387）11月25日晚间公告，截至11月24日，公司通过集中竞价交易方式已累计回购公司股份…",
-      "url": "https://finance.eastmoney.com/a/202611253939581297.html",
-      "publishedAt": "2026-11-25T09:02:00.000Z",
-      "source": "东方财富 · 中国证券报·中证网",
+      "sourceId": "cn-stock",
       "kind": "报道",
-      "sourceId": "eastmoney-cn-stock",
       "number": 36
+    },
+    {
+      "category": "金融",
+      "topic": "中国期货",
+      "title": "广期所：氢氧化锂期货将于2026年11月26日（星期四）上市交易",
+      "summary": "广期所公告，氢氧化锂期货将于2026年11月26日（星期四）在我所上市交易，各合约的挂牌基准价为：LI2706合约75…",
+      "url": "https://finance.eastmoney.com/a/202611253939589914.html",
+      "publishedAt": "2026-11-25T09:14:00.000Z",
+      "source": "东方财富 · 财联社",
+      "kind": "报道",
+      "sourceId": "eastmoney-futures",
+      "number": 37
     },
     {
       "category": "金融",
@@ -1724,7 +1793,7 @@
       "source": "东方财富 · 东方财富研究中心",
       "kind": "报道",
       "sourceId": "eastmoney-futures",
-      "number": 37
+      "number": 38
     },
     {
       "category": "金融",
@@ -1736,7 +1805,7 @@
       "source": "东方财富 · 期货日报",
       "kind": "报道",
       "sourceId": "eastmoney-futures",
-      "number": 38
+      "number": 39
     },
     {
       "title": "收评|国内期货主力合约涨跌不一，沪锡跌超9%",
@@ -1748,7 +1817,7 @@
       "topic": "中国期货",
       "sourceId": "futures-2",
       "kind": "报道",
-      "number": 39
+      "number": 40
     },
     {
       "category": "金融",
@@ -1760,7 +1829,7 @@
       "source": "东方财富 · 证券时报",
       "kind": "报道",
       "sourceId": "eastmoney-futures",
-      "number": 40
+      "number": 41
     },
     {
       "category": "金融",
@@ -1770,18 +1839,6 @@
       "url": "https://finance.eastmoney.com/a/202611253939393043.html",
       "publishedAt": "2026-11-25T03:28:00.000Z",
       "source": "东方财富 · 期货日报",
-      "kind": "报道",
-      "sourceId": "eastmoney-futures",
-      "number": 41
-    },
-    {
-      "category": "金融",
-      "topic": "中国期货",
-      "title": "热点 | 金属期货大面积飘绿 碳酸锂主力合约重挫逼近83000关口",
-      "summary": "11月25日，有色及贵金属板块大面积飘绿，碳酸锂主力合约跌幅居前，最大跌幅触及7.63%，报83020元/吨。截至发稿…",
-      "url": "https://finance.eastmoney.com/a/202611253939376059.html",
-      "publishedAt": "2026-11-25T02:30:00.000Z",
-      "source": "东方财富 · 东方财富研究中心",
       "kind": "报道",
       "sourceId": "eastmoney-futures",
       "number": 42
