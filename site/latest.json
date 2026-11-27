@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-11-27T09:40:20.334Z",
+  "collectedAt": "2026-11-27T13:58:02.491Z",
   "topics": {
     "时事": [
       "百度热搜"
@@ -38,7 +38,7 @@
       "name": "百度热搜 · 时事",
       "url": "https://top.baidu.com/board?tab=realtime",
       "status": "error",
-      "lastAttempt": "2026-11-27T09:40:20.334Z",
+      "lastAttempt": "2026-11-27T13:58:02.491Z",
       "lastSuccess": "2026-11-26T00:22:36.390Z",
       "items": [
         {
@@ -120,173 +120,195 @@
       "name": "网易体育（署名媒体）",
       "url": "https://sports.163.com/",
       "status": "ok",
-      "lastAttempt": "2026-11-27T09:40:20.334Z",
-      "lastSuccess": "2026-11-27T09:40:20.334Z",
+      "lastAttempt": "2026-11-27T13:58:02.491Z",
+      "lastSuccess": "2026-11-27T13:58:02.491Z",
       "items": [
         {
-          "title": "记者：珀尔特尔和莫里茨-瓦格纳为尼克斯潜在交易目标",
-          "url": "https://www.163.com/dy/article/LCOH7EEE0549BAP0.html",
-          "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-27T06:59:43.000Z",
+          "title": "一拍即合！詹姆斯谈巴洛：他运动能力极强 懂得如何打球",
+          "url": "https://www.163.com/dy/article/LCP3G6K00514R9KQ.html",
+          "source": "北青网-北京青年报 · 网易体育",
+          "publishedAt": "2026-11-27T12:19:05.000Z",
           "category": "体育",
           "topic": "NBA",
           "sourceId": "sports",
-          "summary": "围绕联盟的交易讨论持续升温，纽约尼克斯虽然没有公开追逐某个名字，但并未完全置身事外。SNY记者伊恩-贝格利在参加SNY…",
+          "summary": "北京时间11月27日，昨日NBA杯小组赛，76人111-104战胜热火。",
           "number": 1
         },
         {
-          "title": "凯尔特人2-1托里什人联合，卡米洛-杜兰建功",
-          "url": "https://www.163.com/dy/article/LCNJ6TAL0549BAP0.html",
-          "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-26T22:15:09.000Z",
+          "title": "杨瀚森：我确实感受到了压力 我是NBA里唯一的中国球员",
+          "url": "https://www.163.com/dy/article/LCP3G80Q0514R9KQ.html",
+          "source": "北青网-北京青年报 · 网易体育",
+          "publishedAt": "2026-11-27T12:19:06.000Z",
           "category": "体育",
           "topic": "NBA",
           "sourceId": "sports",
-          "summary": "北京时间11月27日欧足联欧洲联赛 联赛阶段 第5轮，托里什人联合对阵凯尔特人。托里什人联合达尼-让破门，哈维-巴斯克…",
+          "summary": "北京时间11月27日，开拓者中锋、中国球员杨瀚森接受了TA记者Mirin Fader的专访。",
           "number": 2
         },
         {
-          "title": "詹姆斯：斯波是我共事过最好的教练 他第一轮投票就能进名人堂",
-          "url": "https://www.163.com/dy/article/LCMGDFEJ0514R9KQ.html",
+          "title": "76人得感谢尼克斯？感恩节，这些球队都该感谢谁？",
+          "url": "https://www.163.com/dy/article/LCP3GAEM0514R9KQ.html",
           "source": "北青网-北京青年报 · 网易体育",
-          "publishedAt": "2026-11-26T12:07:04.000Z",
+          "publishedAt": "2026-11-27T12:19:09.000Z",
           "category": "体育",
           "topic": "NBA",
           "sourceId": "sports",
-          "summary": "北京时间11月26日，NBA杯小组赛，76人111-104战胜热火。",
+          "summary": "在整个2026-27赛季期间，NBA官网的编辑们将就联盟中的重大事件和趋势分享他们的观点。今天的问题是：这些球队有什么…",
           "number": 3
         },
         {
-          "title": "博格巴：曼联应给波切蒂诺足够时间，就像此前阿森纳支持塔帅",
-          "url": "https://www.163.com/dy/article/LCOPMQ500549BAP0.html",
+          "title": "TEAMtalk：B费团队正评估下家，有意离开曼联",
+          "url": "https://www.163.com/dy/article/LCP887K60549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-27T09:27:56.000Z",
+          "publishedAt": "2026-11-27T13:42:06.000Z",
           "category": "体育",
           "topic": "英超",
           "sourceId": "sports",
-          "summary": "前曼联中场保罗-博格巴呼吁老特拉福德的所有人给予波切蒂诺和球员们足够的时间，就像当年阿森纳给予阿尔特塔的支持一样。",
+          "summary": "据TEAMtalk报道，布鲁诺-费尔南德斯的团队正在积极考察进入2027年的潜在选择，而英力士正在采取一步巧妙的举措来…",
           "number": 4
         },
         {
-          "title": "利物浦、巴萨等队有意门兴17岁小将穆赫亚，今夏或引发竞购",
-          "url": "https://www.163.com/dy/article/LCOPMQ3I0549BAP0.html",
+          "title": "回声报：利物浦一周内双线大胜，维尔茨和伊萨克渐入佳境",
+          "url": "https://www.163.com/dy/article/LCP71OR10549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-27T09:27:56.000Z",
+          "publishedAt": "2026-11-27T13:21:06.000Z",
           "category": "体育",
           "topic": "英超",
           "sourceId": "sports",
-          "summary": "据talkSPORT报道，天才少年瓦伊勒-穆赫亚预计将在今夏成为转会市场上的抢手货。",
+          "summary": "据《利物浦回声报》报道，无论是国内赛场还是欧战舞台，利物浦都度过了精彩的一周。",
           "number": 5
         },
         {
-          "title": "利物浦3-0胜布鲁日，可成应对英超人盯人防守模板",
-          "url": "https://www.163.com/dy/article/LCOP3CLA0549BAP0.html",
+          "title": "TA：多纳鲁马似乎不在曼城计划内，其特点不符合球队战术风格",
+          "url": "https://www.163.com/dy/article/LCP5PEOE0549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-27T09:17:19.000Z",
+          "publishedAt": "2026-11-27T12:59:05.000Z",
           "category": "体育",
           "topic": "英超",
           "sourceId": "sports",
-          "summary": "据《利物浦回声报》战术分析，利物浦客场3-0战胜布鲁日的比赛，可以成为应对棘手、擅长人盯人防守的英超球队的模板。",
+          "summary": "据《The Athletic》报道，恩里克看来又一次是对的。然而，当初巴黎圣日耳曼决定不与多纳鲁马续约，曾有不少人对这…",
           "number": 6
         },
         {
-          "title": "库巴西欧冠传球成功率达95.5%，为巴萨队内最高",
-          "url": "https://www.163.com/dy/article/LCOPMQFK0549BAP0.html",
+          "title": "阿里瓦斯：2017年拉科2-1胜巴萨，靠出色防守与定位球",
+          "url": "https://www.163.com/dy/article/LCP71OUO0549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-27T09:27:56.000Z",
+          "publishedAt": "2026-11-27T13:21:06.000Z",
           "category": "体育",
           "topic": "西甲",
           "sourceId": "sports",
-          "summary": "据《每日体育报》报道，库巴西是当今足坛最出色的中后卫之一。这位19岁的巴塞罗那后卫已在红蓝军团站稳脚跟，如今已是一名世…",
+          "summary": "据《每日体育报》报道，2017年，拉科鲁尼亚在西甲联赛中取得了对阵巴塞罗那的最后一场胜利。这也是他们20年来在里亚索球…",
           "number": 7
         },
         {
-          "title": "尼尔-鲁伊斯：随巴萨训练时，德佩射门差点砸晕工作人员",
-          "url": "https://www.163.com/dy/article/LCOP3C250549BAP0.html",
+          "title": "巴萨官方：罗德里今日恢复部分合练",
+          "url": "https://www.163.com/dy/article/LCP6DL2A0549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-27T09:17:19.000Z",
+          "publishedAt": "2026-11-27T13:10:07.000Z",
           "category": "体育",
           "topic": "西甲",
           "sourceId": "sports",
-          "summary": "据《每日体育报》报道，成为巴萨青训球员绝非易事。这是一种特权，也是许多球员的梦想。但这里的竞争异常激烈，拉玛西亚青训营…",
+          "summary": "巴萨官方发布训练动态，球队在欧冠客场大胜沙巴巴库后恢复训练，开始备战西甲下一轮对阵拉科鲁尼亚的比赛。罗德里已经回归球队…",
           "number": 8
         },
         {
-          "title": "阿斯：阿尔瓦雷斯与马竞球迷和解缓慢，被换下时掌声嘘声并存",
-          "url": "https://www.163.com/dy/article/LCOP3C320549BAP0.html",
+          "title": "每体：马竞小将门多萨本周六重返埃尔切，仍等待首次首发",
+          "url": "https://www.163.com/dy/article/LCP4J2JK0549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-27T09:17:19.000Z",
+          "publishedAt": "2026-11-27T12:38:07.000Z",
           "category": "体育",
           "topic": "西甲",
           "sourceId": "sports",
-          "summary": "据《阿斯报》报道，胡利安-阿尔瓦雷斯在马德里竞技对阵维京的比赛中庆祝了进球，同时也听到了嘘声与掌声。凭借对阵拉科鲁尼亚…",
+          "summary": "据《每日体育报》报道，几个月前埃尔切在夏季转会市场上赚得盆满钵满，这让2026年冬窗显得有些遥远。当时，在埃德-萨拉维…",
           "number": 9
         },
         {
-          "title": "弗罗因德：拜仁从未讨论对基米希罚款，专注于接下来的比赛",
-          "url": "https://www.163.com/dy/article/LCOPMPVQ0549BAP0.html",
+          "title": "拜仁动荡对我们有利？科瓦奇：问题太荒谬，我们只专注于自己",
+          "url": "https://www.163.com/dy/article/LCP71OQA0549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-27T09:27:55.000Z",
+          "publishedAt": "2026-11-27T13:21:06.000Z",
           "category": "体育",
           "topic": "德甲",
           "sourceId": "sports",
-          "summary": "据Sport1报道，针对基米希的炮轰，首位拜仁高层现已作出回应。",
+          "summary": "据Sport1报道，科瓦奇对一名记者关于拜仁慕尼黑内部问题的提问作出了强烈回应。",
           "number": 10
         },
         {
-          "title": "马特乌斯：拜仁的精神被践踏了，基米希证明自己是真正的队长",
-          "url": "https://www.163.com/dy/article/LCONRFR50549BAP0.html",
+          "title": "土耳其欧战四战全胜紧逼德国，德甲争夺额外欧冠席位承压",
+          "url": "https://www.163.com/dy/article/LCP71OOB0549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-27T08:55:32.000Z",
+          "publishedAt": "2026-11-27T13:21:06.000Z",
           "category": "体育",
           "topic": "德甲",
           "sourceId": "sports",
-          "summary": "据Sport1报道，名宿马特乌斯再次批评了拜仁慕尼黑高层，并称赞了基米希。",
+          "summary": "据Sport1报道，赫内斯对客场负于加拉塔萨雷感到懊恼。",
           "number": 11
         },
         {
-          "title": "图片报：拜仁关注舍尔汉特，球员身价持续上涨且合同含解约条款",
-          "url": "https://www.163.com/dy/article/LCOK7APR0549BAP0.html",
+          "title": "被问怎么看拜仁近况，科瓦奇：我又不傻，别把话硬往我嘴里塞",
+          "url": "https://www.163.com/dy/article/LCP4J2JJ0549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-27T07:52:05.000Z",
+          "publishedAt": "2026-11-27T12:38:07.000Z",
           "category": "体育",
           "topic": "德甲",
           "sourceId": "sports",
-          "summary": "据《图片报》报道，拜仁慕尼黑已经在为当前的伤病危机做打算。在左边锋的引援名单上，还有一位最近表现令人信服的国家队球员—…",
+          "summary": "德甲第11轮，多特蒙德将在西格纳伊杜纳公园球场迎战勒沃库森。赛前发布会上，多特主帅科瓦奇透露吉拉西已参加合练，谈到勒沃…",
           "number": 12
         },
         {
-          "title": "意媒：国米欧战专注度更高，意甲其它队却屡因过度自信出现起伏",
-          "url": "https://www.163.com/dy/article/LCOP3C0S0549BAP0.html",
+          "title": "布罗基：齐沃肯定已改进国米失误，意甲争冠不会有风险",
+          "url": "https://www.163.com/dy/article/LCP5PEPJ0549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-27T09:17:19.000Z",
+          "publishedAt": "2026-11-27T12:59:05.000Z",
           "category": "体育",
           "topic": "意甲",
           "sourceId": "sports",
-          "summary": "据FCinter1908报道，在本赛季的这一阶段，人们看到了一个有着两副面孔的国际米兰。在欧战赛场上，除了对阵布鲁日的…",
+          "summary": "这位前中场球员分析了国际米兰与热那亚的对决：“齐沃肯定已经针对在贝加莫暴露出的错误进行了改进”",
           "number": 13
         },
         {
-          "title": "劳塔罗国米生涯已进182球，距队史意甲第二射手只差3球",
-          "url": "https://www.163.com/dy/article/LCONRFOU0549BAP0.html",
+          "title": "加利亚尼：参选因8到9家意甲球队态度转变，含尤文国米米兰",
+          "url": "https://www.163.com/dy/article/LCOTVGR60549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-27T08:55:32.000Z",
+          "publishedAt": "2026-11-27T10:42:35.000Z",
           "category": "体育",
           "topic": "意甲",
           "sourceId": "sports",
-          "summary": "这位阿根廷前锋在对阵亚特兰大的比赛中复出，并在伤愈后的第二次替补登场中就打入一球，帮助球队2-0击败斯图加特。",
+          "summary": "据米兰新闻网报道，围绕加利亚尼竞选意大利足协主席一事，乔瓦尼-马拉戈率先公开发声。马拉戈表示，原本看到技术部门态度出现…",
           "number": 14
         },
         {
-          "title": "那不勒斯有意巴黎FC小将扎比，为安古伊萨离队做准备",
-          "url": "https://www.163.com/dy/article/LCOLFL3T0549BAP0.html",
+          "title": "米体：国米意甲12轮丢17球，欧冠却连续3场零封取胜",
+          "url": "https://www.163.com/dy/article/LCOTVGLF0549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-27T08:14:07.000Z",
+          "publishedAt": "2026-11-27T10:42:35.000Z",
           "category": "体育",
           "topic": "意甲",
           "sourceId": "sports",
-          "summary": "据《罗马体育报》报道，那不勒斯正在寻找一名中场球员，同时也为安古伊萨的离队做准备：他们看中了这名科特迪瓦球员。",
+          "summary": "据《米兰体育报》报道，主帅正着手整顿球队，球队在数据与场上局面中暴露出不少问题。",
           "number": 15
+        },
+        {
+          "title": "赛事科普：巴黎FC2025年重返法甲，留住班底再补经验",
+          "url": "https://www.163.com/dy/article/LCOS6IAU0549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-11-27T10:11:29.000Z",
+          "category": "体育",
+          "topic": "法甲",
+          "sourceId": "sports",
+          "summary": "北京时间11月28日3点45分，法甲第12轮，布雷斯特主场迎战巴黎FC。",
+          "number": 16
+        },
+        {
+          "title": "每体：皇马旧将加雷退役后进军商界，投资房产与板式网球",
+          "url": "https://www.163.com/dy/article/LCORH5OM0549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-11-27T09:59:48.000Z",
+          "category": "体育",
+          "topic": "网球",
+          "sourceId": "sports",
+          "summary": "据《每日体育报》报道，加雷在挂靴后找到了继续创造收入的办法。这位曾效力于皇家马德里、瓦伦西亚和桑坦德竞技的前后卫，决定…",
+          "number": 17
         },
         {
           "title": "接受膝盖手术，意大利名将辛纳退出2027年澳网公开赛",
@@ -297,7 +319,7 @@
           "topic": "网球",
           "sourceId": "sports",
           "summary": "11月26日，澳大利亚网球公开赛方面确认，男单世界排名第二的意大利名将辛纳将缺席2027年澳网公开赛。",
-          "number": 16
+          "number": 18
         },
         {
           "title": "乌克兰网协再爆料WTA年终总决赛颁奖典礼幕后细节",
@@ -308,18 +330,7 @@
           "topic": "网球",
           "sourceId": "sports",
           "summary": "2026 WTA年终总决赛的颁奖礼风波，在持续多日的舆论拉扯后，随着《电讯报》独家内情与乌克兰网协最新发声，终于彻底还…",
-          "number": 17
-        },
-        {
-          "title": "罗迪克：阿尔卡拉斯学会费德勒的“魔法接发”，兹维列夫被拿捏",
-          "url": "https://www.163.com/dy/article/LCO1MRKQ05298CTE.html",
-          "source": "网球之家 · 网易体育",
-          "publishedAt": "2026-11-27T02:28:36.000Z",
-          "category": "体育",
-          "topic": "网球",
-          "sourceId": "sports",
-          "summary": "在2026年ATP年终总决赛上，阿尔卡拉斯运用一项由费德勒打磨至炉火纯青的战术，在兹维列夫的10个发球局里4次完成破发…",
-          "number": 18
+          "number": 19
         }
       ]
     },
@@ -328,8 +339,8 @@
       "name": "东方财富 · 美股",
       "url": "https://stock.eastmoney.com/america.html",
       "status": "ok",
-      "lastAttempt": "2026-11-27T09:40:20.334Z",
-      "lastSuccess": "2026-11-27T09:40:20.334Z",
+      "lastAttempt": "2026-11-27T13:58:02.491Z",
+      "lastSuccess": "2026-11-27T13:58:02.491Z",
       "items": [
         {
           "category": "金融",
@@ -340,6 +351,39 @@
           "publishedAt": "2026-11-27T02:59:00.000Z",
           "source": "东方财富 · 财联社",
           "kind": "报道",
+          "sourceId": "eastmoney-us-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "美股",
+          "title": "美股盘前：三大股指期货齐涨 纳指期货涨超2% 美股提前三小时收市",
+          "summary": "周五盘前，三大股指期货齐涨，欧洲主要指数普遍上涨。截至发稿，纳斯达克100指数期货涨2.29%，道指期货涨1.29%，…",
+          "url": "https://finance.eastmoney.com/a/202611273941951122.html",
+          "publishedAt": "2026-11-27T12:43:00.000Z",
+          "source": "东方财富 · 哈富证券",
+          "kind": "报道",
+          "sourceId": "eastmoney-us-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "美股",
+          "title": "晚报丨国常会关于资本市场部署释放五大鲜明信号，科技股集体大涨；金银油集体上涨；美股今日将提前休市；日央行12月加息预期升温；美团Q3营收、利润超预期",
+          "summary": "港股市场：11月27日，午后国常会释放“稳市”重磅政策，点燃市场情绪，恒生科技指数大幅上涨6.45%收复3600点关口…",
+          "url": "https://finance.eastmoney.com/a/202611273941802382.html",
+          "publishedAt": "2026-11-27T10:32:00.000Z",
+          "source": "东方财富 · 哈富证券",
+          "kind": "报道",
+          "sourceId": "eastmoney-us-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "美股",
+          "title": "期权智投播报 | 美光盘前涨超6% DRAM价格预期下调仍获看好；英伟达涨近4% 隐含波动率冲高",
+          "summary": "纳指100ETF-Invesco QQQ Trust盘前涨2.39%，标普500ETF-SPDR盘前涨1.78%。近期…",
+          "url": "https://finance.eastmoney.com/a/202611273941801557.html",
+          "publishedAt": "2026-11-27T10:18:00.000Z",
+          "source": "东方财富 · 哈富证券",
+          "kind": "观点",
           "sourceId": "eastmoney-us-stock"
         },
         {
@@ -367,11 +411,33 @@
         {
           "category": "金融",
           "topic": "美股",
-          "title": "标普上调京东评级至“A”",
-          "summary": "新华财经北京11月27日电（王菁）标普全球评级27日发布报告称，将京东长期主体信用评级及其优先无抵押债券的长期债项评级…",
-          "url": "https://finance.eastmoney.com/a/202611273941714573.html",
-          "publishedAt": "2026-11-27T08:33:00.000Z",
-          "source": "东方财富 · 新华财经",
+          "title": "阿根廷YPF美股盘前涨超10%，现报34.66美元",
+          "summary": "11月27日，阿根廷YPF美股盘前涨超10%，现报34.66美元。",
+          "url": "https://finance.eastmoney.com/a/202611273941981783.html",
+          "publishedAt": "2026-11-27T13:40:00.000Z",
+          "source": "东方财富 · 每日经济新闻",
+          "kind": "报道",
+          "sourceId": "eastmoney-us-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "美股",
+          "title": "美股盘前要闻一览：美股三大股指期货集体上涨，国际金银现货走高",
+          "summary": "1、美股三大股指期货集体上涨，道琼斯指数期货涨1.40%，标普500指数期货涨1.67%，纳斯达克100指数期货涨2.…",
+          "url": "https://finance.eastmoney.com/a/202611273941966965.html",
+          "publishedAt": "2026-11-27T13:29:00.000Z",
+          "source": "东方财富 · 财联社",
+          "kind": "报道",
+          "sourceId": "eastmoney-us-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "美股",
+          "title": "反弹的风吹到美股科技板块 巴西ETF盘前涨超14% | 今夜看点",
+          "summary": "财联社11月27日讯 北京时间周五晚间，伴随着亚盘时段中证半导体指数创出历史最大单日涨幅，美股市场有望在今夜迎来反弹，…",
+          "url": "https://finance.eastmoney.com/a/202611273941954881.html",
+          "publishedAt": "2026-11-27T13:28:00.000Z",
+          "source": "东方财富 · 财联社",
           "kind": "报道",
           "sourceId": "eastmoney-us-stock"
         }
@@ -382,9 +448,97 @@
       "name": "东方财富 · A股",
       "url": "https://stock.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-11-27T09:40:20.334Z",
-      "lastSuccess": "2026-11-27T09:40:20.334Z",
+      "lastAttempt": "2026-11-27T13:58:02.491Z",
+      "lastSuccess": "2026-11-27T13:58:02.491Z",
       "items": [
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "证监会：落实落细各项存量政策 会同有关方面抓紧研究出台相关增量政策",
+          "summary": "11月27日，中国证监会党委书记、主席吴清主持召开党委（扩大）会议，传达学习上午国务院常务会议精神，研究部署贯彻落实举…",
+          "url": "https://finance.eastmoney.com/a/202611273941825991.html",
+          "publishedAt": "2026-11-27T11:09:00.000Z",
+          "source": "东方财富 · 证监会网站",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "11月27日晚间上市公司利好消息一览(附名单)",
+          "summary": "沪深两市多家上市公司11月27日晚间发布重要公告，以下为利好的消息汇总：",
+          "url": "https://finance.eastmoney.com/a/202611273941923444.html",
+          "publishedAt": "2026-11-27T12:44:00.000Z",
+          "source": "东方财富 · 东方财富研究中心",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "A股多个重要指数迎重大调整（附调入股票名单）",
+          "summary": "11月27日，上海证券交易所与中证指数有限公司决定调整上证50、上证180、上证380及科创50等指数样本，调整结果将…",
+          "url": "https://finance.eastmoney.com/a/202611273941806172.html",
+          "publishedAt": "2026-11-27T10:43:00.000Z",
+          "source": "东方财富 · 21世纪经济报道",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "20CM狂潮！半导体设备订单需求旺盛",
+          "summary": "半导体设备周五(11月27日)领涨两市，指数收盘大涨15%。个股方面，长川科技、富创精密、华海诚科、盛美上海等近20只…",
+          "url": "https://finance.eastmoney.com/a/202611273941802832.html",
+          "publishedAt": "2026-11-27T10:31:00.000Z",
+          "source": "东方财富 · 东方财富研究中心",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "摩根大通看多A股：沪深300指数明年有望站上4800点",
+          "summary": "11月27日，记者获悉，摩根大通最新发布中国A股股票策略2027年展望，主题为“创新型和收入型标的构成的杠铃”。",
+          "url": "https://finance.eastmoney.com/a/202611273941875982.html",
+          "publishedAt": "2026-11-27T11:55:00.000Z",
+          "source": "东方财富 · 21世纪经济报道",
+          "kind": "观点",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "中国证监会严肃查处两起编造传播证券市场误导性信息案件",
+          "summary": "近日，中国证监会对安某、乔某涉嫌编造传播证券市场误导性信息依法做出行政处罚。经查，安某、乔某在网络平台分别发布涉及上市…",
+          "url": "https://finance.eastmoney.com/a/202611273941803283.html",
+          "publishedAt": "2026-11-27T10:39:00.000Z",
+          "source": "东方财富 · 证监会网站",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "中国金融稳定报告（2026）：证监会将适时推广新模式浮动管理费率基金 提高权益类基金占比和公募基金持股市值占比",
+          "summary": "中国人民银行发布了《中国金融稳定报告（2026）》。报告指出，中国证监会将持续深化公募基金改革。一是完善公募基金产品谱…",
+          "url": "https://finance.eastmoney.com/a/202611273941895645.html",
+          "publishedAt": "2026-11-27T12:15:00.000Z",
+          "source": "东方财富 · 界面新闻",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "11月27日晚间沪深上市公司重大事项公告最新快递",
+          "summary": "沪深两市多家上市公司11月27日晚间发布公司公告，以下为重要公告汇总。",
+          "url": "https://finance.eastmoney.com/a/202611273941863848.html",
+          "publishedAt": "2026-11-27T11:32:00.000Z",
+          "source": "东方财富 · 东方财富Choice数据",
+          "kind": "报道",
+          "sourceId": "eastmoney-cn-stock"
+        },
         {
           "category": "金融",
           "topic": "A股",
@@ -410,110 +564,55 @@
         {
           "category": "金融",
           "topic": "A股",
-          "title": "“大奇迹日”！两创指数涨幅历史前三！涨停股数量创2年多新高",
-          "summary": "11月27日，A股走出年内最强单日行情，主要指数午后集体大幅上涨。创业板指数、科创50指数单日涨幅均排历史第三，仅次于…",
-          "url": "https://finance.eastmoney.com/a/202611273941684698.html",
-          "publishedAt": "2026-11-27T08:06:00.000Z",
-          "source": "东方财富 · 数据宝",
+          "title": "AI叙事转折之后，长城证券汪毅给出2027年A股的“纺锤型”机会 ｜ 2026华夏城市产业链大会",
+          "summary": "“底部的形成需要强有力的政策和资金的推动。”11月26日下午，北京第十届华夏城市产业链发展大会现场，长城证券首席经济学…",
+          "url": "https://finance.eastmoney.com/a/202611273941989676.html",
+          "publishedAt": "2026-11-27T13:35:00.000Z",
+          "source": "东方财富 · 华夏时报网",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
         {
           "category": "金融",
           "topic": "A股",
-          "title": "底部巨阳 超400只个股涨停！请所有股民重视A股今天的大涨",
-          "summary": "11月27日，市场午后快速反弹，创业板指涨超11%，涨幅仅次于2024年9月30日的15.36%，科创50指数涨超15…",
-          "url": "https://finance.eastmoney.com/a/202611273941681440.html",
-          "publishedAt": "2026-11-27T08:01:00.000Z",
-          "source": "东方财富 · 每日经济新闻",
+          "title": "中南文化：筹划重大资产重组",
+          "summary": "上证报中国证券网讯（记者骆民）中南文化公告，2026年11月27日，公司及全资子公司中南投资与大众公用、大众燃投、林克…",
+          "url": "https://finance.eastmoney.com/a/202611273941988148.html",
+          "publishedAt": "2026-11-27T13:51:00.000Z",
+          "source": "东方财富 · 上海证券报·中国证券网",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
         {
           "category": "金融",
           "topic": "A股",
-          "title": "多股新签订单新高！主力吸筹半导体设备(附股)",
-          "summary": "半导体设备周五大涨，华海诚科、灿芯股份等多股20CM涨停，长川科技、中科飞测等多股涨超10%。",
-          "url": "https://finance.eastmoney.com/a/202611273941557725.html",
-          "publishedAt": "2026-11-27T04:05:00.000Z",
-          "source": "东方财富 · 东方财富研究中心",
+          "title": "华为概念股集体涨停！AI芯片全线走强，天数智芯、壁仞科技涨超25%，国产替代迎窗口？",
+          "summary": "11月27日，华为算力产业链再度集体走强。",
+          "url": "https://finance.eastmoney.com/a/202611273941878714.html",
+          "publishedAt": "2026-11-27T11:49:00.000Z",
+          "source": "东方财富 · 时代周报",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
         {
           "category": "金融",
           "topic": "A股",
-          "title": "监管部门：严防“伪科技”借机上市、无真实业绩公司“注水”上市",
-          "summary": "11月27日，李强主持召开国务院常务会议。会议指出，资本市场事关经济发展大局。要坚持目标导向、问题导向，坚持逆周期调节…",
-          "url": "https://finance.eastmoney.com/a/202611273941622472.html",
-          "publishedAt": "2026-11-27T06:02:00.000Z",
-          "source": "东方财富 · 中国证券报",
+          "title": "股东及管理层纷纷出手增持 银行股行情能走多远？",
+          "summary": "近期，上市银行密集释放增持信号，从地方国资股东到银行董事、高级管理人员及中层干部，纷纷以自有资金增持银行股。",
+          "url": "https://finance.eastmoney.com/a/202611273941781650.html",
+          "publishedAt": "2026-11-27T09:43:00.000Z",
+          "source": "东方财富 · 中国经营报",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
         {
           "category": "金融",
           "topic": "A股",
-          "title": "花旗：中国ETF单周净流入283亿美元 超过美国股票基金234亿美元的净流入规模",
-          "summary": "花旗援引EPFR Global数据指出，截至11月25日当周，中国ETF净流入资金达283亿美元，超过同期美国股票基金…",
-          "url": "https://finance.eastmoney.com/a/202611273941765067.html",
-          "publishedAt": "2026-11-27T09:37:00.000Z",
-          "source": "东方财富 · 财联社",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "国科微：拟2.5亿元至5亿元回购股份用于注销",
-          "summary": "国科微(300672.SZ)公告称，公司拟以自有资金及/或自筹资金通过集中竞价方式回购公司股份，回购资金总额不低于2.…",
-          "url": "https://finance.eastmoney.com/a/202611273941762314.html",
-          "publishedAt": "2026-11-27T09:28:00.000Z",
-          "source": "东方财富 · 科创板日报",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "东山精密冒小燕：股价回落但在手订单未受明显影响 PCB、光模块迭代需要保持连续性",
-          "summary": "11月26日，东山精密董事、副总经理、董事会秘书冒小燕在“华山论践（2026）·长三角科创并购创新实践论坛”的圆桌讨论…",
-          "url": "https://finance.eastmoney.com/a/202611273941754959.html",
-          "publishedAt": "2026-11-27T09:18:00.000Z",
-          "source": "东方财富 · 科创板日报",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "华天科技并购华羿微电落地，华泰联合证券助力半导体封测龙头完善主业布局",
-          "summary": "近日，天水华天科技股份有限公司（002185.SZ，以下简称“华天科技”）新增股份登记上市，这标志着华天科技发行股份及…",
-          "url": "https://finance.eastmoney.com/a/202611273941761363.html",
-          "publishedAt": "2026-11-27T09:15:00.000Z",
-          "source": "东方财富 · 21世纪经济报道",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "大爆发！10011581，暴涨3025%！中证500、中证1000股指期货所有合约，罕见涨停",
-          "summary": "周五（11月27日），A股放量强势上攻，科技成长股领涨。",
-          "url": "https://finance.eastmoney.com/a/202611273941727916.html",
-          "publishedAt": "2026-11-27T08:42:00.000Z",
-          "source": "东方财富 · 证券时报",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
-          "title": "A股大爆发！426只个股涨停，沪指一举收复3500、3600点",
-          "summary": "【大河财立方消息】11月27日，A股迎来大反攻。",
-          "url": "https://finance.eastmoney.com/a/202611273941663169.html",
-          "publishedAt": "2026-11-27T07:00:00.000Z",
-          "source": "东方财富 · 大河财立方",
+          "title": "政策定调与产业共振：A股2万亿放量反攻背后的稳市逻辑",
+          "summary": "新华财经北京11月27日电（康耕甫）11月27日，A股走出放量反攻行情，市场风险偏好较前一交易日出现明显修复，主要宽基…",
+          "url": "https://finance.eastmoney.com/a/202611273941769921.html",
+          "publishedAt": "2026-11-27T09:29:00.000Z",
+          "source": "东方财富 · 新华财经",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
@@ -535,17 +634,17 @@
       "name": "东方财富 · 中国期货",
       "url": "https://futures.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-11-27T09:40:20.334Z",
-      "lastSuccess": "2026-11-27T09:40:20.334Z",
+      "lastAttempt": "2026-11-27T13:58:02.491Z",
+      "lastSuccess": "2026-11-27T13:58:02.491Z",
       "items": [
         {
           "category": "金融",
           "topic": "中国期货",
-          "title": "期市收评 | 商品期货大面积飘红 有色贵金属板块大涨",
-          "summary": "新华社：国务院总理李强11月27日主持召开国务院常务会议，会议指出，资本市场事关经济发展大局。要坚持目标导向、问题导向…",
-          "url": "https://finance.eastmoney.com/a/202611273941653021.html",
-          "publishedAt": "2026-11-27T07:20:00.000Z",
-          "source": "东方财富 · 东方财富研究中心",
+          "title": "上期所发布关于瓦楞原纸期货上市交易有关事项的通知",
+          "summary": "中国证监会已同意上海期货交易所（以下简称上期所）瓦楞原纸期货及期权注册。根据上期所相关规则，现将有关事项通知如下：",
+          "url": "https://finance.eastmoney.com/a/202611273941761073.html",
+          "publishedAt": "2026-11-27T09:25:00.000Z",
+          "source": "东方财富 · 上期所",
           "kind": "报道",
           "sourceId": "eastmoney-futures"
         },
@@ -567,16 +666,38 @@
       "name": "东方财富 · 宏观财经",
       "url": "https://finance.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-11-27T09:40:20.334Z",
-      "lastSuccess": "2026-11-27T09:40:20.334Z",
+      "lastAttempt": "2026-11-27T13:58:02.491Z",
+      "lastSuccess": "2026-11-27T13:58:02.491Z",
       "items": [
         {
           "category": "金融",
           "topic": "宏观财经",
-          "title": "德国11月季调后失业率为6.4% 预期6.4%",
-          "summary": "德国11月季调后失业率为6.4%，预期6.4%，前值6.4%。",
-          "url": "https://finance.eastmoney.com/a/202611273941740138.html",
-          "publishedAt": "2026-11-27T08:55:00.000Z",
+          "title": "央行：研究建立在特定情景下向非银机构提供流动性的机制性安排 发挥好两项支持资本市场的货币政策工具作用",
+          "summary": "中国人民银行发布《中国金融稳定报告（2026）》。《报告》提到，切实增强资本市场内在稳定性。全方位加强资本市场监测预警…",
+          "url": "https://finance.eastmoney.com/a/202611273941893334.html",
+          "publishedAt": "2026-11-27T12:09:00.000Z",
+          "source": "东方财富 · 界面新闻",
+          "kind": "报道",
+          "sourceId": "eastmoney-macro"
+        },
+        {
+          "category": "金融",
+          "topic": "宏观财经",
+          "title": "央行：个人投资人认购大额存单起点金额修改为不低于10万元",
+          "summary": "《大额存单管理办法（征求意见稿）》（以下简称《办法》）于2026年6月12日至7月12日面向社会公开征求意见。在征求期…",
+          "url": "https://finance.eastmoney.com/a/202611273941799673.html",
+          "publishedAt": "2026-11-27T10:19:00.000Z",
+          "source": "东方财富 · 央行网站",
+          "kind": "报道",
+          "sourceId": "eastmoney-macro"
+        },
+        {
+          "category": "金融",
+          "topic": "宏观财经",
+          "title": "央行发布存贷款利率新规 罚息不再默认“顶格上浮50%” 机构计息系统面临改造压力",
+          "summary": "11月27日，人民银行发布《人民币存贷款利率管理规定》（下称《新规》），自2027年3月21日起施行，这也是1999年…",
+          "url": "https://finance.eastmoney.com/a/202611273941924887.html",
+          "publishedAt": "2026-11-27T12:52:00.000Z",
           "source": "东方财富 · 财联社",
           "kind": "报道",
           "sourceId": "eastmoney-macro"
@@ -584,12 +705,34 @@
         {
           "category": "金融",
           "topic": "宏观财经",
-          "title": "特朗普政府拟加征新关税 美联储12月加息及利率走高可能性上升",
-          "summary": "美东时间11月25日，美国贸易代表办公室（USTR）宣布“产能过剩”301调查结果，发布拟议措施，提出对14个经济体加…",
-          "url": "https://finance.eastmoney.com/a/202611273941747235.html",
-          "publishedAt": "2026-11-27T09:05:00.000Z",
-          "source": "东方财富 · 第一财经",
+          "title": "央行发布《人民币存贷款利率管理规定》 自2027年3月21日起施行",
+          "summary": "中国人民银行令〔2026〕第5号（人民币存贷款利率管理规定）",
+          "url": "https://finance.eastmoney.com/a/202611273941797846.html",
+          "publishedAt": "2026-11-27T10:16:00.000Z",
+          "source": "东方财富 · 央行网站",
           "kind": "报道",
+          "sourceId": "eastmoney-macro"
+        },
+        {
+          "category": "金融",
+          "topic": "宏观财经",
+          "title": "央行发布人民币存贷款利率管理新规：取消贷款罚息利率的上下限",
+          "summary": "11月27日，中国人民银行发布《人民币存贷款利率管理规定》（下称《规定》），自2027年3月21日起施行。原《人民币利…",
+          "url": "https://finance.eastmoney.com/a/202611273941971653.html",
+          "publishedAt": "2026-11-27T13:38:00.000Z",
+          "source": "东方财富 · 澎湃新闻",
+          "kind": "报道",
+          "sourceId": "eastmoney-macro"
+        },
+        {
+          "category": "金融",
+          "topic": "宏观财经",
+          "title": "欧洲央行管委内格尔表示，预计2027年通胀率将持续高于3%",
+          "summary": "欧洲央行管委内格尔表示，预计2027年通胀率将持续高于3%。",
+          "url": "https://finance.eastmoney.com/a/202611273941951425.html",
+          "publishedAt": "2026-11-27T13:05:00.000Z",
+          "source": "东方财富 · 财联社",
+          "kind": "观点",
           "sourceId": "eastmoney-macro"
         }
       ]
@@ -598,8 +741,8 @@
       "id": "us-stock",
       "name": "新浪财经 · 美股",
       "url": "https://finance.sina.com.cn/stock/usstock/",
-      "status": "ok",
-      "lastAttempt": "2026-11-27T09:40:20.334Z",
+      "status": "error",
+      "lastAttempt": "2026-11-27T13:58:02.491Z",
       "lastSuccess": "2026-11-27T09:40:20.334Z",
       "items": [
         {
@@ -674,8 +817,8 @@
       "id": "cn-stock",
       "name": "新浪财经 · A股",
       "url": "https://finance.sina.com.cn/stock/",
-      "status": "ok",
-      "lastAttempt": "2026-11-27T09:40:20.334Z",
+      "status": "error",
+      "lastAttempt": "2026-11-27T13:58:02.491Z",
       "lastSuccess": "2026-11-27T09:40:20.334Z",
       "items": [
         {
@@ -937,8 +1080,8 @@
       "id": "futures-1",
       "name": "新浪财经 · 期货订阅 1",
       "url": "https://finance.sina.com.cn/",
-      "status": "ok",
-      "lastAttempt": "2026-11-27T09:40:20.334Z",
+      "status": "error",
+      "lastAttempt": "2026-11-27T13:58:02.491Z",
       "lastSuccess": "2026-11-27T09:40:20.334Z",
       "items": [
         {
@@ -1013,8 +1156,8 @@
       "id": "futures-2",
       "name": "新浪财经 · 期货订阅 2",
       "url": "https://finance.sina.com.cn/",
-      "status": "ok",
-      "lastAttempt": "2026-11-27T09:40:20.334Z",
+      "status": "error",
+      "lastAttempt": "2026-11-27T13:58:02.491Z",
       "lastSuccess": "2026-11-27T09:40:20.334Z",
       "items": [
         {
@@ -1035,7 +1178,7 @@
       "name": "新浪财经 · 期货订阅 3",
       "url": "https://finance.sina.com.cn/",
       "status": "error",
-      "lastAttempt": "2026-11-27T09:40:20.334Z",
+      "lastAttempt": "2026-11-27T13:58:02.491Z",
       "lastSuccess": "2026-11-27T09:07:36.547Z",
       "items": [
         {
@@ -1089,9 +1232,29 @@
       "name": "中新网 · 国际",
       "url": "https://www.chinanews.com.cn/rss/world.xml",
       "status": "ok",
-      "lastAttempt": "2026-11-27T09:40:20.334Z",
-      "lastSuccess": "2026-11-27T09:40:20.334Z",
+      "lastAttempt": "2026-11-27T13:58:02.491Z",
+      "lastSuccess": "2026-11-27T13:58:02.491Z",
       "items": [
+        {
+          "title": "加拿大近30万民众联名请愿要求驱逐美国大使",
+          "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738967.shtml",
+          "summary": "中新社北京11月27日电 渥太华消息：当地时间26日，呼吁加拿大政府驱逐美国驻加大使皮特·胡克斯特拉的请愿书被提交至加…",
+          "publishedAt": "2026-11-27T12:24:18.000Z",
+          "category": "政治",
+          "topic": "美国",
+          "source": "中国新闻网",
+          "sourceId": "us-politics"
+        },
+        {
+          "title": "特朗普：黄仁勋重返英伟达是件“好事”，他本人也很高兴回归",
+          "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738926.shtml",
+          "summary": "中新网11月27日电 据美国福克斯新闻网27日报道，美国总统特朗普表示，黄仁勋重返英伟达对美国和世界来说都是一件“好事…",
+          "publishedAt": "2026-11-27T10:43:44.000Z",
+          "category": "政治",
+          "topic": "美国",
+          "source": "中国新闻网",
+          "sourceId": "us-politics"
+        },
         {
           "title": "GDP上修，特朗普“上火”",
           "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738738.shtml",
@@ -1121,36 +1284,6 @@
           "topic": "美国",
           "source": "中国新闻网",
           "sourceId": "us-politics"
-        },
-        {
-          "title": "特朗普：与普京会谈中，已敦促其尽快与乌克兰达成协议",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738478.shtml",
-          "summary": "中新网11月27日电 综合报道，美国总统特朗普当地时间26日在社交媒体发文表示，他日前在与俄罗斯总统普京的会谈中敦促其…",
-          "publishedAt": "2026-11-26T23:02:40.000Z",
-          "category": "政治",
-          "topic": "美国",
-          "source": "中国新闻网",
-          "sourceId": "us-politics"
-        },
-        {
-          "title": "巴西副总统：美国对巴西加征新关税完全不合理",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738476.shtml",
-          "summary": "当地时间11月26日，巴西副总统阿尔克明表示，美国提出对巴西加征的新关税完全不合理，巴西政府将尽全力扭转这一局面。阿尔…",
-          "publishedAt": "2026-11-26T22:57:06.000Z",
-          "category": "政治",
-          "topic": "美国",
-          "source": "中国新闻网",
-          "sourceId": "us-politics"
-        },
-        {
-          "title": "特朗普：在与普京会谈中敦促其尽快与乌克兰达成协议",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738474.shtml",
-          "summary": "美国总统特朗普26日在社交媒体发文说，他日前在与俄罗斯总统普京的会谈中敦促其尽快与乌克兰达成协议，以结束俄乌冲突。",
-          "publishedAt": "2026-11-26T22:37:27.000Z",
-          "category": "政治",
-          "topic": "美国",
-          "source": "中国新闻网",
-          "sourceId": "us-politics"
         }
       ]
     },
@@ -1159,34 +1292,34 @@
       "name": "中新网 · 国内",
       "url": "https://www.chinanews.com.cn/rss/china.xml",
       "status": "ok",
-      "lastAttempt": "2026-11-27T09:40:20.334Z",
-      "lastSuccess": "2026-11-27T09:40:20.334Z",
+      "lastAttempt": "2026-11-27T13:58:02.491Z",
+      "lastSuccess": "2026-11-27T13:58:02.491Z",
       "items": [
         {
-          "title": "残疾人、老年人代表当“验收员” 江西立法推进无障碍环境建设",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738854.shtml",
-          "summary": "中新网南昌11月27日电 (朱莹)27日，《江西省无障碍环境建设条例》(以下简称《条例》)新闻发布会在南昌举行。《条例…",
-          "publishedAt": "2026-11-27T09:07:43.000Z",
+          "title": "中方学者：亚太作为合作高地的基本面没有变",
+          "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739030.shtml",
+          "summary": "中新社北京11月27日电 (记者 李纯)“亚太总体保持稳定局面，作为世界经济增长引擎的地位没有变，作为合作高地的基本面…",
+          "publishedAt": "2026-11-27T13:31:31.000Z",
           "category": "政治",
           "topic": "中国",
           "source": "中国新闻网",
           "sourceId": "cn-politics"
         },
         {
-          "title": "李强将与全球主要国际经济组织负责人举行“1+10”对话会",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738734.shtml",
-          "summary": "中新网北京11月27日电 (记者 曾玥)中国外交部发言人27日宣布：中国国务院总理李强将于12月2日上午在福建省厦门市…",
-          "publishedAt": "2026-11-27T07:11:17.000Z",
+          "title": "山东省政协十三届四次会议创新开展重点提案督办带动同类提案联动办理工作",
+          "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738943.shtml",
+          "summary": "中新网济南11月27日电 (李明芮)记者11月27日从山东省人民政府新闻办公室召开的发布会上获悉，今年，山东省政协十三…",
+          "publishedAt": "2026-11-27T11:20:38.000Z",
           "category": "政治",
           "topic": "中国",
           "source": "中国新闻网",
           "sourceId": "cn-politics"
         },
         {
-          "title": "李强将与全球主要国际经济组织负责人举行“1+10”对话会",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738733.shtml",
-          "summary": "外交部发言人宣布：",
-          "publishedAt": "2026-11-27T07:09:51.000Z",
+          "title": "广西壮族自治区政府原主席蓝天立一审被判死缓",
+          "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738930.shtml",
+          "summary": "中新社北京11月27日电 (记者 张素)记者从中国最高人民法院获悉，11月27日，湖南省常德市中级人民法院一审公开宣判…",
+          "publishedAt": "2026-11-27T10:55:43.000Z",
           "category": "政治",
           "topic": "中国",
           "source": "中国新闻网",
@@ -1199,8 +1332,8 @@
       "name": "AI HOT",
       "url": "https://aihot.news/",
       "status": "ok",
-      "lastAttempt": "2026-11-27T09:40:20.334Z",
-      "lastSuccess": "2026-11-27T09:40:20.334Z",
+      "lastAttempt": "2026-11-27T13:58:02.491Z",
+      "lastSuccess": "2026-11-27T13:58:02.491Z",
       "items": [
         {
           "category": "AI",
@@ -1315,169 +1448,191 @@
   ],
   "items": [
     {
-      "title": "记者：珀尔特尔和莫里茨-瓦格纳为尼克斯潜在交易目标",
-      "url": "https://www.163.com/dy/article/LCOH7EEE0549BAP0.html",
-      "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-27T06:59:43.000Z",
+      "title": "76人得感谢尼克斯？感恩节，这些球队都该感谢谁？",
+      "url": "https://www.163.com/dy/article/LCP3GAEM0514R9KQ.html",
+      "source": "北青网-北京青年报 · 网易体育",
+      "publishedAt": "2026-11-27T12:19:09.000Z",
       "category": "体育",
       "topic": "NBA",
       "sourceId": "sports",
-      "summary": "围绕联盟的交易讨论持续升温，纽约尼克斯虽然没有公开追逐某个名字，但并未完全置身事外。SNY记者伊恩-贝格利在参加SNY…",
+      "summary": "在整个2026-27赛季期间，NBA官网的编辑们将就联盟中的重大事件和趋势分享他们的观点。今天的问题是：这些球队有什么…",
       "number": 1
     },
     {
-      "title": "凯尔特人2-1托里什人联合，卡米洛-杜兰建功",
-      "url": "https://www.163.com/dy/article/LCNJ6TAL0549BAP0.html",
-      "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-26T22:15:09.000Z",
+      "title": "杨瀚森：我确实感受到了压力 我是NBA里唯一的中国球员",
+      "url": "https://www.163.com/dy/article/LCP3G80Q0514R9KQ.html",
+      "source": "北青网-北京青年报 · 网易体育",
+      "publishedAt": "2026-11-27T12:19:06.000Z",
       "category": "体育",
       "topic": "NBA",
       "sourceId": "sports",
-      "summary": "北京时间11月27日欧足联欧洲联赛 联赛阶段 第5轮，托里什人联合对阵凯尔特人。托里什人联合达尼-让破门，哈维-巴斯克…",
+      "summary": "北京时间11月27日，开拓者中锋、中国球员杨瀚森接受了TA记者Mirin Fader的专访。",
       "number": 2
     },
     {
-      "title": "詹姆斯：斯波是我共事过最好的教练 他第一轮投票就能进名人堂",
-      "url": "https://www.163.com/dy/article/LCMGDFEJ0514R9KQ.html",
+      "title": "一拍即合！詹姆斯谈巴洛：他运动能力极强 懂得如何打球",
+      "url": "https://www.163.com/dy/article/LCP3G6K00514R9KQ.html",
       "source": "北青网-北京青年报 · 网易体育",
-      "publishedAt": "2026-11-26T12:07:04.000Z",
+      "publishedAt": "2026-11-27T12:19:05.000Z",
       "category": "体育",
       "topic": "NBA",
       "sourceId": "sports",
-      "summary": "北京时间11月26日，NBA杯小组赛，76人111-104战胜热火。",
+      "summary": "北京时间11月27日，昨日NBA杯小组赛，76人111-104战胜热火。",
       "number": 3
     },
     {
-      "title": "博格巴：曼联应给波切蒂诺足够时间，就像此前阿森纳支持塔帅",
-      "url": "https://www.163.com/dy/article/LCOPMQ500549BAP0.html",
+      "title": "TEAMtalk：B费团队正评估下家，有意离开曼联",
+      "url": "https://www.163.com/dy/article/LCP887K60549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-27T09:27:56.000Z",
+      "publishedAt": "2026-11-27T13:42:06.000Z",
       "category": "体育",
       "topic": "英超",
       "sourceId": "sports",
-      "summary": "前曼联中场保罗-博格巴呼吁老特拉福德的所有人给予波切蒂诺和球员们足够的时间，就像当年阿森纳给予阿尔特塔的支持一样。",
+      "summary": "据TEAMtalk报道，布鲁诺-费尔南德斯的团队正在积极考察进入2027年的潜在选择，而英力士正在采取一步巧妙的举措来…",
       "number": 4
     },
     {
-      "title": "利物浦、巴萨等队有意门兴17岁小将穆赫亚，今夏或引发竞购",
-      "url": "https://www.163.com/dy/article/LCOPMQ3I0549BAP0.html",
+      "title": "回声报：利物浦一周内双线大胜，维尔茨和伊萨克渐入佳境",
+      "url": "https://www.163.com/dy/article/LCP71OR10549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-27T09:27:56.000Z",
+      "publishedAt": "2026-11-27T13:21:06.000Z",
       "category": "体育",
       "topic": "英超",
       "sourceId": "sports",
-      "summary": "据talkSPORT报道，天才少年瓦伊勒-穆赫亚预计将在今夏成为转会市场上的抢手货。",
+      "summary": "据《利物浦回声报》报道，无论是国内赛场还是欧战舞台，利物浦都度过了精彩的一周。",
       "number": 5
     },
     {
-      "title": "利物浦3-0胜布鲁日，可成应对英超人盯人防守模板",
-      "url": "https://www.163.com/dy/article/LCOP3CLA0549BAP0.html",
+      "title": "TA：多纳鲁马似乎不在曼城计划内，其特点不符合球队战术风格",
+      "url": "https://www.163.com/dy/article/LCP5PEOE0549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-27T09:17:19.000Z",
+      "publishedAt": "2026-11-27T12:59:05.000Z",
       "category": "体育",
       "topic": "英超",
       "sourceId": "sports",
-      "summary": "据《利物浦回声报》战术分析，利物浦客场3-0战胜布鲁日的比赛，可以成为应对棘手、擅长人盯人防守的英超球队的模板。",
+      "summary": "据《The Athletic》报道，恩里克看来又一次是对的。然而，当初巴黎圣日耳曼决定不与多纳鲁马续约，曾有不少人对这…",
       "number": 6
     },
     {
-      "title": "库巴西欧冠传球成功率达95.5%，为巴萨队内最高",
-      "url": "https://www.163.com/dy/article/LCOPMQFK0549BAP0.html",
+      "title": "阿里瓦斯：2017年拉科2-1胜巴萨，靠出色防守与定位球",
+      "url": "https://www.163.com/dy/article/LCP71OUO0549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-27T09:27:56.000Z",
+      "publishedAt": "2026-11-27T13:21:06.000Z",
       "category": "体育",
       "topic": "西甲",
       "sourceId": "sports",
-      "summary": "据《每日体育报》报道，库巴西是当今足坛最出色的中后卫之一。这位19岁的巴塞罗那后卫已在红蓝军团站稳脚跟，如今已是一名世…",
+      "summary": "据《每日体育报》报道，2017年，拉科鲁尼亚在西甲联赛中取得了对阵巴塞罗那的最后一场胜利。这也是他们20年来在里亚索球…",
       "number": 7
     },
     {
-      "title": "尼尔-鲁伊斯：随巴萨训练时，德佩射门差点砸晕工作人员",
-      "url": "https://www.163.com/dy/article/LCOP3C250549BAP0.html",
+      "title": "巴萨官方：罗德里今日恢复部分合练",
+      "url": "https://www.163.com/dy/article/LCP6DL2A0549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-27T09:17:19.000Z",
+      "publishedAt": "2026-11-27T13:10:07.000Z",
       "category": "体育",
       "topic": "西甲",
       "sourceId": "sports",
-      "summary": "据《每日体育报》报道，成为巴萨青训球员绝非易事。这是一种特权，也是许多球员的梦想。但这里的竞争异常激烈，拉玛西亚青训营…",
+      "summary": "巴萨官方发布训练动态，球队在欧冠客场大胜沙巴巴库后恢复训练，开始备战西甲下一轮对阵拉科鲁尼亚的比赛。罗德里已经回归球队…",
       "number": 8
     },
     {
-      "title": "阿斯：阿尔瓦雷斯与马竞球迷和解缓慢，被换下时掌声嘘声并存",
-      "url": "https://www.163.com/dy/article/LCOP3C320549BAP0.html",
+      "title": "每体：马竞小将门多萨本周六重返埃尔切，仍等待首次首发",
+      "url": "https://www.163.com/dy/article/LCP4J2JK0549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-27T09:17:19.000Z",
+      "publishedAt": "2026-11-27T12:38:07.000Z",
       "category": "体育",
       "topic": "西甲",
       "sourceId": "sports",
-      "summary": "据《阿斯报》报道，胡利安-阿尔瓦雷斯在马德里竞技对阵维京的比赛中庆祝了进球，同时也听到了嘘声与掌声。凭借对阵拉科鲁尼亚…",
+      "summary": "据《每日体育报》报道，几个月前埃尔切在夏季转会市场上赚得盆满钵满，这让2026年冬窗显得有些遥远。当时，在埃德-萨拉维…",
       "number": 9
     },
     {
-      "title": "弗罗因德：拜仁从未讨论对基米希罚款，专注于接下来的比赛",
-      "url": "https://www.163.com/dy/article/LCOPMPVQ0549BAP0.html",
+      "title": "拜仁动荡对我们有利？科瓦奇：问题太荒谬，我们只专注于自己",
+      "url": "https://www.163.com/dy/article/LCP71OQA0549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-27T09:27:55.000Z",
+      "publishedAt": "2026-11-27T13:21:06.000Z",
       "category": "体育",
       "topic": "德甲",
       "sourceId": "sports",
-      "summary": "据Sport1报道，针对基米希的炮轰，首位拜仁高层现已作出回应。",
+      "summary": "据Sport1报道，科瓦奇对一名记者关于拜仁慕尼黑内部问题的提问作出了强烈回应。",
       "number": 10
     },
     {
-      "title": "马特乌斯：拜仁的精神被践踏了，基米希证明自己是真正的队长",
-      "url": "https://www.163.com/dy/article/LCONRFR50549BAP0.html",
+      "title": "土耳其欧战四战全胜紧逼德国，德甲争夺额外欧冠席位承压",
+      "url": "https://www.163.com/dy/article/LCP71OOB0549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-27T08:55:32.000Z",
+      "publishedAt": "2026-11-27T13:21:06.000Z",
       "category": "体育",
       "topic": "德甲",
       "sourceId": "sports",
-      "summary": "据Sport1报道，名宿马特乌斯再次批评了拜仁慕尼黑高层，并称赞了基米希。",
+      "summary": "据Sport1报道，赫内斯对客场负于加拉塔萨雷感到懊恼。",
       "number": 11
     },
     {
-      "title": "图片报：拜仁关注舍尔汉特，球员身价持续上涨且合同含解约条款",
-      "url": "https://www.163.com/dy/article/LCOK7APR0549BAP0.html",
+      "title": "被问怎么看拜仁近况，科瓦奇：我又不傻，别把话硬往我嘴里塞",
+      "url": "https://www.163.com/dy/article/LCP4J2JJ0549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-27T07:52:05.000Z",
+      "publishedAt": "2026-11-27T12:38:07.000Z",
       "category": "体育",
       "topic": "德甲",
       "sourceId": "sports",
-      "summary": "据《图片报》报道，拜仁慕尼黑已经在为当前的伤病危机做打算。在左边锋的引援名单上，还有一位最近表现令人信服的国家队球员—…",
+      "summary": "德甲第11轮，多特蒙德将在西格纳伊杜纳公园球场迎战勒沃库森。赛前发布会上，多特主帅科瓦奇透露吉拉西已参加合练，谈到勒沃…",
       "number": 12
     },
     {
-      "title": "意媒：国米欧战专注度更高，意甲其它队却屡因过度自信出现起伏",
-      "url": "https://www.163.com/dy/article/LCOP3C0S0549BAP0.html",
+      "title": "布罗基：齐沃肯定已改进国米失误，意甲争冠不会有风险",
+      "url": "https://www.163.com/dy/article/LCP5PEPJ0549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-27T09:17:19.000Z",
+      "publishedAt": "2026-11-27T12:59:05.000Z",
       "category": "体育",
       "topic": "意甲",
       "sourceId": "sports",
-      "summary": "据FCinter1908报道，在本赛季的这一阶段，人们看到了一个有着两副面孔的国际米兰。在欧战赛场上，除了对阵布鲁日的…",
+      "summary": "这位前中场球员分析了国际米兰与热那亚的对决：“齐沃肯定已经针对在贝加莫暴露出的错误进行了改进”",
       "number": 13
     },
     {
-      "title": "劳塔罗国米生涯已进182球，距队史意甲第二射手只差3球",
-      "url": "https://www.163.com/dy/article/LCONRFOU0549BAP0.html",
+      "title": "加利亚尼：参选因8到9家意甲球队态度转变，含尤文国米米兰",
+      "url": "https://www.163.com/dy/article/LCOTVGR60549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-27T08:55:32.000Z",
+      "publishedAt": "2026-11-27T10:42:35.000Z",
       "category": "体育",
       "topic": "意甲",
       "sourceId": "sports",
-      "summary": "这位阿根廷前锋在对阵亚特兰大的比赛中复出，并在伤愈后的第二次替补登场中就打入一球，帮助球队2-0击败斯图加特。",
+      "summary": "据米兰新闻网报道，围绕加利亚尼竞选意大利足协主席一事，乔瓦尼-马拉戈率先公开发声。马拉戈表示，原本看到技术部门态度出现…",
       "number": 14
     },
     {
-      "title": "那不勒斯有意巴黎FC小将扎比，为安古伊萨离队做准备",
-      "url": "https://www.163.com/dy/article/LCOLFL3T0549BAP0.html",
+      "title": "米体：国米意甲12轮丢17球，欧冠却连续3场零封取胜",
+      "url": "https://www.163.com/dy/article/LCOTVGLF0549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-27T08:14:07.000Z",
+      "publishedAt": "2026-11-27T10:42:35.000Z",
       "category": "体育",
       "topic": "意甲",
       "sourceId": "sports",
-      "summary": "据《罗马体育报》报道，那不勒斯正在寻找一名中场球员，同时也为安古伊萨的离队做准备：他们看中了这名科特迪瓦球员。",
+      "summary": "据《米兰体育报》报道，主帅正着手整顿球队，球队在数据与场上局面中暴露出不少问题。",
       "number": 15
+    },
+    {
+      "title": "赛事科普：巴黎FC2025年重返法甲，留住班底再补经验",
+      "url": "https://www.163.com/dy/article/LCOS6IAU0549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-11-27T10:11:29.000Z",
+      "category": "体育",
+      "topic": "法甲",
+      "sourceId": "sports",
+      "summary": "北京时间11月28日3点45分，法甲第12轮，布雷斯特主场迎战巴黎FC。",
+      "number": 16
+    },
+    {
+      "title": "每体：皇马旧将加雷退役后进军商界，投资房产与板式网球",
+      "url": "https://www.163.com/dy/article/LCORH5OM0549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-11-27T09:59:48.000Z",
+      "category": "体育",
+      "topic": "网球",
+      "sourceId": "sports",
+      "summary": "据《每日体育报》报道，加雷在挂靴后找到了继续创造收入的办法。这位曾效力于皇家马德里、瓦伦西亚和桑坦德竞技的前后卫，决定…",
+      "number": 17
     },
     {
       "title": "接受膝盖手术，意大利名将辛纳退出2027年澳网公开赛",
@@ -1488,7 +1643,7 @@
       "topic": "网球",
       "sourceId": "sports",
       "summary": "11月26日，澳大利亚网球公开赛方面确认，男单世界排名第二的意大利名将辛纳将缺席2027年澳网公开赛。",
-      "number": 16
+      "number": 18
     },
     {
       "title": "乌克兰网协再爆料WTA年终总决赛颁奖典礼幕后细节",
@@ -1499,111 +1654,88 @@
       "topic": "网球",
       "sourceId": "sports",
       "summary": "2026 WTA年终总决赛的颁奖礼风波，在持续多日的舆论拉扯后，随着《电讯报》独家内情与乌克兰网协最新发声，终于彻底还…",
-      "number": 17
-    },
-    {
-      "title": "罗迪克：阿尔卡拉斯学会费德勒的“魔法接发”，兹维列夫被拿捏",
-      "url": "https://www.163.com/dy/article/LCO1MRKQ05298CTE.html",
-      "source": "网球之家 · 网易体育",
-      "publishedAt": "2026-11-27T02:28:36.000Z",
-      "category": "体育",
-      "topic": "网球",
-      "sourceId": "sports",
-      "summary": "在2026年ATP年终总决赛上，阿尔卡拉斯运用一项由费德勒打磨至炉火纯青的战术，在兹维列夫的10个发球局里4次完成破发…",
-      "number": 18
-    },
-    {
-      "category": "金融",
-      "topic": "美股",
-      "title": "特斯拉或收购德国机床制造商EMAG 用以制造Optimus精密部件",
-      "summary": "综合多家媒体消息，特斯拉计划收购德国机床制造商EMAG，以将其纳入其人形机器人Optimus的供应链之中。",
-      "url": "https://finance.eastmoney.com/a/202611273941746230.html",
-      "publishedAt": "2026-11-27T09:06:00.000Z",
-      "source": "东方财富 · 财联社",
-      "kind": "报道",
-      "sourceId": "eastmoney-us-stock",
       "number": 19
     },
     {
       "category": "金融",
       "topic": "美股",
-      "title": "标普上调京东评级至“A”",
-      "summary": "新华财经北京11月27日电（王菁）标普全球评级27日发布报告称，将京东长期主体信用评级及其优先无抵押债券的长期债项评级…",
-      "url": "https://finance.eastmoney.com/a/202611273941714573.html",
-      "publishedAt": "2026-11-27T08:33:00.000Z",
-      "source": "东方财富 · 新华财经",
+      "title": "阿根廷YPF美股盘前涨超10%，现报34.66美元",
+      "summary": "11月27日，阿根廷YPF美股盘前涨超10%，现报34.66美元。",
+      "url": "https://finance.eastmoney.com/a/202611273941981783.html",
+      "publishedAt": "2026-11-27T13:40:00.000Z",
+      "source": "东方财富 · 每日经济新闻",
       "kind": "报道",
       "sourceId": "eastmoney-us-stock",
       "number": 20
     },
     {
-      "title": "日本发电巨头JERA正与Anthropic、微软等科技巨头洽谈在发电厂附近建设数据中心",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaefwe7879640.shtml",
-      "summary": "11月27日，日本最大火力发电企业JERA董事长兼全球首席执行官可儿行夫（Yukio Kani）在接受采访时透露，公司…",
-      "source": "环球市场播报 · 新浪财经",
-      "publishedAt": "2026-11-27T07:38:55.000Z",
       "category": "金融",
       "topic": "美股",
-      "sourceId": "us-stock",
+      "title": "美股盘前要闻一览：美股三大股指期货集体上涨，国际金银现货走高",
+      "summary": "1、美股三大股指期货集体上涨，道琼斯指数期货涨1.40%，标普500指数期货涨1.67%，纳斯达克100指数期货涨2.…",
+      "url": "https://finance.eastmoney.com/a/202611273941966965.html",
+      "publishedAt": "2026-11-27T13:29:00.000Z",
+      "source": "东方财富 · 财联社",
       "kind": "报道",
+      "sourceId": "eastmoney-us-stock",
       "number": 21
     },
     {
-      "title": "“脱胎换骨的他”：复职后的黄仁勋将如何带领英伟达？",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaefwc1061777.shtml",
-      "summary": "在短暂离任11天后重返英伟达掌舵岗位时，黄仁勋承诺，自己这一次会做一名“更好的首席执行官”。 但这场轰动市场的领导层丑…",
-      "source": "环球市场播报 · 新浪财经",
-      "publishedAt": "2026-11-27T07:02:00.000Z",
       "category": "金融",
       "topic": "美股",
-      "sourceId": "us-stock",
+      "title": "反弹的风吹到美股科技板块 巴西ETF盘前涨超14% | 今夜看点",
+      "summary": "财联社11月27日讯 北京时间周五晚间，伴随着亚盘时段中证半导体指数创出历史最大单日涨幅，美股市场有望在今夜迎来反弹，…",
+      "url": "https://finance.eastmoney.com/a/202611273941954881.html",
+      "publishedAt": "2026-11-27T13:28:00.000Z",
+      "source": "东方财富 · 财联社",
       "kind": "报道",
+      "sourceId": "eastmoney-us-stock",
       "number": 22
     },
     {
-      "title": "马斯克称FSDV15让特斯拉汽车拥有“超人视觉”",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaefwi3171349.shtml",
-      "summary": "马斯克对特斯拉FSD技术的最新版本（ V15）给予了高度评价；该版本能够整合车辆各摄像头采集的信息，通过人工智能实时生…",
-      "source": "环球市场播报 · 新浪财经",
-      "publishedAt": "2026-11-27T06:16:01.000Z",
       "category": "金融",
       "topic": "美股",
-      "sourceId": "us-stock",
+      "title": "美股盘前：三大股指期货齐涨 纳指期货涨超2% 美股提前三小时收市",
+      "summary": "周五盘前，三大股指期货齐涨，欧洲主要指数普遍上涨。截至发稿，纳斯达克100指数期货涨2.29%，道指期货涨1.29%，…",
+      "url": "https://finance.eastmoney.com/a/202611273941951122.html",
+      "publishedAt": "2026-11-27T12:43:00.000Z",
+      "source": "东方财富 · 哈富证券",
       "kind": "报道",
+      "sourceId": "eastmoney-us-stock",
       "number": 23
     },
     {
       "category": "金融",
       "topic": "美股",
-      "title": "美股AI风向变了：软件>硬件？",
-      "summary": "随着市场对人工智能热潮中赢家和输家的看法发生急剧转变，今年迄今为止，半导体股和软件股的市场表现已从原本的“一边倒”变为…",
-      "url": "https://finance.eastmoney.com/a/202611273941533080.html",
-      "publishedAt": "2026-11-27T02:59:00.000Z",
-      "source": "东方财富 · 财联社",
+      "title": "晚报丨国常会关于资本市场部署释放五大鲜明信号，科技股集体大涨；金银油集体上涨；美股今日将提前休市；日央行12月加息预期升温；美团Q3营收、利润超预期",
+      "summary": "港股市场：11月27日，午后国常会释放“稳市”重磅政策，点燃市场情绪，恒生科技指数大幅上涨6.45%收复3600点关口…",
+      "url": "https://finance.eastmoney.com/a/202611273941802382.html",
+      "publishedAt": "2026-11-27T10:32:00.000Z",
+      "source": "东方财富 · 哈富证券",
       "kind": "报道",
       "sourceId": "eastmoney-us-stock",
       "number": 24
     },
     {
-      "title": "摩根大通：股市急跌接近尾声、短期可反弹，警惕明年增长拖累大盘",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaenea7848255.shtml",
-      "summary": "摩根大通策略师表示，动量股以及AI相关股票的大幅抛售行情基本告一段落，预计市场将迎来短期反弹，同时警示经济增长放缓可能…",
-      "source": "环球市场播报 · 新浪财经",
-      "publishedAt": "2026-11-27T09:37:13.000Z",
       "category": "金融",
-      "topic": "A股",
-      "sourceId": "cn-stock",
+      "topic": "美股",
+      "title": "期权智投播报 | 美光盘前涨超6% DRAM价格预期下调仍获看好；英伟达涨近4% 隐含波动率冲高",
+      "summary": "纳指100ETF-Invesco QQQ Trust盘前涨2.39%，标普500ETF-SPDR盘前涨1.78%。近期…",
+      "url": "https://finance.eastmoney.com/a/202611273941801557.html",
+      "publishedAt": "2026-11-27T10:18:00.000Z",
+      "source": "东方财富 · 哈富证券",
       "kind": "观点",
+      "sourceId": "eastmoney-us-stock",
       "number": 25
     },
     {
       "category": "金融",
       "topic": "A股",
-      "title": "花旗：中国ETF单周净流入283亿美元 超过美国股票基金234亿美元的净流入规模",
-      "summary": "花旗援引EPFR Global数据指出，截至11月25日当周，中国ETF净流入资金达283亿美元，超过同期美国股票基金…",
-      "url": "https://finance.eastmoney.com/a/202611273941765067.html",
-      "publishedAt": "2026-11-27T09:37:00.000Z",
-      "source": "东方财富 · 财联社",
+      "title": "中南文化：筹划重大资产重组",
+      "summary": "上证报中国证券网讯（记者骆民）中南文化公告，2026年11月27日，公司及全资子公司中南投资与大众公用、大众燃投、林克…",
+      "url": "https://finance.eastmoney.com/a/202611273941988148.html",
+      "publishedAt": "2026-11-27T13:51:00.000Z",
+      "source": "东方财富 · 上海证券报·中国证券网",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
       "number": 26
@@ -1611,50 +1743,74 @@
     {
       "category": "金融",
       "topic": "A股",
-      "title": "国科微：拟2.5亿元至5亿元回购股份用于注销",
-      "summary": "国科微(300672.SZ)公告称，公司拟以自有资金及/或自筹资金通过集中竞价方式回购公司股份，回购资金总额不低于2.…",
-      "url": "https://finance.eastmoney.com/a/202611273941762314.html",
-      "publishedAt": "2026-11-27T09:28:00.000Z",
-      "source": "东方财富 · 科创板日报",
+      "title": "AI叙事转折之后，长城证券汪毅给出2027年A股的“纺锤型”机会 ｜ 2026华夏城市产业链大会",
+      "summary": "“底部的形成需要强有力的政策和资金的推动。”11月26日下午，北京第十届华夏城市产业链发展大会现场，长城证券首席经济学…",
+      "url": "https://finance.eastmoney.com/a/202611273941989676.html",
+      "publishedAt": "2026-11-27T13:35:00.000Z",
+      "source": "东方财富 · 华夏时报网",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
       "number": 27
     },
     {
-      "title": "永辉超市第三季度亏损延续 93.5%负债率悬顶仍拿不超过60亿自有资金理财加剧亏损",
-      "url": "https://finance.sina.com.cn/stock/observe/2026-11-27/doc-inkaenef3183296.shtml",
-      "summary": "出品：新浪财经上市公司研究院 作者：cici 2024年5月于东来团队进驻郑州信万广场店时，永辉已连亏三年，门店从巅峰…",
-      "source": "新浪证券 · 新浪财经",
-      "publishedAt": "2026-11-27T09:23:48.000Z",
       "category": "金融",
       "topic": "A股",
-      "sourceId": "cn-stock",
+      "title": "11月27日晚间上市公司利好消息一览(附名单)",
+      "summary": "沪深两市多家上市公司11月27日晚间发布重要公告，以下为利好的消息汇总：",
+      "url": "https://finance.eastmoney.com/a/202611273941923444.html",
+      "publishedAt": "2026-11-27T12:44:00.000Z",
+      "source": "东方财富 · 东方财富研究中心",
       "kind": "报道",
+      "sourceId": "eastmoney-cn-stock",
       "number": 28
     },
     {
-      "title": "62亿天量！大牛股002242午后闪崩，谁在砸盘出逃",
-      "url": "https://finance.sina.com.cn/stock/s/2026-11-27/doc-inkaenea7837882.shtml",
-      "summary": "来源：华夏时报 11月27日午后，A股人气第一股九阳股份（002242）上午股价一路震荡上冲，午后股价突然闪崩，从14…",
-      "source": "市场资讯 · 新浪财经",
-      "publishedAt": "2026-11-27T09:20:22.000Z",
       "category": "金融",
       "topic": "A股",
-      "sourceId": "cn-stock",
+      "title": "中国金融稳定报告（2026）：证监会将适时推广新模式浮动管理费率基金 提高权益类基金占比和公募基金持股市值占比",
+      "summary": "中国人民银行发布了《中国金融稳定报告（2026）》。报告指出，中国证监会将持续深化公募基金改革。一是完善公募基金产品谱…",
+      "url": "https://finance.eastmoney.com/a/202611273941895645.html",
+      "publishedAt": "2026-11-27T12:15:00.000Z",
+      "source": "东方财富 · 界面新闻",
       "kind": "报道",
+      "sourceId": "eastmoney-cn-stock",
       "number": 29
     },
     {
       "category": "金融",
       "topic": "A股",
-      "title": "东山精密冒小燕：股价回落但在手订单未受明显影响 PCB、光模块迭代需要保持连续性",
-      "summary": "11月26日，东山精密董事、副总经理、董事会秘书冒小燕在“华山论践（2026）·长三角科创并购创新实践论坛”的圆桌讨论…",
-      "url": "https://finance.eastmoney.com/a/202611273941754959.html",
-      "publishedAt": "2026-11-27T09:18:00.000Z",
-      "source": "东方财富 · 科创板日报",
-      "kind": "报道",
+      "title": "摩根大通看多A股：沪深300指数明年有望站上4800点",
+      "summary": "11月27日，记者获悉，摩根大通最新发布中国A股股票策略2027年展望，主题为“创新型和收入型标的构成的杠铃”。",
+      "url": "https://finance.eastmoney.com/a/202611273941875982.html",
+      "publishedAt": "2026-11-27T11:55:00.000Z",
+      "source": "东方财富 · 21世纪经济报道",
+      "kind": "观点",
       "sourceId": "eastmoney-cn-stock",
       "number": 30
+    },
+    {
+      "category": "金融",
+      "topic": "A股",
+      "title": "华为概念股集体涨停！AI芯片全线走强，天数智芯、壁仞科技涨超25%，国产替代迎窗口？",
+      "summary": "11月27日，华为算力产业链再度集体走强。",
+      "url": "https://finance.eastmoney.com/a/202611273941878714.html",
+      "publishedAt": "2026-11-27T11:49:00.000Z",
+      "source": "东方财富 · 时代周报",
+      "kind": "报道",
+      "sourceId": "eastmoney-cn-stock",
+      "number": 31
+    },
+    {
+      "category": "金融",
+      "topic": "中国期货",
+      "title": "上期所发布关于瓦楞原纸期货上市交易有关事项的通知",
+      "summary": "中国证监会已同意上海期货交易所（以下简称上期所）瓦楞原纸期货及期权注册。根据上期所相关规则，现将有关事项通知如下：",
+      "url": "https://finance.eastmoney.com/a/202611273941761073.html",
+      "publishedAt": "2026-11-27T09:25:00.000Z",
+      "source": "东方财富 · 上期所",
+      "kind": "报道",
+      "sourceId": "eastmoney-futures",
+      "number": 32
     },
     {
       "title": "上期所：瓦楞原纸期货自2026年12月18日（周五）起上市交易",
@@ -1666,7 +1822,7 @@
       "topic": "中国期货",
       "sourceId": "futures-1",
       "kind": "报道",
-      "number": 31
+      "number": 33
     },
     {
       "title": "上期所：做好各项准备工作 确保瓦楞原纸期货和期权平稳推出和稳健运行",
@@ -1678,7 +1834,7 @@
       "topic": "中国期货",
       "sourceId": "futures-1",
       "kind": "报道",
-      "number": 32
+      "number": 34
     },
     {
       "title": "中国证监会同意瓦楞原纸期货和期权注册",
@@ -1690,7 +1846,7 @@
       "topic": "中国期货",
       "sourceId": "futures-1",
       "kind": "报道",
-      "number": 33
+      "number": 35
     },
     {
       "title": "长安期货梁安迪：外盘提振郑糖反弹，国内基本面或限制高度",
@@ -1702,7 +1858,7 @@
       "topic": "中国期货",
       "sourceId": "futures-1",
       "kind": "报道",
-      "number": 34
+      "number": 36
     },
     {
       "category": "金融",
@@ -1714,43 +1870,101 @@
       "source": "东方财富 · 界面新闻",
       "kind": "报道",
       "sourceId": "eastmoney-futures",
-      "number": 35
-    },
-    {
-      "category": "金融",
-      "topic": "中国期货",
-      "title": "期市收评 | 商品期货大面积飘红 有色贵金属板块大涨",
-      "summary": "新华社：国务院总理李强11月27日主持召开国务院常务会议，会议指出，资本市场事关经济发展大局。要坚持目标导向、问题导向…",
-      "url": "https://finance.eastmoney.com/a/202611273941653021.html",
-      "publishedAt": "2026-11-27T07:20:00.000Z",
-      "source": "东方财富 · 东方财富研究中心",
-      "kind": "报道",
-      "sourceId": "eastmoney-futures",
-      "number": 36
-    },
-    {
-      "category": "金融",
-      "topic": "宏观财经",
-      "title": "特朗普政府拟加征新关税 美联储12月加息及利率走高可能性上升",
-      "summary": "美东时间11月25日，美国贸易代表办公室（USTR）宣布“产能过剩”301调查结果，发布拟议措施，提出对14个经济体加…",
-      "url": "https://finance.eastmoney.com/a/202611273941747235.html",
-      "publishedAt": "2026-11-27T09:05:00.000Z",
-      "source": "东方财富 · 第一财经",
-      "kind": "报道",
-      "sourceId": "eastmoney-macro",
       "number": 37
     },
     {
       "category": "金融",
       "topic": "宏观财经",
-      "title": "德国11月季调后失业率为6.4% 预期6.4%",
-      "summary": "德国11月季调后失业率为6.4%，预期6.4%，前值6.4%。",
-      "url": "https://finance.eastmoney.com/a/202611273941740138.html",
-      "publishedAt": "2026-11-27T08:55:00.000Z",
-      "source": "东方财富 · 财联社",
+      "title": "央行发布人民币存贷款利率管理新规：取消贷款罚息利率的上下限",
+      "summary": "11月27日，中国人民银行发布《人民币存贷款利率管理规定》（下称《规定》），自2027年3月21日起施行。原《人民币利…",
+      "url": "https://finance.eastmoney.com/a/202611273941971653.html",
+      "publishedAt": "2026-11-27T13:38:00.000Z",
+      "source": "东方财富 · 澎湃新闻",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
       "number": 38
+    },
+    {
+      "category": "金融",
+      "topic": "宏观财经",
+      "title": "欧洲央行管委内格尔表示，预计2027年通胀率将持续高于3%",
+      "summary": "欧洲央行管委内格尔表示，预计2027年通胀率将持续高于3%。",
+      "url": "https://finance.eastmoney.com/a/202611273941951425.html",
+      "publishedAt": "2026-11-27T13:05:00.000Z",
+      "source": "东方财富 · 财联社",
+      "kind": "观点",
+      "sourceId": "eastmoney-macro",
+      "number": 39
+    },
+    {
+      "category": "金融",
+      "topic": "宏观财经",
+      "title": "央行发布存贷款利率新规 罚息不再默认“顶格上浮50%” 机构计息系统面临改造压力",
+      "summary": "11月27日，人民银行发布《人民币存贷款利率管理规定》（下称《新规》），自2027年3月21日起施行，这也是1999年…",
+      "url": "https://finance.eastmoney.com/a/202611273941924887.html",
+      "publishedAt": "2026-11-27T12:52:00.000Z",
+      "source": "东方财富 · 财联社",
+      "kind": "报道",
+      "sourceId": "eastmoney-macro",
+      "number": 40
+    },
+    {
+      "category": "金融",
+      "topic": "宏观财经",
+      "title": "央行：研究建立在特定情景下向非银机构提供流动性的机制性安排 发挥好两项支持资本市场的货币政策工具作用",
+      "summary": "中国人民银行发布《中国金融稳定报告（2026）》。《报告》提到，切实增强资本市场内在稳定性。全方位加强资本市场监测预警…",
+      "url": "https://finance.eastmoney.com/a/202611273941893334.html",
+      "publishedAt": "2026-11-27T12:09:00.000Z",
+      "source": "东方财富 · 界面新闻",
+      "kind": "报道",
+      "sourceId": "eastmoney-macro",
+      "number": 41
+    },
+    {
+      "category": "金融",
+      "topic": "宏观财经",
+      "title": "央行：个人投资人认购大额存单起点金额修改为不低于10万元",
+      "summary": "《大额存单管理办法（征求意见稿）》（以下简称《办法》）于2026年6月12日至7月12日面向社会公开征求意见。在征求期…",
+      "url": "https://finance.eastmoney.com/a/202611273941799673.html",
+      "publishedAt": "2026-11-27T10:19:00.000Z",
+      "source": "东方财富 · 央行网站",
+      "kind": "报道",
+      "sourceId": "eastmoney-macro",
+      "number": 42
+    },
+    {
+      "category": "金融",
+      "topic": "宏观财经",
+      "title": "央行发布《人民币存贷款利率管理规定》 自2027年3月21日起施行",
+      "summary": "中国人民银行令〔2026〕第5号（人民币存贷款利率管理规定）",
+      "url": "https://finance.eastmoney.com/a/202611273941797846.html",
+      "publishedAt": "2026-11-27T10:16:00.000Z",
+      "source": "东方财富 · 央行网站",
+      "kind": "报道",
+      "sourceId": "eastmoney-macro",
+      "number": 43
+    },
+    {
+      "title": "加拿大近30万民众联名请愿要求驱逐美国大使",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738967.shtml",
+      "summary": "中新社北京11月27日电 渥太华消息：当地时间26日，呼吁加拿大政府驱逐美国驻加大使皮特·胡克斯特拉的请愿书被提交至加…",
+      "publishedAt": "2026-11-27T12:24:18.000Z",
+      "category": "政治",
+      "topic": "美国",
+      "source": "中国新闻网",
+      "sourceId": "us-politics",
+      "number": 44
+    },
+    {
+      "title": "特朗普：黄仁勋重返英伟达是件“好事”，他本人也很高兴回归",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738926.shtml",
+      "summary": "中新网11月27日电 据美国福克斯新闻网27日报道，美国总统特朗普表示，黄仁勋重返英伟达对美国和世界来说都是一件“好事…",
+      "publishedAt": "2026-11-27T10:43:44.000Z",
+      "category": "政治",
+      "topic": "美国",
+      "source": "中国新闻网",
+      "sourceId": "us-politics",
+      "number": 45
     },
     {
       "title": "GDP上修，特朗普“上火”",
@@ -1761,7 +1975,7 @@
       "topic": "美国",
       "source": "中国新闻网",
       "sourceId": "us-politics",
-      "number": 39
+      "number": 46
     },
     {
       "title": "美国大幅上修GDP至4.3%，特朗普“炮轰”商务部",
@@ -1772,7 +1986,7 @@
       "topic": "美国",
       "source": "中国新闻网",
       "sourceId": "us-politics",
-      "number": 40
+      "number": 47
     },
     {
       "title": "特朗普批准美国佛州重大灾害声明",
@@ -1783,62 +1997,40 @@
       "topic": "美国",
       "source": "中国新闻网",
       "sourceId": "us-politics",
-      "number": 41
+      "number": 48
     },
     {
-      "title": "特朗普：与普京会谈中，已敦促其尽快与乌克兰达成协议",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738478.shtml",
-      "summary": "中新网11月27日电 综合报道，美国总统特朗普当地时间26日在社交媒体发文表示，他日前在与俄罗斯总统普京的会谈中敦促其…",
-      "publishedAt": "2026-11-26T23:02:40.000Z",
-      "category": "政治",
-      "topic": "美国",
-      "source": "中国新闻网",
-      "sourceId": "us-politics",
-      "number": 42
-    },
-    {
-      "title": "巴西副总统：美国对巴西加征新关税完全不合理",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738476.shtml",
-      "summary": "当地时间11月26日，巴西副总统阿尔克明表示，美国提出对巴西加征的新关税完全不合理，巴西政府将尽全力扭转这一局面。阿尔…",
-      "publishedAt": "2026-11-26T22:57:06.000Z",
-      "category": "政治",
-      "topic": "美国",
-      "source": "中国新闻网",
-      "sourceId": "us-politics",
-      "number": 43
-    },
-    {
-      "title": "特朗普：在与普京会谈中敦促其尽快与乌克兰达成协议",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738474.shtml",
-      "summary": "美国总统特朗普26日在社交媒体发文说，他日前在与俄罗斯总统普京的会谈中敦促其尽快与乌克兰达成协议，以结束俄乌冲突。",
-      "publishedAt": "2026-11-26T22:37:27.000Z",
-      "category": "政治",
-      "topic": "美国",
-      "source": "中国新闻网",
-      "sourceId": "us-politics",
-      "number": 44
-    },
-    {
-      "title": "残疾人、老年人代表当“验收员” 江西立法推进无障碍环境建设",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738854.shtml",
-      "summary": "中新网南昌11月27日电 (朱莹)27日，《江西省无障碍环境建设条例》(以下简称《条例》)新闻发布会在南昌举行。《条例…",
-      "publishedAt": "2026-11-27T09:07:43.000Z",
+      "title": "中方学者：亚太作为合作高地的基本面没有变",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739030.shtml",
+      "summary": "中新社北京11月27日电 (记者 李纯)“亚太总体保持稳定局面，作为世界经济增长引擎的地位没有变，作为合作高地的基本面…",
+      "publishedAt": "2026-11-27T13:31:31.000Z",
       "category": "政治",
       "topic": "中国",
       "source": "中国新闻网",
       "sourceId": "cn-politics",
-      "number": 45
+      "number": 49
     },
     {
-      "title": "李强将与全球主要国际经济组织负责人举行“1+10”对话会",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738734.shtml",
-      "summary": "中新网北京11月27日电 (记者 曾玥)中国外交部发言人27日宣布：中国国务院总理李强将于12月2日上午在福建省厦门市…",
-      "publishedAt": "2026-11-27T07:11:17.000Z",
+      "title": "山东省政协十三届四次会议创新开展重点提案督办带动同类提案联动办理工作",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738943.shtml",
+      "summary": "中新网济南11月27日电 (李明芮)记者11月27日从山东省人民政府新闻办公室召开的发布会上获悉，今年，山东省政协十三…",
+      "publishedAt": "2026-11-27T11:20:38.000Z",
       "category": "政治",
       "topic": "中国",
       "source": "中国新闻网",
       "sourceId": "cn-politics",
-      "number": 46
+      "number": 50
+    },
+    {
+      "title": "广西壮族自治区政府原主席蓝天立一审被判死缓",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738930.shtml",
+      "summary": "中新社北京11月27日电 (记者 张素)记者从中国最高人民法院获悉，11月27日，湖南省常德市中级人民法院一审公开宣判…",
+      "publishedAt": "2026-11-27T10:55:43.000Z",
+      "category": "政治",
+      "topic": "中国",
+      "source": "中国新闻网",
+      "sourceId": "cn-politics",
+      "number": 51
     },
     {
       "category": "AI",
@@ -1851,7 +2043,7 @@
       "reportDate": "2026-11-27",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 47
+      "number": 52
     },
     {
       "category": "AI",
@@ -1864,7 +2056,7 @@
       "reportDate": "2026-11-27",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 48
+      "number": 53
     },
     {
       "category": "AI",
@@ -1877,7 +2069,7 @@
       "reportDate": "2026-11-27",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 49
+      "number": 54
     },
     {
       "category": "AI",
@@ -1890,7 +2082,7 @@
       "reportDate": "2026-11-27",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 50
+      "number": 55
     },
     {
       "category": "AI",
@@ -1903,7 +2095,7 @@
       "reportDate": "2026-11-27",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 51
+      "number": 56
     },
     {
       "category": "AI",
@@ -1916,7 +2108,7 @@
       "reportDate": "2026-11-27",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 52
+      "number": 57
     },
     {
       "category": "AI",
@@ -1929,7 +2121,7 @@
       "reportDate": "2026-11-27",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 53
+      "number": 58
     },
     {
       "category": "AI",
@@ -1942,7 +2134,7 @@
       "reportDate": "2026-11-27",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 54
+      "number": 59
     },
     {
       "category": "AI",
@@ -1955,7 +2147,7 @@
       "reportDate": "2026-11-27",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 55
+      "number": 60
     }
   ]
 }
