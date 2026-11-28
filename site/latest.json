@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-11-28T08:28:49.895Z",
+  "collectedAt": "2026-11-28T08:54:37.650Z",
   "topics": {
     "时事": [
       "百度热搜"
@@ -38,7 +38,7 @@
       "name": "百度热搜 · 时事",
       "url": "https://top.baidu.com/board?tab=realtime",
       "status": "error",
-      "lastAttempt": "2026-11-28T08:28:49.895Z",
+      "lastAttempt": "2026-11-28T08:54:37.650Z",
       "lastSuccess": "2026-11-26T00:22:36.390Z",
       "items": [
         {
@@ -120,8 +120,8 @@
       "name": "网易体育（署名媒体）",
       "url": "https://sports.163.com/",
       "status": "ok",
-      "lastAttempt": "2026-11-28T08:28:49.895Z",
-      "lastSuccess": "2026-11-28T08:28:49.895Z",
+      "lastAttempt": "2026-11-28T08:54:37.650Z",
+      "lastSuccess": "2026-11-28T08:54:37.650Z",
       "items": [
         {
           "title": "东契奇谈冲突：我每次都会把护腕给球迷，但那人不要还推我",
@@ -157,37 +157,48 @@
           "number": 3
         },
         {
-          "title": "热刺上一次对阵桑德兰0-1告负，但在此之前15场不败",
-          "url": "https://www.163.com/dy/article/LCR8469R0549BAP0.html",
+          "title": "伊劳拉融入利物浦，靠点滴小事逐渐赢得球迷喜爱",
+          "url": "https://www.163.com/dy/article/LCR9SL4O0549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-28T08:18:23.000Z",
+          "publishedAt": "2026-11-28T08:49:13.000Z",
           "category": "体育",
           "topic": "英超",
           "sourceId": "sports",
-          "summary": "北京时间11月29日22点05分，英超第12轮，托特纳姆热刺将客场挑战桑德兰。两队上次交手，热刺0-1落败，而在此之前…",
+          "summary": "据《每日邮报》报道，伊劳拉与众不同的第一个迹象，出现在今年夏天利物浦季前巡回赛的芝加哥之旅中。",
           "number": 4
         },
         {
-          "title": "葡媒：阿森纳将求购葡体后卫弗雷斯内达，准备近期行动",
-          "url": "https://www.163.com/dy/article/LCR65HQU0549BAP0.html",
+          "title": "四大AI分析曼联vs布伦特福德：两家看好主胜，两家倾向平局",
+          "url": "https://www.163.com/dy/article/LCR9SL3D0549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-28T07:44:10.000Z",
+          "publishedAt": "2026-11-28T08:49:13.000Z",
           "category": "体育",
           "topic": "英超",
           "sourceId": "sports",
-          "summary": "据Record报道，阿森纳将伊万-弗雷斯内达视为补强右路防线的优先目标，并准备在近期将兴趣转化为实际行动。",
+          "summary": "北京时间11月28日23点，英超第12轮，曼联将在老特拉福德球场迎战布伦特福德。",
           "number": 5
         },
         {
-          "title": "每次只赢1个，利物浦近3次对阵埃弗顿取得3连胜",
-          "url": "https://www.163.com/dy/article/LCR65F7J0549BAP0.html",
+          "title": "主客表现：曼联进球回升，布伦特福德客场连败",
+          "url": "https://www.163.com/dy/article/LCR9SM490549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-28T07:44:08.000Z",
+          "publishedAt": "2026-11-28T08:49:14.000Z",
           "category": "体育",
           "topic": "英超",
           "sourceId": "sports",
-          "summary": "北京时间11月29日20点，英超第12轮将迎来默西塞德德比，埃弗顿坐镇希尔-迪金森球场迎战利物浦。两队交锋数据显示，红…",
+          "summary": "北京时间11月28日23点，英超将迎来曼联与布伦特福德的较量。",
           "number": 6
+        },
+        {
+          "title": "时隔八年再交锋，巴萨最后一次对阵拉科出场的球员已全部离队",
+          "url": "https://www.163.com/dy/article/LCR9SLG40549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-11-28T08:49:13.000Z",
+          "category": "体育",
+          "topic": "西甲",
+          "sourceId": "sports",
+          "summary": "北京时间11月29日23点15分，西甲第14轮，巴塞罗那将做客里亚索球场挑战拉科鲁尼亚。这场对决自带岁月的印记，两队上…",
+          "number": 7
         },
         {
           "title": "巴萨周年纪念日联赛已10连胜",
@@ -198,7 +209,7 @@
           "topic": "西甲",
           "sourceId": "sports",
           "summary": "据《世界体育报》报道，巴塞罗那本周日迎来建队127周年纪念，和去年一样，今年又恰逢联赛比赛日，这次是在里亚索尔客场对阵…",
-          "number": 7
+          "number": 8
         },
         {
           "title": "巴萨本周日迎建队127周年，客战拉科冲击纪念日11连胜",
@@ -209,51 +220,51 @@
           "topic": "西甲",
           "sourceId": "sports",
           "summary": "据《世界体育报》报道，巴塞罗那将在本周日迎来俱乐部成立127周年纪念日，届时球队将客场挑战拉科鲁尼亚。巴萨希望延续在俱…",
-          "number": 8
-        },
-        {
-          "title": "想要赢球不容易，马竞近4次对阵埃尔切仅取得1场胜利",
-          "url": "https://www.163.com/dy/article/LCR4V2E00549BAP0.html",
-          "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-28T07:23:09.000Z",
-          "category": "体育",
-          "topic": "西甲",
-          "sourceId": "sports",
-          "summary": "北京时间11月29日凌晨1点30分，西甲第14轮，马德里竞技将做客巴雷罗球场挑战埃尔切。尽管床单军团高居西甲积分榜第三…",
           "number": 9
         },
         {
-          "title": "德媒：德国女足主帅维克忧心青训，呼吁德甲给年轻球员更多出场机会",
-          "url": "https://www.163.com/dy/article/LCR845U10549BAP0.html",
+          "title": "穆西亚拉伤病不断且高薪低回报，拜仁陷入两难",
+          "url": "https://www.163.com/dy/article/LCR9SL4G0549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-28T08:18:23.000Z",
+          "publishedAt": "2026-11-28T08:49:13.000Z",
           "category": "体育",
           "topic": "德甲",
           "sourceId": "sports",
-          "summary": "据 Sport1 报道，德国女足主教练克里斯蒂安-维克在采访中对女足德甲的人才培养现状表达担忧，批评联赛里年轻小将获得…",
+          "summary": "据《每日邮报》报道，四年前的这一周，我曾与马特乌斯交谈——而他当时满心只想谈论穆西亚拉。",
           "number": 10
         },
         {
-          "title": "主客表现：汉堡主场连续进球，拜仁争胜难言轻松",
-          "url": "https://www.163.com/dy/article/LCR844TR0549BAP0.html",
+          "title": "四大AI分析汉堡vs拜仁慕尼黑：四家一致看好客胜",
+          "url": "https://www.163.com/dy/article/LCR9SLQV0549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-28T08:18:22.000Z",
+          "publishedAt": "2026-11-28T08:49:14.000Z",
           "category": "体育",
           "topic": "德甲",
           "sourceId": "sports",
-          "summary": "北京时间11月28日22点30分，德甲将迎来汉堡与拜仁慕尼黑的较量。",
+          "summary": "北京时间11月28日22点30分，德甲第11轮，汉堡将在人民公园球场迎战拜仁慕尼黑。",
           "number": 11
         },
         {
-          "title": "马特乌斯：拜仁若丢分多特必须抓住机会，圣诞前赛程更难",
-          "url": "https://www.163.com/dy/article/LCR6PIM50549BAP0.html",
+          "title": "安德里希：勒沃库森有能力客胜多特，但对手很难啃",
+          "url": "https://www.163.com/dy/article/LCR9SL5C0549BAP0.html",
           "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-28T07:55:07.000Z",
+          "publishedAt": "2026-11-28T08:49:13.000Z",
           "category": "体育",
           "topic": "德甲",
           "sourceId": "sports",
-          "summary": "据德国天空体育报道，马特乌斯、哈曼两大名宿对本赛季拜仁、多特的争冠形势发表看法。",
+          "summary": "据《踢球者》报道，面对领头羊多特蒙德，勒沃库森即将迎来一场关键之战。老将安德里希显得斗志昂扬，但门将弗莱肯也流露出了一…",
           "number": 12
+        },
+        {
+          "title": "曼奇尼：看好罗马本赛季意甲夺冠；后悔之前离开国家队",
+          "url": "https://www.163.com/dy/article/LCR9SLON0549BAP0.html",
+          "source": "懂球帝 · 网易体育",
+          "publishedAt": "2026-11-28T08:49:14.000Z",
+          "category": "体育",
+          "topic": "意甲",
+          "sourceId": "sports",
+          "summary": "近日，意大利国家队主帅曼奇尼接受了《罗马体育报》独家专访。",
+          "number": 13
         },
         {
           "title": "意甲历史首次，科莫将在积分榜领先尤文的情况下交锋",
@@ -264,7 +275,7 @@
           "topic": "意甲",
           "sourceId": "sports",
           "summary": "据《罗马体育报》报道，科莫与尤文图斯之间的较量，正体现着两队在欧洲赛场与意甲联赛中角色的彻底颠倒：谁能想象得到这样的局…",
-          "number": 13
+          "number": 14
         },
         {
           "title": "比亚辛：意甲前5球队全都表现出色；国米球员已能淡化外界言论",
@@ -275,17 +286,6 @@
           "topic": "意甲",
           "sourceId": "sports",
           "summary": "记者法布里齐奥-比亚辛在《Cronache di Spogliatoio》节目中发言时，回应了外界针对国际米兰的诸多批…",
-          "number": 14
-        },
-        {
-          "title": "米体：弗罗西诺内意甲对帕尔马不败，两队上轮均1-5惨败",
-          "url": "https://www.163.com/dy/article/LCQBHP920549BAP0.html",
-          "source": "懂球帝 · 网易体育",
-          "publishedAt": "2026-11-27T23:59:00.000Z",
-          "category": "体育",
-          "topic": "意甲",
-          "sourceId": "sports",
-          "summary": "据《米兰体育报》报道，意甲第13轮，弗罗西诺内将在主场迎战帕尔马，开球时间为当地时间周六15:00（北京时间周六22:…",
           "number": 15
         },
         {
@@ -339,8 +339,8 @@
       "name": "东方财富 · 美股",
       "url": "https://stock.eastmoney.com/america.html",
       "status": "ok",
-      "lastAttempt": "2026-11-28T08:28:49.895Z",
-      "lastSuccess": "2026-11-28T08:28:49.895Z",
+      "lastAttempt": "2026-11-28T08:54:37.650Z",
+      "lastSuccess": "2026-11-28T08:54:37.650Z",
       "items": [
         {
           "category": "金融",
@@ -382,8 +382,8 @@
       "name": "东方财富 · A股",
       "url": "https://stock.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-11-28T08:28:49.895Z",
-      "lastSuccess": "2026-11-28T08:28:49.895Z",
+      "lastAttempt": "2026-11-28T08:54:37.650Z",
+      "lastSuccess": "2026-11-28T08:54:37.650Z",
       "items": [
         {
           "category": "金融",
@@ -410,22 +410,33 @@
         {
           "category": "金融",
           "topic": "A股",
-          "title": "A股一周牛股出炉：最牛股涨超67% 克来机电5天全涨停",
-          "summary": "据21财经雷达，本周（11月23日—27日），A股三大指数先抑后扬，集体收涨。上证指数周涨2.06%，收报3606.4…",
-          "url": "https://finance.eastmoney.com/a/202611283942327361.html",
-          "publishedAt": "2026-11-28T00:30:00.000Z",
-          "source": "东方财富 · 21世纪经济报道",
+          "title": "A股跨年行情起点或已在眼前！",
+          "summary": "11月27日，周五，A股收出了一根令人意外且惊喜的大阳线，创业板、科创50、北证50指数日涨幅均超过了10%，而就在前…",
+          "url": "https://finance.eastmoney.com/a/202611283942365860.html",
+          "publishedAt": "2026-11-28T07:05:00.000Z",
+          "source": "东方财富 · 证券市场周刊",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
         {
           "category": "金融",
           "topic": "A股",
-          "title": "A股跨年行情起点或已在眼前！",
-          "summary": "11月27日，周五，A股收出了一根令人意外且惊喜的大阳线，创业板、科创50、北证50指数日涨幅均超过了10%，而就在前…",
-          "url": "https://finance.eastmoney.com/a/202611283942365860.html",
-          "publishedAt": "2026-11-28T07:05:00.000Z",
-          "source": "东方财富 · 证券市场周刊",
+          "title": "摩根大通看多A股：沪深300指数明年有望站上4800点！高盛、瑞银、大摩也发声",
+          "summary": "近日，摩根大通、高盛、瑞银、摩根士丹利等纷纷发声，集体看多中国股市。",
+          "url": "https://finance.eastmoney.com/a/202611283942373129.html",
+          "publishedAt": "2026-11-28T08:42:00.000Z",
+          "source": "东方财富 · 中新经纬",
+          "kind": "观点",
+          "sourceId": "eastmoney-cn-stock"
+        },
+        {
+          "category": "金融",
+          "topic": "A股",
+          "title": "辽宁上市公司统筹用好回购增持等政策工具 扎实推进上市公司价值管理",
+          "summary": "近期，资本市场多项政策密集出台。辽宁多家上市公司积极响应市场导向，以股份回购、控股股东增持等实际行动传递发展信心，助力…",
+          "url": "https://finance.eastmoney.com/a/202611283942372921.html",
+          "publishedAt": "2026-11-28T08:27:00.000Z",
+          "source": "东方财富 · 证券时报网",
           "kind": "报道",
           "sourceId": "eastmoney-cn-stock"
         },
@@ -498,17 +509,6 @@
         {
           "category": "金融",
           "topic": "A股",
-          "title": "青岛啤酒被调出沪深300指数，第三季度营收同比、环比均下滑，布局烈酒威士忌赛道",
-          "summary": "11月27日，中证指数公司发布公告称，决定调整沪深300、中证500、中证1000、中证A50、中证A100、中证A5…",
-          "url": "https://finance.eastmoney.com/a/202611283942362163.html",
-          "publishedAt": "2026-11-28T05:51:00.000Z",
-          "source": "东方财富 · 深圳商报·读创",
-          "kind": "报道",
-          "sourceId": "eastmoney-cn-stock"
-        },
-        {
-          "category": "金融",
-          "topic": "A股",
           "title": "桃李面包被调出中证1000指数，业绩股价双双“不给力”，未来拟多维施策谋突围",
           "summary": "11月27日，中证指数公司发布公告称，决定调整沪深300、中证500、中证1000、中证A50、中证A100、中证A5…",
           "url": "https://finance.eastmoney.com/a/202611283942366950.html",
@@ -568,8 +568,8 @@
       "name": "东方财富 · 中国期货",
       "url": "https://futures.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-11-28T08:28:49.895Z",
-      "lastSuccess": "2026-11-28T08:28:49.895Z",
+      "lastAttempt": "2026-11-28T08:54:37.650Z",
+      "lastSuccess": "2026-11-28T08:54:37.650Z",
       "items": [
         {
           "category": "金融",
@@ -589,8 +589,8 @@
       "name": "东方财富 · 宏观财经",
       "url": "https://finance.eastmoney.com/",
       "status": "ok",
-      "lastAttempt": "2026-11-28T08:28:49.895Z",
-      "lastSuccess": "2026-11-28T08:28:49.895Z",
+      "lastAttempt": "2026-11-28T08:54:37.650Z",
+      "lastSuccess": "2026-11-28T08:54:37.650Z",
       "items": [
         {
           "category": "金融",
@@ -622,6 +622,17 @@
           "url": "https://finance.eastmoney.com/a/202611283942336025.html",
           "publishedAt": "2026-11-28T01:38:00.000Z",
           "source": "东方财富 · 券商中国",
+          "kind": "报道",
+          "sourceId": "eastmoney-macro"
+        },
+        {
+          "category": "金融",
+          "topic": "宏观财经",
+          "title": "事关你的存款！央行，重要调整！",
+          "summary": "11月27日，中国人民银行（以下简称央行）发布《大额存单管理办法》和《人民币存贷款利率管理规定》，均自2027年3月2…",
+          "url": "https://finance.eastmoney.com/a/202611283942374247.html",
+          "publishedAt": "2026-11-28T08:14:00.000Z",
+          "source": "东方财富 · 中国商报",
           "kind": "报道",
           "sourceId": "eastmoney-macro"
         },
@@ -665,8 +676,8 @@
       "name": "新浪财经 · 美股",
       "url": "https://finance.sina.com.cn/stock/usstock/",
       "status": "ok",
-      "lastAttempt": "2026-11-28T08:28:49.895Z",
-      "lastSuccess": "2026-11-28T08:28:49.895Z",
+      "lastAttempt": "2026-11-28T08:54:37.650Z",
+      "lastSuccess": "2026-11-28T08:54:37.650Z",
       "items": [
         {
           "title": "马斯克：谷歌已表示有兴趣从SpaceX租用更多算力",
@@ -807,8 +818,8 @@
       "name": "新浪财经 · A股",
       "url": "https://finance.sina.com.cn/stock/",
       "status": "ok",
-      "lastAttempt": "2026-11-28T08:28:49.895Z",
-      "lastSuccess": "2026-11-28T08:28:49.895Z",
+      "lastAttempt": "2026-11-28T08:54:37.650Z",
+      "lastSuccess": "2026-11-28T08:54:37.650Z",
       "items": [
         {
           "title": "A股跨年行情起点或已在眼前！",
@@ -916,8 +927,8 @@
       "name": "新浪财经 · 期货订阅 1",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-11-28T08:28:49.895Z",
-      "lastSuccess": "2026-11-28T08:28:49.895Z",
+      "lastAttempt": "2026-11-28T08:54:37.650Z",
+      "lastSuccess": "2026-11-28T08:54:37.650Z",
       "items": []
     },
     {
@@ -925,8 +936,8 @@
       "name": "新浪财经 · 期货订阅 2",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-11-28T08:28:49.895Z",
-      "lastSuccess": "2026-11-28T08:28:49.895Z",
+      "lastAttempt": "2026-11-28T08:54:37.650Z",
+      "lastSuccess": "2026-11-28T08:54:37.650Z",
       "items": [
         {
           "title": "中天期货:焦煤继续走强 螺纹继续反弹",
@@ -946,8 +957,8 @@
       "name": "新浪财经 · 期货订阅 3",
       "url": "https://finance.sina.com.cn/",
       "status": "ok",
-      "lastAttempt": "2026-11-28T08:28:49.895Z",
-      "lastSuccess": "2026-11-28T08:28:49.895Z",
+      "lastAttempt": "2026-11-28T08:54:37.650Z",
+      "lastSuccess": "2026-11-28T08:54:37.650Z",
       "items": [
         {
           "title": "上期所：瓦楞原纸期货自2026年12月18日（周五）起上市交易",
@@ -978,8 +989,8 @@
       "name": "中新网 · 国际",
       "url": "https://www.chinanews.com.cn/rss/world.xml",
       "status": "ok",
-      "lastAttempt": "2026-11-28T08:28:49.895Z",
-      "lastSuccess": "2026-11-28T08:28:49.895Z",
+      "lastAttempt": "2026-11-28T08:54:37.650Z",
+      "lastSuccess": "2026-11-28T08:54:37.650Z",
       "items": [
         {
           "title": "墨西哥抗议美国在墨开通举报热线",
@@ -1028,8 +1039,8 @@
       "name": "中新网 · 国内",
       "url": "https://www.chinanews.com.cn/rss/china.xml",
       "status": "ok",
-      "lastAttempt": "2026-11-28T08:28:49.895Z",
-      "lastSuccess": "2026-11-28T08:28:49.895Z",
+      "lastAttempt": "2026-11-28T08:54:37.650Z",
+      "lastSuccess": "2026-11-28T08:54:37.650Z",
       "items": [
         {
           "title": "甘肃人大推进全过程人民民主实践 代表履职接地气惠民生",
@@ -1070,16 +1081,6 @@
           "topic": "中国",
           "source": "中国新闻网",
           "sourceId": "cn-politics"
-        },
-        {
-          "title": "中方学者：亚太作为合作高地的基本面没有变",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739030.shtml",
-          "summary": "中新社北京11月27日电 (记者 李纯)“亚太总体保持稳定局面，作为世界经济增长引擎的地位没有变，作为合作高地的基本面…",
-          "publishedAt": "2026-11-27T13:31:31.000Z",
-          "category": "政治",
-          "topic": "中国",
-          "source": "中国新闻网",
-          "sourceId": "cn-politics"
         }
       ]
     },
@@ -1088,8 +1089,8 @@
       "name": "AI HOT",
       "url": "https://aihot.news/",
       "status": "ok",
-      "lastAttempt": "2026-11-28T08:28:49.895Z",
-      "lastSuccess": "2026-11-28T08:28:49.895Z",
+      "lastAttempt": "2026-11-28T08:54:37.650Z",
+      "lastSuccess": "2026-11-28T08:54:37.650Z",
       "items": [
         {
           "category": "AI",
@@ -1165,37 +1166,48 @@
       "number": 3
     },
     {
-      "title": "热刺上一次对阵桑德兰0-1告负，但在此之前15场不败",
-      "url": "https://www.163.com/dy/article/LCR8469R0549BAP0.html",
+      "title": "主客表现：曼联进球回升，布伦特福德客场连败",
+      "url": "https://www.163.com/dy/article/LCR9SM490549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-28T08:18:23.000Z",
+      "publishedAt": "2026-11-28T08:49:14.000Z",
       "category": "体育",
       "topic": "英超",
       "sourceId": "sports",
-      "summary": "北京时间11月29日22点05分，英超第12轮，托特纳姆热刺将客场挑战桑德兰。两队上次交手，热刺0-1落败，而在此之前…",
+      "summary": "北京时间11月28日23点，英超将迎来曼联与布伦特福德的较量。",
       "number": 4
     },
     {
-      "title": "葡媒：阿森纳将求购葡体后卫弗雷斯内达，准备近期行动",
-      "url": "https://www.163.com/dy/article/LCR65HQU0549BAP0.html",
+      "title": "伊劳拉融入利物浦，靠点滴小事逐渐赢得球迷喜爱",
+      "url": "https://www.163.com/dy/article/LCR9SL4O0549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-28T07:44:10.000Z",
+      "publishedAt": "2026-11-28T08:49:13.000Z",
       "category": "体育",
       "topic": "英超",
       "sourceId": "sports",
-      "summary": "据Record报道，阿森纳将伊万-弗雷斯内达视为补强右路防线的优先目标，并准备在近期将兴趣转化为实际行动。",
+      "summary": "据《每日邮报》报道，伊劳拉与众不同的第一个迹象，出现在今年夏天利物浦季前巡回赛的芝加哥之旅中。",
       "number": 5
     },
     {
-      "title": "每次只赢1个，利物浦近3次对阵埃弗顿取得3连胜",
-      "url": "https://www.163.com/dy/article/LCR65F7J0549BAP0.html",
+      "title": "四大AI分析曼联vs布伦特福德：两家看好主胜，两家倾向平局",
+      "url": "https://www.163.com/dy/article/LCR9SL3D0549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-28T07:44:08.000Z",
+      "publishedAt": "2026-11-28T08:49:13.000Z",
       "category": "体育",
       "topic": "英超",
       "sourceId": "sports",
-      "summary": "北京时间11月29日20点，英超第12轮将迎来默西塞德德比，埃弗顿坐镇希尔-迪金森球场迎战利物浦。两队交锋数据显示，红…",
+      "summary": "北京时间11月28日23点，英超第12轮，曼联将在老特拉福德球场迎战布伦特福德。",
       "number": 6
+    },
+    {
+      "title": "时隔八年再交锋，巴萨最后一次对阵拉科出场的球员已全部离队",
+      "url": "https://www.163.com/dy/article/LCR9SLG40549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-11-28T08:49:13.000Z",
+      "category": "体育",
+      "topic": "西甲",
+      "sourceId": "sports",
+      "summary": "北京时间11月29日23点15分，西甲第14轮，巴塞罗那将做客里亚索球场挑战拉科鲁尼亚。这场对决自带岁月的印记，两队上…",
+      "number": 7
     },
     {
       "title": "巴萨周年纪念日联赛已10连胜",
@@ -1206,7 +1218,7 @@
       "topic": "西甲",
       "sourceId": "sports",
       "summary": "据《世界体育报》报道，巴塞罗那本周日迎来建队127周年纪念，和去年一样，今年又恰逢联赛比赛日，这次是在里亚索尔客场对阵…",
-      "number": 7
+      "number": 8
     },
     {
       "title": "巴萨本周日迎建队127周年，客战拉科冲击纪念日11连胜",
@@ -1217,51 +1229,51 @@
       "topic": "西甲",
       "sourceId": "sports",
       "summary": "据《世界体育报》报道，巴塞罗那将在本周日迎来俱乐部成立127周年纪念日，届时球队将客场挑战拉科鲁尼亚。巴萨希望延续在俱…",
-      "number": 8
-    },
-    {
-      "title": "想要赢球不容易，马竞近4次对阵埃尔切仅取得1场胜利",
-      "url": "https://www.163.com/dy/article/LCR4V2E00549BAP0.html",
-      "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-28T07:23:09.000Z",
-      "category": "体育",
-      "topic": "西甲",
-      "sourceId": "sports",
-      "summary": "北京时间11月29日凌晨1点30分，西甲第14轮，马德里竞技将做客巴雷罗球场挑战埃尔切。尽管床单军团高居西甲积分榜第三…",
       "number": 9
     },
     {
-      "title": "德媒：德国女足主帅维克忧心青训，呼吁德甲给年轻球员更多出场机会",
-      "url": "https://www.163.com/dy/article/LCR845U10549BAP0.html",
+      "title": "四大AI分析汉堡vs拜仁慕尼黑：四家一致看好客胜",
+      "url": "https://www.163.com/dy/article/LCR9SLQV0549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-28T08:18:23.000Z",
+      "publishedAt": "2026-11-28T08:49:14.000Z",
       "category": "体育",
       "topic": "德甲",
       "sourceId": "sports",
-      "summary": "据 Sport1 报道，德国女足主教练克里斯蒂安-维克在采访中对女足德甲的人才培养现状表达担忧，批评联赛里年轻小将获得…",
+      "summary": "北京时间11月28日22点30分，德甲第11轮，汉堡将在人民公园球场迎战拜仁慕尼黑。",
       "number": 10
     },
     {
-      "title": "主客表现：汉堡主场连续进球，拜仁争胜难言轻松",
-      "url": "https://www.163.com/dy/article/LCR844TR0549BAP0.html",
+      "title": "穆西亚拉伤病不断且高薪低回报，拜仁陷入两难",
+      "url": "https://www.163.com/dy/article/LCR9SL4G0549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-28T08:18:22.000Z",
+      "publishedAt": "2026-11-28T08:49:13.000Z",
       "category": "体育",
       "topic": "德甲",
       "sourceId": "sports",
-      "summary": "北京时间11月28日22点30分，德甲将迎来汉堡与拜仁慕尼黑的较量。",
+      "summary": "据《每日邮报》报道，四年前的这一周，我曾与马特乌斯交谈——而他当时满心只想谈论穆西亚拉。",
       "number": 11
     },
     {
-      "title": "马特乌斯：拜仁若丢分多特必须抓住机会，圣诞前赛程更难",
-      "url": "https://www.163.com/dy/article/LCR6PIM50549BAP0.html",
+      "title": "安德里希：勒沃库森有能力客胜多特，但对手很难啃",
+      "url": "https://www.163.com/dy/article/LCR9SL5C0549BAP0.html",
       "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-28T07:55:07.000Z",
+      "publishedAt": "2026-11-28T08:49:13.000Z",
       "category": "体育",
       "topic": "德甲",
       "sourceId": "sports",
-      "summary": "据德国天空体育报道，马特乌斯、哈曼两大名宿对本赛季拜仁、多特的争冠形势发表看法。",
+      "summary": "据《踢球者》报道，面对领头羊多特蒙德，勒沃库森即将迎来一场关键之战。老将安德里希显得斗志昂扬，但门将弗莱肯也流露出了一…",
       "number": 12
+    },
+    {
+      "title": "曼奇尼：看好罗马本赛季意甲夺冠；后悔之前离开国家队",
+      "url": "https://www.163.com/dy/article/LCR9SLON0549BAP0.html",
+      "source": "懂球帝 · 网易体育",
+      "publishedAt": "2026-11-28T08:49:14.000Z",
+      "category": "体育",
+      "topic": "意甲",
+      "sourceId": "sports",
+      "summary": "近日，意大利国家队主帅曼奇尼接受了《罗马体育报》独家专访。",
+      "number": 13
     },
     {
       "title": "意甲历史首次，科莫将在积分榜领先尤文的情况下交锋",
@@ -1272,7 +1284,7 @@
       "topic": "意甲",
       "sourceId": "sports",
       "summary": "据《罗马体育报》报道，科莫与尤文图斯之间的较量，正体现着两队在欧洲赛场与意甲联赛中角色的彻底颠倒：谁能想象得到这样的局…",
-      "number": 13
+      "number": 14
     },
     {
       "title": "比亚辛：意甲前5球队全都表现出色；国米球员已能淡化外界言论",
@@ -1283,17 +1295,6 @@
       "topic": "意甲",
       "sourceId": "sports",
       "summary": "记者法布里齐奥-比亚辛在《Cronache di Spogliatoio》节目中发言时，回应了外界针对国际米兰的诸多批…",
-      "number": 14
-    },
-    {
-      "title": "米体：弗罗西诺内意甲对帕尔马不败，两队上轮均1-5惨败",
-      "url": "https://www.163.com/dy/article/LCQBHP920549BAP0.html",
-      "source": "懂球帝 · 网易体育",
-      "publishedAt": "2026-11-27T23:59:00.000Z",
-      "category": "体育",
-      "topic": "意甲",
-      "sourceId": "sports",
-      "summary": "据《米兰体育报》报道，意甲第13轮，弗罗西诺内将在主场迎战帕尔马，开球时间为当地时间周六15:00（北京时间周六22:…",
       "number": 15
     },
     {
@@ -1415,6 +1416,30 @@
     {
       "category": "金融",
       "topic": "A股",
+      "title": "摩根大通看多A股：沪深300指数明年有望站上4800点！高盛、瑞银、大摩也发声",
+      "summary": "近日，摩根大通、高盛、瑞银、摩根士丹利等纷纷发声，集体看多中国股市。",
+      "url": "https://finance.eastmoney.com/a/202611283942373129.html",
+      "publishedAt": "2026-11-28T08:42:00.000Z",
+      "source": "东方财富 · 中新经纬",
+      "kind": "观点",
+      "sourceId": "eastmoney-cn-stock",
+      "number": 26
+    },
+    {
+      "category": "金融",
+      "topic": "A股",
+      "title": "辽宁上市公司统筹用好回购增持等政策工具 扎实推进上市公司价值管理",
+      "summary": "近期，资本市场多项政策密集出台。辽宁多家上市公司积极响应市场导向，以股份回购、控股股东增持等实际行动传递发展信心，助力…",
+      "url": "https://finance.eastmoney.com/a/202611283942372921.html",
+      "publishedAt": "2026-11-28T08:27:00.000Z",
+      "source": "东方财富 · 证券时报网",
+      "kind": "报道",
+      "sourceId": "eastmoney-cn-stock",
+      "number": 27
+    },
+    {
+      "category": "金融",
+      "topic": "A股",
       "title": "桃李面包被调出中证1000指数，业绩股价双双“不给力”，未来拟多维施策谋突围",
       "summary": "11月27日，中证指数公司发布公告称，决定调整沪深300、中证500、中证1000、中证A50、中证A100、中证A5…",
       "url": "https://finance.eastmoney.com/a/202611283942366950.html",
@@ -1422,7 +1447,7 @@
       "source": "东方财富 · 深圳商报·读创",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
-      "number": 26
+      "number": 28
     },
     {
       "category": "金融",
@@ -1434,7 +1459,7 @@
       "source": "东方财富 · 证券市场周刊",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
-      "number": 27
+      "number": 29
     },
     {
       "category": "金融",
@@ -1446,7 +1471,7 @@
       "source": "东方财富 · 时代财经",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
-      "number": 28
+      "number": 30
     },
     {
       "category": "金融",
@@ -1458,30 +1483,6 @@
       "source": "东方财富 · 华尔街见闻",
       "kind": "报道",
       "sourceId": "eastmoney-cn-stock",
-      "number": 29
-    },
-    {
-      "category": "金融",
-      "topic": "A股",
-      "title": "青岛啤酒被调出沪深300指数，第三季度营收同比、环比均下滑，布局烈酒威士忌赛道",
-      "summary": "11月27日，中证指数公司发布公告称，决定调整沪深300、中证500、中证1000、中证A50、中证A100、中证A5…",
-      "url": "https://finance.eastmoney.com/a/202611283942362163.html",
-      "publishedAt": "2026-11-28T05:51:00.000Z",
-      "source": "东方财富 · 深圳商报·读创",
-      "kind": "报道",
-      "sourceId": "eastmoney-cn-stock",
-      "number": 30
-    },
-    {
-      "title": "黄仁勋回归后：美股巨幅震荡，Anthropic一度破发，3.5万亿美元AI投资仍面临四大风险",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-28/doc-inkahkve7334077.shtml",
-      "summary": "每经记者|岳楚鹏每经编辑|兰素英 黄仁勋离开11天后“火速”回归，英伟达股价一天大涨31.5%，却没能让华尔街彻底安心…",
-      "source": "每日经济新闻 · 新浪财经",
-      "publishedAt": "2026-11-28T05:07:42.000Z",
-      "category": "金融",
-      "topic": "A股",
-      "sourceId": "cn-stock",
-      "kind": "报道",
       "number": 31
     },
     {
@@ -1535,6 +1536,18 @@
     {
       "category": "金融",
       "topic": "宏观财经",
+      "title": "事关你的存款！央行，重要调整！",
+      "summary": "11月27日，中国人民银行（以下简称央行）发布《大额存单管理办法》和《人民币存贷款利率管理规定》，均自2027年3月2…",
+      "url": "https://finance.eastmoney.com/a/202611283942374247.html",
+      "publishedAt": "2026-11-28T08:14:00.000Z",
+      "source": "东方财富 · 中国商报",
+      "kind": "报道",
+      "sourceId": "eastmoney-macro",
+      "number": 36
+    },
+    {
+      "category": "金融",
+      "topic": "宏观财经",
       "title": "下调押注！美联储加息有变数！",
       "summary": "根据芝商所FedWatch工具，交易员目前预计美联储到明年3月加息两次的概率为100%，到明年年中第三次加息的概率接近…",
       "url": "https://finance.eastmoney.com/a/202611283942368160.html",
@@ -1542,7 +1555,7 @@
       "source": "东方财富 · 证券时报网",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
-      "number": 36
+      "number": 37
     },
     {
       "category": "金融",
@@ -1554,7 +1567,7 @@
       "source": "东方财富 · 中新经纬",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
-      "number": 37
+      "number": 38
     },
     {
       "category": "金融",
@@ -1566,7 +1579,7 @@
       "source": "东方财富 · 财联社",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
-      "number": 38
+      "number": 39
     },
     {
       "category": "金融",
@@ -1578,7 +1591,7 @@
       "source": "东方财富 · 券商中国",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
-      "number": 39
+      "number": 40
     },
     {
       "category": "金融",
@@ -1588,18 +1601,6 @@
       "url": "https://finance.eastmoney.com/a/202611283942327184.html",
       "publishedAt": "2026-11-28T00:35:00.000Z",
       "source": "东方财富 · 财闻",
-      "kind": "报道",
-      "sourceId": "eastmoney-macro",
-      "number": 40
-    },
-    {
-      "category": "金融",
-      "topic": "宏观财经",
-      "title": "央行连发两文！大额存单门槛下调 贷款罚息规则生变",
-      "summary": "11月27日，人民银行（下称“央行”）正式发布《大额存单管理办法》（下称《办法》）和《人民币存贷款利率管理规定》（下称…",
-      "url": "https://finance.eastmoney.com/a/202611283942152316.html",
-      "publishedAt": "2026-11-27T23:23:00.000Z",
-      "source": "东方财富 · 券商中国",
       "kind": "报道",
       "sourceId": "eastmoney-macro",
       "number": 41
@@ -1682,17 +1683,6 @@
       "number": 48
     },
     {
-      "title": "中方学者：亚太作为合作高地的基本面没有变",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-27/10739030.shtml",
-      "summary": "中新社北京11月27日电 (记者 李纯)“亚太总体保持稳定局面，作为世界经济增长引擎的地位没有变，作为合作高地的基本面…",
-      "publishedAt": "2026-11-27T13:31:31.000Z",
-      "category": "政治",
-      "topic": "中国",
-      "source": "中国新闻网",
-      "sourceId": "cn-politics",
-      "number": 49
-    },
-    {
       "category": "AI",
       "topic": "行业动态",
       "title": "OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction",
@@ -1703,7 +1693,7 @@
       "reportDate": "2026-11-28",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 50
+      "number": 49
     },
     {
       "category": "AI",
@@ -1716,7 +1706,7 @@
       "reportDate": "2026-11-28",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 51
+      "number": 50
     },
     {
       "category": "AI",
@@ -1729,7 +1719,7 @@
       "reportDate": "2026-11-28",
       "timeLabel": "日报生成",
       "sourceId": "aihot",
-      "number": 52
+      "number": 51
     }
   ]
 }
